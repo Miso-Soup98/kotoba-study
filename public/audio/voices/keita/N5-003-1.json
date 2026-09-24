@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-003",
+  "exampleIndex": 0,
+  "text": "誰が来ますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 11,
+  "signature": "5786882911ac20ce7cf1a536650ac1ea400e905fbc9608dd9bc8cf6f698b21f2",
+  "src": "/audio/voices/keita/N5-003-1.mp3",
+  "srt": "/audio/voices/keita/N5-003-1.srt",
+  "durationSeconds": 1.872,
+  "bytes": 11232,
+  "sha256": "7accc653182e238a838ceb4334efa9636788e4faf9aa0a6b17401b1a7d353950",
+  "peakPcm": 27222,
+  "rmsDbfs": -23.16,
+  "rate": "+0%",
+  "listened": false
+}

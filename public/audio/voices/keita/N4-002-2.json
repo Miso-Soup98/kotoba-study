@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-002",
+  "exampleIndex": 1,
+  "text": "試験が延期になったという連絡が来ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 55,
+  "signature": "95fef05c6176dfef599bc8ec48c2a99840a0ae8aa596579ce4f694f1cf896588",
+  "src": "/audio/voices/keita/N4-002-2.mp3",
+  "srt": "/audio/voices/keita/N4-002-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "c3a89dd00e1326c610de73fca691dd18604ff3cec3c80e6d5c7a7963a1ce0743",
+  "peakPcm": 20648,
+  "rmsDbfs": -20.66,
+  "rate": "+0%",
+  "listened": false
+}

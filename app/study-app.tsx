@@ -60,6 +60,13 @@ import { Progress } from "@/components/ui/progress";
 import { Toaster, toast } from "sonner";
 import { useStudy } from "@/lib/study/use-study";
 import { useAudio } from "@/lib/study/use-audio";
+import {
+  audioRoute,
+  chosenVoice,
+  sampleEntryIds,
+  voiceOptions,
+} from "@/lib/study/voice-pack";
+import { findWordExamples } from "@/lib/study/word-examples";
 import { useNoteDraft } from "@/lib/study/use-note-draft";
 import { vocabulary, studyDay, tasks } from "@/lib/study/content";
 import { combineEvents, ALGORITHM, scheduler } from "@/lib/study/model";
@@ -126,7 +133,10 @@ export default function StudyApp({
 }) {
   const study = useStudy();
   const { model, session, ready } = study;
-  const audio = useAudio(model.settings);
+  const sampleTracks = useRef(new Map<string, HTMLAudioElement>());
+  const audio = useAudio(model.settings, () =>
+    sampleTracks.current.forEach((track) => track.pause()),
+  );
   const [entries, setEntries] = useState<Entry[]>([]),
     [loadError, setLoadError] = useState("");
   const [view, setView] = useState("today"),
@@ -137,6 +147,9 @@ export default function StudyApp({
     [flipped, setFlipped] = useState(false),
     [reviewId, setReviewId] = useState("");
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [voiceOpen, setVoiceOpen] = useState(false);
+  const [sampleId, setSampleId] = useState("N4-001");
+  const [sampleIndex, setSampleIndex] = useState(0);
   const [busy, setBusy] = useState(false),
     [tick, setTick] = useState(Date.now()),
     [confirmImport, setConfirmImport] = useState<StudyEvent[] | null>(null);
@@ -179,6 +192,7 @@ export default function StudyApp({
     byId.get(selected || model.position) ||
     entries.find((e) => e.level === "N3") ||
     entries[0];
+  const sampleEntry = byId.get(sampleId);
   const filtered = useMemo(
     () =>
       entries.filter(
@@ -326,6 +340,19 @@ export default function StudyApp({
     if (session) void action(() => save("position", "current", id));
   }
   function setting(key: string, value: unknown) {
+    if (
+      [
+        "audioSource",
+        "jaVoice",
+        "zhVoice",
+        "speed",
+        "gap",
+        "audioMode",
+        "withChinese",
+        "useReadings",
+      ].includes(key)
+    )
+      audio.stop();
     void action(() => save("setting", key, value));
   }
   async function rate(rating: number) {
@@ -888,6 +915,15 @@ export default function StudyApp({
                       连续播放
                     </button>
                   </div>
+                  <div className="audio-hint">
+                    <span>{audioRoute(current, 0, model.settings).label}</span>
+                    <button
+                      className="text-button"
+                      onClick={() => setVoiceOpen(true)}
+                    >
+                      比较音色
+                    </button>
+                  </div>
                   <div className="explanation">
                     <h3>接续与用法</h3>
                     <p>
@@ -933,6 +969,9 @@ export default function StudyApp({
                           <Volume2 size={19} />
                         </button>
                       </div>
+                      <p className="clip-source">
+                        {audioRoute(current, i, model.settings).label}
+                      </p>
                       <p className="japanese" lang="ja">
                         <Ruby
                           text={ex.japanese_annotated}
@@ -1258,13 +1297,17 @@ export default function StudyApp({
                         {w.reading}
                       </p>
                       <p className="word-meaning">{w.meaning}</p>
-                      <p className="word-context" lang="ja">
-                        {byId
-                          .get(w.source)
-                          ?.examples.find((e) => e.japanese.includes(w.text))
-                          ?.japanese ??
-                          byId.get(w.source)?.examples[0].japanese}
-                      </p>
+                      {findWordExamples(w, byId.get(w.source)).length ? (
+                        findWordExamples(w, byId.get(w.source)).map((ex, i) => (
+                          <p className="word-context" lang="ja" key={i}>
+                            {ex.japanese}
+                          </p>
+                        ))
+                      ) : (
+                        <p className="footnote">
+                          暂未确认对应例句，可查看原文。
+                        </p>
+                      )}
                       <div className="word-actions">
                         <button
                           className="icon-button"
@@ -1467,6 +1510,24 @@ export default function StudyApp({
                   </p>
                 </section>
                 <section className="panel">
+                  <h2>选一副喜欢的声音</h2>
+                  <p className="muted">
+                    用同一句话比较 Nanami 女声和 Keita
+                    男声。先试听，再选择日常使用的音色。
+                  </p>
+                  <button
+                    className="primary"
+                    onClick={() => setVoiceOpen(true)}
+                  >
+                    <Headphones size={17} />
+                    打开音色试听
+                  </button>
+                  <p className="footnote">
+                    目前覆盖 N5、N4 各前三条，共 12
+                    句。其余句子和单词仍使用浏览器声音。
+                  </p>
+                </section>
+                <section className="panel">
                   <h2>听读样例</h2>
                   <p className="muted">
                     前三条已生成
@@ -1475,7 +1536,21 @@ export default function StudyApp({
                   {["N5-001", "N5-002", "N5-003"].map((id) => (
                     <div className="sample-track" key={id}>
                       <strong>{id}</strong>
-                      <audio controls preload="none" src={`/audio/${id}.mp3`} />
+                      <audio
+                        controls
+                        preload="none"
+                        src={`/audio/${id}.mp3`}
+                        ref={(element) => {
+                          if (element) sampleTracks.current.set(id, element);
+                          else sampleTracks.current.delete(id);
+                        }}
+                        onPlay={() => {
+                          audio.stop();
+                          sampleTracks.current.forEach((track, key) => {
+                            if (key !== id) track.pause();
+                          });
+                        }}
+                      />
                       <a
                         href={`/audio/${id}.mp3`}
                         download
@@ -1491,7 +1566,7 @@ export default function StudyApp({
                 </section>
               </div>
               <div className="about-line">
-                <span>言葉 · v0.1.0 · 全量 622 条 / 1,244 例句</span>
+                <span>言葉 · v0.2.0 · 全量 622 条 / 1,244 例句</span>
                 <a
                   href="https://github.com/Miso-Soup98/kotoba-study"
                   target="_blank"
@@ -1526,7 +1601,9 @@ export default function StudyApp({
             </span>
             <div>
               <strong>{audio.playing}</strong>
-              <span>{audio.paused ? "已暂停" : "正在朗读"}</span>
+              <span>
+                {audio.paused ? "已暂停" : audio.source || "准备播放"}
+              </span>
             </div>
             <button
               className="icon-button"
@@ -1554,6 +1631,34 @@ export default function StudyApp({
             </DialogDescription>
           </DialogHeader>
           <div className="form-field">
+            <label>日语播放音色</label>
+            <Choice
+              label="日语播放音色"
+              value={chosenVoice(model.settings)}
+              onChange={(v) => setting("audioSource", v)}
+              options={[
+                ...voiceOptions.map((voice) => ({
+                  value: voice.id,
+                  label: voice.label + " · 优先音频文件",
+                })),
+                { value: "browser", label: "浏览器声音" },
+              ]}
+            />
+            <p className="footnote">
+              音频已覆盖
+              N5-001～003、N4-001～003；其余内容使用下方浏览器声音。当前选择会随账号同步。
+            </p>
+            <button
+              className="text-button"
+              onClick={() => {
+                setSettingsOpen(false);
+                setVoiceOpen(true);
+              }}
+            >
+              比较两种音色
+            </button>
+          </div>
+          <div className="form-field">
             <label>每天开始的新卡</label>
             <Choice
               label="每天开始的新卡"
@@ -1570,7 +1675,9 @@ export default function StudyApp({
           </div>
           {(["ja", "zh"] as const).map((lang) => (
             <div className="form-field" key={lang}>
-              <label>{lang === "ja" ? "日语声音" : "中文声音"}</label>
+              <label>
+                {lang === "ja" ? "备用日语浏览器声音" : "中文浏览器声音"}
+              </label>
               <Choice
                 label={`${lang}声音`}
                 value={String(model.settings[lang + "Voice"] ?? "auto")}
@@ -1645,7 +1752,130 @@ export default function StudyApp({
             />
           </label>
           <p className="footnote">
-            默认读日语原句，不重复朗读括号注音。假名稿未经逐句发音审核。网络声音可能将所读文字发送给语音提供方。
+            默认读日语原句，不重复朗读括号注音。开启假名送读会使用浏览器声音。假名稿未经逐句发音审核。网络声音可能将所读文字发送给语音提供方。
+          </p>
+        </DialogContent>
+      </Dialog>
+      <Dialog
+        open={voiceOpen}
+        onOpenChange={(open) => {
+          audio.stop();
+          setVoiceOpen(open);
+        }}
+      >
+        <DialogContent className="voice-dialog">
+          <DialogHeader>
+            <DialogTitle>选一副喜欢的声音</DialogTitle>
+            <DialogDescription>
+              两种合成音色，同一句原文、常速播放。听听哪一种更适合每天跟读。
+            </DialogDescription>
+          </DialogHeader>
+          <div className="form-two">
+            <Choice
+              label="试听语法"
+              value={sampleId}
+              onChange={(id) => {
+                audio.stop();
+                setSampleId(id);
+              }}
+              options={sampleEntryIds.map((id) => ({
+                value: id,
+                label: `${id} ${byId.get(id)?.title ?? ""}`,
+              }))}
+            />
+            <Choice
+              label="试听例句"
+              value={String(sampleIndex)}
+              onChange={(value) => {
+                audio.stop();
+                setSampleIndex(Number(value));
+              }}
+              options={[0, 1].map((index) => ({
+                value: String(index),
+                label: `例句 ${index + 1}`,
+              }))}
+            />
+          </div>
+          {sampleEntry && (
+            <>
+              <div className="voice-sentence">
+                <p lang="ja">
+                  <Ruby
+                    text={sampleEntry.examples[sampleIndex].japanese_annotated}
+                  />
+                </p>
+                <p className="translation">
+                  {sampleEntry.examples[sampleIndex].chinese}
+                </p>
+              </div>
+              <div className="voice-options">
+                {voiceOptions.map((voice) => (
+                  <section className="voice-option" key={voice.id}>
+                    <h3>{voice.label}</h3>
+                    <button
+                      className="primary"
+                      onClick={() =>
+                        void action(() =>
+                          audio.play([sampleEntry], sampleIndex, voice.id),
+                        )
+                      }
+                    >
+                      <Play size={16} />
+                      试听 {voice.label}
+                    </button>
+                    <a
+                      className="text-button"
+                      href={
+                        audioRoute(sampleEntry, sampleIndex, {
+                          audioSource: voice.id,
+                        }).clip?.src
+                      }
+                      download
+                    >
+                      <Download size={14} />
+                      下载本句 MP3
+                    </a>
+                    <button
+                      className="secondary"
+                      disabled={!session}
+                      onClick={() =>
+                        void action(async () => {
+                          audio.stop();
+                          await save("setting", "audioSource", voice.id);
+                          if (model.settings.useReadings)
+                            await save("setting", "useReadings", false);
+                        }, `已选择 ${voice.label}`)
+                      }
+                    >
+                      {chosenVoice(model.settings) === voice.id &&
+                      !model.settings.useReadings
+                        ? "当前使用"
+                        : "使用这个音色"}
+                    </button>
+                  </section>
+                ))}
+              </div>
+              <div className="voice-status" role="status">
+                {audio.playing ? (
+                  <>
+                    <span>{audio.paused ? "已暂停" : audio.source}</span>
+                    <button className="text-button" onClick={audio.pause}>
+                      {audio.paused ? "继续播放" : "暂停"}
+                    </button>
+                    <button className="text-button" onClick={audio.stop}>
+                      停止
+                    </button>
+                  </>
+                ) : (
+                  <span>点击两边的试听按钮比较</span>
+                )}
+              </div>
+            </>
+          )}
+          <p className="footnote">
+            这是 6
+            条语法的音色样例，已检查文件与字幕，读音仍待试听确认。仅有日语例句配音。
+            {!session && "登录后可保存音色选择。"}
           </p>
         </DialogContent>
       </Dialog>

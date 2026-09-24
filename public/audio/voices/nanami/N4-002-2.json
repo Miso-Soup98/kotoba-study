@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-002",
+  "exampleIndex": 1,
+  "text": "試験が延期になったという連絡が来ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 55,
+  "signature": "07a1d1b387eeb33d2069400f22818e5ecf5e937b56889a0508f1bc842e7bbfc0",
+  "src": "/audio/voices/nanami/N4-002-2.mp3",
+  "srt": "/audio/voices/nanami/N4-002-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "76dd566d379e37f801ce368603301e6460ecfc49a3d06ea2a268f7a9c8019d66",
+  "peakPcm": 21067,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

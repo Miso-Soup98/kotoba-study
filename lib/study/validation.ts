@@ -47,6 +47,7 @@ export const eventSchema = z
           typeof v === "number" && [0.65, 0.8, 1, 1.15, 1.25].includes(v),
         gap: (v) => typeof v === "number" && [1, 2, 4, 6, 8].includes(v),
         jaVoice: (v) => typeof v === "string",
+        audioSource: (v) => ["nanami", "keita", "browser"].includes(String(v)),
         zhVoice: (v) => typeof v === "string",
         audioMode: (v) => v === "study" || v === "review",
         ruby: (v) => typeof v === "boolean",

@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-001",
+  "exampleIndex": 0,
+  "text": "この方法は便利だと思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 55,
+  "signature": "1c71d27c2aa58111b7fe8f25a1d1c184170e7562cc359e1d13327abaf14b5ac9",
+  "src": "/audio/voices/nanami/N4-001-1.mp3",
+  "srt": "/audio/voices/nanami/N4-001-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "c81a37a7ea98d861fe984388b7ec0c821fb7177f5349e4f99a0cf7c28aedaab8",
+  "peakPcm": 20925,
+  "rmsDbfs": -16.83,
+  "rate": "+0%",
+  "listened": false
+}

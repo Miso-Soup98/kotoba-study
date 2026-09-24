@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-003",
+  "exampleIndex": 1,
+  "text": "友達は少し遅れると言っていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 56,
+  "signature": "22b71656b059faff5f0bc60d1578a4ff4aa43974264d607233297ca2c14c1375",
+  "src": "/audio/voices/nanami/N4-003-2.mp3",
+  "srt": "/audio/voices/nanami/N4-003-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "fede3fb1e12ced926243265f9793b74f038d48f2d6ad9c02d2ae42f1dc9cf473",
+  "peakPcm": 20226,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

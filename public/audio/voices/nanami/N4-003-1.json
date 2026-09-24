@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-003",
+  "exampleIndex": 0,
+  "text": "先生は「明日は休みです」と言いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 56,
+  "signature": "f45c1edcc59c85dab3767507da70b73548ec69bc52a6b682df7c453f7d575c24",
+  "src": "/audio/voices/nanami/N4-003-1.mp3",
+  "srt": "/audio/voices/nanami/N4-003-1.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "f7d0585abe43602c349f0328ab21b7d087d1b0bb61b8f862e388bedda5f071e0",
+  "peakPcm": 22358,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

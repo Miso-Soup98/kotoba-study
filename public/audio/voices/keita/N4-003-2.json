@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-003",
+  "exampleIndex": 1,
+  "text": "友達は少し遅れると言っていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 56,
+  "signature": "f0d523c48cf079523af3e1a31cd7d12ac3790a8990a54dc93f5d90d18077efe4",
+  "src": "/audio/voices/keita/N4-003-2.mp3",
+  "srt": "/audio/voices/keita/N4-003-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "4fc3246f1b136a2e9bfc4edeb408d8e50c79b789d48c42ac85932680e582056e",
+  "peakPcm": 23259,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

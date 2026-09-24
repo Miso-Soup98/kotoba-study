@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-001",
+  "exampleIndex": 0,
+  "text": "この方法は便利だと思います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 55,
+  "signature": "612aae9d044b5a63cb747d65c447e3cbfa9048be922d8f9b875048b4df6b4ca9",
+  "src": "/audio/voices/keita/N4-001-1.mp3",
+  "srt": "/audio/voices/keita/N4-001-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "2e1e9c0ae1428b8cdc959572702eb070e06fb93b98494da99b954149fa1b2669",
+  "peakPcm": 21359,
+  "rmsDbfs": -19.49,
+  "rate": "+0%",
+  "listened": false
+}

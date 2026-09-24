@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-001",
+  "exampleIndex": 0,
+  "text": "私は大学生です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 10,
+  "signature": "1a17f833db802f274339c94a79708c34905a4885a0aa8d9e3fd03e54d8687369",
+  "src": "/audio/voices/nanami/N5-001-1.mp3",
+  "srt": "/audio/voices/nanami/N5-001-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "4c650bb69ff29a6ded9d65c2d20a9041262a6fc30e2609e48e5184ecdaad2420",
+  "peakPcm": 22221,
+  "rmsDbfs": -18.64,
+  "rate": "+0%",
+  "listened": false
+}

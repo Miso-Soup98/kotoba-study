@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-003",
+  "exampleIndex": 0,
+  "text": "誰が来ますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 11,
+  "signature": "1546424dd7f79e9e4337c8286778baef5d5c4b54ddf698b21a21f10aa4916915",
+  "src": "/audio/voices/nanami/N5-003-1.mp3",
+  "srt": "/audio/voices/nanami/N5-003-1.srt",
+  "durationSeconds": 2.064,
+  "bytes": 12384,
+  "sha256": "ac30227605223d960d9da83fbb7298ac144fd208738f4e249211df3069bc70f8",
+  "peakPcm": 20012,
+  "rmsDbfs": -19.74,
+  "rate": "+0%",
+  "listened": false
+}

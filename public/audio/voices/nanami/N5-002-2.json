@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-002",
+  "exampleIndex": 1,
+  "text": "肉は食べますが、魚は食べません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 10,
+  "signature": "7476179f322b8f6486305b4ad1c702c3840f5d41c6961fac2ecbb0d1701e60a7",
+  "src": "/audio/voices/nanami/N5-002-2.mp3",
+  "srt": "/audio/voices/nanami/N5-002-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "96e3d9370e13658c0c9b64a9a4cdc06f7ab75462965126b3577b50be924a0000",
+  "peakPcm": 23375,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

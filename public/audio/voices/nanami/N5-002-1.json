@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-002",
+  "exampleIndex": 0,
+  "text": "今日は家で勉強します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 10,
+  "signature": "2ebd554a430f68d2427897b525c1c40f5f41e93081b99667faf7de7312da1b91",
+  "src": "/audio/voices/nanami/N5-002-1.mp3",
+  "srt": "/audio/voices/nanami/N5-002-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "e887e2f699bceac5bd75bd23e44de810d5aa909c3d1437c145b4037bfcdbea88",
+  "peakPcm": 20986,
+  "rmsDbfs": -16.88,
+  "rate": "+0%",
+  "listened": false
+}

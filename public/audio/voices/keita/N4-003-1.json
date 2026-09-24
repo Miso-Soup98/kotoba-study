@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-003",
+  "exampleIndex": 0,
+  "text": "先生は「明日は休みです」と言いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 56,
+  "signature": "bef392bfbc142be9248897d3e6a1f40d858e4eb9be51c6ffd8193d4a8269ba06",
+  "src": "/audio/voices/keita/N4-003-1.mp3",
+  "srt": "/audio/voices/keita/N4-003-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "a64edff5a3d8a0d177d45107fd5c4a77fd40fe4159389c61ba5a13bcddda342b",
+  "peakPcm": 23908,
+  "rmsDbfs": -20.55,
+  "rate": "+0%",
+  "listened": false
+}

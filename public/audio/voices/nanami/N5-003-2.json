@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-003",
+  "exampleIndex": 1,
+  "text": "外で雨が降っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 11,
+  "signature": "c3d92065458d761a27463a29e16dbbfde4d22ecf30d3dcf96b9fa33f9a419bef",
+  "src": "/audio/voices/nanami/N5-003-2.mp3",
+  "srt": "/audio/voices/nanami/N5-003-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "c3109e63f1b5bcf8096c44b9c8905135e7672ba60f433af070c49402c9b0f9e7",
+  "peakPcm": 21844,
+  "rmsDbfs": -18.72,
+  "rate": "+0%",
+  "listened": false
+}

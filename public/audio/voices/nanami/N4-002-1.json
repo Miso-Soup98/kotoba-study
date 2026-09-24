@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-002",
+  "exampleIndex": 0,
+  "text": "これは「さくら」という店です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 55,
+  "signature": "09bd63aac56d49f4fda990e8f5fa4573acfbe3538ab0ce42b990b745052b189c",
+  "src": "/audio/voices/nanami/N4-002-1.mp3",
+  "srt": "/audio/voices/nanami/N4-002-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "e8997137aaed630137f85b5702eb4e1ee67a35533c8db22d1622d7a3773a2394",
+  "peakPcm": 21033,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

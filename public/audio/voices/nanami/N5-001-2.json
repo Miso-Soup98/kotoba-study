@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-001",
+  "exampleIndex": 1,
+  "text": "ここは図書館だ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 10,
+  "signature": "fd3b7f0bd5372bff1172afe730f166e5612eb70edbb767e6f0f275b4fe530a5b",
+  "src": "/audio/voices/nanami/N5-001-2.mp3",
+  "srt": "/audio/voices/nanami/N5-001-2.srt",
+  "durationSeconds": 2.232,
+  "bytes": 13392,
+  "sha256": "4ca7cc63e1adbafcfb1a68cf4659faeefbc24aee501fa73c8fc831ca1f066322",
+  "peakPcm": 23516,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

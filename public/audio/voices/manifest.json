@@ -1,0 +1,259 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "id": "nanami",
+      "label": "Nanami · 日语女声",
+      "voice": "ja-JP-NanamiNeural"
+    },
+    {
+      "id": "keita",
+      "label": "Keita · 日语男声",
+      "voice": "ja-JP-KeitaNeural"
+    }
+  ],
+  "clips": [
+    {
+      "entryId": "N5-001",
+      "exampleIndex": 0,
+      "text": "私は大学生です。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N5-001-1.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/nanami/N5-001-1.srt",
+      "durationSeconds": 2.64
+    },
+    {
+      "entryId": "N5-001",
+      "exampleIndex": 1,
+      "text": "ここは図書館だ。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N5-001-2.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/nanami/N5-001-2.srt",
+      "durationSeconds": 2.232
+    },
+    {
+      "entryId": "N5-002",
+      "exampleIndex": 0,
+      "text": "今日は家で勉強します。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N5-002-1.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/nanami/N5-002-1.srt",
+      "durationSeconds": 2.784
+    },
+    {
+      "entryId": "N5-002",
+      "exampleIndex": 1,
+      "text": "肉は食べますが、魚は食べません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N5-002-2.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/nanami/N5-002-2.srt",
+      "durationSeconds": 3.768
+    },
+    {
+      "entryId": "N5-003",
+      "exampleIndex": 0,
+      "text": "誰が来ますか。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N5-003-1.mp3",
+      "pdfPage": 11,
+      "srt": "/audio/voices/nanami/N5-003-1.srt",
+      "durationSeconds": 2.064
+    },
+    {
+      "entryId": "N5-003",
+      "exampleIndex": 1,
+      "text": "外で雨が降っています。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N5-003-2.mp3",
+      "pdfPage": 11,
+      "srt": "/audio/voices/nanami/N5-003-2.srt",
+      "durationSeconds": 2.808
+    },
+    {
+      "entryId": "N4-001",
+      "exampleIndex": 0,
+      "text": "この方法は便利だと思います。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N4-001-1.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/nanami/N4-001-1.srt",
+      "durationSeconds": 3.192
+    },
+    {
+      "entryId": "N4-001",
+      "exampleIndex": 1,
+      "text": "明日は雨が降ると思います。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N4-001-2.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/nanami/N4-001-2.srt",
+      "durationSeconds": 3.0
+    },
+    {
+      "entryId": "N4-002",
+      "exampleIndex": 0,
+      "text": "これは「さくら」という店です。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N4-002-1.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/nanami/N4-002-1.srt",
+      "durationSeconds": 3.288
+    },
+    {
+      "entryId": "N4-002",
+      "exampleIndex": 1,
+      "text": "試験が延期になったという連絡が来ました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N4-002-2.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/nanami/N4-002-2.srt",
+      "durationSeconds": 3.912
+    },
+    {
+      "entryId": "N4-003",
+      "exampleIndex": 0,
+      "text": "先生は「明日は休みです」と言いました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N4-003-1.mp3",
+      "pdfPage": 56,
+      "srt": "/audio/voices/nanami/N4-003-1.srt",
+      "durationSeconds": 4.416
+    },
+    {
+      "entryId": "N4-003",
+      "exampleIndex": 1,
+      "text": "友達は少し遅れると言っていました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N4-003-2.mp3",
+      "pdfPage": 56,
+      "srt": "/audio/voices/nanami/N4-003-2.srt",
+      "durationSeconds": 3.648
+    },
+    {
+      "entryId": "N5-001",
+      "exampleIndex": 0,
+      "text": "私は大学生です。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N5-001-1.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/keita/N5-001-1.srt",
+      "durationSeconds": 2.496
+    },
+    {
+      "entryId": "N5-001",
+      "exampleIndex": 1,
+      "text": "ここは図書館だ。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N5-001-2.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/keita/N5-001-2.srt",
+      "durationSeconds": 1.968
+    },
+    {
+      "entryId": "N5-002",
+      "exampleIndex": 0,
+      "text": "今日は家で勉強します。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N5-002-1.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/keita/N5-002-1.srt",
+      "durationSeconds": 2.568
+    },
+    {
+      "entryId": "N5-002",
+      "exampleIndex": 1,
+      "text": "肉は食べますが、魚は食べません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N5-002-2.mp3",
+      "pdfPage": 10,
+      "srt": "/audio/voices/keita/N5-002-2.srt",
+      "durationSeconds": 3.48
+    },
+    {
+      "entryId": "N5-003",
+      "exampleIndex": 0,
+      "text": "誰が来ますか。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N5-003-1.mp3",
+      "pdfPage": 11,
+      "srt": "/audio/voices/keita/N5-003-1.srt",
+      "durationSeconds": 1.872
+    },
+    {
+      "entryId": "N5-003",
+      "exampleIndex": 1,
+      "text": "外で雨が降っています。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N5-003-2.mp3",
+      "pdfPage": 11,
+      "srt": "/audio/voices/keita/N5-003-2.srt",
+      "durationSeconds": 2.424
+    },
+    {
+      "entryId": "N4-001",
+      "exampleIndex": 0,
+      "text": "この方法は便利だと思います。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N4-001-1.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/keita/N4-001-1.srt",
+      "durationSeconds": 2.928
+    },
+    {
+      "entryId": "N4-001",
+      "exampleIndex": 1,
+      "text": "明日は雨が降ると思います。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N4-001-2.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/keita/N4-001-2.srt",
+      "durationSeconds": 2.736
+    },
+    {
+      "entryId": "N4-002",
+      "exampleIndex": 0,
+      "text": "これは「さくら」という店です。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N4-002-1.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/keita/N4-002-1.srt",
+      "durationSeconds": 2.928
+    },
+    {
+      "entryId": "N4-002",
+      "exampleIndex": 1,
+      "text": "試験が延期になったという連絡が来ました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N4-002-2.mp3",
+      "pdfPage": 55,
+      "srt": "/audio/voices/keita/N4-002-2.srt",
+      "durationSeconds": 3.432
+    },
+    {
+      "entryId": "N4-003",
+      "exampleIndex": 0,
+      "text": "先生は「明日は休みです」と言いました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N4-003-1.mp3",
+      "pdfPage": 56,
+      "srt": "/audio/voices/keita/N4-003-1.srt",
+      "durationSeconds": 3.744
+    },
+    {
+      "entryId": "N4-003",
+      "exampleIndex": 1,
+      "text": "友達は少し遅れると言っていました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N4-003-2.mp3",
+      "pdfPage": 56,
+      "srt": "/audio/voices/keita/N4-003-2.srt",
+      "durationSeconds": 3.096
+    }
+  ],
+  "scope": "N5-001～003、N4-001～003 的两个原始日语例句；两种声音，常速，仅日语。未试听，非完整讲解版。",
+  "listened": false
+}

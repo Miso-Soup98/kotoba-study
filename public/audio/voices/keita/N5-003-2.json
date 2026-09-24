@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-003",
+  "exampleIndex": 1,
+  "text": "外で雨が降っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 11,
+  "signature": "8062aca1ec23b34ca28337575c5f0efe18f9636bef45ee12473c7639d380fe1e",
+  "src": "/audio/voices/keita/N5-003-2.mp3",
+  "srt": "/audio/voices/keita/N5-003-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "2f5ac5f0f9b5bbdfd8ff897fa38d6d1b1183c22736b1060ae63a643ac00383a5",
+  "peakPcm": 21498,
+  "rmsDbfs": -21.5,
+  "rate": "+0%",
+  "listened": false
+}

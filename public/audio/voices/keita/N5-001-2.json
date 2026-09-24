@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-001",
+  "exampleIndex": 1,
+  "text": "ここは図書館だ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 10,
+  "signature": "b97610623cf56ce6dce3c8d232efdf5d0a89ae2738b61306159fd77f2bc5d4a8",
+  "src": "/audio/voices/keita/N5-001-2.mp3",
+  "srt": "/audio/voices/keita/N5-001-2.srt",
+  "durationSeconds": 1.968,
+  "bytes": 11808,
+  "sha256": "cbd68d8d8f6f669741ef4294d7cbfeffcc1bb01f20df685da8d9024cc14e17bd",
+  "peakPcm": 22813,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

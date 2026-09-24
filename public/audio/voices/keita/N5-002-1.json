@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-002",
+  "exampleIndex": 0,
+  "text": "今日は家で勉強します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 10,
+  "signature": "72c824514c5e84604d3cc2faaa56f13317987081439ae6ab4ba3471a435b1328",
+  "src": "/audio/voices/keita/N5-002-1.mp3",
+  "srt": "/audio/voices/keita/N5-002-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "32503db934306bbabf181f7e40b3c1675bc706a1af636dc365c7729ae08a27db",
+  "peakPcm": 21292,
+  "rmsDbfs": -20.19,
+  "rate": "+0%",
+  "listened": false
+}

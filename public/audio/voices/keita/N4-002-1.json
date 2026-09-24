@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-002",
+  "exampleIndex": 0,
+  "text": "これは「さくら」という店です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 55,
+  "signature": "79aebc18388dea6a74deaaa8717d3dc2a0e3de6d593daa231a2ba77dcb2b926a",
+  "src": "/audio/voices/keita/N4-002-1.mp3",
+  "srt": "/audio/voices/keita/N4-002-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "9d61809012a28b52e19eb3ed646a770b28f27688cb3c9077c248697428d0105a",
+  "peakPcm": 25112,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

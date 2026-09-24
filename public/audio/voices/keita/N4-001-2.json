@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-001",
+  "exampleIndex": 1,
+  "text": "明日は雨が降ると思います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 55,
+  "signature": "f3c323e13577fe5ead054a2c812c71c9cdfd560f5f299f30e5ebd91dca360b56",
+  "src": "/audio/voices/keita/N4-001-2.mp3",
+  "srt": "/audio/voices/keita/N4-001-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "9407434bd54ee721b38e06f94cc8494d65b25f158c59bde500e21211bbb3c2f6",
+  "peakPcm": 21466,
+  "rmsDbfs": -20.99,
+  "rate": "+0%",
+  "listened": false
+}

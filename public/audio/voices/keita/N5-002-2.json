@@ -1,0 +1,18 @@
+{
+  "entryId": "N5-002",
+  "exampleIndex": 1,
+  "text": "肉は食べますが、魚は食べません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 10,
+  "signature": "c2da58566a849cc0cb096ea25d1befd736cc5724ccece4553ff80c4812012bb4",
+  "src": "/audio/voices/keita/N5-002-2.mp3",
+  "srt": "/audio/voices/keita/N5-002-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "f94ba73ada262a1f547ba7f5a0b5365dbb8c7a2e91993ac43ec4d40a14327b96",
+  "peakPcm": 22725,
+  "rmsDbfs": -20.81,
+  "rate": "+0%",
+  "listened": false
+}

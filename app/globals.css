@@ -1289,9 +1289,90 @@ ruby rt {
   font-size: 11px;
   color: #91a087;
 }
-.settings-dialog {
+.settings-dialog,
+.voice-dialog {
   max-height: 90vh;
   overflow: auto;
+}
+
+.audio-hint,
+.voice-status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  color: var(--muted-foreground);
+  font-size: 12px;
+  margin: 12px 0;
+}
+.clip-source {
+  color: var(--muted-foreground);
+  font-size: 11px;
+  margin: 0 0 12px;
+}
+.voice-sentence {
+  background: #f4f6f2;
+  border-radius: 14px;
+  padding: 18px;
+}
+.voice-sentence > p:first-child {
+  font-size: 20px;
+  line-height: 2.1;
+}
+.voice-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.voice-dialog {
+  width: calc(100vw - 32px);
+  max-width: 32rem;
+  overflow-x: hidden;
+}
+.voice-dialog > *,
+.voice-option {
+  min-width: 0;
+}
+.voice-dialog .form-two {
+  grid-template-columns: minmax(0, 1fr) 94px;
+  gap: 10px;
+}
+.voice-dialog [data-slot="select-trigger"] {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+}
+.voice-dialog [data-slot="select-value"] {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.voice-option {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border: 1px solid #dfe5dc;
+  border-radius: 14px;
+  padding: 16px;
+}
+.voice-option h3 {
+  font-size: 16px;
+  margin: 0;
+}
+.voice-option button {
+  justify-content: center;
+  font-size: 12px;
+  white-space: normal;
+}
+@media (max-width: 420px) {
+  .voice-option {
+    padding: 12px 8px;
+  }
+  .voice-option h3 {
+    font-size: 14px;
+  }
 }
 .form-field {
   display: flex;

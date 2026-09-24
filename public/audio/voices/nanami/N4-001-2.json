@@ -1,0 +1,18 @@
+{
+  "entryId": "N4-001",
+  "exampleIndex": 1,
+  "text": "明日は雨が降ると思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 55,
+  "signature": "3bb653e10929a35244617d17de7b892ce2c1c25a59131c056813f3d591e65304",
+  "src": "/audio/voices/nanami/N4-001-2.mp3",
+  "srt": "/audio/voices/nanami/N4-001-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "2ccc76ae33dc64d8532b1dafd80094d627201bcff5927e03bb419a464aa48fbc",
+  "peakPcm": 20531,
+  "rmsDbfs": -18.23,
+  "rate": "+0%",
+  "listened": false
+}
