@@ -91,7 +91,13 @@ async function request(path, options = {}) {
   }
 }
 const items = limit ? inventory.items.slice(0, limit) : inventory.items;
-for (const [index, item] of items.entries()) {
+const concurrency = Number(options.concurrency || 1);
+if (!Number.isInteger(concurrency) || concurrency < 1 || concurrency > 3)
+  throw Error("Concurrency must be 1–3");
+let next = 0,
+  stopped = false,
+  reportWrites = Promise.resolve();
+async function importItem(index, item) {
   try {
     const remote = await request(`/api/ted/import?id=${item.id}`);
     for (const kind of mode === "media"
@@ -150,10 +156,20 @@ for (const [index, item] of items.entries()) {
     console.log(
       `${index + 1}/${items.length} ${item.id}: failed (${error.message})`,
     );
-    if (/HTTP (401|403)/.test(error.message)) break;
+    if (/HTTP (401|403)/.test(error.message)) stopped = true;
   }
-  await writeFile(out, JSON.stringify(report, null, 2));
+  const snapshot = JSON.stringify(report, null, 2);
+  reportWrites = reportWrites.then(() => writeFile(out, snapshot));
+  await reportWrites;
 }
+await Promise.all(
+  Array.from({ length: concurrency }, async () => {
+    while (!stopped && next < items.length) {
+      const index = next++;
+      await importItem(index, items[index]);
+    }
+  }),
+);
 report.finished = new Date().toISOString();
 await writeFile(out, JSON.stringify(report, null, 2));
 console.log(

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "SudachiDict-LEGAL.txt",
+    "url": "https://raw.githubusercontent.com/WorksApplications/SudachiDict/develop/LEGAL",
+    "bytes": 6037,
+    "sha256": "725a8776b38e058b185e905594bc9a2437dbf3787df022fffeefedb9a84e4665"
+  },
+  {
+    "file": "Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/WorksApplications/SudachiDict/develop/LICENSE-2.0.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "SudachiPy-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/WorksApplications/SudachiPy/develop/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "file": "CC-BY-SA-4.0.txt",
+    "url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-4.0.txt",
+    "bytes": 18375,
+    "sha256": "cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966"
+  }
+]

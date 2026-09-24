@@ -47,7 +47,13 @@ async function serve(request: Request, head = false) {
     const object = await access.bucket.get(key, range ? { range } : undefined);
     if (!object || !("body" in object))
       return tedReply({ error: "文件暂时不可用" }, 503);
-    return new Response(object.body, { status: range ? 206 : 200, headers });
+    // Workers derive Content-Length from the body, not a manually set header.
+    // Preserve known-length streaming for Safari range probes without buffering PDFs.
+    const fixed = new FixedLengthStream(range?.length ?? meta.size);
+    void object.body.pipeTo(fixed.writable).catch(() => {
+      // Cancellation/errors also propagate through the readable response stream.
+    });
+    return new Response(fixed.readable, { status: range ? 206 : 200, headers });
   } catch {
     return tedReply({ error: "音频或PDF加载失败，请重试" }, 503);
   }

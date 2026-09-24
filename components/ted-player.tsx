@@ -474,8 +474,29 @@ export function TedPlayer(props: Props) {
         </div>
         <p className="footnote">
           播放到开头时标 A，听到结尾时标 B；可直接修改秒数微调。
-          {props.paragraphId ? "保存后关联当前选中段落。" : ""}
+          {!draftId && props.paragraphId ? "保存后关联当前选中段落。" : ""}
         </p>
+        {draftId && (
+          <div className="footnote">
+            当前关联：{draftParagraph || "无"}。
+            {props.paragraphId && (
+              <button
+                className="text-button"
+                onClick={() => setDraftParagraph(props.paragraphId)}
+              >
+                改为当前选中段落
+              </button>
+            )}
+            {draftParagraph && (
+              <button
+                className="text-button"
+                onClick={() => setDraftParagraph(undefined)}
+              >
+                解除段落关联
+              </button>
+            )}
+          </div>
+        )}
       </details>
       <div className="ted-repeat-settings">
         <label>

@@ -119,6 +119,17 @@ export async function PUT(request: Request) {
           pdf ? pdfKey : null,
         )
         .run();
+      // The media upload may finish between the initial head() and row creation.
+      // Recheck after the row exists; media uploads also update this same row.
+      const [latestAudio, latestPdf] = await Promise.all([
+        env.BUCKET.head(audioKey),
+        env.BUCKET.head(pdfKey),
+      ]);
+      await env.DB.prepare(
+        "UPDATE ted_articles SET audio_key=COALESCE(?,audio_key),pdf_key=COALESCE(?,pdf_key) WHERE id=?",
+      )
+        .bind(latestAudio ? audioKey : null, latestPdf ? pdfKey : null, a.id)
+        .run();
     } else {
       await env.BUCKET.put(key, bytes, {
         httpMetadata: { contentType: mime! },
@@ -154,6 +165,12 @@ export async function PUT(request: Request) {
 export async function GET(request: Request) {
   if (!(await allowed(request))) return tedReply({ error: "导入未授权" }, 401);
   if (!env.BUCKET || !env.DB) return tedReply({ error: "存储暂不可用" }, 503);
+  if (new URL(request.url).searchParams.get("audit") === "catalog") {
+    const result = await env.DB.prepare(
+      "SELECT id, audio_key IS NOT NULL AS hasAudio, pdf_key IS NOT NULL AS hasPdf FROM ted_articles ORDER BY id",
+    ).all();
+    return tedReply({ articles: result.results });
+  }
   const id = tedId.safeParse(new URL(request.url).searchParams.get("id"));
   if (!id.success) return tedReply({ error: "编号无效" }, 400);
   const files: Record<string, unknown> = {};

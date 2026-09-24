@@ -1171,6 +1171,11 @@ export default function StudyApp({
                             <p className="answer-meaning">
                               {reviewWord?.meaning}
                             </p>
+                            {reviewWord?.usage && <p>{reviewWord.usage}</p>}
+                            {reviewWord?.example && <>
+                              <p lang="ja">{reviewWord.example.japanese}</p>
+                              <p className="muted">{reviewWord.example.chinese}</p>
+                            </>}
                             <p className="muted">来自 {reviewWord?.source}</p>
                             <button
                               className="text-button"

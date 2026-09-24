@@ -1,0 +1,2 @@
+SudachiPy==0.6.10
+SudachiDict-small==20260723

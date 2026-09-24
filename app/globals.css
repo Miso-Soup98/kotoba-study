@@ -2035,7 +2035,7 @@ ruby rt {
 }
 .ted-word-popover {
   width: min(420px, calc(100vw - 32px));
-  max-height: min(620px, 75vh);
+  max-height: min(620px, 75vh, var(--radix-popover-content-available-height, 75vh));
   overflow: auto;
   padding: 24px;
   background: #fff;

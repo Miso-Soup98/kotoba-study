@@ -1,11 +1,83 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { byteRange, tedLoopSchema } from "../lib/ted/validation.ts";
+import {
+  byteRange,
+  tedLoopSchema,
+  tedWordSchema,
+} from "../lib/ted/validation.ts";
+import { makeTedWord } from "../lib/ted/word.ts";
 import { eventSchema } from "../lib/study/validation.ts";
 import { rebuild } from "../lib/study/model.ts";
 import { lookupWord } from "../lib/ted/lookup.ts";
 import type { StudyEvent } from "../lib/study/types.ts";
 import type { TedArticle } from "../lib/ted/types.ts";
+test("unknown inflections retain their surface reading and cannot overwrite a reliable headword card", async () => {
+  const paragraph = {
+    id: "p1",
+    page: 1,
+    japanese: "原則であり",
+    chinese: "作为原则",
+  };
+  const article = {
+    id: "ted-new-001",
+    glossary: [],
+    dictionary: {
+      known: {
+        term: "ある",
+        reading: "ある",
+        meaning: "有；存在",
+        usage: "",
+        examples: [],
+        page: 1,
+      },
+    },
+  } as unknown as TedArticle;
+  const unknown = await makeTedWord(article, paragraph, {
+    surface: "あり",
+    lemma: "ある",
+    reading: "あり",
+    pos: "動詞",
+  });
+  const known = await makeTedWord(article, paragraph, {
+    surface: "ある",
+    lemma: "ある",
+    reading: "ある",
+    pos: "動詞",
+    dictionaryId: "known",
+  });
+  assert.equal(unknown.text, "あり");
+  assert.equal(unknown.reading, "あり");
+  assert.notEqual(unknown.id, known.id);
+  assert.equal(
+    (
+      await makeTedWord(article, paragraph, {
+        surface: "あり",
+        lemma: "ある",
+        reading: "あり",
+        pos: "動詞",
+      })
+    ).id,
+    unknown.id,
+  );
+});
+test("oversize vocabulary is rejected before it can poison the sync queue", () => {
+  const word = {
+    id: "tedword:ted-new-001:long",
+    text: "例",
+    reading: "れい",
+    meaning: "义".repeat(3000),
+    source: "ted-new-001",
+    original: "例",
+    example: {
+      japanese: "文".repeat(2500),
+      japanese_annotated: "文".repeat(2500),
+      japanese_reading: "文".repeat(2500),
+      chinese: "译".repeat(2500),
+    },
+  };
+  assert.ok(JSON.stringify(word).length > 12000);
+  assert.equal(tedWordSchema.safeParse(word).success, false);
+});
 const loop = {
   articleId: "ted-new-001",
   label: "听辨转折",

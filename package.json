@@ -1,6 +1,6 @@
 {
   "name": "kotoba-study",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "engines": {
     "node": ">=22.13.0"
@@ -15,7 +15,8 @@
     "test": "node --experimental-strip-types --test tests/*.test.ts",
     "typecheck": "tsc --noEmit",
     "content:sync": "node scripts/sync-content.mjs",
-    "test:api": "node tests/sync-api.mjs"
+    "test:api": "node tests/sync-api.mjs",
+    "test:ted-api": "node tests/ted-api.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

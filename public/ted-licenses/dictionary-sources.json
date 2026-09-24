@@ -1,0 +1,24 @@
+[
+  {
+    "file": "kaikki-ja-simplified.jsonl",
+    "url": "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AF%AD/kaikki.org-dictionary-%E6%97%A5%E8%AF%AD.jsonl",
+    "bytes": 36289875,
+    "sha256": "5c971a6d0d6a05c3316b77d10ec218b3cc3eced6c6f45a3f137f44d9a17d8e87",
+    "records": 79524,
+    "etag": "\"6ab4de0b-229bd53\"",
+    "fetchedAt": "2026-09-24T13:24:23.843540+00:00",
+    "license": "CC-BY-SA-4.0",
+    "source": "Chinese Wiktionary contributors, extracted by Kaikki/Wiktextract"
+  },
+  {
+    "file": "kaikki-ja-traditional.jsonl",
+    "url": "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AA%9E/kaikki.org-dictionary-%E6%97%A5%E8%AA%9E.jsonl",
+    "bytes": 89293723,
+    "sha256": "961aedd8b4b5bc03b14d596a25c7529012fd46842f012afff52c81c7824bda61",
+    "records": 57721,
+    "etag": "\"6ab4de06-552839b\"",
+    "fetchedAt": "2026-09-24T13:41:31.825421+00:00",
+    "license": "CC-BY-SA-4.0",
+    "source": "Chinese Wiktionary contributors, extracted by Kaikki/Wiktextract"
+  }
+]

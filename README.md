@@ -34,6 +34,24 @@
 当前为理解卡与生词卡；审核后的填空题、听力卡、录音、完整 N1 内容和模拟考试尚未加入。
 当前教材不是 N2 的完整词汇、阅读和听力课程，也不提供考试通过率预测。
 
+## TED 精读与精听（v0.3）
+
+私人资料库包含 TED 演讲与日刊精读两套资料，各 150 篇。原件与提取正文不随开源仓库分发。
+
+- 电脑悬停速查，点按打开完整词卡；手机、iPad 直接点按。显示读音、候选中文释义、词性/活用及原文例句，可加入生词本与 FSRS 复习。
+- 中日文阅读、中文隐藏、自动注音、原 PDF 对照、收藏与完成标记。
+- 播放原音频：全文播放、变速、退 5 秒；设置 A/B 后保存任意多组区域，六种颜色加编号/名称区分。
+- 点颜色条或区域名称循环播放，支持不限/3/5/10 次及 0/2/4/6 秒跟读留白。标记可编辑、删除、关联段落。
+- 标记、生词、收藏与播放位置随账号同步；音频位置约每 30 秒及暂停时保存。私人文章、PDF、音频需联网，不进入离线公共缓存。
+
+594 页主要是扫描图片，当前是 OCR 待核对稿。只有首篇按原图人工核对；其余未逐字校对。
+1,592 段中 949 对按版面配对，643 段保留为单侧原文，页面明确提示未对齐。
+词义覆盖约 80.95% 的学习词次，缺义不会编造；自动分词和读音不等于发音审校。
+音频没有自动逐句对齐或生成切片文件；彩色 A/B 标记在原音频上播放指定区域。
+实体 iPhone / iPad、锁屏或后台循环仍需设备实测。
+
+私人导入与开源部署说明见 [TED 开发说明](docs-ted.md)，实际验收见 [验证记录](VERIFICATION.md)。
+
 ## 本地运行
 
 需要 Node.js 22.13+（本次使用 24.19.0）与 npm。
@@ -42,7 +60,7 @@
 npm ci
 npm run db:generate  # 首次克隆已有迁移时可以跳过
 npm run build
-node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0000_breezy_golden_guardian.sql
+node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 migrations apply DB --local --config dist/server/wrangler.json --persist-to .wrangler/state
 npm run dev
 ```
 
@@ -57,7 +75,7 @@ node tests/sync-api.mjs  # 先启动本地 dev 与数据库
 
 ## 部署与同步
 
-前端：React / TypeScript / Vinext；持久化：Cloudflare D1；认证：Sites 的 ChatGPT 登录。
+前端：React / TypeScript / Vinext；持久化：Cloudflare D1 + R2；认证：Sites 的 ChatGPT 登录。
 `.openai/hosting.json` 只保存逻辑绑定与 Site 标识，不含密钥。
 Fork 后需要注册自己的 Site 并替换 `project_id`，不能复用维护者的 Site。
 
