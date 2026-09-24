@@ -64,6 +64,7 @@ import { useNoteDraft } from "@/lib/study/use-note-draft";
 import { vocabulary, studyDay, tasks } from "@/lib/study/content";
 import { combineEvents, ALGORITHM, scheduler } from "@/lib/study/model";
 import { eventSchema } from "@/lib/study/validation";
+import { fetchJSON } from "@/lib/study/session";
 import type { Entry, Word, EventKind, StudyEvent } from "@/lib/study/types";
 import type { Grade } from "ts-fsrs";
 
@@ -144,15 +145,20 @@ export default function StudyApp({
   const fileRef = useRef<HTMLInputElement>(null);
   const today = studyDay(tick);
   useEffect(() => {
-    fetch("/data/grammar.json")
-      .then((r) => {
-        if (!r.ok) throw Error();
-        return r.json() as Promise<{ entries: Entry[] }>;
+    let cancelled = false;
+    fetchJSON<{ entries: Entry[] }>("/data/grammar.json")
+      .then((data) => {
+        if (!Array.isArray(data.entries) || !data.entries.length) throw Error();
+        if (!cancelled) setEntries(data.entries);
       })
-      .then((data) => setEntries(data.entries))
-      .catch(() => setLoadError("教材加载失败，请联网后刷新重试。"));
+      .catch(() => {
+        if (!cancelled) setLoadError("教材加载失败或超时，请联网后重试。");
+      });
     const timer = setInterval(() => setTick(Date.now()), 15000);
-    return () => clearInterval(timer);
+    return () => {
+      cancelled = true;
+      clearInterval(timer);
+    };
   }, []);
   useEffect(() => {
     if (
@@ -409,6 +415,9 @@ export default function StudyApp({
         <span className="brand-mark">言</span>
         <LoaderCircle className="spin" />
         <p>正在打开你的学习桌面…</p>
+        <button className="secondary" onClick={() => location.reload()}>
+          重新加载
+        </button>
       </main>
     );
   return (

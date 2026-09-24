@@ -3,6 +3,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Cache, EventKind, Session, StudyEvent } from "./types";
 import { readCache, updateCache } from "./storage";
 import { combineEvents, mergeCache, rebuild, eventBatch } from "./model";
+import { fetchJSON, resolveSession } from "./session";
 const EMPTY: Cache = { events: [], pending: [], cursor: 0 };
 export function useStudy() {
   const [session, setSession] = useState<Session | null>(null);
@@ -15,20 +16,23 @@ export function useStudy() {
   useEffect(() => {
     let cancelled = false;
     async function boot() {
-      let user: Session | null = null;
-      try {
-        const r = await fetch("/api/session", { cache: "no-store" });
-        if (!r.ok) throw Error();
-        user = await r.json();
-        if (user) localStorage.setItem("kotoba-account", JSON.stringify(user));
-        else localStorage.removeItem("kotoba-account");
-      } catch {
-        try {
-          user = JSON.parse(localStorage.getItem("kotoba-account") || "null");
-        } catch {}
-        setStatus("离线，等待同步");
-      }
+      const result = await resolveSession(() => fetchJSON("/api/session"), {
+        getItem: (key) => localStorage.getItem(key),
+        setItem: (key, value) => localStorage.setItem(key, value),
+        removeItem: (key) => localStorage.removeItem(key),
+      });
       if (cancelled) return;
+      const user = result.user;
+      if (result.offline) {
+        setStatus("离线，等待同步");
+        setError(
+          "登录状态暂时无法确认，你可以继续阅读教材；联网后请刷新重试。",
+        );
+      }
+      if (result.storageFailed)
+        setError(
+          "登录已成功，但浏览器无法保存离线身份。请检查此网站的存储权限或可用空间。",
+        );
       active.current = user?.userId ?? null;
       setSession(user);
       if (user) {
@@ -91,11 +95,15 @@ export function useStudy() {
         });
         if (active.current !== uid) return;
         if (r.status === 401 || r.status === 409) {
-          const remembered = JSON.parse(
-            localStorage.getItem("kotoba-account") || "null",
-          );
-          if (remembered?.userId === uid)
-            localStorage.removeItem("kotoba-account");
+          try {
+            const remembered = JSON.parse(
+              localStorage.getItem("kotoba-account") || "null",
+            );
+            if (remembered?.userId === uid)
+              localStorage.removeItem("kotoba-account");
+          } catch {
+            /* Identity invalidation must work even when storage is blocked. */
+          }
           active.current = null;
           setSession(null);
           setCache(EMPTY);
@@ -218,7 +226,9 @@ export function useStudy() {
     active.current = null;
     setSession(null);
     setCache(EMPTY);
-    localStorage.removeItem("kotoba-account");
+    try {
+      localStorage.removeItem("kotoba-account");
+    } catch {}
     location.href = "/signout-with-chatgpt?return_to=%2F";
   }
   return {
