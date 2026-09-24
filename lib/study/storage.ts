@@ -34,8 +34,9 @@ export async function updateCache(
     let next: Cache;
     r.onsuccess = () => {
       try {
-        next = update(r.result ?? empty());
-        store.put(next, userId);
+        const current = r.result ?? empty();
+        next = update(current);
+        if (next !== current) store.put(next, userId);
       } catch (error) {
         tx.abort();
         reject(error);

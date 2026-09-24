@@ -44,8 +44,15 @@ export async function resolveSession(
   return { user, offline: false, storageFailed };
 }
 
-export async function fetchJSON<T>(url: string, timeoutMs = 12000): Promise<T> {
+export async function fetchJSON<T>(
+  url: string,
+  timeoutMs = 12000,
+  signal?: AbortSignal,
+): Promise<T> {
   const controller = new AbortController();
+  const cancel = () => controller.abort();
+  if (signal?.aborted) cancel();
+  else signal?.addEventListener("abort", cancel, { once: true });
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
   try {
     const response = await fetch(url, {
@@ -56,5 +63,6 @@ export async function fetchJSON<T>(url: string, timeoutMs = 12000): Promise<T> {
     return (await response.json()) as T;
   } finally {
     clearTimeout(timeout);
+    signal?.removeEventListener("abort", cancel);
   }
 }

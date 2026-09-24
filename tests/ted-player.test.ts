@@ -37,7 +37,8 @@ function makePlayer() {
     pendingEffects = [],
     nativeEvents = [];
   const intervals = new Map(),
-    timeouts = new Map();
+    timeouts = new Map(),
+    savedProgress = [];
   let cursor = 0,
     nextTimer = 0,
     tree,
@@ -69,7 +70,7 @@ function makePlayer() {
       ) {
         pendingEffects.push(() => {
           previous?.cleanup?.();
-          slots[index] = { dependencies, cleanup: callback() };
+          slots[index] = { dependencies, callback, cleanup: callback() };
         });
       }
     },
@@ -134,16 +135,30 @@ function makePlayer() {
       },
     },
     onSave: async () => {},
-    onProgress: async () => {},
+    onProgress: async (value) => {
+      savedProgress.push(value);
+    },
     onStart() {},
     onActive() {},
   };
   const audio = {
+    src: "/api/ted/media?id=ted-new-001&kind=audio",
+    loads: 0,
     duration: 120,
     currentTime: 0,
     paused: true,
     playbackRate: 1,
     preservesPitch: true,
+    getAttribute(name) {
+      return name === "src" ? this.src : null;
+    },
+    removeAttribute(name) {
+      if (name === "src") this.src = null;
+    },
+    load() {
+      this.loads++;
+      this.paused = true;
+    },
     pause() {
       if (!this.paused) {
         this.paused = true;
@@ -259,6 +274,18 @@ function makePlayer() {
       );
     }
   }
+  function unmount() {
+    // React detaches host refs before running passive effect cleanup.
+    mediaNode.props.ref.current = null;
+    for (const slot of slots) slot?.cleanup?.();
+  }
+  function replayEffects() {
+    // Strict Mode replays effects while retaining the actual media element.
+    for (const slot of slots) slot?.cleanup?.();
+    for (const slot of slots) {
+      if (slot?.callback) slot.cleanup = slot.callback();
+    }
+  }
   render();
   return {
     audio,
@@ -270,6 +297,10 @@ function makePlayer() {
     completeGap,
     seek,
     timeouts,
+    intervals,
+    savedProgress,
+    unmount,
+    replayEffects,
   };
 }
 
@@ -332,3 +363,40 @@ for (const mode of ["slider", "back-five-seconds"]) {
     });
   }
 }
+
+test("unmount releases the playing media after React clears the ref and saves its final position", async () => {
+  const player = makePlayer();
+  await player.startLoop();
+  player.audio.currentTime = 17.5;
+  player.unmount();
+  assert.equal(player.audio.paused, true);
+  assert.equal(player.audio.src, null);
+  assert.equal(
+    player.audio.loads,
+    1,
+    "load() releases the previous source and buffered media",
+  );
+  assert.equal(player.savedProgress.at(-1), 17.5);
+  assert.equal(player.intervals.size, 0);
+  assert.equal(player.timeouts.size, 0);
+});
+
+test("unmount during a repeat gap cancels the scheduled restart and releases the source", async () => {
+  const player = makePlayer();
+  await player.startLoop();
+  await player.finishPass();
+  assert.equal(player.timeouts.size, 1);
+  player.unmount();
+  assert.equal(player.timeouts.size, 0);
+  assert.equal(player.intervals.size, 0);
+  assert.equal(player.audio.src, null);
+  assert.equal(player.audio.loads, 1);
+});
+
+test("effect replay restores the same article source after disposing the previous media", () => {
+  const player = makePlayer();
+  player.replayEffects();
+  assert.equal(player.audio.loads, 1);
+  assert.equal(player.audio.src, "/api/ted/media?id=ted-new-001&kind=audio");
+  assert.equal(player.intervals.size, 1);
+});

@@ -1,5 +1,12 @@
 import type { Entry, Word } from "./types";
 
+const studyDayFormatter = new Intl.DateTimeFormat("sv-SE", {
+  timeZone: "Asia/Tokyo",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+
 export function vocabulary(entry: Entry): Word[] {
   return entry.vocabulary
     .split(/[；;]/)
@@ -19,12 +26,7 @@ export function vocabulary(entry: Entry): Word[] {
     });
 }
 export function studyDay(date: Date | number = Date.now()): string {
-  return new Intl.DateTimeFormat("sv-SE", {
-    timeZone: "Asia/Tokyo",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(date);
+  return studyDayFormatter.format(date);
 }
 export const tasks = [
   {

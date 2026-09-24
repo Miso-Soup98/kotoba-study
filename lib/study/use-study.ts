@@ -2,7 +2,13 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Cache, EventKind, Session, StudyEvent } from "./types";
 import { readCache, updateCache } from "./storage";
-import { combineEvents, mergeCache, rebuild, eventBatch } from "./model";
+import {
+  combineEvents,
+  mergeCache,
+  rebuild,
+  eventBatch,
+  sameCache,
+} from "./model";
 import { fetchJSON, resolveSession } from "./session";
 import { eventSchema } from "./validation";
 const EMPTY: Cache = { events: [], pending: [], cursor: 0 };
@@ -14,6 +20,10 @@ export function useStudy() {
   const [error, setError] = useState("");
   const syncing = useRef(false);
   const active = useRef<string | null>(null);
+  // IndexedDB returns fresh clones, even when no learning data changed.
+  const publishCache = useCallback((next: Cache) => {
+    setCache((previous) => (sameCache(previous, next) ? previous : next));
+  }, []);
   useEffect(() => {
     let cancelled = false;
     async function boot() {
@@ -39,7 +49,7 @@ export function useStudy() {
       if (user) {
         try {
           const c = await readCache(user.userId);
-          if (!cancelled && active.current === user.userId) setCache(c);
+          if (!cancelled && active.current === user.userId) publishCache(c);
         } catch {
           setError("本机存储不可用，请允许浏览器保存网站数据。");
         }
@@ -51,7 +61,7 @@ export function useStudy() {
       cancelled = true;
       active.current = null;
     };
-  }, []);
+  }, [publishCache]);
   useEffect(() => {
     const onStorage = (e: StorageEvent) => {
       if (e.key === "kotoba-account") {
@@ -131,7 +141,7 @@ export function useStudy() {
           mergeCache(c, data.events, data.cursor),
         );
         if (active.current !== uid) return;
-        setCache(next);
+        publishCache(next);
         more = data.hasMore || next.pending.length > 0;
       }
       setStatus(more ? "继续同步中" : "已同步");
@@ -142,20 +152,24 @@ export function useStudy() {
     } finally {
       syncing.current = false;
     }
-  }, [session]);
+  }, [session, publishCache]);
   useEffect(() => {
     if (!ready || !session) return;
     const t = setTimeout(() => void sync(), 400);
     return () => clearTimeout(t);
   }, [ready, session, cache.pending.length, sync]);
   useEffect(() => {
-    const onFocus = () => void sync();
+    const onFocus = () => {
+      if (document.visibilityState !== "hidden") void sync();
+    };
     window.addEventListener("online", onFocus);
     window.addEventListener("focus", onFocus);
+    document.addEventListener("visibilitychange", onFocus);
     const timer = setInterval(onFocus, 20000);
     return () => {
       window.removeEventListener("online", onFocus);
       window.removeEventListener("focus", onFocus);
+      document.removeEventListener("visibilitychange", onFocus);
       clearInterval(timer);
     };
   }, [sync]);
@@ -164,11 +178,11 @@ export function useStudy() {
     const channel = new BroadcastChannel("kotoba:" + session.userId);
     channel.onmessage = () => {
       void readCache(session.userId).then((next) => {
-        if (active.current === session.userId) setCache(next);
+        if (active.current === session.userId) publishCache(next);
       });
     };
     return () => channel.close();
-  }, [session]);
+  }, [session, publishCache]);
   const append = useCallback(
     async (
       kind: EventKind,
@@ -194,7 +208,7 @@ export function useStudy() {
         ...c,
         pending: [...c.pending, event],
       }));
-      if (active.current === session.userId) setCache(next);
+      if (active.current === session.userId) publishCache(next);
       if ("BroadcastChannel" in window) {
         const channel = new BroadcastChannel("kotoba:" + session.userId);
         channel.postMessage("change");
@@ -202,7 +216,7 @@ export function useStudy() {
       }
       return event;
     },
-    [session],
+    [session, publishCache],
   );
   const importEvents = useCallback(
     async (events: StudyEvent[]) => {
@@ -217,9 +231,9 @@ export function useStudy() {
           pending: [...c.pending, ...events.filter((e) => !ids.has(e.id))],
         };
       });
-      if (active.current === session.userId) setCache(next);
+      if (active.current === session.userId) publishCache(next);
     },
-    [session],
+    [session, publishCache],
   );
   const model = useMemo(
     () => rebuild(combineEvents(cache.events, cache.pending)),

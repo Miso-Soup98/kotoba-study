@@ -72,6 +72,12 @@ export function TedPlayer(props: Props) {
     }
   }
   useEffect(() => {
+    // Host refs are detached before passive cleanup. Retain this element so an
+    // article change also stops its download/decoder after React clears the ref.
+    const audio = media.current;
+    // React Strict Mode replays setup after cleanup without replacing the node.
+    if (audio && !audio.getAttribute("src"))
+      audio.src = `/api/ted/media?id=${props.id}&kind=audio`;
     const persist = () => {
       if (document.visibilityState === "hidden") checkpoint();
     };
@@ -84,13 +90,16 @@ export function TedPlayer(props: Props) {
     };
     window.addEventListener("kotoba:stop-ted", stop);
     return () => {
+      position.current = audio?.currentTime ?? position.current;
       checkpoint();
       clearWait();
-      media.current?.pause();
+      audio?.pause();
+      audio?.removeAttribute("src");
+      audio?.load();
       document.removeEventListener("visibilitychange", persist);
       window.removeEventListener("kotoba:stop-ted", stop);
     };
-  }, []);
+  }, [props.id]);
   function fail() {
     clearWait();
     setError("音频无法播放，请检查网络并重新载入。");

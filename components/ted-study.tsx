@@ -68,6 +68,7 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
     [showRuby, setShowRuby] = useState(false);
   useEffect(() => {
     let cancelled = false;
+    const request = new AbortController();
     setError("");
     setLoading(true);
     setCatalog([]);
@@ -75,7 +76,7 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
       setLoading(false);
       return;
     }
-    fetchJSON<{ articles: TedSummary[] }>("/api/ted")
+    fetchJSON<{ articles: TedSummary[] }>("/api/ted", 12000, request.signal)
       .then((data) => {
         if (!cancelled) setCatalog(data.articles);
       })
@@ -87,10 +88,12 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
       });
     return () => {
       cancelled = true;
+      request.abort();
     };
   }, [study.session?.userId, retry]);
   useEffect(() => {
     let cancelled = false;
+    const request = new AbortController();
     setArticle(null);
     setSelectedWord(null);
     setDesktopOpen(false);
@@ -100,7 +103,11 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
     if (!selectedId || !study.session) return;
     setLoading(true);
     setError("");
-    fetchJSON<TedArticle>(`/api/ted/article?id=${selectedId}`, 20000)
+    fetchJSON<TedArticle>(
+      `/api/ted/article?id=${selectedId}`,
+      20000,
+      request.signal,
+    )
       .then((data) => {
         if (!cancelled) setArticle(data);
       })
@@ -112,6 +119,7 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
       });
     return () => {
       cancelled = true;
+      request.abort();
     };
   }, [selectedId, study.session?.userId, retry]);
   useEffect(

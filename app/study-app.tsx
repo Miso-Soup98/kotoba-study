@@ -171,10 +171,15 @@ export default function StudyApp({
       .catch(() => {
         if (!cancelled) setLoadError("教材加载失败或超时，请联网后重试。");
       });
-    const timer = setInterval(() => setTick(Date.now()), 15000);
+    const refreshTime = () => {
+      if (document.visibilityState !== "hidden") setTick(Date.now());
+    };
+    const timer = setInterval(refreshTime, 15000);
+    document.addEventListener("visibilitychange", refreshTime);
     return () => {
       cancelled = true;
       clearInterval(timer);
+      document.removeEventListener("visibilitychange", refreshTime);
     };
   }, []);
   useEffect(() => {
@@ -190,9 +195,10 @@ export default function StudyApp({
         .catch(() => setSwReady(false));
   }, []);
   const byId = useMemo(() => new Map(entries.map((e) => [e.id, e])), [entries]);
+  const grammarWords = useMemo(() => entries.flatMap(vocabulary), [entries]);
   const words = useMemo(
-    () => [...entries.flatMap(vocabulary), ...Object.values(model.tedWords)],
-    [entries, model.tedWords],
+    () => [...grammarWords, ...Object.values(model.tedWords)],
+    [grammarWords, model.tedWords],
   );
   const wordById = useMemo(() => new Map(words.map((w) => [w.id, w])), [words]);
   const current =
@@ -225,9 +231,18 @@ export default function StudyApp({
         (byId.has(id) || wordById.has(id)),
     )
     .sort((a, b) => a[1].card.due.getTime() - b[1].card.due.getTime());
-  const newStarted = model.reviews.filter(
-    (e) => e.base === null && studyDay(e.at) === today,
-  ).length;
+  const dailyReviews = useMemo(() => {
+    const days = new Map<string, { total: number; started: number }>();
+    for (const review of model.reviews) {
+      const day = studyDay(review.at);
+      const counts = days.get(day) ?? { total: 0, started: 0 };
+      counts.total++;
+      if (review.base === null) counts.started++;
+      days.set(day, counts);
+    }
+    return days;
+  }, [model.reviews]);
+  const newStarted = dailyReviews.get(today)?.started ?? 0;
   const due = [
     ...allDue.filter(([, s]) => s.card.reps > 0),
     ...allDue
@@ -237,7 +252,7 @@ export default function StudyApp({
         Math.max(0, Number(model.settings.newLimit ?? 10) - newStarted),
       ),
   ];
-  const newToday = model.reviews.filter((e) => studyDay(e.at) === today);
+  const reviewedToday = dailyReviews.get(today)?.total ?? 0;
   const finished = tasks.filter((t) => model.tasks[`${today}:${t.id}`]);
   const activeCard = due.find(([id]) => id === reviewId) ?? due[0];
   const reviewEntry = activeCard ? byId.get(activeCard[0]) : undefined;
@@ -637,7 +652,7 @@ export default function StudyApp({
                   />
                   <div className="mini-stats">
                     <div>
-                      <b>{newToday.length}</b>
+                      <b>{reviewedToday}</b>
                       <span>今日复习</span>
                     </div>
                     <div>
@@ -1110,7 +1125,7 @@ export default function StudyApp({
                   <p>先在心里回答，再翻面。忘记时，选择“忘记了”。</p>
                 </div>
                 <span className="date-badge">
-                  今日已复习 {newToday.length} 张
+                  今日已复习 {reviewedToday} 张
                 </span>
               </div>
               {activeCard ? (
@@ -1172,10 +1187,14 @@ export default function StudyApp({
                               {reviewWord?.meaning}
                             </p>
                             {reviewWord?.usage && <p>{reviewWord.usage}</p>}
-                            {reviewWord?.example && <>
-                              <p lang="ja">{reviewWord.example.japanese}</p>
-                              <p className="muted">{reviewWord.example.chinese}</p>
-                            </>}
+                            {reviewWord?.example && (
+                              <>
+                                <p lang="ja">{reviewWord.example.japanese}</p>
+                                <p className="muted">
+                                  {reviewWord.example.chinese}
+                                </p>
+                              </>
+                            )}
                             <p className="muted">来自 {reviewWord?.source}</p>
                             <button
                               className="text-button"
@@ -1484,9 +1503,7 @@ export default function StudyApp({
                   <div className="activity-chart">
                     {Array.from({ length: 7 }, (_, i) => {
                       const day = studyDay(tick - (6 - i) * 86400000),
-                        count = model.reviews.filter(
-                          (r) => studyDay(r.at) === day,
-                        ).length;
+                        count = dailyReviews.get(day)?.total ?? 0;
                       return (
                         <div key={day}>
                           <span>{count}</span>

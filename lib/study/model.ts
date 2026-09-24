@@ -1,5 +1,5 @@
 import { createEmptyCard, fsrs, type Card, type Grade } from "ts-fsrs";
-import type { StudyEvent } from "./types";
+import type { Cache, StudyEvent } from "./types";
 import type { Word } from "./types";
 import type { TedLoop } from "../ted/types";
 import { parsedLoop, tedWordSchema } from "../ted/validation.ts";
@@ -126,16 +126,86 @@ export function combineEvents(confirmed: StudyEvent[], pending: StudyEvent[]) {
     .sort((a, b) => (a.seq ?? 0) - (b.seq ?? 0))
     .concat(pending.filter((e) => !ids.has(e.id)));
 }
+function sameJSONValue(a: unknown, b: unknown): boolean {
+  if (Object.is(a, b)) return true;
+  if (
+    a === null ||
+    b === null ||
+    typeof a !== "object" ||
+    typeof b !== "object"
+  )
+    return false;
+  if (Array.isArray(a) || Array.isArray(b))
+    return (
+      Array.isArray(a) &&
+      Array.isArray(b) &&
+      a.length === b.length &&
+      a.every((value, i) => sameJSONValue(value, b[i]))
+    );
+  const keys = Object.keys(a);
+  if (keys.length !== Object.keys(b).length) return false;
+  const left = a as Record<string, unknown>,
+    right = b as Record<string, unknown>;
+  return keys.every(
+    (key) =>
+      Object.prototype.hasOwnProperty.call(right, key) &&
+      sameJSONValue(left[key], right[key]),
+  );
+}
+function sameEvent(a: StudyEvent, b: StudyEvent): boolean {
+  return (
+    a.id === b.id &&
+    a.kind === b.kind &&
+    a.entity === b.entity &&
+    sameJSONValue(a.value, b.value) &&
+    a.at === b.at &&
+    a.seq === b.seq &&
+    a.base === b.base &&
+    (a.resolves === b.resolves ||
+      (a.resolves !== undefined &&
+        b.resolves !== undefined &&
+        a.resolves.length === b.resolves.length &&
+        a.resolves.every((id, i) => id === b.resolves![i])))
+  );
+}
+export function sameCache(a: Cache, b: Cache): boolean {
+  return (
+    a === b ||
+    (a.cursor === b.cursor &&
+      a.events.length === b.events.length &&
+      a.pending.length === b.pending.length &&
+      a.events.every((event, i) => sameEvent(event, b.events[i])) &&
+      a.pending.every((event, i) => sameEvent(event, b.pending[i])))
+  );
+}
 export function mergeCache(
-  current: import("./types").Cache,
+  current: Cache,
   incoming: StudyEvent[],
   cursor: number,
-): import("./types").Cache {
+): Cache {
+  const nextCursor = Math.max(current.cursor, cursor);
+  if (!incoming.length && !current.pending.length)
+    return nextCursor === current.cursor
+      ? current
+      : { ...current, cursor: nextCursor };
+
   const map = new Map(current.events.map((e) => [e.id, e]));
-  incoming.forEach((e) => map.set(e.id, e));
+  let changed = map.size !== current.events.length;
+  for (const e of incoming) {
+    const old = map.get(e.id);
+    if (!old || !sameEvent(old, e)) {
+      map.set(e.id, e);
+      changed = true;
+    }
+  }
+  const pending = current.pending.some((e) => map.has(e.id))
+    ? current.pending.filter((e) => !map.has(e.id))
+    : current.pending;
+  if (!changed && pending === current.pending && nextCursor === current.cursor)
+    return current;
   return {
-    events: [...map.values()],
-    pending: current.pending.filter((e) => !map.has(e.id)),
-    cursor: Math.max(current.cursor, cursor),
+    events: changed ? [...map.values()] : current.events,
+    pending,
+    cursor: nextCursor,
   };
 }
