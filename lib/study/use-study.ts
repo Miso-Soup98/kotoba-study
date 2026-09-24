@@ -4,6 +4,7 @@ import type { Cache, EventKind, Session, StudyEvent } from "./types";
 import { readCache, updateCache } from "./storage";
 import { combineEvents, mergeCache, rebuild, eventBatch } from "./model";
 import { fetchJSON, resolveSession } from "./session";
+import { eventSchema } from "./validation";
 const EMPTY: Cache = { events: [], pending: [], cursor: 0 };
 export function useStudy() {
   const [session, setSession] = useState<Session | null>(null);
@@ -187,6 +188,8 @@ export function useStudy() {
         ...(base !== undefined ? { base } : {}),
         ...(resolves?.length ? { resolves } : {}),
       };
+      if (!eventSchema.safeParse(event).success)
+        throw Error("记录格式无效或内容过长，未保存，请缩短后重试");
       const next = await updateCache(session.userId, (c) => ({
         ...c,
         pending: [...c.pending, event],

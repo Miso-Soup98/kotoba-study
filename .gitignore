@@ -51,3 +51,6 @@ kotoba-backup-*.json
 /.venv/
 __pycache__/
 legacy/audio_output/
+/private-content/
+/ted-export/
+.dev.vars*

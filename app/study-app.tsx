@@ -60,6 +60,7 @@ import { Progress } from "@/components/ui/progress";
 import { Toaster, toast } from "sonner";
 import { useStudy } from "@/lib/study/use-study";
 import { useAudio } from "@/lib/study/use-audio";
+import { TedStudy } from "@/components/ted-study";
 import {
   audioRoute,
   chosenVoice,
@@ -80,6 +81,7 @@ const NAV = [
   { id: "library", label: "语法库", icon: BookOpen },
   { id: "review", label: "复习", icon: Layers3 },
   { id: "words", label: "生词本", icon: Bookmark },
+  { id: "ted", label: "TED 精读", icon: Headphones },
   { id: "profile", label: "我的", icon: GraduationCap },
 ];
 function Ruby({ text, show = true }: { text: string; show?: boolean }) {
@@ -134,9 +136,11 @@ export default function StudyApp({
   const study = useStudy();
   const { model, session, ready } = study;
   const sampleTracks = useRef(new Map<string, HTMLAudioElement>());
-  const audio = useAudio(model.settings, () =>
-    sampleTracks.current.forEach((track) => track.pause()),
-  );
+  const audio = useAudio(model.settings, () => {
+    sampleTracks.current.forEach((track) => track.pause());
+    window.dispatchEvent(new Event("kotoba:stop-ted"));
+  });
+  const [tedSelected, setTedSelected] = useState("");
   const [entries, setEntries] = useState<Entry[]>([]),
     [loadError, setLoadError] = useState("");
   const [view, setView] = useState("today"),
@@ -186,7 +190,10 @@ export default function StudyApp({
         .catch(() => setSwReady(false));
   }, []);
   const byId = useMemo(() => new Map(entries.map((e) => [e.id, e])), [entries]);
-  const words = useMemo(() => entries.flatMap(vocabulary), [entries]);
+  const words = useMemo(
+    () => [...entries.flatMap(vocabulary), ...Object.values(model.tedWords)],
+    [entries, model.tedWords],
+  );
   const wordById = useMemo(() => new Map(words.map((w) => [w.id, w])), [words]);
   const current =
     byId.get(selected || model.position) ||
@@ -333,6 +340,11 @@ export default function StudyApp({
     draft.saved(event.id);
   }
   function openEntry(id: string) {
+    if (id.startsWith("ted-")) {
+      setTedSelected(id);
+      setView("ted");
+      return;
+    }
     setSelected(id);
     setView("library");
     const e = byId.get(id);
@@ -1257,6 +1269,18 @@ export default function StudyApp({
               )}
             </>
           )}
+          {view === "ted" && (
+            <TedStudy
+              key={session?.userId ?? "anonymous"}
+              study={study}
+              selectedId={tedSelected}
+              onSelect={setTedSelected}
+              onStartAudio={() => {
+                audio.stop();
+                sampleTracks.current.forEach((track) => track.pause());
+              }}
+            />
+          )}
           {view === "words" && (
             <>
               <div className="page-heading">
@@ -1297,7 +1321,14 @@ export default function StudyApp({
                         {w.reading}
                       </p>
                       <p className="word-meaning">{w.meaning}</p>
-                      {findWordExamples(w, byId.get(w.source)).length ? (
+                      {w.example ? (
+                        <>
+                          <p className="word-context" lang="ja">
+                            {w.example.japanese}
+                          </p>
+                          <p className="footnote">{w.example.chinese}</p>
+                        </>
+                      ) : findWordExamples(w, byId.get(w.source)).length ? (
                         findWordExamples(w, byId.get(w.source)).map((ex, i) => (
                           <p className="word-context" lang="ja" key={i}>
                             {ex.japanese}

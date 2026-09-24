@@ -1849,3 +1849,499 @@ ruby rt {
     transition: none !important;
   }
 }
+/* TED reading desk */
+.ted-library,
+.ted-reading {
+  max-width: 1420px;
+  margin: 0 auto;
+}
+.ted-library .search-field {
+  max-width: 620px;
+  margin-bottom: 20px;
+}
+.ted-library-filters {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+.ted-catalog {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+.ted-catalog-card {
+  position: relative;
+  padding: 22px;
+}
+.ted-catalog-card > .icon-button {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+}
+.ted-open {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  width: 100%;
+  gap: 18px;
+}
+.ted-open h2 {
+  font-size: 20px;
+  line-height: 1.6;
+  margin: 0;
+  min-height: 64px;
+  padding-right: 12px;
+}
+.ted-catalog-meta {
+  color: #69786b;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+.ted-card-status {
+  color: #285744;
+  font-size: 14px;
+  font-weight: 600;
+}
+.ted-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 28px 0;
+}
+.ted-article-heading {
+  margin: 24px 0;
+}
+.ted-article-heading h1 {
+  font-size: 30px;
+  line-height: 1.5;
+  margin: 10px 0 20px;
+}
+.ted-article-tools {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.ted-workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 365px;
+  gap: 26px;
+  align-items: start;
+}
+.ted-text-column,
+.ted-listening-column {
+  min-width: 0;
+}
+.ted-listening-column {
+  position: sticky;
+  top: 95px;
+  max-height: calc(100vh - 120px);
+  overflow: auto;
+  scrollbar-width: thin;
+}
+.ted-display-options {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.ted-display-options label {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+}
+.ted-reading-help,
+.ted-source-notes {
+  color: #667468;
+  font-size: 14px;
+  line-height: 1.8;
+}
+.ted-source-notes {
+  margin: 16px 0;
+  padding: 12px 16px;
+  border-left: 3px solid #cbb783;
+  background: #faf8f0;
+}
+.ted-source-notes summary {
+  cursor: pointer;
+}
+.ted-source-notes p {
+  margin: 8px 0;
+}
+.ted-paragraph {
+  padding: 24px 28px;
+  margin-bottom: 18px;
+  border-left: 3px solid transparent;
+}
+.ted-paragraph.selected {
+  border-left-color: #769987;
+}
+.ted-paragraph.listening {
+  background: #edf5f0;
+  border-color: #3a7961;
+}
+.ted-paragraph .section-heading {
+  color: #718074;
+  font-size: 13px;
+  margin-bottom: 18px;
+}
+.ted-paragraph .section-heading button {
+  font-size: 13px;
+}
+.ted-japanese {
+  font-size: 21px;
+  line-height: 2.2;
+  letter-spacing: 0.02em;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  margin-bottom: 18px;
+}
+.ted-token {
+  display: inline;
+  border-radius: 3px;
+  text-align: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.ted-token:hover,
+.ted-token:focus-visible {
+  color: #175b45;
+  background: #e3f0e6;
+  outline: 2px solid #94b6a1;
+  outline-offset: 1px;
+}
+.ted-token rt {
+  color: #6a766d;
+  font-size: 11px;
+  letter-spacing: 0;
+}
+.ted-chinese {
+  font-size: 16px;
+  line-height: 1.95;
+  color: #53625a;
+  border-top: 1px solid #e8ece7;
+  padding-top: 16px;
+  white-space: pre-wrap;
+}
+.ted-word-popover {
+  width: min(420px, calc(100vw - 32px));
+  max-height: min(620px, 75vh);
+  overflow: auto;
+  padding: 24px;
+  background: #fff;
+}
+.ted-close-word {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+}
+.ted-word-detail h3 {
+  font-size: 28px;
+  margin: 0 0 8px;
+}
+.ted-word-detail h4 {
+  margin: 20px 0 8px;
+  font-size: 14px;
+  color: #526c5c;
+  font-weight: 600;
+}
+.ted-word-detail p {
+  font-size: 15px;
+  line-height: 1.85;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.ted-word-detail .ted-word-reading {
+  color: #52765e;
+  font-size: 16px;
+}
+.ted-word-detail .ted-lemma {
+  color: #788478;
+  font-size: 13px;
+}
+.ted-word-detail .ted-word-example {
+  font-size: 18px;
+  line-height: 1.9;
+}
+.ted-word-detail .footnote {
+  font-size: 12px;
+  margin: 18px 0;
+}
+.ted-word-dialog {
+  width: calc(100vw - 28px);
+  max-width: 500px;
+  max-height: 85dvh;
+  overflow: auto;
+}
+.ted-original-glossary {
+  padding: 24px;
+  margin: 20px 0;
+}
+.ted-original-glossary h2 {
+  margin-bottom: 16px;
+}
+.ted-original-glossary details {
+  padding: 12px 0;
+  border-bottom: 1px solid #e7ece5;
+}
+.ted-original-glossary p {
+  line-height: 1.85;
+  white-space: pre-wrap;
+  margin-top: 10px;
+}
+.ted-original-glossary summary {
+  cursor: pointer;
+  font-size: 17px;
+}
+.ted-original-glossary small {
+  color: #748173;
+}
+.ted-player {
+  padding: 20px;
+}
+.ted-player h2 {
+  font-size: 18px;
+}
+.ted-player > .section-heading > span {
+  font-size: 12px;
+  color: #59745f;
+}
+.ted-transport {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 18px 0;
+}
+.ted-transport button {
+  font-size: 13px;
+  padding: 9px 11px;
+}
+.ted-transport label,
+.ted-repeat-settings label {
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.ted-player select {
+  border: 1px solid #dce4dc;
+  border-radius: 8px;
+  padding: 7px;
+  background: #fff;
+}
+.ted-time {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  color: #6e7c70;
+  margin-bottom: 12px;
+}
+.ted-regions {
+  position: relative;
+  height: 32px;
+  margin-top: 10px;
+}
+.ted-regions button {
+  position: absolute;
+  height: 7px;
+  border-radius: 3px;
+  min-width: 6px;
+}
+.ted-regions button:focus-visible {
+  outline: 2px solid #163d2d;
+  outline-offset: 3px;
+}
+.ted-marking {
+  border-top: 1px solid #e4eae2;
+  border-bottom: 1px solid #e4eae2;
+  padding: 14px 0;
+}
+.ted-marking summary {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+.ted-marker-points {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.ted-marker-points label {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 13px;
+  min-width: 0;
+}
+.ted-player input {
+  width: 100%;
+  padding: 9px 10px;
+  border: 1px solid #dce4da;
+  border-radius: 7px;
+  background: #fff;
+  font-size: 14px;
+  min-width: 0;
+}
+.ted-marker-points button {
+  padding: 8px 5px;
+  font-size: 12px;
+}
+.ted-marking > input {
+  margin: 12px 0;
+}
+.ted-colors {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.ted-colors > button:not(.primary):not(.text-button) {
+  border: 2px solid transparent;
+  border-radius: 50%;
+  height: 27px;
+  width: 27px;
+  color: white;
+  font-size: 12px;
+}
+.ted-colors > button[aria-pressed="true"] {
+  outline: 2px solid #273b30;
+  outline-offset: 2px;
+}
+.ted-colors > .primary {
+  margin-left: auto;
+  font-size: 12px;
+  padding: 8px;
+}
+.ted-player .footnote {
+  line-height: 1.8;
+  margin-top: 12px;
+}
+.ted-repeat-settings {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 14px 0;
+}
+.ted-repeat-settings > span {
+  font-size: 12px;
+  color: #608068;
+}
+.ted-loop {
+  border: 1px solid #e0e7de;
+  border-left: 5px solid;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  padding: 8px;
+  margin-top: 9px;
+}
+.ted-loop.active {
+  background: #eef4ec;
+}
+.ted-loop-play {
+  flex: 1;
+  display: flex;
+  gap: 9px;
+  align-items: center;
+  text-align: left;
+  min-width: 0;
+}
+.ted-loop-play strong {
+  display: block;
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+.ted-loop-play small {
+  display: block;
+  font-size: 12px;
+  color: #6e7a6e;
+  margin-top: 3px;
+}
+.ted-loop .icon-button {
+  width: 28px;
+  height: 28px;
+}
+@media (max-width: 1200px) {
+  .ted-workspace {
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 18px;
+  }
+  .ted-catalog {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .ted-paragraph {
+    padding: 20px;
+  }
+  .ted-player {
+    padding: 16px;
+  }
+}
+@media (max-width: 960px) {
+  .ted-workspace {
+    display: flex;
+    flex-direction: column;
+  }
+  .ted-listening-column {
+    position: static;
+    order: -1;
+    width: 100%;
+    max-height: none;
+  }
+  .ted-text-column {
+    width: 100%;
+  }
+  .ted-marker-points {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .ted-catalog {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .ted-article-heading h1 {
+    font-size: 25px;
+  }
+  .ted-paragraph {
+    padding: 18px;
+  }
+  .ted-japanese {
+    font-size: 19px;
+  }
+  .ted-library-filters [data-slot="tabs-list"] {
+    height: auto;
+    flex-wrap: wrap;
+  }
+  .ted-library-filters [data-slot="tabs-trigger"] {
+    font-size: 13px;
+  }
+  .ted-article-tools {
+    gap: 8px;
+  }
+  .ted-word-dialog {
+    padding: 22px;
+  }
+  .ted-player {
+    padding: 18px;
+  }
+  .ted-transport label {
+    margin-left: auto;
+  }
+}

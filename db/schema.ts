@@ -20,3 +20,17 @@ export const studyEvents = sqliteTable(
     index("event_owner_sequence").on(t.userId, t.sequence),
   ],
 );
+
+export const tedArticles = sqliteTable("ted_articles", {
+  id: text("id").primaryKey(),
+  title: text("title").notNull(),
+  collection: text("collection").notNull(),
+  number: integer("number").notNull(),
+  pages: integer("pages").notNull(),
+  paragraphCount: integer("paragraph_count").notNull(),
+  duration: integer("duration").notNull(),
+  contentKey: text("content_key").notNull(),
+  audioKey: text("audio_key"),
+  pdfKey: text("pdf_key"),
+  warnings: text("warnings").notNull().default("[]"),
+});

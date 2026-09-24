@@ -1,5 +1,8 @@
 import { createEmptyCard, fsrs, type Card, type Grade } from "ts-fsrs";
 import type { StudyEvent } from "./types";
+import type { Word } from "./types";
+import type { TedLoop } from "../ted/types";
+import { parsedLoop, tedWordSchema } from "../ted/validation.ts";
 export const ALGORITHM = "fsrs-5.4.2/default-0.9/no-fuzz";
 export const scheduler = fsrs({ request_retention: 0.9, enable_fuzz: false });
 export type CardState = {
@@ -8,6 +11,9 @@ export type CardState = {
   enrolled: boolean;
 };
 export type Model = {
+  tedLoops: Record<string, TedLoop | null>;
+  tedWords: Record<string, Word>;
+  tedProgress: Record<string, number>;
   cards: Record<string, CardState>;
   bookmarks: Record<string, boolean>;
   notes: Record<
@@ -26,6 +32,9 @@ export type Model = {
 };
 export function rebuild(events: StudyEvent[]): Model {
   const result: Model = {
+    tedLoops: {},
+    tedWords: {},
+    tedProgress: {},
     cards: {},
     bookmarks: {},
     notes: {},
@@ -44,6 +53,19 @@ export function rebuild(events: StudyEvent[]): Model {
           (b.e.seq ?? Number.MAX_SAFE_INTEGER) || a.i - b.i,
     );
   for (const { e } of ordered) {
+    if (e.kind === "ted_progress")
+      result.tedProgress[e.entity] = Number(e.value);
+    if (e.kind === "ted_loop") {
+      const parsed = parsedLoop(e.value);
+      if (e.value === null) result.tedLoops[e.entity] = null;
+      else if (parsed.success) result.tedLoops[e.entity] = parsed.data;
+    }
+    if (e.kind === "ted_word") {
+      try {
+        const word = tedWordSchema.parse(JSON.parse(String(e.value)));
+        result.tedWords[e.entity] = word;
+      } catch {}
+    }
     if (e.kind === "enroll") {
       const old = result.cards[e.entity];
       result.cards[e.entity] = {

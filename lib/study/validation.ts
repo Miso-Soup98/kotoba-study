@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { parsedLoop, tedId, tedWordSchema } from "../ted/validation.ts";
 const jsonValue = z.union([
   z.string().max(12000),
   z.number().finite(),
@@ -16,6 +17,9 @@ export const eventSchema = z
       "task",
       "position",
       "setting",
+      "ted_loop",
+      "ted_word",
+      "ted_progress",
     ]),
     entity: z.string().min(1).max(200),
     value: jsonValue,
@@ -25,6 +29,28 @@ export const eventSchema = z
   })
   .strict()
   .superRefine((e, ctx) => {
+    if (
+      e.kind === "ted_loop" &&
+      (!/^tedloop:[0-9a-f-]{36}$/.test(e.entity) ||
+        (e.value !== null && !parsedLoop(e.value).success))
+    )
+      ctx.addIssue({ code: "custom", message: "循环区域无效" });
+    if (
+      e.kind === "ted_progress" &&
+      (!tedId.safeParse(e.entity).success ||
+        typeof e.value !== "number" ||
+        e.value < 0 ||
+        e.value > 86400)
+    )
+      ctx.addIssue({ code: "custom", message: "播放位置无效" });
+    if (e.kind === "ted_word") {
+      try {
+        const word = tedWordSchema.parse(JSON.parse(String(e.value)));
+        if (word.id !== e.entity) throw Error();
+      } catch {
+        ctx.addIssue({ code: "custom", message: "TED生词无效" });
+      }
+    }
     if (
       ["enroll", "bookmark", "task"].includes(e.kind) &&
       typeof e.value !== "boolean"

@@ -23,9 +23,20 @@ export type Word = {
   meaning: string;
   source: string;
   original: string;
+  usage?: string;
+  example?: Example;
 };
 export type EventKind =
-  "enroll" | "bookmark" | "note" | "review" | "task" | "position" | "setting";
+  | "enroll"
+  | "bookmark"
+  | "note"
+  | "review"
+  | "task"
+  | "position"
+  | "setting"
+  | "ted_loop"
+  | "ted_word"
+  | "ted_progress";
 export type StudyEvent = {
   id: string;
   kind: EventKind;

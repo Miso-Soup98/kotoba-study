@@ -8,6 +8,13 @@
       "when": 1790250183544,
       "tag": "0000_breezy_golden_guardian",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790255548745,
+      "tag": "0001_flippant_prism",
+      "breakpoints": true
     }
   ]
 }
