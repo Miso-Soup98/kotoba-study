@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-09-24T20:30:58+09:00",
+  "os": "Windows 11",
+  "python": "3.13.12",
+  "ffmpeg": "ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers",
+  "dependencies": {
+    "aiohappyeyeballs": "2.7.1",
+    "aiohttp": "3.14.3",
+    "aiosignal": "1.4.0",
+    "attrs": "26.1.0",
+    "certifi": "2026.7.22",
+    "edge-tts": "7.2.8",
+    "frozenlist": "1.8.0",
+    "idna": "3.20",
+    "imageio-ffmpeg": "0.6.0",
+    "multidict": "6.9.1",
+    "pip": "25.3",
+    "propcache": "0.5.4",
+    "tabulate": "0.10.0",
+    "typing_extensions": "4.16.0",
+    "yarl": "1.25.1"
+  },
+  "scope": "Three real synthesized example-practice tracks; no listening or pronunciation review.",
+  "results": [
+    {
+      "id": "N5-001",
+      "pdf_page": 10,
+      "mp3_bytes": 443063,
+      "mp3_sha256": "8291c1081aa17bba64e8f5ffb605b21aee81b88c4859b21e83e65e333b84b99a",
+      "decoded_duration_seconds": 36.824,
+      "metadata_duration_seconds": 36.824,
+      "decoded_peak": 22357,
+      "subtitle_cues": 9,
+      "speech_cues_non_silent": true,
+      "signature_matches_plan": true,
+      "subtitle_text_matches_plan": true,
+      "subtitle_times_valid": true,
+      "cues": [
+        {
+          "index": 1,
+          "start_seconds": 0.0,
+          "end_seconds": 4.32,
+          "rms_dbfs": -20.77
+        },
+        {
+          "index": 2,
+          "start_seconds": 4.92,
+          "end_seconds": 7.5600000000000005,
+          "rms_dbfs": -19.08
+        },
+        {
+          "index": 3,
+          "start_seconds": 8.16,
+          "end_seconds": 10.032,
+          "rms_dbfs": -21.36
+        },
+        {
+          "index": 4,
+          "start_seconds": 10.632,
+          "end_seconds": 13.992,
+          "rms_dbfs": -19.13
+        },
+        {
+          "index": 5,
+          "start_seconds": 17.992,
+          "end_seconds": 20.632,
+          "rms_dbfs": -19.08
+        },
+        {
+          "index": 6,
+          "start_seconds": 21.532,
+          "end_seconds": 23.764,
+          "rms_dbfs": -18.19
+        },
+        {
+          "index": 7,
+          "start_seconds": 24.364,
+          "end_seconds": 26.26,
+          "rms_dbfs": -20.44
+        },
+        {
+          "index": 8,
+          "start_seconds": 26.86,
+          "end_seconds": 29.692,
+          "rms_dbfs": -18.16
+        },
+        {
+          "index": 9,
+          "start_seconds": 33.692,
+          "end_seconds": 35.924,
+          "rms_dbfs": -18.19
+        }
+      ],
+      "status": "passed",
+      "listening_review": "not_done"
+    },
+    {
+      "id": "N5-002",
+      "pdf_page": 10,
+      "mp3_bytes": 520542,
+      "mp3_sha256": "5295e9b21972d8804ca0f0c6477e0001cd4e08394e96a4d82dd0805c9588bc51",
+      "decoded_duration_seconds": 43.28,
+      "metadata_duration_seconds": 43.28,
+      "decoded_peak": 23372,
+      "subtitle_cues": 9,
+      "speech_cues_non_silent": true,
+      "signature_matches_plan": true,
+      "subtitle_text_matches_plan": true,
+      "subtitle_times_valid": true,
+      "cues": [
+        {
+          "index": 1,
+          "start_seconds": 0.0,
+          "end_seconds": 4.344,
+          "rms_dbfs": -20.27
+        },
+        {
+          "index": 2,
+          "start_seconds": 4.944,
+          "end_seconds": 7.728,
+          "rms_dbfs": -17.34
+        },
+        {
+          "index": 3,
+          "start_seconds": 8.328,
+          "end_seconds": 10.512,
+          "rms_dbfs": -21.78
+        },
+        {
+          "index": 4,
+          "start_seconds": 11.112,
+          "end_seconds": 14.664,
+          "rms_dbfs": -17.37
+        },
+        {
+          "index": 5,
+          "start_seconds": 18.664,
+          "end_seconds": 21.448,
+          "rms_dbfs": -17.34
+        },
+        {
+          "index": 6,
+          "start_seconds": 22.348,
+          "end_seconds": 26.116,
+          "rms_dbfs": -18.35
+        },
+        {
+          "index": 7,
+          "start_seconds": 26.716,
+          "end_seconds": 29.212,
+          "rms_dbfs": -20.04
+        },
+        {
+          "index": 8,
+          "start_seconds": 29.812,
+          "end_seconds": 34.612,
+          "rms_dbfs": -18.33
+        },
+        {
+          "index": 9,
+          "start_seconds": 38.612,
+          "end_seconds": 42.38,
+          "rms_dbfs": -18.35
+        }
+      ],
+      "status": "passed",
+      "listening_review": "not_done"
+    },
+    {
+      "id": "N5-003",
+      "pdf_page": 11,
+      "mp3_bytes": 446241,
+      "mp3_sha256": "96660af4965ad44779cae129cf4d2225e0a4370783d5acf36538568faab565b8",
+      "decoded_duration_seconds": 37.088,
+      "metadata_duration_seconds": 37.088,
+      "decoded_peak": 21259,
+      "subtitle_cues": 9,
+      "speech_cues_non_silent": true,
+      "signature_matches_plan": true,
+      "subtitle_text_matches_plan": true,
+      "subtitle_times_valid": true,
+      "cues": [
+        {
+          "index": 1,
+          "start_seconds": 0.0,
+          "end_seconds": 4.5600000000000005,
+          "rms_dbfs": -20.62
+        },
+        {
+          "index": 2,
+          "start_seconds": 5.16,
+          "end_seconds": 7.224,
+          "rms_dbfs": -20.19
+        },
+        {
+          "index": 3,
+          "start_seconds": 7.824,
+          "end_seconds": 9.696,
+          "rms_dbfs": -22.15
+        },
+        {
+          "index": 4,
+          "start_seconds": 10.296,
+          "end_seconds": 12.912,
+          "rms_dbfs": -20.17
+        },
+        {
+          "index": 5,
+          "start_seconds": 16.912,
+          "end_seconds": 18.976,
+          "rms_dbfs": -20.19
+        },
+        {
+          "index": 6,
+          "start_seconds": 19.876,
+          "end_seconds": 22.684,
+          "rms_dbfs": -19.18
+        },
+        {
+          "index": 7,
+          "start_seconds": 23.284,
+          "end_seconds": 25.204,
+          "rms_dbfs": -19.77
+        },
+        {
+          "index": 8,
+          "start_seconds": 25.804,
+          "end_seconds": 29.38,
+          "rms_dbfs": -19.11
+        },
+        {
+          "index": 9,
+          "start_seconds": 33.38,
+          "end_seconds": 36.188,
+          "rms_dbfs": -19.19
+        }
+      ],
+      "status": "passed",
+      "listening_review": "not_done"
+    }
+  ]
+}

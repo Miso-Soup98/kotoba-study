@@ -1,0 +1,7 @@
+* text=auto
+*.sh text eol=lf
+public/data/grammar.json -text
+public/reader.html -text
+*.pdf binary
+*.mp3 binary
+*.png binary

@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+const origin=process.env.TEST_ORIGIN||'http://localhost:5173';
+if(!['localhost','127.0.0.1'].includes(new URL(origin).hostname))throw Error('Integration tests only run against loopback development.');
+const headers={'Content-Type':'application/json','Origin':origin,'Cookie':'__sites_local_auth=1'};
+const post=(data,extra={},auth=true)=>fetch(origin+'/api/sync',{method:'POST',headers:auth?{...headers,...extra}:{'Content-Type':'application/json',...extra},body:JSON.stringify({accountId:'local_seedy',...data})});
+const anon=await post({events:[],cursor:0},{},false);assert.equal(anon.status,401);
+const spoof=await post({events:[],cursor:0},{'oai-authenticated-user-id':'victim','oai-authenticated-user-email':'victim@example.test'},false);assert.equal(spoof.status,401);
+const foreign=await post({events:[],cursor:0},{Origin:'https://example.invalid'});assert.equal(foreign.status,403);
+const invalid=await post({events:[{userId:'victim'}],cursor:0});assert.equal(invalid.status,400);
+const changed=await post({events:[],cursor:0,accountId:'previous_account'});assert.equal(changed.status,409);
+const now=Date.now();const e={id:crypto.randomUUID(),kind:'bookmark',entity:'api-test:'+crypto.randomUUID(),value:true,at:now};
+const first=await post({events:[e],cursor:0});assert.equal(first.status,200);let data=await first.json();
+const second=await post({events:[e],cursor:0});assert.equal(second.status,200);data=await second.json();assert.equal(data.events.filter(row=>row.id===e.id).length,1);
+assert.equal(second.headers.get('cache-control'),'no-store');
+const deviceTwo=await post({events:[],cursor:0});const two=await deviceTwo.json();assert.ok(two.events.some(row=>row.id===e.id));
+const after=await post({events:[],cursor:data.cursor});assert.equal((await after.json()).events.length,0);
+const tombstone={...e,id:crypto.randomUUID(),value:false,at:now+1};const final=await post({events:[tombstone],cursor:data.cursor});assert.equal(final.status,200);const last=await final.json();assert.equal(last.events.at(-1).value,false);
+console.log('PASS: anonymous access, header spoofing, cross-origin writes, payload validation, retry idempotency, second-client pull, incremental cursor, removal tombstone, no-store headers.');
