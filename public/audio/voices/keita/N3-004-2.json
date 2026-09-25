@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-004",
+  "exampleIndex": 1,
+  "text": "去年は暑かったのに対して、今年は涼しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 122,
+  "signature": "73a25147a6d7ac6f542445fcc5493f221bd9006d1176febccf447c75cb958752",
+  "src": "/audio/voices/keita/N3-004-2.mp3",
+  "srt": "/audio/voices/keita/N3-004-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "c9de4885f30969c59143ee332c6de7281476117c0f829e321b7c8a60d8ea366f",
+  "peakPcm": 22395,
+  "rmsDbfs": -21.16,
+  "rate": "+0%",
+  "listened": false
+}

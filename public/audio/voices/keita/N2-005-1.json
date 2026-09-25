@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-005",
+  "exampleIndex": 0,
+  "text": "経験の有無を問わず、募集しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 216,
+  "signature": "8536e74c9a1dfce026ee487867db329c973fa3ec44881dcaaf8e566b4ee1039c",
+  "src": "/audio/voices/keita/N2-005-1.mp3",
+  "srt": "/audio/voices/keita/N2-005-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "df6c9cc56da9e8bf854048cd35e3f9e775bf5f4ef3d381dd7cf33091f3d71a46",
+  "peakPcm": 22996,
+  "rmsDbfs": -19.43,
+  "rate": "+0%",
+  "listened": false
+}

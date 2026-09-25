@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-006",
+  "exampleIndex": 1,
+  "text": "子供に限らず、大人にも人気があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 216,
+  "signature": "810bcf82227f0bff32d330c3fe17997d73c824d880bf1fbd8f25e8293c144c62",
+  "src": "/audio/voices/nanami/N2-006-2.mp3",
+  "srt": "/audio/voices/nanami/N2-006-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "4ce0e0595674998dc58a2dab1fd2183abf8b7e3aaa53f0bc46519ff2087dd9ff",
+  "peakPcm": 20976,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

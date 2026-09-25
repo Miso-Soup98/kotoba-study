@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-003",
+  "exampleIndex": 1,
+  "text": "忙しいからといって、約束を忘れてはいけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 215,
+  "signature": "be2e6bfc22c59ad6ff97eeb6c73801f14784803d97c7058d67e15857dc3885e2",
+  "src": "/audio/voices/nanami/N2-003-2.mp3",
+  "srt": "/audio/voices/nanami/N2-003-2.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "c30c162bbc7679294de3ad32b8a4682a6ef1fea8b82c2f7dce69cf5e9c249004",
+  "peakPcm": 21331,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

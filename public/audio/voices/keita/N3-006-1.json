@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-006",
+  "exampleIndex": 0,
+  "text": "学生として、授業に参加します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 123,
+  "signature": "0c6c1f34d60edeee34cc017254979f3b89106d430333235e1e9596c9fbffa24a",
+  "src": "/audio/voices/keita/N3-006-1.mp3",
+  "srt": "/audio/voices/keita/N3-006-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "2d1fe9c3a95b16b9c635d2d8086c9753c5a24b6e37a419cc265dcb76d3afe089",
+  "peakPcm": 24311,
+  "rmsDbfs": -21.61,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-009",
+  "exampleIndex": 0,
+  "text": "元気である限り、働きたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 218,
+  "signature": "be6b2d399e9498b2a1160b6ba564d345914a6751a1d9ed56e2493e9ea3fd4cc8",
+  "src": "/audio/voices/nanami/N2-009-1.mp3",
+  "srt": "/audio/voices/nanami/N2-009-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "c0b9554731627469aaddc367055b5fdd6c35d1391724ebe18744e1444696396f",
+  "peakPcm": 21940,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-005",
+  "exampleIndex": 1,
+  "text": "この仕事は昼夜を問わず続きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 216,
+  "signature": "c667769eaf58b7bc4f927e1e687dfc7b79c7c3eb81deed0e892a6363a720b635",
+  "src": "/audio/voices/nanami/N2-005-2.mp3",
+  "srt": "/audio/voices/nanami/N2-005-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "025219d43cb90c9e47cd71964201084edeae1d783b66bfc8f516aa44262dae9a",
+  "peakPcm": 22118,
+  "rmsDbfs": -17.03,
+  "rate": "+0%",
+  "listened": false
+}

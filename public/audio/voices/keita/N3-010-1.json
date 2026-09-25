@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-010",
+  "exampleIndex": 0,
+  "text": "話し合いによって問題を解決しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 125,
+  "signature": "59b4b8b426f30bf14b26d52832235affe0ec94eb2ce30f7612bddae9c2e1b85d",
+  "src": "/audio/voices/keita/N3-010-1.mp3",
+  "srt": "/audio/voices/keita/N3-010-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "6b22b34efd2b1cf14aa2507014085cdc620974e34bad83f7cfcdb240d815daa5",
+  "peakPcm": 22345,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

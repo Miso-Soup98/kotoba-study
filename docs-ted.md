@@ -62,3 +62,10 @@ node scripts/import-ted.mjs --origin=https://YOUR-PRIVATE-SITE --root=/ABS/CONTE
 ## 来源与许可
 
 中文词义来自中文维基词典贡献者，经 Kaikki / Wiktextract 提取，派生部分 CC BY-SA 4.0；Sudachi 工具及上游词典声明单独保留。见 [第三方声明](public/ted-licenses/THIRD_PARTY_NOTICES.md)。原 PDF、翻译及音频的权利状态与代码和词典独立。
+# v0.4 订正与表达层
+
+公共 `public/data/ted-patterns.json` 仅包含原创讲解、示例、匹配规则和参考链接，不含私有 TED 正文。运行时按当前文章匹配，结果始终标作候选。
+
+私有订正用 `scripts/ted/apply_corrections.py --corrections <私有清单>` 离线应用：默认输入、词典与输出位于被忽略的 `private-content/ted/`，可显式指定 `--input`、`--output`、`--dictionaries`。脚本校验原稿、拒绝重复订正、重建分词和字典并检查逐段回拼；原输入不会修改。私有文章的 `corrections` 保留原文、修改理由及参考信息，导入时仍只更新私有 R2。
+
+首批 15 处订正属于 new-001/002/003/006，完整正文复核范围为前三篇；不能据此声明 300 篇全文校对完成。订正清单及修订全文不得加入公开仓库。

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-007",
+  "exampleIndex": 1,
+  "text": "彼に限って、うそをつくはずがありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 217,
+  "signature": "850d1de6b78c2a570fa9b4192f62f5ae156fd837a8dba8750ecc4b7760d4db75",
+  "src": "/audio/voices/nanami/N2-007-2.mp3",
+  "srt": "/audio/voices/nanami/N2-007-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "2fb61df56c16195bb06846f2a3395783913f6d5d4446791b90cee08e003d29ba",
+  "peakPcm": 21514,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

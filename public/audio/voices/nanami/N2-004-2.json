@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-004",
+  "exampleIndex": 1,
+  "text": "雨が降るかどうかにかかわらず、実施します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 215,
+  "signature": "52fa3e1a85ec00dbce2e206bb5a2372b4eec2c9bdc1beec95f8957be322050dc",
+  "src": "/audio/voices/nanami/N2-004-2.mp3",
+  "srt": "/audio/voices/nanami/N2-004-2.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "841aa1b16ab2d5491d6d4dae5547de68cbc2219a69572b983f2e0d3624b4150e",
+  "peakPcm": 22546,
+  "rmsDbfs": -18.43,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-001",
+  "exampleIndex": 0,
+  "text": "雨にもかかわらず、多くの人が集まりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 214,
+  "signature": "2d29bc5a324f669452895407db0c5694f3427fcd169cf699b7352a42aeda3946",
+  "src": "/audio/voices/nanami/N2-001-1.mp3",
+  "srt": "/audio/voices/nanami/N2-001-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "b1633d01df51ecafec590fa74b32aa4a41fc3ef36ad9f68480f41154bc5b8ad8",
+  "peakPcm": 21956,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

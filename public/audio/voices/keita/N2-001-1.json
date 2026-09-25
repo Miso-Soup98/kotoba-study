@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-001",
+  "exampleIndex": 0,
+  "text": "雨にもかかわらず、多くの人が集まりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 214,
+  "signature": "2194d8b36e1e5c379e42880ac3f56a13f593af977a58c5d75351c174d1508aa3",
+  "src": "/audio/voices/keita/N2-001-1.mp3",
+  "srt": "/audio/voices/keita/N2-001-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "a46ee1c396f06a787eda032fd104977d28aa6ebf4b3431b44ecb4ed5059e9a15",
+  "peakPcm": 23745,
+  "rmsDbfs": -20.9,
+  "rate": "+0%",
+  "listened": false
+}

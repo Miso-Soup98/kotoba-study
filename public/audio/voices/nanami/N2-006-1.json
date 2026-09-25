@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-006",
+  "exampleIndex": 0,
+  "text": "この問題は日本に限らず、各国で起きています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 216,
+  "signature": "c97c695ee8e7844d4a98272e2131c52d59498a390a0a4c82b3568415c604c6fd",
+  "src": "/audio/voices/nanami/N2-006-1.mp3",
+  "srt": "/audio/voices/nanami/N2-006-1.srt",
+  "durationSeconds": 4.776,
+  "bytes": 28656,
+  "sha256": "dfce395d14e9d54df82099ec7f6abb2c548a9056acdd6b71225f3c45aa49029a",
+  "peakPcm": 22570,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

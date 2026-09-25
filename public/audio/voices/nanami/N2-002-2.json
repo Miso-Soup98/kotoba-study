@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-002",
+  "exampleIndex": 1,
+  "text": "方法は分かったものの、実行は難しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 214,
+  "signature": "08fba80853859782d65db2f6ad2f49deb531433e6998709168ab53c52f40d4c9",
+  "src": "/audio/voices/nanami/N2-002-2.mp3",
+  "srt": "/audio/voices/nanami/N2-002-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "e7d5c322d309ff9d5648a5fff12de9637499f62e4bc4fc86ad7d3eb4b906304d",
+  "peakPcm": 22722,
+  "rmsDbfs": -16.42,
+  "rate": "+0%",
+  "listened": false
+}

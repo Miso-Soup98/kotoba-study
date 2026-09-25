@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-001",
+  "exampleIndex": 0,
+  "text": "日本の文化について調べています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 121,
+  "signature": "5ada97e1960339345ce150c7866ad76f01ebbba848da922d6545cc508136881f",
+  "src": "/audio/voices/keita/N3-001-1.mp3",
+  "srt": "/audio/voices/keita/N3-001-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "e9bc2839950346d1e5be5441c484460240f43b790cc9b38691146077055029dc",
+  "peakPcm": 21682,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

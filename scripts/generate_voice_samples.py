@@ -262,6 +262,9 @@ python scripts/generate_voice_samples.py --verify-only
 
 
 async def main(args: argparse.Namespace) -> int:
+    existing = read_json(OUTPUT / 'manifest.json') if (OUTPUT / 'manifest.json').exists() else {}
+    if len(existing.get('clips', [])) > 24:
+        raise ValueError('音频库已扩展；请使用 generate_voice_pack.py 验证或扩展，旧样例命令不会覆盖已有清单。')
     planned = plans()
     ffmpeg = ffmpeg_binary()
     results, failures, clips = [], [], []

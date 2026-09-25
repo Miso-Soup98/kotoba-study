@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-010",
+  "exampleIndex": 1,
+  "text": "雨が降らない限り、毎朝走ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 218,
+  "signature": "da07092e07faabe32a5748db6ac755399cc0fa9b03ca910e34038816b2d232a7",
+  "src": "/audio/voices/keita/N2-010-2.mp3",
+  "srt": "/audio/voices/keita/N2-010-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "8898e3a911408ead59445054d138a2ce9f7d236a8261495a35d86cc1129a7c32",
+  "peakPcm": 26866,
+  "rmsDbfs": -21.57,
+  "rate": "+0%",
+  "listened": false
+}

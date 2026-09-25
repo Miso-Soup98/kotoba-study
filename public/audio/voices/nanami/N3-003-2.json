@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-003",
+  "exampleIndex": 1,
+  "text": "この意見に対して、質問があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 122,
+  "signature": "e1c71d4bba5fe69f7b5a3ae3474a4765ae7350b8bae494a3b7e2783339ad75ad",
+  "src": "/audio/voices/nanami/N3-003-2.mp3",
+  "srt": "/audio/voices/nanami/N3-003-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "efdbaa54eb724df1eaa51d41d3e74aa4e83560f65ec2754afd157b72a3d0deb9",
+  "peakPcm": 21554,
+  "rmsDbfs": -17.78,
+  "rate": "+0%",
+  "listened": false
+}

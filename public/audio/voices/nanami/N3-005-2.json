@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-005",
+  "exampleIndex": 1,
+  "text": "この問題は初心者にとって難しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 123,
+  "signature": "409fffb34eb8d314c02ff633f1e3f42edeab132362d55df86c81274cad8ff155",
+  "src": "/audio/voices/nanami/N3-005-2.mp3",
+  "srt": "/audio/voices/nanami/N3-005-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "dc77b296bb0b801c0cd1cfd53447486a39f1c51f6b594784339ec721aa247871",
+  "peakPcm": 20233,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

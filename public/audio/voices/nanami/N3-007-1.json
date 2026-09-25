@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-007",
+  "exampleIndex": 0,
+  "text": "天気予報によると、明日は雨だそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 124,
+  "signature": "1d92a74a6e6a1af6f62ffed43cc721128481a74b6d792342b4ab81c9fab3f9bb",
+  "src": "/audio/voices/nanami/N3-007-1.mp3",
+  "srt": "/audio/voices/nanami/N3-007-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "3770be9729f5bc5b5a785893b7355a4a7fbfb4d6aea4153b5fe291b3c74535bf",
+  "peakPcm": 20582,
+  "rmsDbfs": -17.47,
+  "rate": "+0%",
+  "listened": false
+}

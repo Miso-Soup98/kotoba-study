@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-listening-004",
+  "exampleIndex": 0,
+  "text": "私は以前、一日に覚える単語を多くしすぎて、三日で勉強をやめてしまいました。それ以来、疲れている日でもできる量を決めています。時間がある日は多めに勉強しますが、次の日のノルマは増やしません。毎日長く勉強すれば必ず続くというわけではありません。まずは少ない量でも、生活の中に無理なく組み込むことが大切だと思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "afabbcd49aae0bf53d9ef823a2a607c4975123e845f26eb8afba6c79aeb2173d",
+  "src": "/audio/training/n2-listening-004.mp3",
+  "srt": "/audio/training/n2-listening-004.srt",
+  "durationSeconds": 29.328,
+  "bytes": 175968,
+  "sha256": "ce5f1fe962acdb58eb221c3da2236686b24ead720281d32696b1ea3701f3f665",
+  "peakPcm": 22327,
+  "rmsDbfs": -16.93,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

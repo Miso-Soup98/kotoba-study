@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-005",
+  "exampleIndex": 0,
+  "text": "私にとって、家族が一番大切です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 123,
+  "signature": "045e3626711f18240280c57e23556fbace14842aef4da51e830a688331bed114",
+  "src": "/audio/voices/nanami/N3-005-1.mp3",
+  "srt": "/audio/voices/nanami/N3-005-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "0980602f275e717a51f25f646adffde2db44de491ae4b6abdd2d3b2dc1b4228b",
+  "peakPcm": 23808,
+  "rmsDbfs": -18.37,
+  "rate": "+0%",
+  "listened": false
+}

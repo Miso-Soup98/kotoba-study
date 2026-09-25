@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-001",
+  "exampleIndex": 1,
+  "text": "試験についての質問があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 121,
+  "signature": "83f74d8c7036d427c8b855518fc42a131513c4f1fb6f45020d4c5fb9e614ab18",
+  "src": "/audio/voices/keita/N3-001-2.mp3",
+  "srt": "/audio/voices/keita/N3-001-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "da766a22df951e475d3464381214f2e54a014ead51c105064dabe94285a117e3",
+  "peakPcm": 19471,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

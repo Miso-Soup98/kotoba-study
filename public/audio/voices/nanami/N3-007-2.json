@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-007",
+  "exampleIndex": 1,
+  "text": "新聞によれば、新しい橋ができるそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 124,
+  "signature": "eef2cd098851d98e8b70b9daa06582a4c3f3f20b8fb6dbdf0623c5d5d0e61aec",
+  "src": "/audio/voices/nanami/N3-007-2.mp3",
+  "srt": "/audio/voices/nanami/N3-007-2.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "6df70dd906d837c74e5c05768569112fef2ac246dcafb9079f8de85db6837246",
+  "peakPcm": 20412,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

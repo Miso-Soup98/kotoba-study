@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-001",
+  "exampleIndex": 1,
+  "text": "十分寝たにもかかわらず、まだ眠いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 214,
+  "signature": "00c967940adfaf576dfcaa7453519284641099528a606393ba32979171b0e7c9",
+  "src": "/audio/voices/nanami/N2-001-2.mp3",
+  "srt": "/audio/voices/nanami/N2-001-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "33d4b6441c92bd134aed7f624d6af02b25b49be41fccaba37113346ba0d6eecf",
+  "peakPcm": 20274,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

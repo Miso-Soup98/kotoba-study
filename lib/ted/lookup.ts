@@ -1,5 +1,20 @@
 import type { TedArticle, TedToken } from "./types.ts";
 export function lookupWord(article: TedArticle, token: TedToken) {
+  const correction = article.corrections?.find(
+    (c) =>
+      c.kind === "glossary" &&
+      [token.lemma, token.surface].includes(c.correctedTerm || c.term || ""),
+  );
+  if (correction) {
+    const checked = article.glossary.find(
+      (g) => g.term === (correction.correctedTerm || correction.term),
+    );
+    if (checked)
+      return {
+        gloss: checked,
+        source: "已订正的本文词义 · 依据见本篇订正记录",
+      };
+  }
   const selected = token.dictionaryId
     ? article.dictionary?.[token.dictionaryId]
     : undefined;

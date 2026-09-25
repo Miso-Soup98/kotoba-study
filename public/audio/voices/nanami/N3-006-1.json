@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-006",
+  "exampleIndex": 0,
+  "text": "学生として、授業に参加します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 123,
+  "signature": "7faff7f75513ff5e9eaaa535fcaf477d2307a037f0f9b4ca56c424cc1b1cc78e",
+  "src": "/audio/voices/nanami/N3-006-1.mp3",
+  "srt": "/audio/voices/nanami/N3-006-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "8c6e3b5b79d18e01d873115b2fa657e1d9471fc7729aa1ccb955e2061b815ce9",
+  "peakPcm": 21719,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-005",
+  "exampleIndex": 0,
+  "text": "私にとって、家族が一番大切です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 123,
+  "signature": "284bcc491ebc528e877cd7f0e5ca6bbb81ffa9c5ca593d435432f619473927e6",
+  "src": "/audio/voices/keita/N3-005-1.mp3",
+  "srt": "/audio/voices/keita/N3-005-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "72641f39ef7861a148a0c16318db19b814fd297d9443c28ecd7f305ca8528910",
+  "peakPcm": 24778,
+  "rmsDbfs": -21.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -33,6 +33,15 @@ const compiled = ts.transpileModule(
     },
   },
 ).outputText;
+const compiledSync = ts.transpileModule(
+  readFileSync(resolve(appRoot, "lib/study/sync-request.ts"), "utf8"),
+  {
+    compilerOptions: {
+      module: ts.ModuleKind.CommonJS,
+      target: ts.ScriptTarget.ES2022,
+    },
+  },
+).outputText;
 
 const enrollment = {
   id: "00000000-0000-4000-8000-000000000001",
@@ -75,7 +84,7 @@ const tedLoop = {
   seq: 3,
 };
 
-async function makeStudy({ withTed = false } = {}) {
+async function makeStudy({ withTed = false, historySize = 0 } = {}) {
   const slots = [],
     effects = [],
     channels = new Set();
@@ -90,6 +99,16 @@ async function makeStudy({ withTed = false } = {}) {
     pending: [],
     cursor: withTed ? 3 : 2,
   };
+  for (let i = 0; i < historySize; i++)
+    database.events.push({
+      ...bookmark,
+      id: crypto.randomUUID(),
+      seq: database.cursor + i + 1,
+      entity: `N3-${String((i % 100) + 1).padStart(3, "0")}`,
+      value: i % 2 === 0,
+      at: bookmark.at + i,
+    });
+  database.cursor += historySize;
   let cursor = 0,
     timerId = 0,
     dirty = true,
@@ -198,6 +217,11 @@ async function makeStudy({ withTed = false } = {}) {
           },
         };
       if (id === "./validation") return validationModule;
+      if (id === "./sync-request") {
+        const context = { ...sandbox, exports: {}, require: () => modelModule };
+        vm.runInNewContext(compiledSync, context);
+        return context.exports;
+      }
       throw Error(`Unexpected dependency: ${id}`);
     },
     async fetch(url, options) {
@@ -230,6 +254,7 @@ async function makeStudy({ withTed = false } = {}) {
       intervals.delete(id);
     },
     navigator: { onLine: true },
+    AbortController,
     document: {
       visibilityState: "visible",
       addEventListener(name, callback) {
@@ -421,4 +446,16 @@ test("hidden tabs suspend idle polling and immediately sync when visible again",
   assert.equal(app.study.status, "已同步");
   await app.poll();
   assert.equal(app.requests.length, 2);
+});
+
+test("fifty idle sync cycles with 2000 extra history events never rebuild the model", async (t) => {
+  const app = await makeStudy({ historySize: 2000 });
+  t.after(() => app.unmount());
+  const before = app.study.model,
+    rebuilds = app.rebuilds;
+  for (let i = 0; i < 50; i++) await app.sync();
+  assert.equal(app.requests.length, 50);
+  assert.equal(app.study.cache.events.length, 2002);
+  assert.equal(app.study.model, before);
+  assert.equal(app.rebuilds, rebuilds);
 });

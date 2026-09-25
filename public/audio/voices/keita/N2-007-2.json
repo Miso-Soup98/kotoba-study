@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-007",
+  "exampleIndex": 1,
+  "text": "彼に限って、うそをつくはずがありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 217,
+  "signature": "4c401e1fde9d38eb67db336f1529a6aa64f27bf34ade15ee8840bc6448a24047",
+  "src": "/audio/voices/keita/N2-007-2.mp3",
+  "srt": "/audio/voices/keita/N2-007-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "16f6fb25e66c7659347b2b27578054ad1f38905b57ec6de2df2eace061701e18",
+  "peakPcm": 21609,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

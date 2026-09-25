@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-009",
+  "exampleIndex": 1,
+  "text": "ここに住んでいる限り、この規則を守ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 218,
+  "signature": "2c3ac3d4caf7e221bedc0b2c4631d2d971e767b6228a511eb45bcc821abb3465",
+  "src": "/audio/voices/keita/N2-009-2.mp3",
+  "srt": "/audio/voices/keita/N2-009-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "59a01d0f3570181b9eb89315545584f0ee887d1e2adda24a56cc7b103c842010",
+  "peakPcm": 21861,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

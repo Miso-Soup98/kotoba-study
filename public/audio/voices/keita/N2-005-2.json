@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-005",
+  "exampleIndex": 1,
+  "text": "この仕事は昼夜を問わず続きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 216,
+  "signature": "9b37c192a25c6597dd2a612d8bc64abea5945dd7676ff81c55b40d9512d35de8",
+  "src": "/audio/voices/keita/N2-005-2.mp3",
+  "srt": "/audio/voices/keita/N2-005-2.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "7f393e762708e55d49192f397703aba704a4d8286ffb07c22bc6684501c014d4",
+  "peakPcm": 23473,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

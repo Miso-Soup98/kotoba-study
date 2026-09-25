@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-listening-003",
+  "exampleIndex": 0,
+  "text": "市民センターからのお知らせです。明日は設備の点検に伴って、二階の学習室と会議室が終日使えません。一階の読書コーナーは通常どおり開いており、予約も不要です。三階の作業室も利用できますが、前日までの予約が必要です。なお、本の返却だけなら、建物の外にある返却ボックスを二十四時間ご利用いただけます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "da742dee9008a6727b507f704b15bca4b360089b639cbc6b65e5c8b203b6b0dd",
+  "src": "/audio/training/n2-listening-003.mp3",
+  "srt": "/audio/training/n2-listening-003.srt",
+  "durationSeconds": 30.024,
+  "bytes": 180144,
+  "sha256": "47f879c23dd83ee345601a9132aa90e9b38416a931fb5d3179514d77b2d8d762",
+  "peakPcm": 21965,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

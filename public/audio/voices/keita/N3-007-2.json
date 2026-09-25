@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-007",
+  "exampleIndex": 1,
+  "text": "新聞によれば、新しい橋ができるそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 124,
+  "signature": "425ae227eb3efdd02a39aeac58b17f63db68fee46cd96d10189e044a14f6599c",
+  "src": "/audio/voices/keita/N3-007-2.mp3",
+  "srt": "/audio/voices/keita/N3-007-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "33e1dbda183ac3972d179d8f5e179624ed671e8a5fa7570f78ec32708adaa299",
+  "peakPcm": 25728,
+  "rmsDbfs": -20.11,
+  "rate": "+0%",
+  "listened": false
+}

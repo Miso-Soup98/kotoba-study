@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-010",
+  "exampleIndex": 0,
+  "text": "本人が来ない限り、手続きはできません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 218,
+  "signature": "8da1f5129261f902fa2b5198bbd75bd68d13ab337cb98fe23826b20933f08e15",
+  "src": "/audio/voices/keita/N2-010-1.mp3",
+  "srt": "/audio/voices/keita/N2-010-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "382c0a62b10e8f76b7cdf9afee01196e9cb477731ad83037becf588d537ee16b",
+  "peakPcm": 22944,
+  "rmsDbfs": -21.45,
+  "rate": "+0%",
+  "listened": false
+}

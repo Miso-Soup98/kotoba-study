@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-004",
+  "exampleIndex": 1,
+  "text": "去年は暑かったのに対して、今年は涼しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 122,
+  "signature": "81cd791ab81a1f51d470d661f93b16a13d7dd1d8071c8170fb84b9fabe3f7b3c",
+  "src": "/audio/voices/nanami/N3-004-2.mp3",
+  "srt": "/audio/voices/nanami/N3-004-2.srt",
+  "durationSeconds": 4.656,
+  "bytes": 27936,
+  "sha256": "7d89d8e4aa7be1d16a35dcdff30932f62abfdaf024d79fccf34a2e42602b4219",
+  "peakPcm": 21563,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

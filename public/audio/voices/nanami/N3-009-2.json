@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-009",
+  "exampleIndex": 1,
+  "text": "地震による被害を調べています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 125,
+  "signature": "41bcec0adabb05aa70bd5f920ea090bdc1ca636a9591dfb5dccc41a8e434f4c1",
+  "src": "/audio/voices/nanami/N3-009-2.mp3",
+  "srt": "/audio/voices/nanami/N3-009-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "10bae881c1f9af355bf2d1a1bd0fd919300523ebdfcdccbba08d283b626f576b",
+  "peakPcm": 19802,
+  "rmsDbfs": -18.8,
+  "rate": "+0%",
+  "listened": false
+}

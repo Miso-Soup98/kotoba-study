@@ -1704,7 +1704,7 @@ ruby rt {
     gap: 4px;
     color: #99a38f;
     font-size: 11px;
-    min-width: 50px;
+    min-width: 0;
     min-height: 44px;
   }
   .mobile-nav button.active {
@@ -2035,7 +2035,11 @@ ruby rt {
 }
 .ted-word-popover {
   width: min(420px, calc(100vw - 32px));
-  max-height: min(620px, 75vh, var(--radix-popover-content-available-height, 75vh));
+  max-height: min(
+    620px,
+    75vh,
+    var(--radix-popover-content-available-height, 75vh)
+  );
   overflow: auto;
   padding: 24px;
   background: #fff;
@@ -2343,5 +2347,203 @@ ruby rt {
   }
   .ted-transport label {
     margin-left: auto;
+  }
+}
+
+/* Learning layers share the reader's typography and remain usable by touch. */
+.ted-learning-layers,
+.training-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  margin: 12px 0;
+}
+.ted-learning-layers [data-slot="tabs-trigger"],
+.training-tabs [data-slot="tabs-trigger"] {
+  min-height: 42px;
+  font-size: 14px;
+}
+.ted-expression {
+  display: inline;
+  background: transparent;
+  color: inherit;
+  border: 0;
+  border-bottom: 3px solid #3378b5;
+  border-radius: 3px;
+  padding: 3px 1px;
+  font: inherit;
+  cursor: pointer;
+}
+.ted-expression.phrase {
+  border-color: #b2781d;
+  background: #b2781d12;
+}
+.ted-expression.grammar {
+  background: #3378b512;
+}
+.ted-expression:hover,
+.ted-expression:focus-visible {
+  background: #3378b528;
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+.ted-word-detail mark {
+  background: #ecd47e70;
+  color: inherit;
+}
+.lesson-references {
+  margin-top: 20px;
+  font-size: 14px;
+}
+.lesson-references a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+.training-workspace {
+  max-width: 1080px;
+}
+.training-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin-bottom: 22px;
+}
+.training-stats h2 {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.training-stats strong {
+  font-size: 26px;
+  font-weight: 650;
+}
+.training-stats p {
+  margin: 8px 0 0;
+  color: var(--muted-foreground);
+  font-size: 14px;
+}
+.training-question {
+  max-width: 850px;
+  margin: 0 auto;
+}
+.training-question h2 {
+  margin: 22px 0;
+}
+.training-passage {
+  padding: 22px;
+  border-left: 3px solid var(--primary);
+  background: var(--muted);
+  font-size: 18px;
+  line-height: 2;
+  white-space: pre-wrap;
+}
+.training-prompt {
+  font-size: 19px;
+  line-height: 1.8;
+  margin: 22px 0;
+}
+.training-options {
+  border: 0;
+  padding: 0;
+  margin: 0 0 24px;
+}
+.training-options legend {
+  font-size: 14px;
+  color: var(--muted-foreground);
+  margin-bottom: 10px;
+}
+.training-options label {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  min-height: 52px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.training-options input {
+  margin-top: 6px;
+  accent-color: var(--primary);
+  flex: 0 0 auto;
+}
+.training-options label.chosen {
+  border-color: var(--primary);
+  background: var(--muted);
+}
+.training-options label.answer-correct {
+  border-color: #267f57;
+  box-shadow: inset 3px 0 #267f57;
+}
+.training-explanation {
+  border-top: 1px solid var(--border);
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.training-explanation p {
+  white-space: pre-wrap;
+  line-height: 1.9;
+}
+.training-explanation > div:last-child {
+  margin-top: 20px;
+}
+.training-question audio {
+  max-width: 100%;
+  width: 100%;
+  margin: 16px 0 6px;
+}
+.training-result p {
+  line-height: 1.8;
+  margin: 16px 0;
+}
+.runtime-status summary {
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 600;
+  padding: 5px 0;
+}
+.runtime-status p {
+  line-height: 1.8;
+  margin: 14px 0;
+}
+.runtime-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 20px;
+}
+.runtime-grid dt {
+  color: var(--muted-foreground);
+  font-size: 14px;
+}
+.runtime-grid dd {
+  margin-top: 5px;
+  font-size: 16px;
+}
+.content-correction {
+  border-left: 3px solid #3378b5;
+  padding: 12px 16px;
+  margin: 12px 0;
+  background: #3378b50a;
+}
+.content-correction p {
+  line-height: 1.8;
+}
+@media (max-width: 760px) {
+  .training-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .training-question {
+    padding: 20px;
+  }
+  .training-passage {
+    padding: 16px;
+    font-size: 17px;
+  }
+  .runtime-grid {
+    grid-template-columns: 1fr;
   }
 }

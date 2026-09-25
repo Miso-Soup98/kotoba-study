@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-008",
+  "exampleIndex": 0,
+  "text": "好みは人によって違います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 124,
+  "signature": "6e0792b2cf5b141099e041f9e85f6c12c54636995a8c860f10523cdb2f97e14d",
+  "src": "/audio/voices/nanami/N3-008-1.mp3",
+  "srt": "/audio/voices/nanami/N3-008-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "c72b24821bfbfa4be5be074049ca69189dcf19e2b9f0b9893dad95cf569849b5",
+  "peakPcm": 22117,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-003",
+  "exampleIndex": 0,
+  "text": "高いからといって、必ずしも品質がよいとは限りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 215,
+  "signature": "1893f2966c480bd71cfeaa960e3e41904121a41934986aa792c60ee7c29c95e8",
+  "src": "/audio/voices/keita/N2-003-1.mp3",
+  "srt": "/audio/voices/keita/N2-003-1.srt",
+  "durationSeconds": 4.728,
+  "bytes": 28368,
+  "sha256": "a1ffa3084480a49dd9fa5d8fdf44204847807b4c24ed93e5f0927917c470000a",
+  "peakPcm": 24900,
+  "rmsDbfs": -21.41,
+  "rate": "+0%",
+  "listened": false
+}

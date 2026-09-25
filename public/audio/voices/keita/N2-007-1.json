@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-007",
+  "exampleIndex": 0,
+  "text": "急いでいる日に限って、電車が遅れます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 217,
+  "signature": "fc8f9e5ffbc832e3da7f1d3268a52bae16c4a62cd238a0f39180481d1a2eb7d7",
+  "src": "/audio/voices/keita/N2-007-1.mp3",
+  "srt": "/audio/voices/keita/N2-007-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "99ac7e3fef27eefb3a60f859f87eac15aeaa1a5bf83f1b95e51e878e28327cd6",
+  "peakPcm": 21679,
+  "rmsDbfs": -21.07,
+  "rate": "+0%",
+  "listened": false
+}

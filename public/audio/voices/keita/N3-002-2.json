@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-002",
+  "exampleIndex": 1,
+  "text": "環境に関する本を読みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 121,
+  "signature": "af98239cddaf31d99cb263d36f2d8ac20e14c5a4dcbf6d4cbd4aa772aac201f9",
+  "src": "/audio/voices/keita/N3-002-2.mp3",
+  "srt": "/audio/voices/keita/N3-002-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "e296b4372bec56cb16f47da75278dab42579cb998406a5cefae7600aa75640cb",
+  "peakPcm": 21056,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

@@ -36,7 +36,8 @@ export type EventKind =
   | "setting"
   | "ted_loop"
   | "ted_word"
-  | "ted_progress";
+  | "ted_progress"
+  | "practice";
 export type StudyEvent = {
   id: string;
   kind: EventKind;

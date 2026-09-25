@@ -3,6 +3,8 @@ import type { Cache, StudyEvent } from "./types";
 import type { Word } from "./types";
 import type { TedLoop } from "../ted/types";
 import { parsedLoop, tedWordSchema } from "../ted/validation.ts";
+import { parsedPractice } from "../training/validation.ts";
+import type { PracticeRecord } from "../training/types.ts";
 export const ALGORITHM = "fsrs-5.4.2/default-0.9/no-fuzz";
 export const scheduler = fsrs({ request_retention: 0.9, enable_fuzz: false });
 export type CardState = {
@@ -11,6 +13,7 @@ export type CardState = {
   enrolled: boolean;
 };
 export type Model = {
+  practice: PracticeRecord[];
   tedLoops: Record<string, TedLoop | null>;
   tedWords: Record<string, Word>;
   tedProgress: Record<string, number>;
@@ -32,6 +35,7 @@ export type Model = {
 };
 export function rebuild(events: StudyEvent[]): Model {
   const result: Model = {
+    practice: [],
     tedLoops: {},
     tedWords: {},
     tedProgress: {},
@@ -53,6 +57,11 @@ export function rebuild(events: StudyEvent[]): Model {
           (b.e.seq ?? Number.MAX_SAFE_INTEGER) || a.i - b.i,
     );
   for (const { e } of ordered) {
+    if (e.kind === "practice") {
+      const parsed = parsedPractice(e.value);
+      if (parsed.success)
+        result.practice.push({ ...parsed.data, id: e.id, at: e.at });
+    }
     if (e.kind === "ted_progress")
       result.tedProgress[e.entity] = Number(e.value);
     if (e.kind === "ted_loop") {

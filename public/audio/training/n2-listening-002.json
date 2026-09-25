@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-listening-002",
+  "exampleIndex": 0,
+  "text": "来週の説明会の資料ですが、印刷する前に、申し込み人数を確認してください。会場の机を並べるのは明日でかまいません。人数が分かり次第、その人数に五部を加えて資料を印刷してください。印刷が終わったら、受付用の箱に入れておいてください。参加者への案内メールは、私が今日中に送ります。皆さんが送る必要はありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "cecf83a5707f246ab0d2df062f5fcf2f976b6338efb0ae8cf77452eb04d49a30",
+  "src": "/audio/training/n2-listening-002.mp3",
+  "srt": "/audio/training/n2-listening-002.srt",
+  "durationSeconds": 30.864,
+  "bytes": 185184,
+  "sha256": "5d0c6137adcbb71a26eb519393ad4c13063a385b7d3fd0bccf1fe61745ae38d7",
+  "peakPcm": 21898,
+  "rmsDbfs": -17.12,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

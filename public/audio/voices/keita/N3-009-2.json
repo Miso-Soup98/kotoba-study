@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-009",
+  "exampleIndex": 1,
+  "text": "地震による被害を調べています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 125,
+  "signature": "2efd9ced4c2a15220043e735ea2166c7826f1f233f2dde0cf5781ffbdc97ff4b",
+  "src": "/audio/voices/keita/N3-009-2.mp3",
+  "srt": "/audio/voices/keita/N3-009-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "4df080de4173830598ec13f55913b0bc8872f9207315720a571cb818761a9a61",
+  "peakPcm": 24841,
+  "rmsDbfs": -19.97,
+  "rate": "+0%",
+  "listened": false
+}

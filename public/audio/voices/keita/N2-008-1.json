@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-008",
+  "exampleIndex": 0,
+  "text": "暑い日は、冷たい水に限ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 217,
+  "signature": "643e745aa13db1cbb0d53524ae8aa4d43a4114eb28710fb670304ace1ce6b383",
+  "src": "/audio/voices/keita/N2-008-1.mp3",
+  "srt": "/audio/voices/keita/N2-008-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "8946c5f27b9d1a859f65c4a14e987cba77f3bb525e225c618c255e69d1aedbb3",
+  "peakPcm": 24490,
+  "rmsDbfs": -20.86,
+  "rate": "+0%",
+  "listened": false
+}

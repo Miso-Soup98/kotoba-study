@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-001",
+  "exampleIndex": 1,
+  "text": "試験についての質問があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 121,
+  "signature": "699980c4cb5a42a9c8827038f2955becaa17d0b1b6725f320db2fa01d06aaaef",
+  "src": "/audio/voices/nanami/N3-001-2.mp3",
+  "srt": "/audio/voices/nanami/N3-001-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "90036259261f0aa7301affeaa5d620c977d2043c7d1ff87018e89b048ddd3293",
+  "peakPcm": 21563,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

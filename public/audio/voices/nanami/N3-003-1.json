@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-003",
+  "exampleIndex": 0,
+  "text": "先生に対して失礼なことを言ってはいけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 122,
+  "signature": "2439347a734e5592f6f9ca3fd92e630aba02c4fc2117958a7faa705771ddc052",
+  "src": "/audio/voices/nanami/N3-003-1.mp3",
+  "srt": "/audio/voices/nanami/N3-003-1.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "b74d674c502ed216679302b251d6e22531153240f96dc789d0a7395b93d5d37c",
+  "peakPcm": 20556,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

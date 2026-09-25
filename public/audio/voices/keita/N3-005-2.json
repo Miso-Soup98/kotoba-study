@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-005",
+  "exampleIndex": 1,
+  "text": "この問題は初心者にとって難しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 123,
+  "signature": "ecf0e283fcbc1d61d8568bd79aca1e0d1dc81a927583e60156d86e009f36a613",
+  "src": "/audio/voices/keita/N3-005-2.mp3",
+  "srt": "/audio/voices/keita/N3-005-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "1f472663cf13621698b7b8ebcb032b07879396146f689b58442ef363d8a2c967",
+  "peakPcm": 24314,
+  "rmsDbfs": -19.61,
+  "rate": "+0%",
+  "listened": false
+}

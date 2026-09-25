@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-010",
+  "exampleIndex": 1,
+  "text": "練習によって、発音がよくなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 125,
+  "signature": "3fb9dd878aa04845f24c0b2ac3e9933cd25c004c76e49774d664df33c3b348e6",
+  "src": "/audio/voices/nanami/N3-010-2.mp3",
+  "srt": "/audio/voices/nanami/N3-010-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "1055d277e83da1267c925928169fcc9d476a6c65a6967925849b8454661b80af",
+  "peakPcm": 21322,
+  "rmsDbfs": -17.88,
+  "rate": "+0%",
+  "listened": false
+}

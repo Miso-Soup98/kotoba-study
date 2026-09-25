@@ -2,15 +2,10 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Cache, EventKind, Session, StudyEvent } from "./types";
 import { readCache, updateCache } from "./storage";
-import {
-  combineEvents,
-  mergeCache,
-  rebuild,
-  eventBatch,
-  sameCache,
-} from "./model";
+import { combineEvents, mergeCache, rebuild, sameCache } from "./model";
 import { fetchJSON, resolveSession } from "./session";
 import { eventSchema } from "./validation";
+import { requestSync } from "./sync-request";
 const EMPTY: Cache = { events: [], pending: [], cursor: 0 };
 export function useStudy() {
   const [session, setSession] = useState<Session | null>(null);
@@ -20,6 +15,7 @@ export function useStudy() {
   const [error, setError] = useState("");
   const syncing = useRef(false);
   const active = useRef<string | null>(null);
+  const syncRequest = useRef<AbortController | null>(null);
   // IndexedDB returns fresh clones, even when no learning data changed.
   const publishCache = useCallback((next: Cache) => {
     setCache((previous) => (sameCache(previous, next) ? previous : next));
@@ -60,6 +56,7 @@ export function useStudy() {
     return () => {
       cancelled = true;
       active.current = null;
+      syncRequest.current?.abort();
     };
   }, [publishCache]);
   useEffect(() => {
@@ -70,6 +67,7 @@ export function useStudy() {
           id = JSON.parse(e.newValue || "null")?.userId ?? null;
         } catch {}
         if (id !== active.current) {
+          syncRequest.current?.abort();
           active.current = null;
           setSession(null);
           setCache(EMPTY);
@@ -88,6 +86,8 @@ export function useStudy() {
       return;
     }
     syncing.current = true;
+    const controller = new AbortController();
+    syncRequest.current = controller;
     setStatus("正在同步");
     try {
       let more = true;
@@ -95,15 +95,7 @@ export function useStudy() {
       while (more && pages++ < 30) {
         if (active.current !== uid) return;
         const current = await readCache(uid);
-        const r = await fetch("/api/sync", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            accountId: uid,
-            cursor: current.cursor,
-            events: eventBatch(current.pending),
-          }),
-        });
+        const r = await requestSync(uid, current, controller.signal);
         if (active.current !== uid) return;
         if (r.status === 401 || r.status === 409) {
           try {
@@ -118,22 +110,18 @@ export function useStudy() {
           active.current = null;
           setSession(null);
           setCache(EMPTY);
+          setStatus("请重新登录");
+          setError(
+            "账号已切换或登录已过期；未同步记录仍保存在原账号的本机缓存。",
+          );
           throw Error(
             "账号已切换或登录已过期，请刷新后重新登录；未同步记录仍保存在原账号的本机缓存。",
           );
         }
         if (!r.ok) {
-          const data = (await r.json().catch(() => null)) as {
-            error?: string;
-          } | null;
-          throw Error(data?.error || "同步失败，记录仍保存在本机");
+          throw Error(r.data?.error || "同步失败，记录仍保存在本机");
         }
-        const data = (await r.json()) as {
-          userId: string;
-          events: StudyEvent[];
-          cursor: number;
-          hasMore: boolean;
-        };
+        const data = r.data;
         if (data.userId !== uid)
           throw Error("同步账号不匹配，已停止合并。请刷新页面。");
         if (active.current !== uid) return;
@@ -147,10 +135,18 @@ export function useStudy() {
       setStatus(more ? "继续同步中" : "已同步");
       setError("");
     } catch (e) {
+      if (active.current !== uid) return;
       setStatus("等待同步");
-      setError(e instanceof Error ? e.message : "同步暂不可用");
+      setError(
+        e instanceof Error && e.name === "AbortError"
+          ? "同步连接超时，记录仍保存在本机。网络恢复后会重试。"
+          : e instanceof Error
+            ? e.message
+            : "同步暂不可用",
+      );
     } finally {
       syncing.current = false;
+      if (syncRequest.current === controller) syncRequest.current = null;
     }
   }, [session, publishCache]);
   useEffect(() => {
@@ -177,9 +173,11 @@ export function useStudy() {
     if (!session || !("BroadcastChannel" in window)) return;
     const channel = new BroadcastChannel("kotoba:" + session.userId);
     channel.onmessage = () => {
-      void readCache(session.userId).then((next) => {
-        if (active.current === session.userId) publishCache(next);
-      });
+      void readCache(session.userId)
+        .then((next) => {
+          if (active.current === session.userId) publishCache(next);
+        })
+        .catch(() => setError("本机记录暂时无法读取，请稍后重新同步。"));
     };
     return () => channel.close();
   }, [session, publishCache]);
@@ -240,6 +238,7 @@ export function useStudy() {
     [cache],
   );
   async function signout() {
+    syncRequest.current?.abort();
     active.current = null;
     setSession(null);
     setCache(EMPTY);

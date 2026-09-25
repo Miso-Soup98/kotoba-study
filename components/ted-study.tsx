@@ -27,6 +27,7 @@ import { Switch } from "@/components/ui/switch";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { fetchJSON } from "@/lib/study/session";
 import { lookupWord } from "@/lib/ted/lookup";
+import { TedCorrections } from "./ted-corrections";
 import {
   formatTime,
   type TedSummary,
@@ -37,6 +38,13 @@ import {
 import type { useStudy } from "@/lib/study/use-study";
 import { makeTedWord } from "@/lib/ted/word";
 import { TedPlayer } from "./ted-player";
+import { LessonDialog, LessonText } from "./ted-lessons";
+import {
+  lessonWord,
+  matchLessons,
+  type LessonPattern,
+  type LessonMatch,
+} from "@/lib/ted/lessons";
 import { toast } from "sonner";
 
 type Props = {
@@ -44,9 +52,33 @@ type Props = {
   selectedId: string;
   onSelect: (id: string) => void;
   onStartAudio: () => void;
+  onGrammar: (id: string) => void;
 };
 type SelectedWord = { token: TedToken; paragraph: TedParagraph };
-export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
+export function TedStudy({
+  study,
+  selectedId,
+  onSelect,
+  onStartAudio,
+  onGrammar,
+}: Props) {
+  const [patterns, setPatterns] = useState<LessonPattern[]>([]),
+    [patternError, setPatternError] = useState(false);
+  const [layer, setLayer] = useState("word");
+  const [selectedLesson, setSelectedLesson] = useState<{
+    match: LessonMatch;
+    paragraph: TedParagraph;
+  } | null>(null);
+  const [savingLesson, setSavingLesson] = useState(false);
+  useEffect(() => {
+    const request = new AbortController();
+    fetchJSON<LessonPattern[]>("/data/ted-patterns.json", 12000, request.signal)
+      .then(setPatterns)
+      .catch(() => {
+        if (!request.signal.aborted) setPatternError(true);
+      });
+    return () => request.abort();
+  }, []);
   const [catalog, setCatalog] = useState<TedSummary[]>([]),
     [article, setArticle] = useState<TedArticle | null>(null),
     [error, setError] = useState(""),
@@ -95,6 +127,7 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
     let cancelled = false;
     const request = new AbortController();
     setArticle(null);
+    setSelectedLesson(null);
     setSelectedWord(null);
     setDesktopOpen(false);
     setMobileOpen(false);
@@ -149,6 +182,43 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
     ],
   );
   const summary = catalog.find((a) => a.id === selectedId);
+  const lessonMatches = useMemo(
+    () =>
+      new Map(
+        (article?.paragraphs ?? []).map((paragraph) => [
+          paragraph.id,
+          {
+            phrase: matchLessons(paragraph.japanese, patterns, "phrase"),
+            grammar: matchLessons(paragraph.japanese, patterns, "grammar"),
+          },
+        ]),
+      ),
+    [article, patterns],
+  );
+  const lessonCount = (kind: "phrase" | "grammar") =>
+    [...lessonMatches.values()].reduce(
+      (sum, matches) => sum + matches[kind].length,
+      0,
+    );
+  async function saveLesson() {
+    if (!selectedLesson || !article || savingLesson) return;
+    setSavingLesson(true);
+    try {
+      const word = lessonWord(
+        article.id,
+        selectedLesson.paragraph,
+        selectedLesson.match,
+      );
+      await study.append("ted_word", word.id, JSON.stringify(word));
+      await study.append("bookmark", word.id, true);
+      await study.append("enroll", word.id, true);
+      toast.success("已加入生词本与复习，记录会自动同步");
+    } catch {
+      toast.error("表达未能完整保存，请重试");
+    } finally {
+      setSavingLesson(false);
+    }
+  }
   function clearHover() {
     if (hoverTimer.current) clearTimeout(hoverTimer.current);
     hoverTimer.current = null;
@@ -387,8 +457,8 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
           </>
         )}
         <p className="footnote">
-          两套资料分别编号。扫描文稿经过文字识别；如有疑问，以原 PDF
-          为准。资料保存在私人学习空间，开源仓库只包含程序。
+          两套资料分别编号。扫描稿与原 PDF
+          都可能有误；已核对内容优先显示订正，并保留依据。资料保存在私人学习空间，开源仓库只包含程序。
         </p>
       </div>
     );
@@ -458,6 +528,35 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
             电脑悬停速查，点按打开词卡；手机、iPad
             直接点按。先隐藏中文听一遍，再逐段核对。
           </p>
+          <Tabs
+            value={layer}
+            onValueChange={(value) => {
+              setLayer(value);
+              setDesktopOpen(false);
+            }}
+          >
+            <TabsList className="ted-learning-layers">
+              <TabsTrigger value="word">词汇</TabsTrigger>
+              <TabsTrigger value="phrase">
+                词组 · {lessonCount("phrase")}
+              </TabsTrigger>
+              <TabsTrigger value="grammar">
+                语法 · {lessonCount("grammar")}
+              </TabsTrigger>
+            </TabsList>
+          </Tabs>
+          {layer !== "word" && (
+            <p className="footnote">
+              点按正文中标出的表达，查看接续、讲解和新例句。
+              {lessonCount(layer as "phrase" | "grammar") === 0
+                ? "本篇暂未匹配到已收录表达，不表示没有此类用法。"
+                : "识别结果是候选提示，请结合上下文判断。"}
+            </p>
+          )}
+          {patternError && (
+            <p role="alert">词组和语法讲解未能加载，请重新打开 TED 页面。</p>
+          )}
+          <TedCorrections article={article} />
           <details className="ted-source-notes">
             <summary>扫描识别与资料核对</summary>
             <p>
@@ -502,65 +601,79 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
                     </div>
                     {!!paragraph.japanese && (
                       <p className="ted-japanese" lang="ja">
-                        {(
-                          paragraph.tokens ?? [
-                            {
-                              surface: paragraph.japanese,
-                              lemma: paragraph.japanese,
-                              reading: "",
-                              pos: "",
-                            },
-                          ]
-                        ).map((token, i) =>
-                          /[\p{L}\p{N}]/u.test(token.surface) ? (
-                            <button
-                              key={i}
-                              className="ted-token"
-                              aria-label={`查词 ${token.surface}`}
-                              onPointerEnter={(event) => {
-                                if (event.pointerType !== "mouse") return;
-                                if (pinnedWord.current && desktopOpen) return;
-                                clearHover();
-                                const target = event.currentTarget;
-                                hoverTimer.current = setTimeout(
-                                  () => chooseWord(token, paragraph, target),
-                                  250,
-                                );
-                              }}
-                              onPointerLeave={() => {
-                                clearHover();
-                                if (pinnedWord.current) return;
-                                hoverTimer.current = setTimeout(
-                                  () => setDesktopOpen(false),
-                                  300,
-                                );
-                              }}
-                              onClick={(event) =>
-                                chooseWord(
-                                  token,
-                                  paragraph,
-                                  event.currentTarget,
-                                  !window.matchMedia(
-                                    "(hover: hover) and (pointer: fine)",
-                                  ).matches,
-                                  true,
-                                )
-                              }
-                            >
-                              {showRuby &&
-                              token.reading &&
-                              token.reading !== token.surface ? (
-                                <ruby>
-                                  {token.surface}
-                                  <rt>{token.reading}</rt>
-                                </ruby>
-                              ) : (
-                                token.surface
-                              )}
-                            </button>
-                          ) : (
-                            <span key={i}>{token.surface}</span>
-                          ),
+                        {layer !== "word" ? (
+                          <LessonText
+                            text={paragraph.japanese}
+                            matches={
+                              lessonMatches.get(paragraph.id)?.[
+                                layer as "phrase" | "grammar"
+                              ] ?? []
+                            }
+                            onSelect={(match) =>
+                              setSelectedLesson({ match, paragraph })
+                            }
+                          />
+                        ) : (
+                          (
+                            paragraph.tokens ?? [
+                              {
+                                surface: paragraph.japanese,
+                                lemma: paragraph.japanese,
+                                reading: "",
+                                pos: "",
+                              },
+                            ]
+                          ).map((token, i) =>
+                            /[\p{L}\p{N}]/u.test(token.surface) ? (
+                              <button
+                                key={i}
+                                className="ted-token"
+                                aria-label={`查词 ${token.surface}`}
+                                onPointerEnter={(event) => {
+                                  if (event.pointerType !== "mouse") return;
+                                  if (pinnedWord.current && desktopOpen) return;
+                                  clearHover();
+                                  const target = event.currentTarget;
+                                  hoverTimer.current = setTimeout(
+                                    () => chooseWord(token, paragraph, target),
+                                    250,
+                                  );
+                                }}
+                                onPointerLeave={() => {
+                                  clearHover();
+                                  if (pinnedWord.current) return;
+                                  hoverTimer.current = setTimeout(
+                                    () => setDesktopOpen(false),
+                                    300,
+                                  );
+                                }}
+                                onClick={(event) =>
+                                  chooseWord(
+                                    token,
+                                    paragraph,
+                                    event.currentTarget,
+                                    !window.matchMedia(
+                                      "(hover: hover) and (pointer: fine)",
+                                    ).matches,
+                                    true,
+                                  )
+                                }
+                              >
+                                {showRuby &&
+                                token.reading &&
+                                token.reading !== token.surface ? (
+                                  <ruby>
+                                    {token.surface}
+                                    <rt>{token.reading}</rt>
+                                  </ruby>
+                                ) : (
+                                  token.surface
+                                )}
+                              </button>
+                            ) : (
+                              <span key={i}>{token.surface}</span>
+                            ),
+                          )
                         )}
                       </p>
                     )}
@@ -601,6 +714,16 @@ export function TedStudy({ study, selectedId, onSelect, onStartAudio }: Props) {
               {wordDetails(false)}
             </PopoverContent>
           </Popover>
+          <LessonDialog
+            saving={savingLesson}
+            selection={selectedLesson}
+            onClose={() => setSelectedLesson(null)}
+            onSave={() => void saveLesson()}
+            onGrammar={(id) => {
+              setSelectedLesson(null);
+              onGrammar(id);
+            }}
+          />
           {!!article.glossary.length && (
             <section className="panel ted-original-glossary">
               <h2>原文词汇与用法</h2>

@@ -33,6 +33,20 @@ export type TedArticle = {
   notes: { page: number; text: string }[];
   warnings: string[];
   dictionary?: Record<string, TedGloss>;
+  corrections?: TedCorrection[];
+};
+export type TedCorrection = {
+  id: string;
+  kind: "paragraph" | "glossary";
+  paragraphId?: string;
+  term?: string;
+  correctedTerm?: string;
+  original: Partial<TedGloss> & { japanese?: string; chinese?: string };
+  japanese?: string;
+  chinese?: string;
+  correctedMeaning?: string;
+  reason: string;
+  reference: { title: string; url?: string; page?: number; source?: string };
 };
 export type TedSummary = {
   id: string;

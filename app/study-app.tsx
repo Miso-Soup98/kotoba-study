@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { lazy, Suspense, useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowRight,
   BookOpen,
@@ -60,7 +60,8 @@ import { Progress } from "@/components/ui/progress";
 import { Toaster, toast } from "sonner";
 import { useStudy } from "@/lib/study/use-study";
 import { useAudio } from "@/lib/study/use-audio";
-import { TedStudy } from "@/components/ted-study";
+import { RuntimeStatus } from "@/components/runtime-status";
+import { adaptivePlan } from "@/lib/training/planner";
 import {
   audioRoute,
   chosenVoice,
@@ -69,12 +70,22 @@ import {
 } from "@/lib/study/voice-pack";
 import { findWordExamples } from "@/lib/study/word-examples";
 import { useNoteDraft } from "@/lib/study/use-note-draft";
-import { vocabulary, studyDay, tasks } from "@/lib/study/content";
+import { vocabulary, studyDay } from "@/lib/study/content";
 import { combineEvents, ALGORITHM, scheduler } from "@/lib/study/model";
 import { eventSchema } from "@/lib/study/validation";
 import { fetchJSON } from "@/lib/study/session";
 import type { Entry, Word, EventKind, StudyEvent } from "@/lib/study/types";
 import type { Grade } from "ts-fsrs";
+const TedStudy = lazy(() =>
+  import("@/components/ted-study").then((module) => ({
+    default: module.TedStudy,
+  })),
+);
+const Training = lazy(() =>
+  import("@/components/training").then((module) => ({
+    default: module.Training,
+  })),
+);
 
 const NAV = [
   { id: "today", label: "今天", icon: House },
@@ -82,6 +93,7 @@ const NAV = [
   { id: "review", label: "复习", icon: Layers3 },
   { id: "words", label: "生词本", icon: Bookmark },
   { id: "ted", label: "TED 精读", icon: Headphones },
+  { id: "training", label: "N2 训练", icon: Target },
   { id: "profile", label: "我的", icon: GraduationCap },
 ];
 function Ruby({ text, show = true }: { text: string; show?: boolean }) {
@@ -253,6 +265,11 @@ export default function StudyApp({
       ),
   ];
   const reviewedToday = dailyReviews.get(today)?.total ?? 0;
+  const plan = useMemo(
+    () => adaptivePlan(model.practice, allDue.length, tick),
+    [model.practice, allDue.length, today],
+  );
+  const tasks = plan.tasks;
   const finished = tasks.filter((t) => model.tasks[`${today}:${t.id}`]);
   const activeCard = due.find(([id]) => id === reviewId) ?? due[0];
   const reviewEntry = activeCard ? byId.get(activeCard[0]) : undefined;
@@ -696,8 +713,9 @@ export default function StudyApp({
                           className="task-info"
                           onClick={() => {
                             if (t.id === "review") setView("review");
-                            else if (t.id === "grammar")
-                              openEntry(recommendation?.id ?? model.position);
+                            else if (t.id === "grammar") setView("training");
+                            else if (t.id === "reading" || t.id === "listening")
+                              setView("ted");
                             else
                               document.getElementById("daily-journal")?.focus();
                           }}
@@ -713,8 +731,15 @@ export default function StudyApp({
                     ))}
                   </div>
                   <p className="footnote">
-                    按东京时间记录学习日。完成勾选表示计划完成，不是计时器。
+                    {plan.phase} · {plan.reason}{" "}
+                    按东京时间记录学习日，完成勾选表示计划完成，不是计时器。
                   </p>
+                  <button
+                    className="text-button"
+                    onClick={() => setView("training")}
+                  >
+                    进入 N2 专项与错题训练 <ArrowRight size={16} />
+                  </button>
                 </section>
                 <div className="right-stack">
                   <section className="panel continue-panel">
@@ -1294,16 +1319,33 @@ export default function StudyApp({
             </>
           )}
           {view === "ted" && (
-            <TedStudy
-              key={session?.userId ?? "anonymous"}
-              study={study}
-              selectedId={tedSelected}
-              onSelect={setTedSelected}
-              onStartAudio={() => {
-                audio.stop();
-                sampleTracks.current.forEach((track) => track.pause());
-              }}
-            />
+            <Suspense fallback={<p role="status">正在打开精读工具…</p>}>
+              <TedStudy
+                key={session?.userId ?? "anonymous"}
+                study={study}
+                selectedId={tedSelected}
+                onSelect={setTedSelected}
+                onGrammar={openEntry}
+                onStartAudio={() => {
+                  audio.stop();
+                  sampleTracks.current.forEach((track) => track.pause());
+                }}
+              />
+            </Suspense>
+          )}
+          {view === "training" && (
+            <Suspense fallback={<p role="status">正在打开训练工具…</p>}>
+              <Training
+                key={session?.userId ?? "anonymous"}
+                study={study}
+                onGrammar={openEntry}
+                onStartAudio={() => {
+                  audio.stop();
+                  sampleTracks.current.forEach((track) => track.pause());
+                  window.dispatchEvent(new Event("kotoba:stop-ted"));
+                }}
+              />
+            </Suspense>
           )}
           {view === "words" && (
             <>
@@ -1466,6 +1508,7 @@ export default function StudyApp({
                     个人记录仅对当前账号开放。离线更改会先保存在本机，联网后补同步。
                   </p>
                 </section>
+                <RuntimeStatus study={study} />
                 <section className="panel">
                   <h2>备份与恢复</h2>
                   <p className="muted">
@@ -1576,8 +1619,9 @@ export default function StudyApp({
                     打开音色试听
                   </button>
                   <p className="footnote">
-                    目前覆盖 N5、N4 各前三条，共 12
-                    句。其余句子和单词仍使用浏览器声音。
+                    目前覆盖 {sampleEntryIds.length} 条语法、
+                    {sampleEntryIds.length * 2}{" "}
+                    个例句，两种音色。其余句子和单词仍使用浏览器声音。
                   </p>
                 </section>
                 <section className="panel">
@@ -1619,7 +1663,7 @@ export default function StudyApp({
                 </section>
               </div>
               <div className="about-line">
-                <span>言葉 · v0.2.0 · 全量 622 条 / 1,244 例句</span>
+                <span>言葉 · v0.4.0 · 全量 622 条 / 1,244 例句</span>
                 <a
                   href="https://github.com/Miso-Soup98/kotoba-study"
                   target="_blank"

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-010",
+  "exampleIndex": 1,
+  "text": "雨が降らない限り、毎朝走ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 218,
+  "signature": "73e3034f2eba8090a680575b059bfc90e9a1d2e1e08cbee87e9c0a5d0d9f8b3f",
+  "src": "/audio/voices/nanami/N2-010-2.mp3",
+  "srt": "/audio/voices/nanami/N2-010-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "a006b567776ef9420fd6255d91c3f4475f3e1fa21b5fcf34770644fcb8fa7de9",
+  "peakPcm": 21353,
+  "rmsDbfs": -18.18,
+  "rate": "+0%",
+  "listened": false
+}

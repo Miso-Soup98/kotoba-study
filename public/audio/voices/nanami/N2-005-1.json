@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-005",
+  "exampleIndex": 0,
+  "text": "経験の有無を問わず、募集しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 216,
+  "signature": "8814635284a2a1f2da578682bd442cffc38b0f15403ea8ab43cbea06c6677a45",
+  "src": "/audio/voices/nanami/N2-005-1.mp3",
+  "srt": "/audio/voices/nanami/N2-005-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "9dbc1ea52bee7cd89688bca0d04dcfeb0b8d952f0bdc0430d17de4bf088310a4",
+  "peakPcm": 21515,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-009",
+  "exampleIndex": 0,
+  "text": "元気である限り、働きたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 218,
+  "signature": "0ab1b061d2fa7e14370d36c0a41ed588a187afb431e3f9140f15cd2fb96ce3d0",
+  "src": "/audio/voices/keita/N2-009-1.mp3",
+  "srt": "/audio/voices/keita/N2-009-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "aefe62b0008b11c0e34d9eb52c5f349fc6c100cabd5be9956abf5d4b3aba4fc0",
+  "peakPcm": 24227,
+  "rmsDbfs": -21.95,
+  "rate": "+0%",
+  "listened": false
+}

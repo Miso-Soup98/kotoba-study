@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-002",
+  "exampleIndex": 0,
+  "text": "本を買ったものの、まだ読んでいません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 214,
+  "signature": "7092a7c2d2a965c9afaec2fd056475db5f24ddf6c8a990de82cf7cdad7f0507d",
+  "src": "/audio/voices/keita/N2-002-1.mp3",
+  "srt": "/audio/voices/keita/N2-002-1.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "a3651071ec8da04634edf969b9c6dbea59e5296756cbc0595c6549bc03f70930",
+  "peakPcm": 25483,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

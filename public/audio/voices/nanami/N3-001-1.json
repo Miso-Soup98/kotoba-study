@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-001",
+  "exampleIndex": 0,
+  "text": "日本の文化について調べています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 121,
+  "signature": "c791425d246b63627cd67a9b1c117d4e59da462233ab086f7666e5d4c9573224",
+  "src": "/audio/voices/nanami/N3-001-1.mp3",
+  "srt": "/audio/voices/nanami/N3-001-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "cd49084240e6a18c90e4e9bb7fb5bfa3bf6709675715249f3d7471042de13062",
+  "peakPcm": 18944,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

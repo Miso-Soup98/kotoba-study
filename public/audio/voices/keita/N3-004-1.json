@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-004",
+  "exampleIndex": 0,
+  "text": "兄は静かなのに対して、弟はよく話します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 122,
+  "signature": "6d8d1b0c43f263f4646490c10ac74485dea8fc7c315b14518fd74603bb3422b7",
+  "src": "/audio/voices/keita/N3-004-1.mp3",
+  "srt": "/audio/voices/keita/N3-004-1.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "cbdf7ddebb2503a24fb8647727faace70678c0f3d2bdd4aee26ad66302e007f7",
+  "peakPcm": 26261,
+  "rmsDbfs": -21.09,
+  "rate": "+0%",
+  "listened": false
+}

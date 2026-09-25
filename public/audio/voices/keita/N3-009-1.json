@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-009",
+  "exampleIndex": 0,
+  "text": "大雨によって、電車が止まりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 125,
+  "signature": "8f55b23b5705cf0b63e4da8884bf414f4adc9aff5d8db0dfa394823f322f8900",
+  "src": "/audio/voices/keita/N3-009-1.mp3",
+  "srt": "/audio/voices/keita/N3-009-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "9250b4dd7259b3f01f644465f45e22d22d562bf42556cf222ff8e0882c874567",
+  "peakPcm": 22273,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

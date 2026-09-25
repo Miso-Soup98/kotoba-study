@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-001",
+  "exampleIndex": 1,
+  "text": "十分寝たにもかかわらず、まだ眠いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 214,
+  "signature": "2f8a7a5d3cd17c9b00fbe1e236e79207e4b25c04a15dbdf8d9d38a36e7414d66",
+  "src": "/audio/voices/keita/N2-001-2.mp3",
+  "srt": "/audio/voices/keita/N2-001-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "b8266ccf43a16c094546d5fa3f4d6567e28f7ce6389f2a51c688f9c28bd4c3da",
+  "peakPcm": 25073,
+  "rmsDbfs": -20.69,
+  "rate": "+0%",
+  "listened": false
+}

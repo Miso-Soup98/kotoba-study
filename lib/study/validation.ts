@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { parsedLoop, tedId, tedWordSchema } from "../ted/validation.ts";
+import { parsedPractice } from "../training/validation.ts";
 const jsonValue = z.union([
   z.string().max(12000),
   z.number().finite(),
@@ -20,6 +21,7 @@ export const eventSchema = z
       "ted_loop",
       "ted_word",
       "ted_progress",
+      "practice",
     ]),
     entity: z.string().min(1).max(200),
     value: jsonValue,
@@ -29,6 +31,11 @@ export const eventSchema = z
   })
   .strict()
   .superRefine((e, ctx) => {
+    if (e.kind === "practice") {
+      const result = parsedPractice(e.value);
+      if (!result.success || e.entity !== `practice:${result.data.questionId}`)
+        ctx.addIssue({ code: "custom", message: "练习记录无效" });
+    }
     if (
       e.kind === "ted_loop" &&
       (!/^tedloop:[0-9a-f-]{36}$/.test(e.entity) ||

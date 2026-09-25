@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-004",
+  "exampleIndex": 0,
+  "text": "年齢にかかわらず、誰でも参加できます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 215,
+  "signature": "95683d0915ff32847ee89a13cf0f122f2a4aa4844aa1ca7dc9b49c42a9f8c092",
+  "src": "/audio/voices/keita/N2-004-1.mp3",
+  "srt": "/audio/voices/keita/N2-004-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "5755cc729b79efbafa3b7d36c7d4547d74469c077c5cc8303af993093cd0fd1f",
+  "peakPcm": 27030,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

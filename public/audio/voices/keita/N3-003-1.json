@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-003",
+  "exampleIndex": 0,
+  "text": "先生に対して失礼なことを言ってはいけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 122,
+  "signature": "42f03931416c73434cabadb0d0aa2e5a37428f1633c74487ba4a840cabde437e",
+  "src": "/audio/voices/keita/N3-003-1.mp3",
+  "srt": "/audio/voices/keita/N3-003-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "e5fdf33eefd98bb5b55a4690d5bad32c0b902a79e7aa18472b82691ca9f27efa",
+  "peakPcm": 23245,
+  "rmsDbfs": -20.45,
+  "rate": "+0%",
+  "listened": false
+}

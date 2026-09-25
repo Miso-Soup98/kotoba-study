@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-008",
+  "exampleIndex": 0,
+  "text": "好みは人によって違います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 124,
+  "signature": "128ecefb9b583e8543bb755cb6d5255caf6fc2394da2e019adf5d15e757f891f",
+  "src": "/audio/voices/keita/N3-008-1.mp3",
+  "srt": "/audio/voices/keita/N3-008-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "635283b30e9562e4eafcb491a824ae29b0e5614840e7a5bef2384c0a2c226490",
+  "peakPcm": 20442,
+  "rmsDbfs": -20.39,
+  "rate": "+0%",
+  "listened": false
+}

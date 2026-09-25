@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-006",
+  "exampleIndex": 1,
+  "text": "この部屋を会議室として使います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 123,
+  "signature": "853fa6a7e0f4cfd4983794a07ea482ddd154f6ae87f869512619344a785b6e16",
+  "src": "/audio/voices/nanami/N3-006-2.mp3",
+  "srt": "/audio/voices/nanami/N3-006-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "7d11618ef442e6e85a27d1dc5b562d03b44c31750cfcdde33bc8c2e5c6dc26f3",
+  "peakPcm": 20334,
+  "rmsDbfs": -17.69,
+  "rate": "+0%",
+  "listened": false
+}

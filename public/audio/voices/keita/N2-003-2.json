@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-003",
+  "exampleIndex": 1,
+  "text": "忙しいからといって、約束を忘れてはいけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 215,
+  "signature": "ce81a0138f4fb3a6bc291aad786857c61b8fddf842716878a714cb9ecb5eed36",
+  "src": "/audio/voices/keita/N2-003-2.mp3",
+  "srt": "/audio/voices/keita/N2-003-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "9e6bafb87f36d9f8d1497666f8b90697d350ecf76b7d5607154787af2d7722b8",
+  "peakPcm": 20033,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

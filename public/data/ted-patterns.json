@@ -1,0 +1,930 @@
+[
+  {
+    "id": "ted-ni-tsuite",
+    "kind": "grammar",
+    "title": "〜について／〜についての",
+    "reading": "について",
+    "meaning": "关于……",
+    "connection": "名词＋について；名词＋についての＋名词",
+    "usage": "把某件事作为谈论、调查或思考的主题。",
+    "caution": "“关于某人的评价”和“对某人采取的行动”不同；后者常用に対して。",
+    "example": {
+      "japanese": "明日の発表について、先生と相談しました。",
+      "chinese": "我和老师商量了明天发表的事情。"
+    },
+    "patterns": [
+      "について(?:の|は|も)?"
+    ],
+    "grammarIds": [
+      "N3-001"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：について",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00007/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-ni-kanshite",
+    "kind": "grammar",
+    "title": "〜に関して／〜に関する",
+    "reading": "にかんして／にかんする",
+    "meaning": "关于……；涉及……",
+    "connection": "名词＋に関して；名词＋に関する＋名词",
+    "usage": "常用于报告、文章，讨论与一个主题有关的事项。",
+    "caution": "语体比について正式；修饰名词时可用に関する。",
+    "example": {
+      "japanese": "図書館で、日本の教育に関する本を探しました。",
+      "chinese": "我在图书馆找了有关日本教育的书。"
+    },
+    "patterns": [
+      "に関して(?:は|も)?",
+      "に関する"
+    ],
+    "grammarIds": [
+      "N3-002"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：に関して",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00028/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-ni-taishite",
+    "kind": "grammar",
+    "title": "〜に対して／〜に対する",
+    "reading": "にたいして／にたいする",
+    "meaning": "对……；针对……；也可表示对照",
+    "connection": "名词＋に対して（对象）；动词／い形容词普通形＋のに対して、名词／な形容词＋なのに対して（对照）",
+    "usage": "先判断是行为、感情的对象，还是两件事的对照，再选择译法。",
+    "caution": "并非一出现就表示“与……相反”。例如人に対して親切だ是对人友善。",
+    "example": {
+      "japanese": "店員は、客に対して丁寧に説明しました。",
+      "chinese": "店员耐心地向顾客作了解释。"
+    },
+    "patterns": [
+      "に対して(?:は|も)?",
+      "に対する"
+    ],
+    "grammarIds": [
+      "N3-003",
+      "N3-004"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：に対して",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00060/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-ni-totte",
+    "kind": "grammar",
+    "title": "〜にとって",
+    "reading": "にとって",
+    "meaning": "对……而言；从……的立场看",
+    "connection": "名词＋にとって；名词＋にとっての＋名词",
+    "usage": "提出评价的立场，后项常为重要、困难、方便等判断。",
+    "caution": "不能仅凭中文“对”就替换に対して；不是一般的动作对象标记。",
+    "example": {
+      "japanese": "私にとって、毎日の小さな進歩が大切です。",
+      "chinese": "对我而言，每天的小进步很重要。"
+    },
+    "patterns": [
+      "にとって(?:は|も|の)?"
+    ],
+    "grammarIds": [
+      "N3-005"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：にとって",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00004/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-ni-yoruto",
+    "kind": "grammar",
+    "title": "〜によると／〜によれば",
+    "reading": "によると／によれば",
+    "meaning": "据……；根据某个消息来源",
+    "connection": "消息来源的名词＋によると／によれば",
+    "usage": "把后面的消息归于报道、调查、某人的话等来源。",
+    "caution": "与表示手段或原因的によって不同；并不保证该消息本身正确。",
+    "example": {
+      "japanese": "駅の案内によると、次の電車は十分後に来るそうです。",
+      "chinese": "据车站的公告，下一班电车十分钟后到。"
+    },
+    "patterns": [
+      "によると",
+      "によれば"
+    ],
+    "grammarIds": [
+      "N3-007"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：によると",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00001/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-ni-yotte",
+    "kind": "grammar",
+    "title": "〜によって／〜による",
+    "reading": "によって／による",
+    "meaning": "通过……；由于……；因……而异；由……",
+    "connection": "名词＋によって；名词＋による＋名词",
+    "usage": "这是多义表达：要结合前面的名词和后面的谓语，区分方法、原因、条件差异或被动句中的施事者。",
+    "caution": "不能把所有によって统一翻成“因为”；报道消息来源通常用によると。",
+    "example": {
+      "japanese": "同じ言葉でも、場面によって意味が変わります。",
+      "chinese": "同一个词也会因场景不同而改变含义。"
+    },
+    "patterns": [
+      "によって(?:は|も)?",
+      "による(?![とど])"
+    ],
+    "grammarIds": [
+      "N3-008",
+      "N3-009",
+      "N3-010",
+      "N3-011"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金：によって",
+        "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/pdf/nkt61_P14_15.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ted-ni-oite",
+    "kind": "grammar",
+    "title": "〜において／〜における",
+    "reading": "において／における",
+    "meaning": "在……地点、时期或领域",
+    "connection": "名词＋において；名词＋における＋名词",
+    "usage": "正式文章中标明事件发生的场所、较长时期，或讨论的领域。",
+    "caution": "不能把所有时间点的に都换成において；如“七点起床”通常不用它。",
+    "example": {
+      "japanese": "語学学習において、復習は欠かせません。",
+      "chinese": "在语言学习中，复习不可或缺。"
+    },
+    "patterns": [
+      "において(?:は|も)?",
+      "における"
+    ],
+    "grammarIds": [
+      "N3-083"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：において",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00052/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-dake-denaku",
+    "kind": "grammar",
+    "title": "〜だけでなく、〜も",
+    "reading": "だけでなく",
+    "meaning": "不仅……，而且……",
+    "connection": "名词／动词普通形／い形容词＋だけでなく；な形容词＋な／である＋だけでなく",
+    "usage": "在已提到的项目之外，再补充另一个同样成立的项目。",
+    "caution": "表示前后两项都成立；前项本身可以是否定形式，例如「来ないだけでなく、連絡もしない」。不是用だけでなく否定前项。",
+    "example": {
+      "japanese": "この本は文法だけでなく、会話の練習にも役立ちます。",
+      "chinese": "这本书不仅有助于语法学习，也有助于会话练习。"
+    },
+    "patterns": [
+      "だけでは?なく(?:て)?"
+    ],
+    "grammarIds": [
+      "N3-044"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：だけでなく…も",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00003/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-tame-ni",
+    "kind": "grammar",
+    "title": "〜ために",
+    "reading": "ために",
+    "meaning": "为了……；也可表示因为……",
+    "connection": "目的：动词辞书形／名词＋の＋ために；原因：普通形（な形容词＋な、名词＋の）＋ために",
+    "usage": "目的用法说明想实现的目标；原因用法解释已发生或可能发生的结果。",
+    "caution": "单看ために无法判断目的或原因。先看前项是否为目标，再看后项是否为实现它而采取的行动。",
+    "example": {
+      "japanese": "発表の準備をするために、今日は早く帰ります。",
+      "chinese": "为了准备发表，今天我要早点回去。"
+    },
+    "patterns": [
+      "ために"
+    ],
+    "grammarIds": [
+      "N4-095",
+      "N3-015"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金：Vために／Vように",
+        "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/pdf/tushin48_p22-23.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ted-koto-ga-dekiru",
+    "kind": "grammar",
+    "title": "〜ことができる",
+    "reading": "ことができる",
+    "meaning": "能够……；可以……",
+    "connection": "动词辞书形＋ことができる",
+    "usage": "把动作名词化后，用できる说明能力或条件允许。",
+    "caution": "ことができない是否定；できた可表示过去成功做到。不要漏读否定和时态。",
+    "example": {
+      "japanese": "このアプリでは、自分の声を録音することができます。",
+      "chinese": "使用这个应用可以录下自己的声音。"
+    },
+    "patterns": [
+      "ことが(?:でき|出来)(?:ませんでした|ません|ました|ます|なかった|ない|る|た|て|れば)?"
+    ],
+    "grammarIds": [
+      "N4-004"
+    ],
+    "references": [
+      {
+        "title": "東京外国語大学：Vことができます",
+        "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/072.html"
+      }
+    ]
+  },
+  {
+    "id": "ted-you-ni-naru",
+    "kind": "grammar",
+    "title": "〜ようになる",
+    "reading": "ようになる",
+    "meaning": "逐渐变得会……；开始……",
+    "connection": "动词辞书形／可能形／ない形＋ようになる",
+    "usage": "描述能力、习惯或情况与过去不同。",
+    "caution": "能力消失常说できなくなる；不能把ようになる等同于自己决定做。",
+    "example": {
+      "japanese": "毎日聞いていたら、短いニュースが分かるようになりました。",
+      "chinese": "每天坚持听以后，我开始能听懂简短新闻了。"
+    },
+    "patterns": [
+      "(?<=[うくぐすつぬぶむるい])ように(?:なった|なって|なり|なる)"
+    ],
+    "grammarIds": [
+      "N4-016"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：Ｖようになります",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00086/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-you-ni-suru",
+    "kind": "grammar",
+    "title": "〜ようにする",
+    "reading": "ようにする",
+    "meaning": "尽量做到……；注意……",
+    "connection": "动词辞书形／ない形＋ようにする",
+    "usage": "有意识地采取措施，使某个状态实现；ようにしている常指持续注意或习惯。",
+    "caution": "与描述自然变化的ようになる不同。“このようにして”可能只是“像这样”。",
+    "example": {
+      "japanese": "聞き取れない表現は、必ずメモするようにしています。",
+      "chinese": "我会注意把听不懂的表达都记下来。"
+    },
+    "patterns": [
+      "(?<=[うくぐすつぬぶむるい])ように(?:する|した|して|しよう|します|しました)"
+    ],
+    "grammarIds": [
+      "N4-017"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：Ｖようにします",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00105/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-koto-ni-naru",
+    "kind": "grammar",
+    "title": "〜ことになる",
+    "reading": "ことになる",
+    "meaning": "决定／安排为……；会形成……结果",
+    "connection": "动词辞书形／ない形＋ことになる",
+    "usage": "说明确定的安排，也可由条件推出最终结果；读上下文判断是哪种。",
+    "caution": "与ことにする相比，通常不把个人当下的决定作为叙述重点。",
+    "example": {
+      "japanese": "来月から、新しい教室で勉強することになりました。",
+      "chinese": "安排已定，下个月起我们在新教室学习。"
+    },
+    "patterns": [
+      "ことに(?:なった|なって|なり|なる)"
+    ],
+    "grammarIds": [
+      "N4-014"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：Ｖこと／Ｎになります",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00092/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-koto-ni-suru",
+    "kind": "grammar",
+    "title": "〜ことにする",
+    "reading": "ことにする",
+    "meaning": "决定做／不做……",
+    "connection": "动词辞书形／ない形＋ことにする",
+    "usage": "表达自己作出的决定；ことにしている可表示自行坚持的规则。",
+    "caution": "ことになる重在安排或结果，不能不看主语和语境就互换。",
+    "example": {
+      "japanese": "寝る前の十分間は、単語を復習することにしました。",
+      "chinese": "我决定睡前用十分钟复习单词。"
+    },
+    "patterns": [
+      "(?:[うくぐすつぬぶむる]|ない)ことに(?:する|した|して|しよう|します|しました)"
+    ],
+    "grammarIds": [
+      "N4-015"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：Ｖこと／Ｎにします",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00091/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-kamoshirenai",
+    "kind": "grammar",
+    "title": "〜かもしれない",
+    "reading": "かもしれない",
+    "meaning": "也许……；有可能……",
+    "connection": "普通形＋かもしれない；名词、な形容词现在肯定去掉だ",
+    "usage": "说话人把一件事作为尚不能排除的可能性提出。",
+    "caution": "不等于肯定预测；不要硬换算为固定百分比。丁宁体是かもしれません。",
+    "example": {
+      "japanese": "この例文は、別の意味でも使えるかもしれません。",
+      "chinese": "这个例句也许还可以用于另一种意思。"
+    },
+    "patterns": [
+      "かもしれ(?:ません|ない|なかった|なく|ま[すし])"
+    ],
+    "grammarIds": [
+      "N4-032"
+    ],
+    "references": [
+      {
+        "title": "東京外国語大学：かもしれません",
+        "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/076.html"
+      }
+    ]
+  },
+  {
+    "id": "ted-te-shimau",
+    "kind": "grammar",
+    "title": "〜てしまう／〜でしまう",
+    "reading": "てしまう／でしまう",
+    "meaning": "做完……；不由得／遗憾地……",
+    "connection": "动词て形＋しまう（て形为で时接でしまう）",
+    "usage": "可强调全部完成，也可带有非本意、遗憾等情绪，依据上下文判断。",
+    "caution": "并非总是负面结果。口语中会缩成ちゃう／じゃう，本规则优先识别完整形式。",
+    "example": {
+      "japanese": "大事なメモを消してしまいました。",
+      "chinese": "我不小心删掉了重要的笔记。"
+    },
+    "patterns": [
+      "[てで]しま(?:った|って|います|いました|い|う|わない)"
+    ],
+    "grammarIds": [
+      "N4-020"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：Ｖてしまいます",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00110/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-te-miru",
+    "kind": "grammar",
+    "title": "〜てみる／〜でみる",
+    "reading": "てみる／でみる",
+    "meaning": "试着做……",
+    "connection": "动词て形＋みる",
+    "usage": "实际尝试一个动作，看看结果或体验如何。",
+    "caution": "不等于“看见”。规则只识别假名写法中的常见活用，仍需确认前项是动作。",
+    "example": {
+      "japanese": "今日は字幕を隠して聞いてみます。",
+      "chinese": "今天我试着隐藏字幕来听。"
+    },
+    "patterns": [
+      "[てで]み(?:ません|ました|ます|たい|た|て|る|よう|れば)"
+    ],
+    "grammarIds": [
+      "N4-018"
+    ],
+    "references": [
+      {
+        "title": "東京外国語大学：Vてみます",
+        "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/088.html"
+      }
+    ]
+  },
+  {
+    "id": "ted-te-oku",
+    "kind": "grammar",
+    "title": "〜ておく／〜でおく",
+    "reading": "ておく／でおく",
+    "meaning": "预先做好……；保持……状态",
+    "connection": "动词て形＋おく",
+    "usage": "为后面的事情作准备，也可有意让结果或状态保持下去。",
+    "caution": "不要把ております的おり当作おく；本规则不会匹配它。",
+    "example": {
+      "japanese": "移動中に聞けるように、音声を保存しておきます。",
+      "chinese": "我先保存音频，方便在路上听。"
+    },
+    "patterns": [
+      "[てで]お(?:きます|きました|く|いた|いて|こう|けば|かない)"
+    ],
+    "grammarIds": [
+      "N4-019"
+    ],
+    "references": [
+      {
+        "title": "東京外国語大学：Vておきます",
+        "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/088.html"
+      }
+    ]
+  },
+  {
+    "id": "ted-wake-denai",
+    "kind": "grammar",
+    "title": "〜わけではない",
+    "reading": "わけではない",
+    "meaning": "并不是……；并非一概……",
+    "connection": "普通形＋わけではない；な形容词＋な／名词＋な・である＋わけではない",
+    "usage": "否定从前文推出的判断或过度概括，而不一定否定全部事实。",
+    "caution": "注意“ないわけではない”是双重否定，通常留有肯定余地。",
+    "example": {
+      "japanese": "意味が分かっても、すぐに使えるわけではありません。",
+      "chinese": "即使懂了意思，也不代表马上就能运用。"
+    },
+    "patterns": [
+      "わけ(?:では|でも|じゃ)(?:ありません|なかった|ない|なく)"
+    ],
+    "grammarIds": [
+      "N3-017"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：わけではない",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00039/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-nakereba-naranai",
+    "kind": "grammar",
+    "title": "〜なければならない",
+    "reading": "なければならない",
+    "meaning": "必须……；不得不……",
+    "connection": "动词ない形去ない＋なければならない",
+    "usage": "通过“不这样就不行”的形式表达义务或必要性。",
+    "caution": "不是禁止；“てはならない”才是不能做。应把两次否定作为整体理解。",
+    "example": {
+      "japanese": "申し込みの前に、必要な書類を確認しなければなりません。",
+      "chinese": "申请前必须确认所需文件。"
+    },
+    "patterns": [
+      "なければなら(?:ない|なかった|ず|なく)",
+      "なければなり(?:ません|ませんでした)"
+    ],
+    "grammarIds": [
+      "N5-036"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：Ｖなければなりません",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00112/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-to-iwareteiru",
+    "kind": "grammar",
+    "title": "〜と言われている",
+    "reading": "といわれている",
+    "meaning": "人们常说……；一般认为……",
+    "connection": "普通形＋と言われている",
+    "usage": "用被动形式介绍社会上流传的说法，弱化具体说话者。",
+    "caution": "这只是转述来源，不能据此判定内容一定真实；也可能是某个具体人物被这样评价。",
+    "example": {
+      "japanese": "この地域では、秋の景色が一番美しいと言われています。",
+      "chinese": "人们常说，这个地区秋天的景色最美。"
+    },
+    "patterns": [
+      "と(?:言|い)われて(?:います|いる|いた)"
+    ],
+    "grammarIds": [
+      "N4-086"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：において（例句中的と言われている）",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00052/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-to-iu-koto",
+    "kind": "grammar",
+    "title": "〜ということ",
+    "reading": "ということ",
+    "meaning": "“……这件事／这个意思”；也可引出结论",
+    "connection": "完整小句＋ということ",
+    "usage": "把前面的内容当作一个整体再作判断；句尾ということだ也可能用于解释、结论或传闻。",
+    "caution": "单凭文字串不能断定为传闻；结合主句和消息来源判断。",
+    "example": {
+      "japanese": "毎日続けるということは、簡単そうで難しいです。",
+      "chinese": "每天坚持这件事看似简单，其实很难。"
+    },
+    "patterns": [
+      "ということ"
+    ],
+    "grammarIds": [
+      "N4-085",
+      "N3-038"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金：「こと」（２）",
+        "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201203.html"
+      }
+    ]
+  },
+  {
+    "id": "ted-wo-tsujite",
+    "kind": "grammar",
+    "title": "〜を通じて／〜を通して",
+    "reading": "をつうじて／をとおして",
+    "meaning": "通过……；贯穿整个……期间",
+    "connection": "名词＋を通じて／を通して",
+    "usage": "名词可以是媒介、经历，也可以是时间范围；前后文决定译成“通过”还是“整个期间”。",
+    "caution": "不是所有场合都只是物理穿过；例如交流を通じて强调通过交流获得经验。",
+    "example": {
+      "japanese": "読書を通じて、さまざまな考え方を知りました。",
+      "chinese": "通过阅读，我了解了各种不同的想法。"
+    },
+    "patterns": [
+      "を通じて",
+      "を通して"
+    ],
+    "grammarIds": [
+      "N3-081"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：を通じて／を通して",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00047/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-to-ittemo",
+    "kind": "grammar",
+    "title": "〜といっても",
+    "reading": "といっても",
+    "meaning": "虽说……，但实际……",
+    "connection": "普通形＋といっても；名词／な形容词可省略だ",
+    "usage": "先承认前面的说法，再补充限制，防止对方理解得过头。",
+    "caution": "若后项是“誰も信じない”等，也可能是字面的“即使说……”。候选必须结合全句。",
+    "example": {
+      "japanese": "毎日勉強するといっても、忙しい日は十分だけです。",
+      "chinese": "虽说每天学习，但忙的时候也就学十分钟。"
+    },
+    "patterns": [
+      "と(?:言|い)っても[、，]"
+    ],
+    "grammarIds": [
+      "N3-040"
+    ],
+    "references": [
+      {
+        "title": "国際交流基金「教科書を作ろう」：といっても",
+        "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00020/ja/render.do"
+      }
+    ]
+  },
+  {
+    "id": "ted-ki-wo-tsukeru",
+    "kind": "phrase",
+    "title": "気を付ける",
+    "reading": "きをつける",
+    "meaning": "注意；留心；当心",
+    "connection": "名词＋に気を付ける",
+    "usage": "整体记忆“注意什么”的表达，常用于提醒和自我注意。",
+    "caution": "这里的気不是空气；对象用に，気后固定用を。",
+    "example": {
+      "japanese": "似た文法の使い分けに気を付けています。",
+      "chinese": "我会留意相似语法之间的区别。"
+    },
+    "patterns": [
+      "気を(?:付け|つけ)(?:る|た|て|ます|ない|よう)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "東京外国語大学：初級教科書の語彙分析（気を付ける）",
+        "url": "https://cblle.tufs.ac.jp/assets/files/publications/corpora_02/index.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ted-ki-ga-tsuku",
+    "kind": "phrase",
+    "title": "気が付く／気付く",
+    "reading": "きがつく／きづく",
+    "meaning": "察觉；意识到",
+    "connection": "名词＋に気が付く；小句＋ことに気が付く；名词／な形容词的小句用「～だということ／～なこと」等形式",
+    "usage": "从没留意变为意识到某事；気付く常作为一个动词出现。",
+    "caution": "気を付ける是主动留心，気が付く是发现、察觉；另有恢复意识等用法。",
+    "example": {
+      "japanese": "録音を聞いて、自分の発音の癖に気が付きました。",
+      "chinese": "听了录音后，我发现了自己的发音习惯。"
+    },
+    "patterns": [
+      "気が(?:付|つ)(?:いた|いて|く|き|か)",
+      "気(?:付|づ)(?:いた|いて|く|き|か)"
+    ],
+    "grammarIds": [
+      "N4-114"
+    ],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：気が付く",
+        "url": "https://kotobank.jp/word/気が付く-471861"
+      }
+    ]
+  },
+  {
+    "id": "ted-me-wo-mukeru",
+    "kind": "phrase",
+    "title": "目を向ける",
+    "reading": "めをむける",
+    "meaning": "把目光／注意力投向……",
+    "connection": "名词＋に目を向ける",
+    "usage": "既可以指实际转移视线，也可以表示关注以前忽视的事。",
+    "caution": "抽象语境中不用机械翻译成“转眼睛”。",
+    "example": {
+      "japanese": "点数だけでなく、昨日よりできたことにも目を向けましょう。",
+      "chinese": "除了分数，也关注一下自己比昨天进步的地方吧。"
+    },
+    "patterns": [
+      "目を向け(?:る|た|て|ます|ない|よう)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：目を向ける",
+        "url": "https://kotobank.jp/word/目を向ける-642788"
+      }
+    ]
+  },
+  {
+    "id": "ted-mi-ni-tsukeru",
+    "kind": "phrase",
+    "title": "身に付ける",
+    "reading": "みにつける",
+    "meaning": "掌握；养成；也可指穿戴",
+    "connection": "知识／技能／习惯＋を身に付ける",
+    "usage": "学习语境中指让知识技能变成自己能实际运用的能力。",
+    "caution": "衣服或饰品作宾语时可表示穿戴，不能一律译为掌握。",
+    "example": {
+      "japanese": "練習を重ねて、自然な話し方を身に付けたいです。",
+      "chinese": "我想通过反复练习，掌握自然的说话方式。"
+    },
+    "patterns": [
+      "身に(?:付け|つけ)(?:る|た|て|ます|ない|よう)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：身に付ける",
+        "url": "https://kotobank.jp/word/身に付ける-636922"
+      }
+    ]
+  },
+  {
+    "id": "ted-te-ni-ireru",
+    "kind": "phrase",
+    "title": "手に入れる",
+    "reading": "てにいれる",
+    "meaning": "得到；获得",
+    "connection": "名词＋を手に入れる",
+    "usage": "表示主动获得某物、机会或信息。",
+    "caution": "与“名词＋が手に入る”区分：后者把获得的东西作主语。",
+    "example": {
+      "japanese": "旅行の前に、現地の詳しい地図を手に入れました。",
+      "chinese": "旅行前，我拿到了当地的详细地图。"
+    },
+    "patterns": [
+      "手に入れ(?:る|た|て|ます|ない|よう)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：手に入れる",
+        "url": "https://kotobank.jp/word/手に入れる-573139"
+      }
+    ]
+  },
+  {
+    "id": "ted-yaku-ni-tatsu",
+    "kind": "phrase",
+    "title": "役に立つ",
+    "reading": "やくにたつ",
+    "meaning": "有用；有帮助",
+    "connection": "名词＋に役に立つ；动词辞书形＋のに役に立つ",
+    "usage": "说明某样东西、知识或经验对一个目的有用。",
+    "caution": "「物を役に立てる」可表示使其发挥作用；「私がお役に立てる」也可能是「役に立つ」的可能形，表示我能帮上忙，要根据主语和语境判断。",
+    "example": {
+      "japanese": "短いメモでも、復習のときに役に立ちます。",
+      "chinese": "即使是简短笔记，复习时也能派上用场。"
+    },
+    "patterns": [
+      "役に立(?:った|って|つ|ち|たない)"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：役に立つ",
+        "url": "https://kotobank.jp/word/役に立つ-647767"
+      }
+    ]
+  },
+  {
+    "id": "ted-eikyou-wo-ataeru",
+    "kind": "phrase",
+    "title": "影響を与える",
+    "reading": "えいきょうをあたえる",
+    "meaning": "对……产生影响",
+    "connection": "影响来源＋が／は＋对象＋に影響を与える",
+    "usage": "把影响的来源和接受影响的对象分清，再理解因果方向。",
+    "caution": "与影響を受ける方向相反；与える不只表示实物的给予。",
+    "example": {
+      "japanese": "先生の言葉は、私の進路選択に影響を与えました。",
+      "chinese": "老师的话影响了我对未来道路的选择。"
+    },
+    "patterns": [
+      "影響を与え(?:る|た|て|ます|ない)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "漢字ペディア：影響",
+        "url": "https://www.kanjipedia.jp/kotoba/0000398600"
+      }
+    ]
+  },
+  {
+    "id": "ted-chuumoku-wo-atsumeru",
+    "kind": "phrase",
+    "title": "注目を集める",
+    "reading": "ちゅうもくをあつめる",
+    "meaning": "引起关注；受到瞩目",
+    "connection": "人／事物＋が注目を集める",
+    "usage": "常用于报道新事物、人物或做法受到许多人关注。",
+    "caution": "不代表大家都赞成；受到关注与受到好评是不同的事。",
+    "example": {
+      "japanese": "学生が作った新しい道具が注目を集めています。",
+      "chinese": "学生制作的新工具正在受到关注。"
+    },
+    "patterns": [
+      "注目を集め(?:る|た|て|ます|ない)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "漢字ペディア：問題（注目を集める的用例）",
+        "url": "https://www.kanjipedia.jp/kotoba/0006773200"
+      }
+    ]
+  },
+  {
+    "id": "ted-taisetsu-ni-suru",
+    "kind": "phrase",
+    "title": "大切にする",
+    "reading": "たいせつにする",
+    "meaning": "珍惜；重视；爱护",
+    "connection": "名词＋を大切にする",
+    "usage": "用于认真对待人、物品、时间或某种价值。",
+    "caution": "大切だ描述重要；大切にする强调如何对待它。",
+    "example": {
+      "japanese": "家族と話す時間を大切にしています。",
+      "chinese": "我很珍惜与家人交谈的时间。"
+    },
+    "patterns": [
+      "大切に(?:する|した|して|しよう|します|しました)"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：大切",
+        "url": "https://kotobank.jp/word/大切-449791"
+      }
+    ]
+  },
+  {
+    "id": "ted-omoi-wo-haseru",
+    "kind": "phrase",
+    "title": "思いを馳せる",
+    "reading": "おもいをはせる",
+    "meaning": "遥想；思绪飘向……",
+    "connection": "名词＋に思いを馳せる",
+    "usage": "把心思投向不在眼前的人、事情、过去或未来，带有想象和情感。",
+    "caution": "这里的馳せる不是驾车、策马；应按整个搭配理解。",
+    "example": {
+      "japanese": "古い写真を見て、子どもの頃に思いを馳せました。",
+      "chinese": "看到旧照片，我回想起了童年。"
+    },
+    "patterns": [
+      "思いを(?:馳せ|はせ)(?:る|た|て|ます|ない)?"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：思いを馳せる",
+        "url": "https://kotobank.jp/word/思いを馳せる-454552"
+      }
+    ]
+  },
+  {
+    "id": "ted-kuchi-ni-dasu",
+    "kind": "phrase",
+    "title": "口に出す",
+    "reading": "くちにだす",
+    "meaning": "说出口；用语言表达",
+    "connection": "名词／想法＋を口に出す",
+    "usage": "强调把心中想法实际说出来。",
+    "caution": "与口を出す“插嘴／干涉”不同，助词に与を不可混记。",
+    "example": {
+      "japanese": "新しい表現は、覚えたらすぐに口に出してみます。",
+      "chinese": "学到新表达后，我会马上试着说出来。"
+    },
+    "patterns": [
+      "口に出(?:した|して|す|し|さない|そう)"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "小学館デジタル大辞泉：口に出す",
+        "url": "https://kotobank.jp/word/口に出す-483931"
+      }
+    ]
+  },
+  {
+    "id": "ted-shokuji-wo-toru",
+    "kind": "phrase",
+    "title": "食事を摂る",
+    "reading": "しょくじをとる",
+    "meaning": "进餐；吃饭",
+    "connection": "食事／朝食など＋を摂る",
+    "usage": "饮食语境下的摂る表示摄入，整个搭配就是用餐。",
+    "caution": "不要套用取る的“拿取”或把其他同音词义混入本句；栄養を摂る是摄取营养。",
+    "example": {
+      "japanese": "忙しくても、落ち着いて食事を摂る時間を作ります。",
+      "chinese": "即使很忙，我也会留出从容吃饭的时间。"
+    },
+    "patterns": [
+      "(?:食事|朝食|昼食|夕食)を(?:摂|と)(?:らない|った|って|る|り)"
+    ],
+    "grammarIds": [],
+    "references": [
+      {
+        "title": "漢字ペディア：摂る",
+        "url": "https://www.kanjipedia.jp/kotoba/0004008100"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-007",
+  "exampleIndex": 0,
+  "text": "天気予報によると、明日は雨だそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 124,
+  "signature": "a6c1a8f4d68b2204dddb6e403036c7eeff1286ca0f0e81f060e92fc8ace79286",
+  "src": "/audio/voices/keita/N3-007-1.mp3",
+  "srt": "/audio/voices/keita/N3-007-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "0e9a62e599b03e9448cdd43ba7f021f22f31e7eb628198b98eabd519ad4e2644",
+  "peakPcm": 25017,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

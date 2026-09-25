@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-008",
+  "exampleIndex": 1,
+  "text": "疲れたときは、早く寝るに限ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 217,
+  "signature": "2dfcde8ade7f346560397b204a91a972ea8c256eada5556873e28f5048638f6e",
+  "src": "/audio/voices/nanami/N2-008-2.mp3",
+  "srt": "/audio/voices/nanami/N2-008-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "45cb53e7eff2ff08758589426d40ff9b6b9d362ba1fc13855ca5ab52446f215d",
+  "peakPcm": 22056,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

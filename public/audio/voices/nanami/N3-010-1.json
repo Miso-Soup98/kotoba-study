@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-010",
+  "exampleIndex": 0,
+  "text": "話し合いによって問題を解決しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 125,
+  "signature": "e16d92bd6093a4710eda88100a7b71e483a56314f21469c7fb03e676dad9fe0e",
+  "src": "/audio/voices/nanami/N3-010-1.mp3",
+  "srt": "/audio/voices/nanami/N3-010-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "61e92a756203efb4d8ee2c141c1e7f5371eece535d1a755697dcb8235f23b0ee",
+  "peakPcm": 22603,
+  "rmsDbfs": -17.79,
+  "rate": "+0%",
+  "listened": false
+}

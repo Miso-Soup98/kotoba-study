@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-004",
+  "exampleIndex": 1,
+  "text": "雨が降るかどうかにかかわらず、実施します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 215,
+  "signature": "1416936ea81b75bcf5be9adfa269ad476a4be465b8d90731e8ae6a2af7012333",
+  "src": "/audio/voices/keita/N2-004-2.mp3",
+  "srt": "/audio/voices/keita/N2-004-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "64aab680af2f2d336524e7e09e274be732523bc66aa64a6f9443579314f1e34a",
+  "peakPcm": 25532,
+  "rmsDbfs": -21.59,
+  "rate": "+0%",
+  "listened": false
+}

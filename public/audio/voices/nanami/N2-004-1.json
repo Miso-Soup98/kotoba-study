@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-004",
+  "exampleIndex": 0,
+  "text": "年齢にかかわらず、誰でも参加できます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 215,
+  "signature": "dd723f368690f18f6fc287ec983dc2dc1b0f8676be5ab861d692788b1a1a218b",
+  "src": "/audio/voices/nanami/N2-004-1.mp3",
+  "srt": "/audio/voices/nanami/N2-004-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "047d32915d148cf466722620e05a2f310ac64b2826f4dedc128161e67d076dfc",
+  "peakPcm": 20583,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

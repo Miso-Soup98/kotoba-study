@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-004",
+  "exampleIndex": 0,
+  "text": "兄は静かなのに対して、弟はよく話します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 122,
+  "signature": "98a8a33d560de2246ce7c8f91466639199576cf8595ded539c2463a1513a4768",
+  "src": "/audio/voices/nanami/N3-004-1.mp3",
+  "srt": "/audio/voices/nanami/N3-004-1.srt",
+  "durationSeconds": 4.776,
+  "bytes": 28656,
+  "sha256": "81e881d27b4ea18509cb31330bda0478322b5e571500c172bd97f6d0536260be",
+  "peakPcm": 21749,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

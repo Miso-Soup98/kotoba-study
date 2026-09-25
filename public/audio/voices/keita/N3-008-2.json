@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-008",
+  "exampleIndex": 1,
+  "text": "季節によって、店の営業時間が変わります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 124,
+  "signature": "adf866d5e76df0d179b01f766e4b74f8e13a4d65a83729e5b401ab43fcef0ffd",
+  "src": "/audio/voices/keita/N3-008-2.mp3",
+  "srt": "/audio/voices/keita/N3-008-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "d52b5eb2b6e7657f126af7c577f8fcc300ce0c681b9328e46c0c5f0966135f76",
+  "peakPcm": 22935,
+  "rmsDbfs": -20.83,
+  "rate": "+0%",
+  "listened": false
+}

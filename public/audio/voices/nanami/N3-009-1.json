@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-009",
+  "exampleIndex": 0,
+  "text": "大雨によって、電車が止まりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 125,
+  "signature": "5737008fa75dceb0ee327a3f38538282dcf0c710c5b1ac6b2a1cf0e424e3dad8",
+  "src": "/audio/voices/nanami/N3-009-1.mp3",
+  "srt": "/audio/voices/nanami/N3-009-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "dc8e0534f53c29f7c4303eb5db91e67a5631bb8d2686c805ee174ec253e40846",
+  "peakPcm": 23996,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

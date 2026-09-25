@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-003",
+  "exampleIndex": 0,
+  "text": "高いからといって、必ずしも品質がよいとは限りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 215,
+  "signature": "d67ea9c0a8495d219ff2d6fd0df2cd11b300987c5eb85f5ac5eba188fd08a2cf",
+  "src": "/audio/voices/nanami/N2-003-1.mp3",
+  "srt": "/audio/voices/nanami/N2-003-1.srt",
+  "durationSeconds": 5.16,
+  "bytes": 30960,
+  "sha256": "6ca1f037ea5b2b0b602583dafd5040838bcf93d2ecff2f9d95ea41a8acf6f25b",
+  "peakPcm": 19792,
+  "rmsDbfs": -17.55,
+  "rate": "+0%",
+  "listened": false
+}

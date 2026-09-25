@@ -34,13 +34,13 @@ function setup(timeout = 15000) {
     player: new FileAudio(() => media as unknown as HTMLAudioElement, timeout),
   };
 }
-test("all 24 voice clips match the unmodified textbook and unique entry/voice/index", () => {
-  assert.equal(manifest.clips.length, 24);
+test("all 104 voice clips match the unmodified textbook and unique entry/voice/index", () => {
+  assert.equal(manifest.clips.length, 104);
   assert.equal(
     new Set(
       manifest.clips.map((c) => `${c.entryId}/${c.voice}/${c.exampleIndex}`),
     ).size,
-    24,
+    104,
   );
   for (const clip of manifest.clips) {
     const source = corpus.entries.find((e) => e.id === clip.entryId)!;

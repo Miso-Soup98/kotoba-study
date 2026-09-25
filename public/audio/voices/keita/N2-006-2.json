@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-006",
+  "exampleIndex": 1,
+  "text": "子供に限らず、大人にも人気があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 216,
+  "signature": "88ef67c944dc664a9af8b0b0a6342363f5a6d7caf132ba507efb2b3c88c95b47",
+  "src": "/audio/voices/keita/N2-006-2.mp3",
+  "srt": "/audio/voices/keita/N2-006-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "dcea4f10b0b41b9c36c1d570b5c8d9375483a3c36123f88d64033168d7cd8b98",
+  "peakPcm": 24654,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

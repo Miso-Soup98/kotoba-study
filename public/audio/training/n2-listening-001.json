@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-listening-001",
+  "exampleIndex": 0,
+  "text": "明日の見学会についてお知らせします。集合は九時の予定でしたが、バスの出発が早まったため、八時四十分までに駅の東口へお越しください。雨でも見学会は行います。昼食はこちらで用意しますので、お弁当は必要ありません。帰りは予定どおり、午後四時に同じ場所に到着する見込みです。遅れそうな方は、出発前に担当者へ電話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "2376efd79de7a61a4450ae7e142599faa3d44b875e27332436033a22628ccf49",
+  "src": "/audio/training/n2-listening-001.mp3",
+  "srt": "/audio/training/n2-listening-001.srt",
+  "durationSeconds": 32.448,
+  "bytes": 194688,
+  "sha256": "2b82d76a5221f1bdf40fa5f184d15371a3c2aa45aee53be2ce86af9a3da96c52",
+  "peakPcm": 22554,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

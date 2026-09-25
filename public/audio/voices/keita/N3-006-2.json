@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-006",
+  "exampleIndex": 1,
+  "text": "この部屋を会議室として使います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 123,
+  "signature": "25ab053edfe63f3b08bd6256fe491cbc84cbc5787719911c1b9f482c070c3e50",
+  "src": "/audio/voices/keita/N3-006-2.mp3",
+  "srt": "/audio/voices/keita/N3-006-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "a3097ab40005455af005ad3d623ecc141bd054f8482c80878a213ed337eb5ea3",
+  "peakPcm": 22600,
+  "rmsDbfs": -20.66,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-006",
+  "exampleIndex": 0,
+  "text": "この問題は日本に限らず、各国で起きています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 216,
+  "signature": "8219cb6b42a208a0d8a5178f03e1abae887770d4a206ef9da12f1fa3cb1aa479",
+  "src": "/audio/voices/keita/N2-006-1.mp3",
+  "srt": "/audio/voices/keita/N2-006-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "6e60e11523e1e7415226001d1a2f40177af6f50785080d19c8e6233217b3cb88",
+  "peakPcm": 24814,
+  "rmsDbfs": -19.57,
+  "rate": "+0%",
+  "listened": false
+}

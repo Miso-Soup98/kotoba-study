@@ -252,8 +252,808 @@
       "pdfPage": 56,
       "srt": "/audio/voices/keita/N4-003-2.srt",
       "durationSeconds": 3.096
+    },
+    {
+      "entryId": "N3-001",
+      "exampleIndex": 0,
+      "text": "日本の文化について調べています。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-001-1.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/nanami/N3-001-1.srt",
+      "durationSeconds": 3.528
+    },
+    {
+      "entryId": "N3-001",
+      "exampleIndex": 1,
+      "text": "試験についての質問があります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-001-2.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/nanami/N3-001-2.srt",
+      "durationSeconds": 3.216
+    },
+    {
+      "entryId": "N3-002",
+      "exampleIndex": 0,
+      "text": "費用に関しては、後で説明します。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-002-1.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/nanami/N3-002-1.srt",
+      "durationSeconds": 3.888
+    },
+    {
+      "entryId": "N3-002",
+      "exampleIndex": 1,
+      "text": "環境に関する本を読みました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-002-2.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/nanami/N3-002-2.srt",
+      "durationSeconds": 3.264
+    },
+    {
+      "entryId": "N3-003",
+      "exampleIndex": 0,
+      "text": "先生に対して失礼なことを言ってはいけません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-003-1.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/nanami/N3-003-1.srt",
+      "durationSeconds": 4.44
+    },
+    {
+      "entryId": "N3-003",
+      "exampleIndex": 1,
+      "text": "この意見に対して、質問があります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-003-2.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/nanami/N3-003-2.srt",
+      "durationSeconds": 3.768
+    },
+    {
+      "entryId": "N3-004",
+      "exampleIndex": 0,
+      "text": "兄は静かなのに対して、弟はよく話します。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-004-1.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/nanami/N3-004-1.srt",
+      "durationSeconds": 4.776
+    },
+    {
+      "entryId": "N3-004",
+      "exampleIndex": 1,
+      "text": "去年は暑かったのに対して、今年は涼しいです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-004-2.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/nanami/N3-004-2.srt",
+      "durationSeconds": 4.656
+    },
+    {
+      "entryId": "N3-005",
+      "exampleIndex": 0,
+      "text": "私にとって、家族が一番大切です。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-005-1.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/nanami/N3-005-1.srt",
+      "durationSeconds": 4.224
+    },
+    {
+      "entryId": "N3-005",
+      "exampleIndex": 1,
+      "text": "この問題は初心者にとって難しいです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-005-2.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/nanami/N3-005-2.srt",
+      "durationSeconds": 4.128
+    },
+    {
+      "entryId": "N3-006",
+      "exampleIndex": 0,
+      "text": "学生として、授業に参加します。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-006-1.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/nanami/N3-006-1.srt",
+      "durationSeconds": 3.816
+    },
+    {
+      "entryId": "N3-006",
+      "exampleIndex": 1,
+      "text": "この部屋を会議室として使います。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-006-2.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/nanami/N3-006-2.srt",
+      "durationSeconds": 3.432
+    },
+    {
+      "entryId": "N3-007",
+      "exampleIndex": 0,
+      "text": "天気予報によると、明日は雨だそうです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-007-1.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/nanami/N3-007-1.srt",
+      "durationSeconds": 4.128
+    },
+    {
+      "entryId": "N3-007",
+      "exampleIndex": 1,
+      "text": "新聞によれば、新しい橋ができるそうです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-007-2.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/nanami/N3-007-2.srt",
+      "durationSeconds": 4.392
+    },
+    {
+      "entryId": "N3-008",
+      "exampleIndex": 0,
+      "text": "好みは人によって違います。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-008-1.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/nanami/N3-008-1.srt",
+      "durationSeconds": 2.976
+    },
+    {
+      "entryId": "N3-008",
+      "exampleIndex": 1,
+      "text": "季節によって、店の営業時間が変わります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-008-2.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/nanami/N3-008-2.srt",
+      "durationSeconds": 4.344
+    },
+    {
+      "entryId": "N3-009",
+      "exampleIndex": 0,
+      "text": "大雨によって、電車が止まりました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-009-1.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/nanami/N3-009-1.srt",
+      "durationSeconds": 3.648
+    },
+    {
+      "entryId": "N3-009",
+      "exampleIndex": 1,
+      "text": "地震による被害を調べています。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-009-2.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/nanami/N3-009-2.srt",
+      "durationSeconds": 3.336
+    },
+    {
+      "entryId": "N3-010",
+      "exampleIndex": 0,
+      "text": "話し合いによって問題を解決しました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-010-1.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/nanami/N3-010-1.srt",
+      "durationSeconds": 3.72
+    },
+    {
+      "entryId": "N3-010",
+      "exampleIndex": 1,
+      "text": "練習によって、発音がよくなりました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N3-010-2.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/nanami/N3-010-2.srt",
+      "durationSeconds": 3.984
+    },
+    {
+      "entryId": "N2-001",
+      "exampleIndex": 0,
+      "text": "雨にもかかわらず、多くの人が集まりました。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-001-1.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/nanami/N2-001-1.srt",
+      "durationSeconds": 4.248
+    },
+    {
+      "entryId": "N2-001",
+      "exampleIndex": 1,
+      "text": "十分寝たにもかかわらず、まだ眠いです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-001-2.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/nanami/N2-001-2.srt",
+      "durationSeconds": 4.056
+    },
+    {
+      "entryId": "N2-002",
+      "exampleIndex": 0,
+      "text": "本を買ったものの、まだ読んでいません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-002-1.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/nanami/N2-002-1.srt",
+      "durationSeconds": 3.6
+    },
+    {
+      "entryId": "N2-002",
+      "exampleIndex": 1,
+      "text": "方法は分かったものの、実行は難しいです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-002-2.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/nanami/N2-002-2.srt",
+      "durationSeconds": 4.344
+    },
+    {
+      "entryId": "N2-003",
+      "exampleIndex": 0,
+      "text": "高いからといって、必ずしも品質がよいとは限りません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-003-1.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/nanami/N2-003-1.srt",
+      "durationSeconds": 5.16
+    },
+    {
+      "entryId": "N2-003",
+      "exampleIndex": 1,
+      "text": "忙しいからといって、約束を忘れてはいけません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-003-2.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/nanami/N2-003-2.srt",
+      "durationSeconds": 4.608
+    },
+    {
+      "entryId": "N2-004",
+      "exampleIndex": 0,
+      "text": "年齢にかかわらず、誰でも参加できます。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-004-1.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/nanami/N2-004-1.srt",
+      "durationSeconds": 4.128
+    },
+    {
+      "entryId": "N2-004",
+      "exampleIndex": 1,
+      "text": "雨が降るかどうかにかかわらず、実施します。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-004-2.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/nanami/N2-004-2.srt",
+      "durationSeconds": 4.248
+    },
+    {
+      "entryId": "N2-005",
+      "exampleIndex": 0,
+      "text": "経験の有無を問わず、募集しています。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-005-1.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/nanami/N2-005-1.srt",
+      "durationSeconds": 3.888
+    },
+    {
+      "entryId": "N2-005",
+      "exampleIndex": 1,
+      "text": "この仕事は昼夜を問わず続きます。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-005-2.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/nanami/N2-005-2.srt",
+      "durationSeconds": 3.792
+    },
+    {
+      "entryId": "N2-006",
+      "exampleIndex": 0,
+      "text": "この問題は日本に限らず、各国で起きています。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-006-1.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/nanami/N2-006-1.srt",
+      "durationSeconds": 4.776
+    },
+    {
+      "entryId": "N2-006",
+      "exampleIndex": 1,
+      "text": "子供に限らず、大人にも人気があります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-006-2.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/nanami/N2-006-2.srt",
+      "durationSeconds": 4.104
+    },
+    {
+      "entryId": "N2-007",
+      "exampleIndex": 0,
+      "text": "急いでいる日に限って、電車が遅れます。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-007-1.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/nanami/N2-007-1.srt",
+      "durationSeconds": 4.104
+    },
+    {
+      "entryId": "N2-007",
+      "exampleIndex": 1,
+      "text": "彼に限って、うそをつくはずがありません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-007-2.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/nanami/N2-007-2.srt",
+      "durationSeconds": 3.912
+    },
+    {
+      "entryId": "N2-008",
+      "exampleIndex": 0,
+      "text": "暑い日は、冷たい水に限ります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-008-1.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/nanami/N2-008-1.srt",
+      "durationSeconds": 3.768
+    },
+    {
+      "entryId": "N2-008",
+      "exampleIndex": 1,
+      "text": "疲れたときは、早く寝るに限ります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-008-2.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/nanami/N2-008-2.srt",
+      "durationSeconds": 3.864
+    },
+    {
+      "entryId": "N2-009",
+      "exampleIndex": 0,
+      "text": "元気である限り、働きたいです。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-009-1.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/nanami/N2-009-1.srt",
+      "durationSeconds": 3.624
+    },
+    {
+      "entryId": "N2-009",
+      "exampleIndex": 1,
+      "text": "ここに住んでいる限り、この規則を守ってください。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-009-2.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/nanami/N2-009-2.srt",
+      "durationSeconds": 4.632
+    },
+    {
+      "entryId": "N2-010",
+      "exampleIndex": 0,
+      "text": "本人が来ない限り、手続きはできません。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-010-1.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/nanami/N2-010-1.srt",
+      "durationSeconds": 4.128
+    },
+    {
+      "entryId": "N2-010",
+      "exampleIndex": 1,
+      "text": "雨が降らない限り、毎朝走ります。",
+      "voice": "nanami",
+      "src": "/audio/voices/nanami/N2-010-2.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/nanami/N2-010-2.srt",
+      "durationSeconds": 4.032
+    },
+    {
+      "entryId": "N3-001",
+      "exampleIndex": 0,
+      "text": "日本の文化について調べています。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-001-1.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/keita/N3-001-1.srt",
+      "durationSeconds": 3.048
+    },
+    {
+      "entryId": "N3-001",
+      "exampleIndex": 1,
+      "text": "試験についての質問があります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-001-2.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/keita/N3-001-2.srt",
+      "durationSeconds": 2.928
+    },
+    {
+      "entryId": "N3-002",
+      "exampleIndex": 0,
+      "text": "費用に関しては、後で説明します。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-002-1.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/keita/N3-002-1.srt",
+      "durationSeconds": 3.648
+    },
+    {
+      "entryId": "N3-002",
+      "exampleIndex": 1,
+      "text": "環境に関する本を読みました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-002-2.mp3",
+      "pdfPage": 121,
+      "srt": "/audio/voices/keita/N3-002-2.srt",
+      "durationSeconds": 2.88
+    },
+    {
+      "entryId": "N3-003",
+      "exampleIndex": 0,
+      "text": "先生に対して失礼なことを言ってはいけません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-003-1.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/keita/N3-003-1.srt",
+      "durationSeconds": 3.792
+    },
+    {
+      "entryId": "N3-003",
+      "exampleIndex": 1,
+      "text": "この意見に対して、質問があります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-003-2.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/keita/N3-003-2.srt",
+      "durationSeconds": 3.6
+    },
+    {
+      "entryId": "N3-004",
+      "exampleIndex": 0,
+      "text": "兄は静かなのに対して、弟はよく話します。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-004-1.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/keita/N3-004-1.srt",
+      "durationSeconds": 4.392
+    },
+    {
+      "entryId": "N3-004",
+      "exampleIndex": 1,
+      "text": "去年は暑かったのに対して、今年は涼しいです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-004-2.mp3",
+      "pdfPage": 122,
+      "srt": "/audio/voices/keita/N3-004-2.srt",
+      "durationSeconds": 4.344
+    },
+    {
+      "entryId": "N3-005",
+      "exampleIndex": 0,
+      "text": "私にとって、家族が一番大切です。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-005-1.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/keita/N3-005-1.srt",
+      "durationSeconds": 4.008
+    },
+    {
+      "entryId": "N3-005",
+      "exampleIndex": 1,
+      "text": "この問題は初心者にとって難しいです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-005-2.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/keita/N3-005-2.srt",
+      "durationSeconds": 3.72
+    },
+    {
+      "entryId": "N3-006",
+      "exampleIndex": 0,
+      "text": "学生として、授業に参加します。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-006-1.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/keita/N3-006-1.srt",
+      "durationSeconds": 3.552
+    },
+    {
+      "entryId": "N3-006",
+      "exampleIndex": 1,
+      "text": "この部屋を会議室として使います。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-006-2.mp3",
+      "pdfPage": 123,
+      "srt": "/audio/voices/keita/N3-006-2.srt",
+      "durationSeconds": 3.024
+    },
+    {
+      "entryId": "N3-007",
+      "exampleIndex": 0,
+      "text": "天気予報によると、明日は雨だそうです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-007-1.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/keita/N3-007-1.srt",
+      "durationSeconds": 3.936
+    },
+    {
+      "entryId": "N3-007",
+      "exampleIndex": 1,
+      "text": "新聞によれば、新しい橋ができるそうです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-007-2.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/keita/N3-007-2.srt",
+      "durationSeconds": 4.152
+    },
+    {
+      "entryId": "N3-008",
+      "exampleIndex": 0,
+      "text": "好みは人によって違います。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-008-1.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/keita/N3-008-1.srt",
+      "durationSeconds": 2.712
+    },
+    {
+      "entryId": "N3-008",
+      "exampleIndex": 1,
+      "text": "季節によって、店の営業時間が変わります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-008-2.mp3",
+      "pdfPage": 124,
+      "srt": "/audio/voices/keita/N3-008-2.srt",
+      "durationSeconds": 4.176
+    },
+    {
+      "entryId": "N3-009",
+      "exampleIndex": 0,
+      "text": "大雨によって、電車が止まりました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-009-1.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/keita/N3-009-1.srt",
+      "durationSeconds": 3.48
+    },
+    {
+      "entryId": "N3-009",
+      "exampleIndex": 1,
+      "text": "地震による被害を調べています。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-009-2.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/keita/N3-009-2.srt",
+      "durationSeconds": 2.976
+    },
+    {
+      "entryId": "N3-010",
+      "exampleIndex": 0,
+      "text": "話し合いによって問題を解決しました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-010-1.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/keita/N3-010-1.srt",
+      "durationSeconds": 3.456
+    },
+    {
+      "entryId": "N3-010",
+      "exampleIndex": 1,
+      "text": "練習によって、発音がよくなりました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N3-010-2.mp3",
+      "pdfPage": 125,
+      "srt": "/audio/voices/keita/N3-010-2.srt",
+      "durationSeconds": 3.696
+    },
+    {
+      "entryId": "N2-001",
+      "exampleIndex": 0,
+      "text": "雨にもかかわらず、多くの人が集まりました。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-001-1.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/keita/N2-001-1.srt",
+      "durationSeconds": 4.056
+    },
+    {
+      "entryId": "N2-001",
+      "exampleIndex": 1,
+      "text": "十分寝たにもかかわらず、まだ眠いです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-001-2.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/keita/N2-001-2.srt",
+      "durationSeconds": 3.936
+    },
+    {
+      "entryId": "N2-002",
+      "exampleIndex": 0,
+      "text": "本を買ったものの、まだ読んでいません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-002-1.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/keita/N2-002-1.srt",
+      "durationSeconds": 3.408
+    },
+    {
+      "entryId": "N2-002",
+      "exampleIndex": 1,
+      "text": "方法は分かったものの、実行は難しいです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-002-2.mp3",
+      "pdfPage": 214,
+      "srt": "/audio/voices/keita/N2-002-2.srt",
+      "durationSeconds": 4.296
+    },
+    {
+      "entryId": "N2-003",
+      "exampleIndex": 0,
+      "text": "高いからといって、必ずしも品質がよいとは限りません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-003-1.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/keita/N2-003-1.srt",
+      "durationSeconds": 4.728
+    },
+    {
+      "entryId": "N2-003",
+      "exampleIndex": 1,
+      "text": "忙しいからといって、約束を忘れてはいけません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-003-2.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/keita/N2-003-2.srt",
+      "durationSeconds": 4.416
+    },
+    {
+      "entryId": "N2-004",
+      "exampleIndex": 0,
+      "text": "年齢にかかわらず、誰でも参加できます。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-004-1.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/keita/N2-004-1.srt",
+      "durationSeconds": 3.984
+    },
+    {
+      "entryId": "N2-004",
+      "exampleIndex": 1,
+      "text": "雨が降るかどうかにかかわらず、実施します。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-004-2.mp3",
+      "pdfPage": 215,
+      "srt": "/audio/voices/keita/N2-004-2.srt",
+      "durationSeconds": 4.008
+    },
+    {
+      "entryId": "N2-005",
+      "exampleIndex": 0,
+      "text": "経験の有無を問わず、募集しています。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-005-1.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/keita/N2-005-1.srt",
+      "durationSeconds": 3.624
+    },
+    {
+      "entryId": "N2-005",
+      "exampleIndex": 1,
+      "text": "この仕事は昼夜を問わず続きます。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-005-2.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/keita/N2-005-2.srt",
+      "durationSeconds": 3.384
+    },
+    {
+      "entryId": "N2-006",
+      "exampleIndex": 0,
+      "text": "この問題は日本に限らず、各国で起きています。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-006-1.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/keita/N2-006-1.srt",
+      "durationSeconds": 4.368
+    },
+    {
+      "entryId": "N2-006",
+      "exampleIndex": 1,
+      "text": "子供に限らず、大人にも人気があります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-006-2.mp3",
+      "pdfPage": 216,
+      "srt": "/audio/voices/keita/N2-006-2.srt",
+      "durationSeconds": 3.864
+    },
+    {
+      "entryId": "N2-007",
+      "exampleIndex": 0,
+      "text": "急いでいる日に限って、電車が遅れます。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-007-1.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/keita/N2-007-1.srt",
+      "durationSeconds": 3.912
+    },
+    {
+      "entryId": "N2-007",
+      "exampleIndex": 1,
+      "text": "彼に限って、うそをつくはずがありません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-007-2.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/keita/N2-007-2.srt",
+      "durationSeconds": 3.768
+    },
+    {
+      "entryId": "N2-008",
+      "exampleIndex": 0,
+      "text": "暑い日は、冷たい水に限ります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-008-1.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/keita/N2-008-1.srt",
+      "durationSeconds": 3.552
+    },
+    {
+      "entryId": "N2-008",
+      "exampleIndex": 1,
+      "text": "疲れたときは、早く寝るに限ります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-008-2.mp3",
+      "pdfPage": 217,
+      "srt": "/audio/voices/keita/N2-008-2.srt",
+      "durationSeconds": 3.504
+    },
+    {
+      "entryId": "N2-009",
+      "exampleIndex": 0,
+      "text": "元気である限り、働きたいです。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-009-1.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/keita/N2-009-1.srt",
+      "durationSeconds": 3.312
+    },
+    {
+      "entryId": "N2-009",
+      "exampleIndex": 1,
+      "text": "ここに住んでいる限り、この規則を守ってください。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-009-2.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/keita/N2-009-2.srt",
+      "durationSeconds": 4.128
+    },
+    {
+      "entryId": "N2-010",
+      "exampleIndex": 0,
+      "text": "本人が来ない限り、手続きはできません。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-010-1.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/keita/N2-010-1.srt",
+      "durationSeconds": 3.816
+    },
+    {
+      "entryId": "N2-010",
+      "exampleIndex": 1,
+      "text": "雨が降らない限り、毎朝走ります。",
+      "voice": "keita",
+      "src": "/audio/voices/keita/N2-010-2.mp3",
+      "pdfPage": 218,
+      "srt": "/audio/voices/keita/N2-010-2.srt",
+      "durationSeconds": 3.696
     }
   ],
-  "scope": "N5-001～003、N4-001～003 的两个原始日语例句；两种声音，常速，仅日语。未试听，非完整讲解版。",
+  "scope": "N5/N4各前三条、N3/N2各前十条；26条语法、52个原句、两种声音，共104片。仅日语例句，未试听。",
   "listened": false
 }

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-008",
+  "exampleIndex": 1,
+  "text": "季節によって、店の営業時間が変わります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 124,
+  "signature": "6448acb86c3586ea487493f63c4b10894e613e7bac3c7005dd01efa614c18bd4",
+  "src": "/audio/voices/nanami/N3-008-2.mp3",
+  "srt": "/audio/voices/nanami/N3-008-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "8a184c9fe778fb4f013212e37c26909b2ae10a942011ff14449b913a8ca3997f",
+  "peakPcm": 21866,
+  "rmsDbfs": -17.55,
+  "rate": "+0%",
+  "listened": false
+}

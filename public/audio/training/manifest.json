@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "id": "nanami",
+      "label": "Nanami · 日语女声",
+      "voice": "ja-JP-NanamiNeural"
+    }
+  ],
+  "clips": [
+    {
+      "entryId": "n2-listening-001",
+      "exampleIndex": 0,
+      "text": "明日の見学会についてお知らせします。集合は九時の予定でしたが、バスの出発が早まったため、八時四十分までに駅の東口へお越しください。雨でも見学会は行います。昼食はこちらで用意しますので、お弁当は必要ありません。帰りは予定どおり、午後四時に同じ場所に到着する見込みです。遅れそうな方は、出発前に担当者へ電話してください。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-listening-001.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-listening-001.srt",
+      "durationSeconds": 32.448
+    },
+    {
+      "entryId": "n2-listening-002",
+      "exampleIndex": 0,
+      "text": "来週の説明会の資料ですが、印刷する前に、申し込み人数を確認してください。会場の机を並べるのは明日でかまいません。人数が分かり次第、その人数に五部を加えて資料を印刷してください。印刷が終わったら、受付用の箱に入れておいてください。参加者への案内メールは、私が今日中に送ります。皆さんが送る必要はありません。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-listening-002.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-listening-002.srt",
+      "durationSeconds": 30.864
+    },
+    {
+      "entryId": "n2-listening-003",
+      "exampleIndex": 0,
+      "text": "市民センターからのお知らせです。明日は設備の点検に伴って、二階の学習室と会議室が終日使えません。一階の読書コーナーは通常どおり開いており、予約も不要です。三階の作業室も利用できますが、前日までの予約が必要です。なお、本の返却だけなら、建物の外にある返却ボックスを二十四時間ご利用いただけます。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-listening-003.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-listening-003.srt",
+      "durationSeconds": 30.024
+    },
+    {
+      "entryId": "n2-listening-004",
+      "exampleIndex": 0,
+      "text": "私は以前、一日に覚える単語を多くしすぎて、三日で勉強をやめてしまいました。それ以来、疲れている日でもできる量を決めています。時間がある日は多めに勉強しますが、次の日のノルマは増やしません。毎日長く勉強すれば必ず続くというわけではありません。まずは少ない量でも、生活の中に無理なく組み込むことが大切だと思います。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-listening-004.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-listening-004.srt",
+      "durationSeconds": 29.328
+    }
+  ],
+  "scope": "四道原创N2备考听力练习，含一道N3过渡训练；Nanami日语女声常速独白。合成音频，非真人录音；未试听。",
+  "synthetic": true,
+  "listened": false
+}

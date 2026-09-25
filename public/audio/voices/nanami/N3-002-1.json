@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-002",
+  "exampleIndex": 0,
+  "text": "費用に関しては、後で説明します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 121,
+  "signature": "e1ea0d1d47baa6361d4cfa95c06534de4f1492aae018189ea60fd4cceb5fcba9",
+  "src": "/audio/voices/nanami/N3-002-1.mp3",
+  "srt": "/audio/voices/nanami/N3-002-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "d33eaff5f62686dc082baa0aa24d12af31b275941b3b315e4b87c1ca6629460d",
+  "peakPcm": 22491,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

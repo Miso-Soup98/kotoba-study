@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-002",
+  "exampleIndex": 1,
+  "text": "環境に関する本を読みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 121,
+  "signature": "5dbf312bbac59ea015dc99861cbd721806f452f6eb7f83eade4bbdcb14a730f5",
+  "src": "/audio/voices/nanami/N3-002-2.mp3",
+  "srt": "/audio/voices/nanami/N3-002-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "eedc70171c750391ea489ef7168f10af10978251e206bcc891d8f2d6eac79f40",
+  "peakPcm": 21490,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

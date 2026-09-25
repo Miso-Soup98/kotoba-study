@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-007",
+  "exampleIndex": 0,
+  "text": "急いでいる日に限って、電車が遅れます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 217,
+  "signature": "7db67db680ecefc7e5f743aa714a9891e3f6ba18e91d75bf41c18fadf6ce9c8a",
+  "src": "/audio/voices/nanami/N2-007-1.mp3",
+  "srt": "/audio/voices/nanami/N2-007-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "97840540601819dffb14190e6a17132f4a96a3b76c906484df962aef3265099e",
+  "peakPcm": 22265,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

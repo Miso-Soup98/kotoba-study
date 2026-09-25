@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-008",
+  "exampleIndex": 0,
+  "text": "暑い日は、冷たい水に限ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 217,
+  "signature": "dc9a1e37c5e2c4cf7ad797e57dcbb9c28dd9325cb321c371006d9874fb4ad6e6",
+  "src": "/audio/voices/nanami/N2-008-1.mp3",
+  "srt": "/audio/voices/nanami/N2-008-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "f1701023a6d0e08d2e0074a3480d0ac8adecba945d658095a4c4cbc426898202",
+  "peakPcm": 21585,
+  "rmsDbfs": -18.72,
+  "rate": "+0%",
+  "listened": false
+}

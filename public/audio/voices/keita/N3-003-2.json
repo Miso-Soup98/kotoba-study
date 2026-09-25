@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-003",
+  "exampleIndex": 1,
+  "text": "この意見に対して、質問があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 122,
+  "signature": "f27309d8331812923d788169243268b07cba05eb621af296c2db460744c9d8df",
+  "src": "/audio/voices/keita/N3-003-2.mp3",
+  "srt": "/audio/voices/keita/N3-003-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "00409527e76e7c0ba061d3c8e10e6a6bc8e96b6c98ae81e17ff4ef82ce122482",
+  "peakPcm": 20673,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

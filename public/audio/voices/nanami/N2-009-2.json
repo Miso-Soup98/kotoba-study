@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-009",
+  "exampleIndex": 1,
+  "text": "ここに住んでいる限り、この規則を守ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 218,
+  "signature": "7855f8eb69040887481e2ed2b99498ad5647251fa04e8e9a33890850f32648a6",
+  "src": "/audio/voices/nanami/N2-009-2.mp3",
+  "srt": "/audio/voices/nanami/N2-009-2.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "1ebd17177d030902c671afebb7c63fe5306500d30bd46d6c50a50b39153d5cfc",
+  "peakPcm": 21506,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

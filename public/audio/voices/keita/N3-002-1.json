@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-002",
+  "exampleIndex": 0,
+  "text": "費用に関しては、後で説明します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 121,
+  "signature": "6a5a7a676b869210a8c6d6271fbf23788af45719181f868fbf868c1ce3fd60cb",
+  "src": "/audio/voices/keita/N3-002-1.mp3",
+  "srt": "/audio/voices/keita/N3-002-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "f46c9adf5ede85c8950e01661543491c0cb02be1c4ef2151e0a4229ba35a28f4",
+  "peakPcm": 24358,
+  "rmsDbfs": -21.26,
+  "rate": "+0%",
+  "listened": false
+}

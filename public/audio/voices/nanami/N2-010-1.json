@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-010",
+  "exampleIndex": 0,
+  "text": "本人が来ない限り、手続きはできません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 218,
+  "signature": "995e32b8ba6ea4a2278b3e7eb5bf9a9ac267a01924aeb5810af74746e7eb5908",
+  "src": "/audio/voices/nanami/N2-010-1.mp3",
+  "srt": "/audio/voices/nanami/N2-010-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "ade18f3310f42e76dac5ff4fbca9b135225bc8374fd5238aed955be505f481bc",
+  "peakPcm": 21311,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

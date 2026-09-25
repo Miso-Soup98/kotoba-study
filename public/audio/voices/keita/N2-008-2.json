@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-008",
+  "exampleIndex": 1,
+  "text": "疲れたときは、早く寝るに限ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 217,
+  "signature": "76373564ab841c27f6ae4b5958181287ae54747f9c995a6d34e2212c1e3397c4",
+  "src": "/audio/voices/keita/N2-008-2.mp3",
+  "srt": "/audio/voices/keita/N2-008-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "c9ac6495e18aca6c4215cf4d61b46fea002227c658b27262072ca74a65080ce2",
+  "peakPcm": 23955,
+  "rmsDbfs": -20.82,
+  "rate": "+0%",
+  "listened": false
+}

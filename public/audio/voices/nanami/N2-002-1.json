@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-002",
+  "exampleIndex": 0,
+  "text": "本を買ったものの、まだ読んでいません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 214,
+  "signature": "4236da3110d4d4d637153d0e5c0a71d3f040deaa24be433e486501ef5833d475",
+  "src": "/audio/voices/nanami/N2-002-1.mp3",
+  "srt": "/audio/voices/nanami/N2-002-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "4f04f5a518322336c9ce0146a56ad0fe553cee8cf043d8f4fd412d49d1b96dbe",
+  "peakPcm": 20951,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}
