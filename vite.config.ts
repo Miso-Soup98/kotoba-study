@@ -53,7 +53,14 @@ export default defineConfig(async () => {
   return {
     server: {
       ...(managedLinux ? { host: "0.0.0.0", allowedHosts: ["terminal.local"] } : {}),
-      ...(isCodexSeatbeltSandbox ? { watch: { useFsEvents: false, usePolling: true } } : {}),
+      watch: {
+        // Deployment archives, local databases and private corpora are not HMR inputs.
+        ignored: ["**/.sites-runtime/**", "**/.wrangler/**", "**/.vinext/**",
+          "**/.next/**", "**/dist/**", "**/out/**", "**/outputs/**", "**/work/**",
+          "**/private-content/**", "**/ted-export/**", "**/.venv/**", "**/coverage/**",
+          "**/*.tsbuildinfo", "**/*.log", "**/*.tar.gz"],
+        ...(isCodexSeatbeltSandbox ? { useFsEvents: false, usePolling: true } : {}),
+      },
     },
     plugins: [
       vinext(),

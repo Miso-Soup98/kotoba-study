@@ -17,6 +17,14 @@ class FakeMedia {
   preservesPitch = false;
   paused = true;
   plays = 0;
+  loads = 0;
+  removeAttribute(name: string) {
+    if (name === "src") this.src = "";
+  }
+  load() {
+    this.loads++;
+    this.paused = true;
+  }
   play() {
     this.paused = false;
     this.plays++;
@@ -155,4 +163,36 @@ test("pause then resume ignores a delayed AbortError from the initial play on th
   assert.ok(media.onended);
   media.onended?.();
   await done;
+});
+
+
+test("dispose settles playback, releases its source and safely permits later playback", async () => {
+  const elements: FakeMedia[] = [];
+  const player = new FileAudio(() => {
+    const media = new FakeMedia();
+    elements.push(media);
+    return media as unknown as HTMLAudioElement;
+  });
+  const first = player.play("/old.mp3", 1);
+  const oldMedia = elements[0];
+  const oldEnd = oldMedia.onended;
+  player.dispose();
+  await first;
+  assert.equal(oldMedia.paused, true);
+  assert.equal(oldMedia.src, "");
+  assert.equal(oldMedia.loads, 1);
+  assert.equal(oldMedia.onended, null);
+  assert.equal(oldMedia.onerror, null);
+  assert.equal(oldMedia.onwaiting, null);
+  assert.equal(oldMedia.onplaying, null);
+  player.dispose();
+  assert.equal(oldMedia.loads, 1, "repeated cleanup is harmless");
+  const second = player.play("/new.mp3", 1);
+  assert.equal(elements.length, 2);
+  oldEnd?.();
+  assert.equal(elements[1].paused, false, "a stale completion cannot stop the new media");
+  elements[1].onended?.();
+  await second;
+  player.dispose();
+  assert.equal(elements[1].src, "");
 });

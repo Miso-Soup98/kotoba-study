@@ -61,6 +61,7 @@ import { Toaster, toast } from "sonner";
 import { useStudy } from "@/lib/study/use-study";
 import { useAudio } from "@/lib/study/use-audio";
 import { RuntimeStatus } from "@/components/runtime-status";
+import { SampleAudio } from "@/components/sample-audio";
 import { adaptivePlan } from "@/lib/training/planner";
 import {
   audioRoute,
@@ -1633,14 +1634,9 @@ export default function StudyApp({
                   {["N5-001", "N5-002", "N5-003"].map((id) => (
                     <div className="sample-track" key={id}>
                       <strong>{id}</strong>
-                      <audio
-                        controls
-                        preload="none"
-                        src={`/audio/${id}.mp3`}
-                        ref={(element) => {
-                          if (element) sampleTracks.current.set(id, element);
-                          else sampleTracks.current.delete(id);
-                        }}
+                      <SampleAudio
+                        id={id}
+                        tracks={sampleTracks}
                         onPlay={() => {
                           audio.stop();
                           sampleTracks.current.forEach((track, key) => {
@@ -1663,7 +1659,7 @@ export default function StudyApp({
                 </section>
               </div>
               <div className="about-line">
-                <span>言葉 · v0.4.0 · 全量 622 条 / 1,244 例句</span>
+                <span>言葉 · v0.4.1 · 全量 622 条 / 1,244 例句</span>
                 <a
                   href="https://github.com/Miso-Soup98/kotoba-study"
                   target="_blank"

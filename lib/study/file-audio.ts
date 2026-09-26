@@ -29,6 +29,16 @@ export class FileAudio {
     this.held = false;
     this.clearTimer();
   }
+  /** End ownership of the media resource; a later play creates a fresh element. */
+  dispose() {
+    this.stop();
+    const media = this.element;
+    this.element = null;
+    if (!media) return;
+    media.onended = media.onerror = media.onplaying = media.onwaiting = null;
+    media.removeAttribute("src");
+    media.load();
+  }
   pause() {
     this.attempt++;
     this.held = true;

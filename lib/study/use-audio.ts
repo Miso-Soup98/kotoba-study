@@ -27,7 +27,7 @@ export function useAudio(
       window.speechSynthesis.addEventListener("voiceschanged", refresh);
     return () => {
       run.current++;
-      files.current?.stop();
+      files.current?.dispose();
       if ("speechSynthesis" in window) {
         window.speechSynthesis.removeEventListener("voiceschanged", refresh);
         window.speechSynthesis.cancel();

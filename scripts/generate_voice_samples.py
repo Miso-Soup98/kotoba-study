@@ -120,9 +120,11 @@ def decode(path: Path, ffmpeg: str) -> dict:
     if not path.is_file() or path.stat().st_size < 300:
         raise ValueError('MP3 缺失或过小。')
     process = subprocess.run([
-        ffmpeg, '-nostdin', '-hide_banner', '-loglevel', 'error', '-i', str(path),
-        '-ac', '1', '-ar', str(SAMPLE_RATE), '-f', 's16le', 'pipe:1',
-    ], capture_output=True, timeout=60)
+        ffmpeg, '-nostdin', '-hide_banner', '-loglevel', 'error', '-threads', '1', '-i', str(path),
+        # Decode at most one second beyond the accepted duration. Long/corrupt
+        # inputs are rejected below without buffering an unbounded PCM stream.
+        '-t', '61', '-ac', '1', '-ar', str(SAMPLE_RATE), '-f', 's16le', 'pipe:1',
+    ], stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, timeout=60)
     if process.returncode:
         raise ValueError(f'MP3 完整解码失败，FFmpeg 退出码 {process.returncode}。')
     pcm = array.array('h', process.stdout)
@@ -135,9 +137,13 @@ def decode(path: Path, ffmpeg: str) -> dict:
     rms = math.sqrt(sum(value * value for value in pcm) / len(pcm))
     if rms <= 1:
         raise ValueError('音频为空或几乎全静音。')
+    digest = hashlib.sha256()
+    with path.open('rb') as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b''):
+            digest.update(chunk)
     return {
         'durationSeconds': round(duration, 3), 'bytes': path.stat().st_size,
-        'sha256': hashlib.sha256(path.read_bytes()).hexdigest(),
+        'sha256': digest.hexdigest(),
         'peakPcm': peak, 'rmsDbfs': round(20 * math.log10(rms / 32768), 2),
     }
 

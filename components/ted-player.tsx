@@ -160,6 +160,7 @@ export function TedPlayer(props: Props) {
     }
   }
   useEffect(() => {
+    if (!playing || !active) return;
     const timer = setInterval(() => {
       const audio = media.current,
         loop = live.current.loops[loopState.current.active];
@@ -172,7 +173,7 @@ export function TedPlayer(props: Props) {
         finishLoop();
     }, 40);
     return () => clearInterval(timer);
-  }, []);
+  }, [playing, active]);
   useEffect(() => {
     if (active && !props.loops[active]) {
       clearWait();

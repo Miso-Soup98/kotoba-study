@@ -398,5 +398,30 @@ test("effect replay restores the same article source after disposing the previou
   player.replayEffects();
   assert.equal(player.audio.loads, 1);
   assert.equal(player.audio.src, "/api/ted/media?id=ted-new-001&kind=audio");
+  assert.equal(player.intervals.size, 0, "idle replay must not start a polling timer");
+});
+
+
+test("the loop clock runs only for active playback and stops on pause, loop exit, and completion", async () => {
+  const player = makePlayer();
+  assert.equal(player.intervals.size, 0, "opening a TED article does not start an idle clock");
+  await player.startLoop();
   assert.equal(player.intervals.size, 1);
+  await player.click("暂停音频");
+  assert.equal(player.intervals.size, 0);
+  await player.click("播放音频");
+  assert.equal(player.intervals.size, 1, "resume restores one clock");
+  await player.seek("slider");
+  assert.equal(player.audio.paused, false);
+  assert.equal(player.intervals.size, 0, "ordinary playback needs no loop clock");
+  await player.startLoop();
+  assert.equal(player.intervals.size, 1);
+  await player.finishPass();
+  await player.completeGap();
+  await player.finishPass();
+  await player.completeGap();
+  await player.finishPass();
+  assert.equal(player.audio.paused, true);
+  assert.equal(player.intervals.size, 0, "the final repetition releases the clock");
+  player.unmount();
 });
