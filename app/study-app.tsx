@@ -62,6 +62,7 @@ import { useStudy } from "@/lib/study/use-study";
 import { useAudio } from "@/lib/study/use-audio";
 import { RuntimeStatus } from "@/components/runtime-status";
 import { SampleAudio } from "@/components/sample-audio";
+import { ListeningCardReview } from "@/components/listening-card";
 import { adaptivePlan } from "@/lib/training/planner";
 import {
   audioRoute,
@@ -241,7 +242,7 @@ export default function StudyApp({
       ([id, s]) =>
         s.enrolled &&
         s.card.due.getTime() <= tick &&
-        (byId.has(id) || wordById.has(id)),
+        (byId.has(id) || wordById.has(id) || !!model.listeningCards[id]),
     )
     .sort((a, b) => a[1].card.due.getTime() - b[1].card.due.getTime());
   const dailyReviews = useMemo(() => {
@@ -275,6 +276,7 @@ export default function StudyApp({
   const activeCard = due.find(([id]) => id === reviewId) ?? due[0];
   const reviewEntry = activeCard ? byId.get(activeCard[0]) : undefined;
   const reviewWord = activeCard ? wordById.get(activeCard[0]) : undefined;
+  const reviewListening = activeCard ? model.listeningCards[activeCard[0]] : undefined;
   const recommendation =
     entries.find((e) => e.level === "N3" && !model.cards[e.id]?.enrolled) ??
     entries.find((e) => e.level === "N2" && !model.cards[e.id]?.enrolled);
@@ -403,6 +405,7 @@ export default function StudyApp({
   async function rate(rating: number) {
     if (!activeCard || busy) return;
     setBusy(true);
+    window.dispatchEvent(new Event("kotoba:stop-ted"));
     const [id, state] = activeCard;
     try {
       await save("review", id, rating, state.revision);
@@ -1157,10 +1160,15 @@ export default function StudyApp({
               {activeCard ? (
                 <div className="review-area">
                   <div className="review-top">
-                    <span>{reviewEntry ? "语法理解卡" : "生词卡"}</span>
+                    <span>{reviewListening ? "原声听力卡" : reviewEntry ? "语法理解卡" : "生词卡"}</span>
                     <span>待复习 {due.length} 张</span>
                   </div>
                   <article className={`flashcard ${flipped ? "flipped" : ""}`}>
+                    {reviewListening ? <ListeningCardReview card={reviewListening} flipped={flipped}
+                      onFlip={() => setFlipped(true)} onStart={() => {
+                        audio.stop(); sampleTracks.current.forEach(track => track.pause());
+                        window.dispatchEvent(new Event("kotoba:stop-ted"));
+                      }} /> : <>
                     <span className="level-badge">
                       {reviewEntry?.level ?? "生词"}
                     </span>
@@ -1243,6 +1251,7 @@ export default function StudyApp({
                         <ArrowRight size={17} />
                       </button>
                     )}
+                    </>}
                   </article>
                   {flipped && (
                     <div className="rating-row">
@@ -1278,7 +1287,7 @@ export default function StudyApp({
                   <button
                     className="text-button"
                     onClick={() =>
-                      openEntry(reviewEntry?.id ?? reviewWord!.source)
+                      openEntry(reviewListening?.articleId ?? reviewEntry?.id ?? reviewWord!.source)
                     }
                   >
                     回到原文
@@ -1317,6 +1326,16 @@ export default function StudyApp({
                   次多设备重复评分已保留在历史中，没有重复推进复习间隔。
                 </p>
               )}
+              {!!Object.keys(model.listeningCards).length && <details className="panel listening-card-list">
+                <summary>我的原声听力卡（{Object.keys(model.listeningCards).length}）</summary>
+                {Object.values(model.listeningCards).map(card => <div className="course-item" key={card.id}>
+                  <span>{card.label}<small>{card.articleTitle}</small></span>
+                  <button className="text-button" onClick={() => openEntry(card.articleId)}>回原文</button>
+                  <button className="secondary compact" onClick={() => void action(() => save("enroll", card.id, !model.cards[card.id]?.enrolled))}>
+                    {model.cards[card.id]?.enrolled ? "暂停复习" : "恢复复习"}
+                  </button>
+                </div>)}
+              </details>}
             </>
           )}
           {view === "ted" && (
@@ -1339,6 +1358,7 @@ export default function StudyApp({
               <Training
                 key={session?.userId ?? "anonymous"}
                 study={study}
+                entries={entries}
                 onGrammar={openEntry}
                 onStartAudio={() => {
                   audio.stop();
@@ -1659,7 +1679,7 @@ export default function StudyApp({
                 </section>
               </div>
               <div className="about-line">
-                <span>言葉 · v0.4.1 · 全量 622 条 / 1,244 例句</span>
+                <span>言葉 · v0.5.0-dev · 全量 622 条 / 1,244 例句</span>
                 <a
                   href="https://github.com/Miso-Soup98/kotoba-study"
                   target="_blank"

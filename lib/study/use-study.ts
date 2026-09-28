@@ -233,6 +233,21 @@ export function useStudy() {
     },
     [session, publishCache],
   );
+  const appendBatch = useCallback(async (inputs: { kind: EventKind; entity: string; value: unknown; base?: string | null }[]) => {
+    const uid = session?.userId;
+    if (!uid || active.current !== uid) throw Error("请先登录，再保存学习记录");
+    if (!inputs.length || inputs.length > 25) throw Error("一次最多保存25项");
+    const events: StudyEvent[] = inputs.map(input => ({ ...input, id: crypto.randomUUID(), at: Date.now() }));
+    if (events.some(event => !eventSchema.safeParse(event).success)) throw Error("记录内容无效或过长，未保存");
+    const next = await updateCache(uid, c => ({ ...c, pending: [...c.pending, ...events] }));
+    if (active.current === uid) publishCache(next);
+    if ("BroadcastChannel" in window) {
+      const channel = new BroadcastChannel("kotoba:" + uid);
+      channel.postMessage("change");
+      channel.close();
+    }
+    return events;
+  }, [session, publishCache]);
   const model = useMemo(
     () => rebuild(combineEvents(cache.events, cache.pending)),
     [cache],
@@ -256,6 +271,7 @@ export function useStudy() {
     error,
     sync,
     append,
+    appendBatch,
     importEvents,
     signout,
   };

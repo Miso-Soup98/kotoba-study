@@ -23,7 +23,7 @@ APP = Path(__file__).resolve().parents[1]
 DATA = APP / 'public' / 'data' / 'n2-questions.json'
 OUTPUT = APP / 'public' / 'audio' / 'training'
 MANIFEST = OUTPUT / 'manifest.json'
-SCOPE = '原创N2备考听力练习，含N3过渡训练；Nanami日语女声常速独白。合成音频，非真人录音；未试听。'
+SCOPE = '原创N2备考听力练习，含N4诊断与N3过渡训练；Nanami日语女声常速独白。合成音频，非真人录音；未试听。'
 
 spec = importlib.util.spec_from_file_location('voice_samples', Path(__file__).with_name('generate_voice_samples.py'))
 voice = importlib.util.module_from_spec(spec)
@@ -55,7 +55,7 @@ def plans() -> list[dict]:
     speaker = voice.VOICES[0]
     for draft in drafts:
         item_id, text = draft.get('id'), draft.get('transcript')
-        if not isinstance(item_id, str) or not re.fullmatch(r'n2-listening-\d{3}', item_id) or item_id in seen:
+        if not isinstance(item_id, str) or not re.fullmatch(r'n2-(?:listening-\d{3}|v05-[dpc]-listening-\d{2})', item_id) or item_id in seen:
             raise ValueError('听力题编号错误或重复。')
         seen.add(item_id)
         if not isinstance(text, str) or not text.strip() or len(text) > 240 or re.search(r'[（(][ぁ-ゖァ-ヺー]+[）)]', text):

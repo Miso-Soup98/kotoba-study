@@ -7,7 +7,7 @@ export function lookupWord(article: TedArticle, token: TedToken) {
   );
   if (correction) {
     const checked = article.glossary.find(
-      (g) => g.term === (correction.correctedTerm || correction.term),
+      (g) => !g.displayHidden && g.term === (correction.correctedTerm || correction.term),
     );
     if (checked)
       return {
@@ -27,6 +27,7 @@ export function lookupWord(article: TedArticle, token: TedToken) {
       .replace(/[（(][ぁ-んァ-ヶー]+[）)]/g, "");
   const local = article.glossary.find(
     (g) =>
+      !g.displayHidden &&
       (!g.reading || g.reading === token.reading) &&
       [token.lemma, token.surface].some(
         (t) => normalized(g.term) === normalized(t),

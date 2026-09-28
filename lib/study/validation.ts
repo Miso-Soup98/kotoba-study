@@ -1,6 +1,8 @@
 import { z } from "zod";
 import { parsedLoop, tedId, tedWordSchema } from "../ted/validation.ts";
 import { parsedPractice } from "../training/validation.ts";
+import { parseListeningCard } from "./listening-card.ts";
+import { parseTrainingSession } from "../training/session.ts";
 const jsonValue = z.union([
   z.string().max(12000),
   z.number().finite(),
@@ -22,6 +24,9 @@ export const eventSchema = z
       "ted_word",
       "ted_progress",
       "practice",
+      "listening_card",
+      "training_session",
+      "training_finish",
     ]),
     entity: z.string().min(1).max(200),
     value: jsonValue,
@@ -31,6 +36,19 @@ export const eventSchema = z
   })
   .strict()
   .superRefine((e, ctx) => {
+    if (e.kind === "listening_card") {
+      const card = parseListeningCard(e.value);
+      if (!card.success || card.data.id !== e.entity)
+        ctx.addIssue({ code: "custom", message: "听力卡无效" });
+    }
+    if (e.kind === "training_session") {
+      const session = parseTrainingSession(e.value);
+      if (!session.success || e.entity !== `session:${session.data.id}`)
+        ctx.addIssue({ code: "custom", message: "训练进度无效" });
+    }
+    if (e.kind === "training_finish" &&
+        (!/^session:[0-9a-f-]{36}$/.test(e.entity) || !["finished", "abandoned"].includes(String(e.value))))
+      ctx.addIssue({ code: "custom", message: "训练结束记录无效" });
     if (e.kind === "practice") {
       const result = parsedPractice(e.value);
       if (!result.success || e.entity !== `practice:${result.data.questionId}`)

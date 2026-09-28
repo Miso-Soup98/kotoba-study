@@ -23,6 +23,7 @@ type Props = {
   onProgress: (time: number) => Promise<unknown>;
   onStart: () => void;
   onActive: (paragraph?: string) => void;
+  onListeningCard?: (id: string, loop: TedLoop) => void;
 };
 export function TedPlayer(props: Props) {
   const media = useRef<HTMLAudioElement>(null);
@@ -568,6 +569,9 @@ export function TedPlayer(props: Props) {
                 </small>
               </span>
             </button>
+            {props.onListeningCard && <button className="text-button" onClick={() => props.onListeningCard?.(id, loop)}>
+              加入听力复习
+            </button>}
             <button
               className="icon-button"
               aria-label={`编辑${loop.label}`}

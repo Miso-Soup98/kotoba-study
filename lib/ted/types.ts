@@ -14,6 +14,7 @@ export type TedGloss = {
   examples: TedExample[];
   page: number;
   source?: string;
+  displayHidden?: boolean;
 };
 export type TedParagraph = {
   id: string;
@@ -21,6 +22,8 @@ export type TedParagraph = {
   japanese: string;
   chinese: string;
   tokens?: TedToken[];
+  displayHidden?: boolean;
+  sourceMappedTo?: string[];
 };
 export type TedArticle = {
   id: string;
@@ -34,6 +37,18 @@ export type TedArticle = {
   warnings: string[];
   dictionary?: Record<string, TedGloss>;
   corrections?: TedCorrection[];
+  contextLessons?: TedContextLesson[];
+  review?: { reviewedAt: string; remainingIssues: string[]; sourceHeadingJapanese?: string };
+};
+export type TedContextLesson = {
+  reviewStatus: "context-reviewed";
+  exampleSource?: "original-composition";
+  audioReviewed?: boolean;
+  id: string; articleId: string; paragraphId: string; kind: "phrase" | "grammar";
+  surface: string; start: number; end: number; expression: string; reading: string;
+  meaning: string; connection: string; usage: string; caution: string;
+  example: TedExample; grammarIds: string[];
+  references: { title: string; url?: string; page?: number; source?: string }[];
 };
 export type TedCorrection = {
   id: string;

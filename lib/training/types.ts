@@ -10,8 +10,10 @@ export type Question = {
   answerIndex: number;
   explanation: string;
   grammarIds: string[];
-  level: "N3" | "N2";
+  level: "N4" | "N3" | "N2";
   skill: string;
+  purpose?: "diagnostic" | "practice" | "checkpoint";
+  skillTags?: string[];
   reference?: { title: string; url: string };
 };
 export type PracticeAttempt = {
@@ -20,7 +22,8 @@ export type PracticeAttempt = {
   correct: boolean;
   category: Category;
   elapsedSeconds: number;
-  mode: "practice" | "timed" | "mistakes";
+  mode: "practice" | "timed" | "mistakes" | "diagnostic" | "checkpoint";
+  sessionId?: string;
 };
 export type PracticeRecord = PracticeAttempt & { id: string; at: number };
 export const categoryLabels: Record<Category, string> = {

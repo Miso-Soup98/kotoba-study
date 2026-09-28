@@ -29,7 +29,7 @@ const categories: Category[] = [
   "reading",
   "listening",
 ];
-const modes: PracticeAttempt["mode"][] = ["practice", "timed", "mistakes"];
+const modes: PracticeAttempt["mode"][] = ["practice", "timed", "mistakes", "diagnostic", "checkpoint"];
 function attempt(overrides: Partial<PracticeAttempt> = {}): PracticeAttempt {
   return {
     questionId: "n2-grammar-001",
@@ -427,9 +427,9 @@ test("exam planning changes phase at the intended boundaries and clamps elapsed 
   assert.equal(adaptivePlan([], 0, target + 10 * day).days, 0);
 });
 
-test("original training bank contains 36 complete four-choice questions across the promised skills", () => {
-  assert.equal(questions.length, 36);
-  assert.equal(new Set(questions.map((item) => item.id)).size, 36);
+test("original training bank contains 132 complete four-choice questions across the promised skills", () => {
+  assert.equal(questions.length, 132);
+  assert.equal(new Set(questions.map((item) => item.id)).size, 132);
   assert.deepEqual(
     Object.fromEntries(
       categories.map((category) => [
@@ -437,7 +437,7 @@ test("original training bank contains 36 complete four-choice questions across t
         questions.filter((item) => item.category === category).length,
       ]),
     ),
-    { grammar: 18, vocabulary: 6, reading: 8, listening: 4 },
+    { grammar: 42, vocabulary: 30, reading: 32, listening: 28 },
   );
   for (const question of questions) {
     assert.match(question.id, /^n2-[a-z0-9-]+$/);
@@ -460,11 +460,11 @@ test("original training bank contains 36 complete four-choice questions across t
         question.skill,
       question.id,
     );
-    assert.ok(["N3", "N2"].includes(question.level), question.id);
+    assert.ok(["N4", "N3", "N2"].includes(question.level), question.id);
     if (question.category === "reading")
       assert.ok(
         question.passage &&
-          [...question.passage].length >= 150 &&
+          [...question.passage].length >= (question.purpose ? 100 : 150) &&
           [...question.passage].length <= 300,
         question.id,
       );
@@ -495,7 +495,7 @@ test("every linked grammar lesson in the question bank exists in the original co
   }
 });
 
-test("all four listening questions have one packaged audio clip matching the final transcript and ID", () => {
+test("every listening question has one packaged audio clip matching the final transcript and ID", () => {
   const manifest = readJSON("public/audio/training/manifest.json") as {
     voices: { id: string }[];
     clips: {
