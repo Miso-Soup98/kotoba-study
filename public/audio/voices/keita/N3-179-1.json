@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-179",
+  "exampleIndex": 0,
+  "text": "午後はさらに寒くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 210,
+  "signature": "81b080361a65d43c0d20d46a0acefa5975c5bc23e6721718bb52c467a1b03a86",
+  "src": "/audio/voices/keita/N3-179-1.mp3",
+  "srt": "/audio/voices/keita/N3-179-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "37008efe743099d71988368cb573926c0ff0923c02525f897db957c786f105e7",
+  "peakPcm": 23001,
+  "rmsDbfs": -19.97,
+  "rate": "+0%",
+  "listened": false
+}

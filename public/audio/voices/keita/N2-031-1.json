@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-031",
+  "exampleIndex": 0,
+  "text": "電車が止まり、歩かざるを得ませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 229,
+  "signature": "0705617f9988e46f2aad518233d042a68f93f4bcad69f9663bef2b208ee5d9ea",
+  "src": "/audio/voices/keita/N2-031-1.mp3",
+  "srt": "/audio/voices/keita/N2-031-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "3dd0d176f8babe7ec509e5a28e12874426c114bcc7ddded52d8315a4fdfbce91",
+  "peakPcm": 23017,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

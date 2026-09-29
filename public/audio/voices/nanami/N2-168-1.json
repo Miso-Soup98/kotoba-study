@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-168",
+  "exampleIndex": 0,
+  "text": "急いだら、かえって間違いが増えました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 298,
+  "signature": "972c4cbd7117604a0149e63f8024efe34cb6e928d66d254fe17b946649ed6497",
+  "src": "/audio/voices/nanami/N2-168-1.mp3",
+  "srt": "/audio/voices/nanami/N2-168-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "f285cfea338335647cc52e7babc9ab9f834a434aab2fe46ba018709adf55c44e",
+  "peakPcm": 21385,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

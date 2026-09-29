@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-043",
+  "exampleIndex": 1,
+  "text": "どんなに忙しくても、朝御飯は食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 142,
+  "signature": "4c00927e91cc38c6195d16e25c731c71d9eeff863bc03b1d03a595aa8b853495",
+  "src": "/audio/voices/nanami/N3-043-2.mp3",
+  "srt": "/audio/voices/nanami/N3-043-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "70fd38fdca0d97e372c27b09e1201f4e10a4c96d24082d4e857f5ca4982b44d5",
+  "peakPcm": 21887,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

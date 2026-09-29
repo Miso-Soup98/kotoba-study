@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-206",
+  "exampleIndex": 1,
+  "text": "まず、私の話を聞きたまえ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 317,
+  "signature": "d69ae7ab82782fd8e3d33303ddafdc983755a19a3187bd267e00133b97381f1b",
+  "src": "/audio/voices/nanami/N2-206-2.mp3",
+  "srt": "/audio/voices/nanami/N2-206-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "67c71d5fcc1637f30a7c22cbfdf896741edb1a97fd37324d1604d30dbe91e6b7",
+  "peakPcm": 20766,
+  "rmsDbfs": -18.5,
+  "rate": "+0%",
+  "listened": false
+}

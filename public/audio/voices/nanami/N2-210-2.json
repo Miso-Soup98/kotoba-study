@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-210",
+  "exampleIndex": 1,
+  "text": "彼とは未だに連絡を取っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 319,
+  "signature": "30aefa789c97dacacb0f6996a635923df4612eca37670fe4207339b7fc492935",
+  "src": "/audio/voices/nanami/N2-210-2.mp3",
+  "srt": "/audio/voices/nanami/N2-210-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "94404e3cf49b55c50b7aa4b28c4892b18e09db00a747fe129c16fcea08598521",
+  "peakPcm": 23456,
+  "rmsDbfs": -16.94,
+  "rate": "+0%",
+  "listened": false
+}

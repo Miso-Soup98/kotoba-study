@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-207",
+  "exampleIndex": 0,
+  "text": "これは、いわゆる自己紹介です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 318,
+  "signature": "cbdb9a75795e71c45567ca6404a36913268da81747dbf2cc60acc76fa3f4a96d",
+  "src": "/audio/voices/keita/N2-207-1.mp3",
+  "srt": "/audio/voices/keita/N2-207-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "1395e3700029e5c1f2c9b13d9146603ddc86e034ff3fea7350c4e2265f064d18",
+  "peakPcm": 23351,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

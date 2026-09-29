@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-159",
+  "exampleIndex": 1,
+  "text": "まさか一人で全部食べたんですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 200,
+  "signature": "d2a4969dae5ce5694a24b8af058b00b1778ac110f99e246ff91832dc5416c914",
+  "src": "/audio/voices/keita/N3-159-2.mp3",
+  "srt": "/audio/voices/keita/N3-159-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "92113356f42ba3db301115a1c8a7ca4dd98fbc72fba1cc7f30d376ca522e75b1",
+  "peakPcm": 23155,
+  "rmsDbfs": -21.65,
+  "rate": "+0%",
+  "listened": false
+}

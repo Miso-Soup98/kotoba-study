@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-198",
+  "exampleIndex": 1,
+  "text": "初めてだそうですね。それにしても、上手です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 313,
+  "signature": "7497100c5d507255daae3790ee34a1cb96013cec9d10aa0b71c4d85d873820d0",
+  "src": "/audio/voices/nanami/N2-198-2.mp3",
+  "srt": "/audio/voices/nanami/N2-198-2.srt",
+  "durationSeconds": 5.256,
+  "bytes": 31536,
+  "sha256": "50fe800e69503f686a15d9f4c2112286d46fcf0a820b43691b06d494879e5abb",
+  "peakPcm": 22764,
+  "rmsDbfs": -18.32,
+  "rate": "+0%",
+  "listened": false
+}

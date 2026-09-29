@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-123",
+  "exampleIndex": 0,
+  "text": "留学しようかするまいか、迷っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 275,
+  "signature": "937dd9976cfa9ff0c9edbb4e5f7a52ef66c79a841ceaa63b9cacf1a2fe1a8590",
+  "src": "/audio/voices/keita/N2-123-1.mp3",
+  "srt": "/audio/voices/keita/N2-123-1.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "da4712d2448c41552ad0a027d0e5f8a478abe00efdbdde550458602896c781de",
+  "peakPcm": 22493,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

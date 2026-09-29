@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-173",
+  "exampleIndex": 1,
+  "text": "せめて週に一度は休みたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 301,
+  "signature": "8085e0a3ad11c8c7f1b12592e40746e3c7319c7ba5ac14b539e6a082e983ce9d",
+  "src": "/audio/voices/keita/N2-173-2.mp3",
+  "srt": "/audio/voices/keita/N2-173-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "3e9c33fa4bcfe86da21424da8d5960ae69178bd720ee427f0b319174ba523494",
+  "peakPcm": 21723,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

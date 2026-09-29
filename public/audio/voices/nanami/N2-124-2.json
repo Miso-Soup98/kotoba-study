@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-124",
+  "exampleIndex": 1,
+  "text": "もう一度、最初から考えようじゃないか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 276,
+  "signature": "848ced76f0f9dc5331458db0d0140dacd78b5d64b037b77b7698856d42e910b4",
+  "src": "/audio/voices/nanami/N2-124-2.mp3",
+  "srt": "/audio/voices/nanami/N2-124-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "3bf3e5956ecfff651a9da27737279b43b12402d438172345ddcb491fde29083b",
+  "peakPcm": 22006,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

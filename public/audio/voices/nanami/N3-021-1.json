@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-021",
+  "exampleIndex": 0,
+  "text": "間違えたら、謝るべきです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 131,
+  "signature": "adc7afa6ef3cc24decf93e2a9fc53cd614fb7c071e3b827331dc22f219c2e9ec",
+  "src": "/audio/voices/nanami/N3-021-1.mp3",
+  "srt": "/audio/voices/nanami/N3-021-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "132253343196783e1f925a6c386ae156b7181345cc1bbae0b0e5e13ef331fe78",
+  "peakPcm": 20138,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

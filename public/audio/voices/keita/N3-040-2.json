@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-040",
+  "exampleIndex": 1,
+  "text": "旅行といっても、隣の町へ行くだけです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 140,
+  "signature": "a277cd7e47e04e08e2367b0274b3c6348fa13382e21b01caa4250857e7eb10b9",
+  "src": "/audio/voices/keita/N3-040-2.mp3",
+  "srt": "/audio/voices/keita/N3-040-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "04735e44a7b20e5abcfaa6a375e75503660991a9f46c5c0145b7a6d76d845740",
+  "peakPcm": 25542,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

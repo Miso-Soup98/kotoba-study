@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-113",
+  "exampleIndex": 0,
+  "text": "思った以上に、時間がかかりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 270,
+  "signature": "dc54c9069eadd68d0275c864a9fc6127c598c0ee50699317f67bd7766bb518d9",
+  "src": "/audio/voices/nanami/N2-113-1.mp3",
+  "srt": "/audio/voices/nanami/N2-113-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "319ed8551b4721c54d751ef14ea34215024b28b86e590040ade2d30b7ee7c634",
+  "peakPcm": 21700,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

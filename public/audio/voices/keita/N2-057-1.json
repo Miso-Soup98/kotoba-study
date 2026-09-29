@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-057",
+  "exampleIndex": 0,
+  "text": "座るか座らないかのうちに、名前を呼ばれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 242,
+  "signature": "40db27cebb18dca3cbdcad7400df2b1c6424664eb294b4ba05f1b49db634a5fe",
+  "src": "/audio/voices/keita/N2-057-1.mp3",
+  "srt": "/audio/voices/keita/N2-057-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "192f07cec862fa535164559ca85e59d51e2738b08e14ab355531c7bd8cb87dd6",
+  "peakPcm": 23135,
+  "rmsDbfs": -19.87,
+  "rate": "+0%",
+  "listened": false
+}

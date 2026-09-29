@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-091",
+  "exampleIndex": 0,
+  "text": "忙しくて、昼御飯を食べる時間さえありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 166,
+  "signature": "8301378ce1f76774d044dccb8e01f3b16fb2b947c58e76c39dfe5041af859bc4",
+  "src": "/audio/voices/nanami/N3-091-1.mp3",
+  "srt": "/audio/voices/nanami/N3-091-1.srt",
+  "durationSeconds": 4.728,
+  "bytes": 28368,
+  "sha256": "8920f9a23bba1bc9fd4fa7f2ca328c9b4c4521e67c7263faef69f9054f7b4a38",
+  "peakPcm": 21707,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-191",
+  "exampleIndex": 0,
+  "text": "受付は九時からです。なお、予約は必要ありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 310,
+  "signature": "6ee879963446f1fd2ea811b2da4b9d94af804b816275a67d485189f4f70a9b6a",
+  "src": "/audio/voices/keita/N2-191-1.mp3",
+  "srt": "/audio/voices/keita/N2-191-1.srt",
+  "durationSeconds": 5.448,
+  "bytes": 32688,
+  "sha256": "da910c4b58a0dd4205bab6b8b15757f61739f17cab532c46966179a10d9cb539",
+  "peakPcm": 25175,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

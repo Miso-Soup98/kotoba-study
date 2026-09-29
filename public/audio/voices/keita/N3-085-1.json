@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-085",
+  "exampleIndex": 0,
+  "text": "先生に代わって、私が説明します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 163,
+  "signature": "f56a00747fb8035a2751405e1cebab57675a0337889820647fc7a188d88af660",
+  "src": "/audio/voices/keita/N3-085-1.mp3",
+  "srt": "/audio/voices/keita/N3-085-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "fd9e5f97b1f974ee331c935d6701674f41f40d522c7daa613f1c42d8cec08b0f",
+  "peakPcm": 22950,
+  "rmsDbfs": -21.66,
+  "rate": "+0%",
+  "listened": false
+}

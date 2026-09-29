@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-188",
+  "exampleIndex": 0,
+  "text": "もう少しで準備が終わります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 308,
+  "signature": "78a312b12d4a6713a4a630d86d5dab71b7693fb7d45abf110c2cbd4b0605ebb2",
+  "src": "/audio/voices/nanami/N2-188-1.mp3",
+  "srt": "/audio/voices/nanami/N2-188-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "2bf94081d217ed003b1b13ceba91457b472089929574a340ec648b6e048b14b3",
+  "peakPcm": 21255,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

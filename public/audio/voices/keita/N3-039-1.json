@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-039",
+  "exampleIndex": 0,
+  "text": "「無料」というのは、お金が要らないという意味です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 140,
+  "signature": "f83b7e6f9a13b02b528dc3f7d6aaf31cb3b7f6b19b8a3cd4a2c124c7f298f0f9",
+  "src": "/audio/voices/keita/N3-039-1.mp3",
+  "srt": "/audio/voices/keita/N3-039-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "fe898d03eca2def34d9cf4be6be89f6c283f7523437cb820c3363f1251e10361",
+  "peakPcm": 22271,
+  "rmsDbfs": -19.37,
+  "rate": "+0%",
+  "listened": false
+}

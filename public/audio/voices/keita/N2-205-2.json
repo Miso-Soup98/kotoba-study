@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-205",
+  "exampleIndex": 1,
+  "text": "先生だって、間違えることがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 317,
+  "signature": "0d3ccc79959348a723534cd5be5eae2b76321276e859a583a217cfa22fa33dd7",
+  "src": "/audio/voices/keita/N2-205-2.mp3",
+  "srt": "/audio/voices/keita/N2-205-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "6ad5ba245bee9c7c4634960abca42e1b0d917412b84a7664f18589171afb98d4",
+  "peakPcm": 21834,
+  "rmsDbfs": -21.27,
+  "rate": "+0%",
+  "listened": false
+}

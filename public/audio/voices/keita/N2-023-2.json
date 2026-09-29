@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-023",
+  "exampleIndex": 1,
+  "text": "一度失敗したにすぎません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 225,
+  "signature": "2a431d0a045ed33bf016d7071fa8585161f64829e075a80788d1e273bb0b2422",
+  "src": "/audio/voices/keita/N2-023-2.mp3",
+  "srt": "/audio/voices/keita/N2-023-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "873f519eac355e2a10e9382c1087295be50151e5ae6e4905d00f166df202315a",
+  "peakPcm": 25652,
+  "rmsDbfs": -21.1,
+  "rate": "+0%",
+  "listened": false
+}

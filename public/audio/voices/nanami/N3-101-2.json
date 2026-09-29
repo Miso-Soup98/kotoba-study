@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-101",
+  "exampleIndex": 1,
+  "text": "一日では、とても終わりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 171,
+  "signature": "77268dfbdc8dc0bd5782fa5eeb9d19e9b4111a6bcc022b1ffb5fddba341c042d",
+  "src": "/audio/voices/nanami/N3-101-2.mp3",
+  "srt": "/audio/voices/nanami/N3-101-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "3f10304e5af2d52f572cbc61a639c955eccea3f3448bf7fb0b55be2db9e2067a",
+  "peakPcm": 21123,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

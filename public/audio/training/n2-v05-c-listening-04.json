@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-c-listening-04",
+  "exampleIndex": 0,
+  "text": "提出まであと一時間ですね。見出しの色は統一したいところですが、まず集計表の合計を確認しましょう。数字が間違っていたら、結論も変わる可能性があります。誤字は私が読みながら直します。合計が正しいと分かったら、残った時間で見出しを整えてください。表紙の写真は、今回は今のままにしましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "165cfee634391103a83d3fb38230dcc7b7ad4d8203b5ec41fc3f0b99cf5e9cd1",
+  "src": "/audio/training/n2-v05-c-listening-04.mp3",
+  "srt": "/audio/training/n2-v05-c-listening-04.srt",
+  "durationSeconds": 28.488,
+  "bytes": 170928,
+  "sha256": "a731524972d8f18149c3baaa303e879e390c26b334eadf970802b59c6d8a5a67",
+  "peakPcm": 21890,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

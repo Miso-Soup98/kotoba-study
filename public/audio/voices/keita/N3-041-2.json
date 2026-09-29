@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-041",
+  "exampleIndex": 1,
+  "text": "これは仕事というより、趣味に近いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 141,
+  "signature": "e083e225f833921fbe03e53e977204d8d09cfdfb68a1d90392f73ea6f0d03813",
+  "src": "/audio/voices/keita/N3-041-2.mp3",
+  "srt": "/audio/voices/keita/N3-041-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "02732d5867d3f13109f5eaf94f2495f84621266c1b9c0320590dffbc331f8bc8",
+  "peakPcm": 24496,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

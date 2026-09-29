@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-194",
+  "exampleIndex": 0,
+  "text": "熱があります。その上、頭も痛いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 311,
+  "signature": "f5b2c94f95231cbe1d9c241a3211aee688c83db0aa362785aef06128bf8c6be3",
+  "src": "/audio/voices/keita/N2-194-1.mp3",
+  "srt": "/audio/voices/keita/N2-194-1.srt",
+  "durationSeconds": 4.8,
+  "bytes": 28800,
+  "sha256": "a0d042626deaa8edbf4996fd3b3965400614e6399254794d1e5ef2f863a642ed",
+  "peakPcm": 26118,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

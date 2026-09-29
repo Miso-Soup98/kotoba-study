@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-014",
+  "exampleIndex": 0,
+  "text": "雨のせいで、靴がぬれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 127,
+  "signature": "72f4c48332aaeb15a4fee8a16f3f59a93106b1e6e7f402e4d1dd4456a0a64e5d",
+  "src": "/audio/voices/nanami/N3-014-1.mp3",
+  "srt": "/audio/voices/nanami/N3-014-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "343fc4bd44f9df768340a58138ccf3eabb22c80379924c0ea26078c9527bd8dc",
+  "peakPcm": 20605,
+  "rmsDbfs": -18.15,
+  "rate": "+0%",
+  "listened": false
+}

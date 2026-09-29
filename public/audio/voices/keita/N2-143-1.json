@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-143",
+  "exampleIndex": 0,
+  "text": "こちらでお待ち願います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 285,
+  "signature": "580d33e8c5531bbac4acdbd7982bf4916810f48df434ef5d0e0cd50e9ff6bac0",
+  "src": "/audio/voices/keita/N2-143-1.mp3",
+  "srt": "/audio/voices/keita/N2-143-1.srt",
+  "durationSeconds": 2.376,
+  "bytes": 14256,
+  "sha256": "1efcf0b81dce3c3433fdfd214dc18cbc8cbe9724f085382b92de9b07c8b7ca3c",
+  "peakPcm": 23228,
+  "rmsDbfs": -20.39,
+  "rate": "+0%",
+  "listened": false
+}

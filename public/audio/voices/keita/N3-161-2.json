@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-161",
+  "exampleIndex": 1,
+  "text": "もしも休みが取れたら、帰国したいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 201,
+  "signature": "253a74dca69a88072291e122f121712015ef5bfef9c15938f064ea3e47e748ea",
+  "src": "/audio/voices/keita/N3-161-2.mp3",
+  "srt": "/audio/voices/keita/N3-161-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "cd5effc2b45909f5750a85be1da1935d0d66d34cd311d37880ea4a25d0827f5a",
+  "peakPcm": 22995,
+  "rmsDbfs": -21.45,
+  "rate": "+0%",
+  "listened": false
+}

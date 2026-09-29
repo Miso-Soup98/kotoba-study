@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-173",
+  "exampleIndex": 1,
+  "text": "留学したいです。そのために、お金を貯めています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 207,
+  "signature": "72ed612ec669cdec8242ba00e38be781b69d350ed2144d60481ffe4e10b3e54e",
+  "src": "/audio/voices/nanami/N3-173-2.mp3",
+  "srt": "/audio/voices/nanami/N3-173-2.srt",
+  "durationSeconds": 5.568,
+  "bytes": 33408,
+  "sha256": "8a2888a98a844423c8ceab4f0b0847fa296485478e8bedd4191496c3c8cd4225",
+  "peakPcm": 21344,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

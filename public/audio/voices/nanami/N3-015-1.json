@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-015",
+  "exampleIndex": 0,
+  "text": "雪が降ったために、道路が混んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 128,
+  "signature": "55b94821fdfc49578f952475c74f0829264fd3b49038b68136042b99b1725d09",
+  "src": "/audio/voices/nanami/N3-015-1.mp3",
+  "srt": "/audio/voices/nanami/N3-015-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "f19861f5992e0e4fbed2c41b60fae8c57e6d7ae620b8ed9fcc01d4e94d642aa9",
+  "peakPcm": 23095,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

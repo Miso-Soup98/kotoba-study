@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-155",
+  "exampleIndex": 1,
+  "text": "今日は別に予定はありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 198,
+  "signature": "d3ff20986ccfa5053e7266ad2eb04cddacd48cc103580090d1f5a6a52e8820ed",
+  "src": "/audio/voices/nanami/N3-155-2.mp3",
+  "srt": "/audio/voices/nanami/N3-155-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "7354f11f3bae8d362fad332b6cb8dbc7db8dfa330cb668c8f5e051e7e7e8286c",
+  "peakPcm": 21131,
+  "rmsDbfs": -16.49,
+  "rate": "+0%",
+  "listened": false
+}

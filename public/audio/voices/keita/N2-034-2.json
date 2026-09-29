@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-034",
+  "exampleIndex": 1,
+  "text": "事故は起きないに越したことはありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 230,
+  "signature": "019d293ee66fd97234f40d95f974f25b21e9d2cacec46b5078ed27c68d82a8ce",
+  "src": "/audio/voices/keita/N2-034-2.mp3",
+  "srt": "/audio/voices/keita/N2-034-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "96f14568ddef673da73f1c5f6adf25f8f98276021628935c71848855d5d500b1",
+  "peakPcm": 22579,
+  "rmsDbfs": -20.56,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-153",
+  "exampleIndex": 0,
+  "text": "冬は運動が減る傾向があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 290,
+  "signature": "bd7fca7d899c8516a23fc3fd0d02bd862823da6bf6733d0e9b5baecf24dace77",
+  "src": "/audio/voices/keita/N2-153-1.mp3",
+  "srt": "/audio/voices/keita/N2-153-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "be738d27ef46b3a7c0ed32437340563a1a61376b9553262020e9fedd32c2738a",
+  "peakPcm": 23623,
+  "rmsDbfs": -19.45,
+  "rate": "+0%",
+  "listened": false
+}

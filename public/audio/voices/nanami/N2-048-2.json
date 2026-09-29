@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-048",
+  "exampleIndex": 1,
+  "text": "一度成功しても、何でもできることにはなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 237,
+  "signature": "146fc8c6c21c145309d25ead7d83052c49e83281e55ee460575ebb296e343031",
+  "src": "/audio/voices/nanami/N2-048-2.mp3",
+  "srt": "/audio/voices/nanami/N2-048-2.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "f2c353ede8624df7049229f4f183b7a3dfe08ad5a76cdccbaeea3f13012e1f86",
+  "peakPcm": 20163,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

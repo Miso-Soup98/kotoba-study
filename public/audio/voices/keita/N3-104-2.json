@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-104",
+  "exampleIndex": 1,
+  "text": "誰かに呼ばれたような気がしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 172,
+  "signature": "41c6a13c177dc353b8f675840df35f5636354fdb919f985c8d5fb3cc110addf8",
+  "src": "/audio/voices/keita/N3-104-2.mp3",
+  "srt": "/audio/voices/keita/N3-104-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "80f796e4283b1305aef2e90166fd1208019e32de9b0c412e2fc37036a2a49cf6",
+  "peakPcm": 26442,
+  "rmsDbfs": -21.09,
+  "rate": "+0%",
+  "listened": false
+}

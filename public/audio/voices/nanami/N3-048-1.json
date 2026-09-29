@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-048",
+  "exampleIndex": 0,
+  "text": "電車がないので、歩くしかありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 144,
+  "signature": "5ca3f66df5e5fc6ed184b478fed48091490aa51ca62ad200bdefb8c85c7f9d41",
+  "src": "/audio/voices/nanami/N3-048-1.mp3",
+  "srt": "/audio/voices/nanami/N3-048-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "6e806b474469108a1612869d5be1accb985c9060ce363dc60397bddffcdbdc32",
+  "peakPcm": 21403,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

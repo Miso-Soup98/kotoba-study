@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-083",
+  "exampleIndex": 1,
+  "text": "一人につき、二枚まで申し込めます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 255,
+  "signature": "a57609425eda27a69bc3c2102eb6005ecd82916a5bd5aa383a6e1c5844ee3dc9",
+  "src": "/audio/voices/nanami/N2-083-2.mp3",
+  "srt": "/audio/voices/nanami/N2-083-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "b6efdbeedb3c1480255e98708775b7b6d48c5ae3321ad069b3e4ed289d6808f3",
+  "peakPcm": 21289,
+  "rmsDbfs": -18.25,
+  "rate": "+0%",
+  "listened": false
+}

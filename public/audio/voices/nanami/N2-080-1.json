@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-080",
+  "exampleIndex": 0,
+  "text": "会議に先立って、資料を配りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 254,
+  "signature": "54f46c2117cbd8bb7423feabb3d7895ca774d0db2b99d612c1c7844b5c196a42",
+  "src": "/audio/voices/nanami/N2-080-1.mp3",
+  "srt": "/audio/voices/nanami/N2-080-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "d972b26897fa45cc599915d85118e730e128202ddd294ebbb876588bde21e71f",
+  "peakPcm": 20233,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

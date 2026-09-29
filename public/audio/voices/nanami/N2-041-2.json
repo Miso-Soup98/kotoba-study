@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-041",
+  "exampleIndex": 1,
+  "text": "こんな難しい問題が簡単なものか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 234,
+  "signature": "6ebe7009db406780869371f368a2a5d916b79c127bd23990a26c83565e723328",
+  "src": "/audio/voices/nanami/N2-041-2.mp3",
+  "srt": "/audio/voices/nanami/N2-041-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "90f530bac4946f7367ed9e7968d253792529e6096155afabce93c8dc9a1b5bd4",
+  "peakPcm": 21222,
+  "rmsDbfs": -16.84,
+  "rate": "+0%",
+  "listened": false
+}

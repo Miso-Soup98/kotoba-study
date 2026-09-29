@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-150",
+  "exampleIndex": 0,
+  "text": "もっと簡単に説明できないものか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 289,
+  "signature": "7d4e458972f93b02e5c583e0997494475d20da09e1fca321b5df0e4dad10510e",
+  "src": "/audio/voices/keita/N2-150-1.mp3",
+  "srt": "/audio/voices/keita/N2-150-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "f1fc5d037f241f8d306612dac7c3d3134a7d8a05c79e01603e5bfc4b1ce75a5c",
+  "peakPcm": 21116,
+  "rmsDbfs": -20.82,
+  "rate": "+0%",
+  "listened": false
+}

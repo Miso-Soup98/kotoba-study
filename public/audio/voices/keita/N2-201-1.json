@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-201",
+  "exampleIndex": 0,
+  "text": "要するに、準備が足りなかったのです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 315,
+  "signature": "e8adbe904c0e0df3f02c23b9c60d743f4201490758ea0ebc4ca5001658b4ba0a",
+  "src": "/audio/voices/keita/N2-201-1.mp3",
+  "srt": "/audio/voices/keita/N2-201-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "7ae7c6d9703f6117981dd5746566652325f78907e6045ee3c98b8a76e3a3afe7",
+  "peakPcm": 22028,
+  "rmsDbfs": -20.76,
+  "rate": "+0%",
+  "listened": false
+}

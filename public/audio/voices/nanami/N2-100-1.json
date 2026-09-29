@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-100",
+  "exampleIndex": 0,
+  "text": "これは一つの可能性でしかありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 264,
+  "signature": "ad9d052d00331a36c6fe8af42bac26d81690c47ebc46a4020dfe67bd9a223467",
+  "src": "/audio/voices/nanami/N2-100-1.mp3",
+  "srt": "/audio/voices/nanami/N2-100-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "4593f9aaf448ceed9dfbd1a6effaa88e4923ec1c0afad6d0a5d19492e1122223",
+  "peakPcm": 22048,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

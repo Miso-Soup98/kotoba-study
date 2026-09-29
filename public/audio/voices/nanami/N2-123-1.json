@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-123",
+  "exampleIndex": 0,
+  "text": "留学しようかするまいか、迷っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 275,
+  "signature": "6efdb569371cf12b8be60c829792d156c149517f09be9901ccc4a0c463789a15",
+  "src": "/audio/voices/nanami/N2-123-1.mp3",
+  "srt": "/audio/voices/nanami/N2-123-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "cb949f9c00f6360f7f2ce8488292be0a3148fe9c2dd879266ea9beddc2ef11fc",
+  "peakPcm": 21251,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-141",
+  "exampleIndex": 1,
+  "text": "明日は雨が降りませんように。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 191,
+  "signature": "53e99868ca23ded76a25eb3c335135316dab4d02e50294c3ba85925d9967f7b7",
+  "src": "/audio/voices/nanami/N3-141-2.mp3",
+  "srt": "/audio/voices/nanami/N3-141-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "96f745690e229ca5c6e24c60148f1c5eb2b17340a8df5dcb99c912cf1f6d7c16",
+  "peakPcm": 20631,
+  "rmsDbfs": -17.69,
+  "rate": "+0%",
+  "listened": false
+}

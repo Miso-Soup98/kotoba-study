@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-093",
+  "exampleIndex": 0,
+  "text": "彼は謝ったばかりか、修理代まで払ってくれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 260,
+  "signature": "2436aeb1d0a2ebf8e62fde86f7361ac08332e2e254bd6ed79068bc20e0f9a2a4",
+  "src": "/audio/voices/keita/N2-093-1.mp3",
+  "srt": "/audio/voices/keita/N2-093-1.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "b18bfc80b35fad40d9c42a915e898c5ea218de4c1d6ed4a2e0356abeddb394b5",
+  "peakPcm": 22143,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

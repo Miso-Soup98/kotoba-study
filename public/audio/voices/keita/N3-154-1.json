@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-154",
+  "exampleIndex": 0,
+  "text": "この約束は決して忘れません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 197,
+  "signature": "26fbe289b983e6270e9a2951f093254a6279dd93bb11cf2fe17d5bb977f76c2c",
+  "src": "/audio/voices/keita/N3-154-1.mp3",
+  "srt": "/audio/voices/keita/N3-154-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "83661d2278afa7fd9f6c08f23d8dd631990396c3b245571dbc9cb7c92bc667d7",
+  "peakPcm": 21972,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

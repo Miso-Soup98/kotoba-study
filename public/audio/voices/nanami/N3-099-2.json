@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-099",
+  "exampleIndex": 1,
+  "text": "説明のしようがないほど、複雑です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 170,
+  "signature": "bf552324008efe83c803cb1eb5626cc4d134d43825a7eaeb79a0bb8591baad81",
+  "src": "/audio/voices/nanami/N3-099-2.mp3",
+  "srt": "/audio/voices/nanami/N3-099-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "7427e1151d60db2135e14d0e40e687790d044b0e9e09aa2caa3e80c257cdd54a",
+  "peakPcm": 21328,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

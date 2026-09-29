@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-094",
+  "exampleIndex": 0,
+  "text": "読んだことは読みましたが、よく覚えていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 167,
+  "signature": "7b86efeea5776772e07b50082778d59e59e2bce1e32f17578614102f7ec2341a",
+  "src": "/audio/voices/keita/N3-094-1.mp3",
+  "srt": "/audio/voices/keita/N3-094-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "fe8f09d90ec1df7358ea1cc3c2886b549e157806a10e3098e964e31b19fa4eba",
+  "peakPcm": 23721,
+  "rmsDbfs": -20.08,
+  "rate": "+0%",
+  "listened": false
+}

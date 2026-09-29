@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-085",
+  "exampleIndex": 0,
+  "text": "子供から見ると、大人の世界は不思議です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 256,
+  "signature": "1155dc590299863976d1b1a53817dd0d7b23efb974ea8a97169744cae0038ec1",
+  "src": "/audio/voices/keita/N2-085-1.mp3",
+  "srt": "/audio/voices/keita/N2-085-1.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "55e8170bf82082f63beb7ef1849eef17b945ace03520261be2e138bf10e106ae",
+  "peakPcm": 25426,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-095",
+  "exampleIndex": 0,
+  "text": "分からないときは、先生に聞けばいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 168,
+  "signature": "900742418507bccaf5fb8fdbeb543f86c8af195662e7ac649a9b60c9d1681be8",
+  "src": "/audio/voices/keita/N3-095-1.mp3",
+  "srt": "/audio/voices/keita/N3-095-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "bf47b21f4199d27b8b5eebb2ed6a87a73e0263abb633fa8603c6f56b5ceb211c",
+  "peakPcm": 22626,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

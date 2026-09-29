@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-01",
+  "exampleIndex": 0,
+  "text": "荷物の配達について確認のお電話です。ご希望は明日の午前中でしたが、その時間は予約がいっぱいです。午後三時から五時の間なら伺えます。ご都合が悪ければ、あさっての午前中も選べます。今日の夕方六時までに、どちらがよいか、この番号にお電話ください。こちらからもう一度電話する予定はありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "ac7fcd9bca59d18c127775f88163a32d29fbcf3805ede1cc0281c433e98a1033",
+  "src": "/audio/training/n2-v05-p-listening-01.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-01.srt",
+  "durationSeconds": 28.176,
+  "bytes": 169056,
+  "sha256": "c05c7c5d98cc8da0662a61b7ed00a88aefcefe3094b303e4e02c65c9f188db44",
+  "peakPcm": 23183,
+  "rmsDbfs": -17.13,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

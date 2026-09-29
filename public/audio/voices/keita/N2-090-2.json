@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-090",
+  "exampleIndex": 1,
+  "text": "買うにしても借りるにしても、お金が必要です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 259,
+  "signature": "b223836049755c1d0e77d4ad96d3c2172736b1a71aaec8365dea8fec19b8a20e",
+  "src": "/audio/voices/keita/N2-090-2.mp3",
+  "srt": "/audio/voices/keita/N2-090-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "daa8aa4838ba42f1dae8c339710535fee4165ce3d297240cd41e3e950dd8f1e1",
+  "peakPcm": 23574,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

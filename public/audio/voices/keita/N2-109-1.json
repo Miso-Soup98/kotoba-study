@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-109",
+  "exampleIndex": 0,
+  "text": "お忙しい中を来てくださり、ありがとうございます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 268,
+  "signature": "53b7b027240102fb0eea6b4288a89053da334297d42ce4c827a20960fab9e53e",
+  "src": "/audio/voices/keita/N2-109-1.mp3",
+  "srt": "/audio/voices/keita/N2-109-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "2b648124f74d498a9eafc40b33cf949602848a6f473921f099aade7ae47260b7",
+  "peakPcm": 25185,
+  "rmsDbfs": -21.3,
+  "rate": "+0%",
+  "listened": false
+}

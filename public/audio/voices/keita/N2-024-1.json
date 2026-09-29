@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-024",
+  "exampleIndex": 0,
+  "text": "成功は皆の努力の結果にほかなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 225,
+  "signature": "756a03658b6d460ddddf9b84ba40e9ad539db7be4f679422409e67aeba99f1c1",
+  "src": "/audio/voices/keita/N2-024-1.mp3",
+  "srt": "/audio/voices/keita/N2-024-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "49d419497560add1b8c98f06beb15d9766e21dbce595c3c75ef440d626770f41",
+  "peakPcm": 21866,
+  "rmsDbfs": -19.58,
+  "rate": "+0%",
+  "listened": false
+}

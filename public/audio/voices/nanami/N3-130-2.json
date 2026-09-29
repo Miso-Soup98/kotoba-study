@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-130",
+  "exampleIndex": 1,
+  "text": "明日までに、宿題を終わらせないといけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 185,
+  "signature": "5abd1aa5b300ad05cd70047142f35a5c1487589ba7cb7cfc3ec36a34e8e3779b",
+  "src": "/audio/voices/nanami/N3-130-2.mp3",
+  "srt": "/audio/voices/nanami/N3-130-2.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "15715bc1e3f0bf0472c2ddc2bbf357d6e0fcec5732bb2630feb2d702ce476c0f",
+  "peakPcm": 21045,
+  "rmsDbfs": -16.99,
+  "rate": "+0%",
+  "listened": false
+}

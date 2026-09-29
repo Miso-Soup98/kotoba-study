@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-021",
+  "exampleIndex": 1,
+  "text": "人の秘密を話すべきではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 131,
+  "signature": "bea2e1ac7f3087ad656800974441fa1c08f1c4ba48cbe077139631c466860476",
+  "src": "/audio/voices/nanami/N3-021-2.mp3",
+  "srt": "/audio/voices/nanami/N3-021-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "917f0cbe03034dd6996d027daa8fd380da9953694ff2e1c7b15198cdc59988ee",
+  "peakPcm": 21256,
+  "rmsDbfs": -18.1,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-117",
+  "exampleIndex": 1,
+  "text": "検査の結果、問題はありませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 179,
+  "signature": "460061aac5b1fc06cb9229db33ef463ad2702704204383e333e56a4f4f40ca9b",
+  "src": "/audio/voices/keita/N3-117-2.mp3",
+  "srt": "/audio/voices/keita/N3-117-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "b6f8944beca9816c605771caad77c043b1b69d7406c20ff560d75cdaca4df302",
+  "peakPcm": 25251,
+  "rmsDbfs": -21.16,
+  "rate": "+0%",
+  "listened": false
+}

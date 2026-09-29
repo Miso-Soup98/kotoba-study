@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-02",
+  "exampleIndex": 0,
+  "text": "当館の貸し傘は、出口の横にある箱に返してください。ただ、壊れてしまった傘は箱には入れず、受付へお持ちください。修理できるか確認します。借りた当日に返せなくても、三日以内なら大丈夫です。傘を借りるときに預かった百円は、受付で傘の番号を確認した後、お返しします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "f1460c7ead605423d0f366a23c4d7e89da8d203d4273e75c443d45f8e096ac24",
+  "src": "/audio/training/n2-v05-p-listening-02.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-02.srt",
+  "durationSeconds": 26.76,
+  "bytes": 160560,
+  "sha256": "28d4c5cf3e8fc7d29145427911fe596fcb59342d2a60d13a3090dad8d0444189",
+  "peakPcm": 22285,
+  "rmsDbfs": -17.31,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

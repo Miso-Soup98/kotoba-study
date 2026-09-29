@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-043",
+  "exampleIndex": 0,
+  "text": "うそをつこうものなら、信用を失います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 235,
+  "signature": "8bdea38011741a13a802a9e780f309ef6aa96c97e133cbbc9e6e54725a63329a",
+  "src": "/audio/voices/nanami/N2-043-1.mp3",
+  "srt": "/audio/voices/nanami/N2-043-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "7473ab7577f15757e2a018c7bebb10775d3efb8863f9c67ce59c6f2b3e96fbdf",
+  "peakPcm": 21604,
+  "rmsDbfs": -16.32,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-073",
+  "exampleIndex": 0,
+  "text": "もう待ってはいられません。先に行きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 250,
+  "signature": "068703de2d5882f1b4e205236a9c3b9736102b3dfaf88acfca8615339c20d27c",
+  "src": "/audio/voices/keita/N2-073-1.mp3",
+  "srt": "/audio/voices/keita/N2-073-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "40de67a50c6760928d058b47074f2393163853d0314c4830fbc1cd872886020d",
+  "peakPcm": 21159,
+  "rmsDbfs": -21.21,
+  "rate": "+0%",
+  "listened": false
+}

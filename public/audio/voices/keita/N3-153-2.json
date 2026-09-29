@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-153",
+  "exampleIndex": 1,
+  "text": "この町では雪がめったに降りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 197,
+  "signature": "da53f150b7588f1cf7519009373a9cece6413a587e21e4b6bd29116f1ec99652",
+  "src": "/audio/voices/keita/N3-153-2.mp3",
+  "srt": "/audio/voices/keita/N3-153-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "31b2aa041f5dc193b99922595c75d92c050d21393d3cc40cfd5437db552e10d3",
+  "peakPcm": 20903,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

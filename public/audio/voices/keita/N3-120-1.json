@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-120",
+  "exampleIndex": 0,
+  "text": "私が言ったとおりに書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 180,
+  "signature": "7a5c01275cda02f016479def3a387b601489f128f345ca28245b2a728325a798",
+  "src": "/audio/voices/keita/N3-120-1.mp3",
+  "srt": "/audio/voices/keita/N3-120-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "ec2f7155b9b5865e696ae93e4182237264a99f356ee164b6f0b9c58a53def3e5",
+  "peakPcm": 22791,
+  "rmsDbfs": -21.46,
+  "rate": "+0%",
+  "listened": false
+}

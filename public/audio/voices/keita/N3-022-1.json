@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-022",
+  "exampleIndex": 0,
+  "text": "そんなに心配することはありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 131,
+  "signature": "130d653d3d9eaa1cef86d006b34e535ba619088af9387f5982425f96e65779ac",
+  "src": "/audio/voices/keita/N3-022-1.mp3",
+  "srt": "/audio/voices/keita/N3-022-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "163bc63a0874f6b2c470cc8ea3f320e2f665e1b09f3b2636aa50157cde4f5188",
+  "peakPcm": 21852,
+  "rmsDbfs": -20.02,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-129",
+  "exampleIndex": 1,
+  "text": "早く起きるのに慣れていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 185,
+  "signature": "72b13d45f9c712949a75fbd8afc32e23746075b68667ee634e1aebf4fd7938eb",
+  "src": "/audio/voices/keita/N3-129-2.mp3",
+  "srt": "/audio/voices/keita/N3-129-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "5ff7d6960e400d6a6c40929870fb2850c3cb264ac5eb50b95524799e3d3e1524",
+  "peakPcm": 21917,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

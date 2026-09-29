@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-178",
+  "exampleIndex": 0,
+  "text": "この薬は、ちっとも苦くありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 303,
+  "signature": "338c7f537560c65c8fe6da76928071a11c101ee4a4f8ddbb9188e060520fb8e1",
+  "src": "/audio/voices/nanami/N2-178-1.mp3",
+  "srt": "/audio/voices/nanami/N2-178-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "536439c3aa190ead189d878db60e81e31b67f99a32e936c126d9359c26b3ab97",
+  "peakPcm": 21272,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

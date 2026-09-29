@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-110",
+  "exampleIndex": 0,
+  "text": "彼は文句を言うばかりで、何もしません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 175,
+  "signature": "ac53bc803b7db2eb726887f10fbd74281fd43e953fe353ea8324b2115307a085",
+  "src": "/audio/voices/nanami/N3-110-1.mp3",
+  "srt": "/audio/voices/nanami/N3-110-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "4a4674f16a90634a8f756c1a5e4ef006de58ac9ceb86497771d74094c7956dd3",
+  "peakPcm": 20430,
+  "rmsDbfs": -17.37,
+  "rate": "+0%",
+  "listened": false
+}

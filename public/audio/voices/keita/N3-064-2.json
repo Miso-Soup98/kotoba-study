@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-064",
+  "exampleIndex": 1,
+  "text": "説明が分からなかったので、聞き直しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 152,
+  "signature": "6e53f43ad94a7ac143348114d096cc431f2a21e0ba9c472d4754a643a36fa62c",
+  "src": "/audio/voices/keita/N3-064-2.mp3",
+  "srt": "/audio/voices/keita/N3-064-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "8a855e357e7b689e348eaaf2deff8b644d1e6bd1a4e7d50d0ad4fa743b3a4ebe",
+  "peakPcm": 22434,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

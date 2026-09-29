@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-124",
+  "exampleIndex": 0,
+  "text": "皆で協力しようではありませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 276,
+  "signature": "5e2b0d02a5ffe9a3cd1ff9d87cda1765c1e98ca5cf482066d2d516696a1f72bd",
+  "src": "/audio/voices/nanami/N2-124-1.mp3",
+  "srt": "/audio/voices/nanami/N2-124-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "c9962075f01feb11f6090cb648a9691d7ba66cc162e28f13c05429ca2d95fe27",
+  "peakPcm": 21103,
+  "rmsDbfs": -17.09,
+  "rate": "+0%",
+  "listened": false
+}

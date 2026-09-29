@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-099",
+  "exampleIndex": 1,
+  "text": "必要な資料のみ持参してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 263,
+  "signature": "74b33869a84fbec525d723c4784300d2124bcc16591fb1468a2e3efb013e0e3a",
+  "src": "/audio/voices/keita/N2-099-2.mp3",
+  "srt": "/audio/voices/keita/N2-099-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "845b13785de61c539391e9818fe361bfb6a4e8b79c127826fa427725a35c3d57",
+  "peakPcm": 21850,
+  "rmsDbfs": -19.92,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-085",
+  "exampleIndex": 1,
+  "text": "父に代わり、長男が挨拶しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 163,
+  "signature": "e138a9ff66548b017dd4844d991897c89363866a6995f7babb3549ae54c1f0da",
+  "src": "/audio/voices/keita/N3-085-2.mp3",
+  "srt": "/audio/voices/keita/N3-085-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "a236efcd066d948aac210aac4db102064186c33c015e37c7f623885a15e3efd3",
+  "peakPcm": 21902,
+  "rmsDbfs": -21.35,
+  "rate": "+0%",
+  "listened": false
+}

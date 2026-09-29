@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-013",
+  "exampleIndex": 0,
+  "text": "経験に応じて、仕事を分けます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 220,
+  "signature": "3b92aa8143787b22c6911ff64c7e0fb695f2c549d38e190424c1699b939bf43f",
+  "src": "/audio/voices/keita/N2-013-1.mp3",
+  "srt": "/audio/voices/keita/N2-013-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "6b5a83ffe555d6cfaf1bdf13637e6107e3b2d1a83cc261f4d996bfd62809a5e0",
+  "peakPcm": 23270,
+  "rmsDbfs": -19.8,
+  "rate": "+0%",
+  "listened": false
+}

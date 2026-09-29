@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-174",
+  "exampleIndex": 0,
+  "text": "ところで、明日は何時に来ますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 207,
+  "signature": "f0af489ea85c839d21e9f6bb0f2cfcbf5373c2f3f8c1596b8e52ec7294b6f4ae",
+  "src": "/audio/voices/keita/N3-174-1.mp3",
+  "srt": "/audio/voices/keita/N3-174-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "6a80af69272c58c388fc77bf688f582072a0d0bde8a9c69b79bd97ba6605f71a",
+  "peakPcm": 22882,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

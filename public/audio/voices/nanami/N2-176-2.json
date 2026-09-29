@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-176",
+  "exampleIndex": 1,
+  "text": "百人ばかり集まりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 302,
+  "signature": "d25b79c9504b53ea582a3e478b757b09011da6bbb505a5f5c35f1683773ac141",
+  "src": "/audio/voices/nanami/N2-176-2.mp3",
+  "srt": "/audio/voices/nanami/N2-176-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "cb57a68bd213075c218732846d075b3352c73cea313e387a4b455457419b0ce1",
+  "peakPcm": 20539,
+  "rmsDbfs": -18.66,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-028",
+  "exampleIndex": 0,
+  "text": "その質問にはお答えしかねます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 227,
+  "signature": "64bb72040ea280df378bc693c69d0eac896970b1ad9651c3f3b28ffb80a93d80",
+  "src": "/audio/voices/nanami/N2-028-1.mp3",
+  "srt": "/audio/voices/nanami/N2-028-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "757cff70c9ce9e7944a08ebbc95b189cd7f340fb34dc7b7cdc0ef08520248ae3",
+  "peakPcm": 22026,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

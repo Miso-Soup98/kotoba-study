@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-023",
+  "exampleIndex": 0,
+  "text": "これは私の意見にすぎません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 225,
+  "signature": "5b39d8e2dfb106d7eaa0a8183e1dd8abdea6dedba5421e9c18b128277dce6a94",
+  "src": "/audio/voices/nanami/N2-023-1.mp3",
+  "srt": "/audio/voices/nanami/N2-023-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "2bcb7c307baa7a428669739d37716fcdc0e6b2a4cddd2f2bf67a1aff2ad07fef",
+  "peakPcm": 21852,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-166",
+  "exampleIndex": 0,
+  "text": "駅まで三十分はかかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 203,
+  "signature": "85cf78a16092cb64357a085a8bbd77dc6d558f2d7d531238b0160032e8468f67",
+  "src": "/audio/voices/keita/N3-166-1.mp3",
+  "srt": "/audio/voices/keita/N3-166-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "9cc39137b0f6f26b51a7bea9e36cd1073136d954c1c1fd1bd72cf2548875bcc6",
+  "peakPcm": 24580,
+  "rmsDbfs": -21.86,
+  "rate": "+0%",
+  "listened": false
+}

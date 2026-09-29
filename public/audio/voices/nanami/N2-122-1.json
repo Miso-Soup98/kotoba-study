@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-122",
+  "exampleIndex": 0,
+  "text": "同じ間違いは繰り返すまいと思いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 275,
+  "signature": "f59d5a8f7776814cf589bf1cfd47f8d94819417544f466a44327c97e8f11fae0",
+  "src": "/audio/voices/nanami/N2-122-1.mp3",
+  "srt": "/audio/voices/nanami/N2-122-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "6673d5e99066aee6c652c12df3ea5f1a3ddf374f7f933f41e2d493accf243f8b",
+  "peakPcm": 20508,
+  "rmsDbfs": -17.79,
+  "rate": "+0%",
+  "listened": false
+}

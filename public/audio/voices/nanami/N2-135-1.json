@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-135",
+  "exampleIndex": 0,
+  "text": "こんな量、一人では食べられっこありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 281,
+  "signature": "d0abf92b851a940ed9f2081db39b1b060962f8379bf38f5bbb4b9a45f145886e",
+  "src": "/audio/voices/nanami/N2-135-1.mp3",
+  "srt": "/audio/voices/nanami/N2-135-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "eb8dd771ba24f81c3bcc0e595401c902e0f5198ae76d509a18bdc449b19b7546",
+  "peakPcm": 21296,
+  "rmsDbfs": -17.07,
+  "rate": "+0%",
+  "listened": false
+}

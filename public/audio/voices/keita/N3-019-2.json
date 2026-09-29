@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-019",
+  "exampleIndex": 1,
+  "text": "約束したので、行かないわけにはいきません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 130,
+  "signature": "32df46578317eb183697b01a35316eda63ee1b8ccf83daa1678909f921e83e33",
+  "src": "/audio/voices/keita/N3-019-2.mp3",
+  "srt": "/audio/voices/keita/N3-019-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "18d03d755c83da803d9e2ecabb6960fa84673ea5c3ec33b9ac00650b97114223",
+  "peakPcm": 25929,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-089",
+  "exampleIndex": 0,
+  "text": "冗談にせよ、言ってよいことではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 258,
+  "signature": "931c05728d6e232cfffe2bf4a5a4318553a86bccc1b97bfe04e983f352c3578d",
+  "src": "/audio/voices/nanami/N2-089-1.mp3",
+  "srt": "/audio/voices/nanami/N2-089-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "d67fb7007adada7bb63fe7a4b44ad250744dc6eea34be4eb40ceb494e292f630",
+  "peakPcm": 20806,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

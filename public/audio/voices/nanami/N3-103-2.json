@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-103",
+  "exampleIndex": 1,
+  "text": "連絡がなくて、心配しないではいられません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 172,
+  "signature": "06cad2f2a5d6c69c717afc3bb7cc81514ff2e2201d7b6ce04daf8689353faa1a",
+  "src": "/audio/voices/nanami/N3-103-2.mp3",
+  "srt": "/audio/voices/nanami/N3-103-2.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "b32cbaf0c799436cbacf912c49dee3148ba6d7b74e83d434911b43fe7414c570",
+  "peakPcm": 21752,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

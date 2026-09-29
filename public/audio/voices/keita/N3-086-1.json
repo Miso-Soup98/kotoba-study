@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-086",
+  "exampleIndex": 0,
+  "text": "映画に行く代わりに、家で本を読みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 163,
+  "signature": "ed2b0b62d4fa4e0b4edd13aa151df4ea824d39c59be5acedf37314ea5f19de7c",
+  "src": "/audio/voices/keita/N3-086-1.mp3",
+  "srt": "/audio/voices/keita/N3-086-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "d472d6052e6719277e9f9fc91a61fb918a0c4a747155be3b1d2234daeb9a9ed4",
+  "peakPcm": 23438,
+  "rmsDbfs": -19.64,
+  "rate": "+0%",
+  "listened": false
+}

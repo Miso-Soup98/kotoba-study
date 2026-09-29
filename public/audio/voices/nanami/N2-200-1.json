@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-200",
+  "exampleIndex": 0,
+  "text": "右へ曲がってください。そうすると、駅が見えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 314,
+  "signature": "fbb30833fd9805b505999ec0d467b76d776927d6e490c9b9acb751e4408277dc",
+  "src": "/audio/voices/nanami/N2-200-1.mp3",
+  "srt": "/audio/voices/nanami/N2-200-1.srt",
+  "durationSeconds": 5.4,
+  "bytes": 32400,
+  "sha256": "d2e210878570ac7a0d1800450d507957871db85abd555ee3f738031e578d52db",
+  "peakPcm": 22904,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

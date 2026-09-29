@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-112",
+  "exampleIndex": 0,
+  "text": "もう試験が近いので、遊んでいる場合ではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 176,
+  "signature": "89cd2e4781b3bfcefe731c81e5ac3086b0f40037bca7ffdb5a917731d8cccf4d",
+  "src": "/audio/voices/nanami/N3-112-1.mp3",
+  "srt": "/audio/voices/nanami/N3-112-1.srt",
+  "durationSeconds": 4.656,
+  "bytes": 27936,
+  "sha256": "c3780146e4fa714e67b077a5ca4f5d837980dd79faf9e20fabdd8cdfe753c1ff",
+  "peakPcm": 21100,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

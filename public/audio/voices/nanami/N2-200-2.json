@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-200",
+  "exampleIndex": 1,
+  "text": "明日は休みですか。そうすると、今日が最後ですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 314,
+  "signature": "77f13597bcb6c728581981ba645aa8a5bbe6e102091ca329990d8ee2242c09c6",
+  "src": "/audio/voices/nanami/N2-200-2.mp3",
+  "srt": "/audio/voices/nanami/N2-200-2.srt",
+  "durationSeconds": 5.808,
+  "bytes": 34848,
+  "sha256": "d2a01f604d23df106322df207ce56fec664c481ecf9b1d69a2d17264a98a8277",
+  "peakPcm": 22035,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

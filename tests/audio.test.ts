@@ -4,6 +4,7 @@ import { FileAudio } from "../lib/study/file-audio.ts";
 import { audioRoute } from "../lib/study/voice-pack.ts";
 import corpus from "../public/data/grammar.json" with { type: "json" };
 import manifest from "../public/audio/voices/manifest.json" with { type: "json" };
+import voiceIndex from "../lib/study/voice-manifest.json" with { type: "json" };
 import { eventSchema } from "../lib/study/validation.ts";
 import type { Entry } from "../lib/study/types.ts";
 const entry = corpus.entries.find((e) => e.id === "N5-001") as Entry;
@@ -42,14 +43,20 @@ function setup(timeout = 15000) {
     player: new FileAudio(() => media as unknown as HTMLAudioElement, timeout),
   };
 }
-test("all 104 voice clips match the unmodified textbook and unique entry/voice/index", () => {
-  assert.equal(manifest.clips.length, 104);
+test("all 1648 voice clips cover N3/N2 and preserve the original six N5/N4 lessons", () => {
+  assert.deepEqual(voiceIndex, manifest, "Run scripts/prepare-voice-index.mjs after generating audio.");
+  const covered = corpus.entries.filter(e => e.level === "N3" || e.level === "N2" ||
+    ["N5-001", "N5-002", "N5-003", "N4-001", "N4-002", "N4-003"].includes(e.id));
+  assert.equal(covered.length, 412);
+  assert.equal(manifest.clips.length, 1648);
   assert.equal(
     new Set(
       manifest.clips.map((c) => `${c.entryId}/${c.voice}/${c.exampleIndex}`),
     ).size,
-    104,
+    1648,
   );
+  for (const source of covered) for (const voice of ["nanami", "keita"]) for (const index of [0, 1])
+    assert.ok(manifest.clips.some(clip => clip.entryId === source.id && clip.voice === voice && clip.exampleIndex === index), `${source.id}/${voice}/${index}`);
   for (const clip of manifest.clips) {
     const source = corpus.entries.find((e) => e.id === clip.entryId)!;
     assert.equal(clip.text, source.examples[clip.exampleIndex].japanese);

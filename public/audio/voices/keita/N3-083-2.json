@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-083",
+  "exampleIndex": 1,
+  "text": "教育における言葉の役割を考えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 162,
+  "signature": "6fbe9568d4ce7cce1ec5b1d6fa5f56f4bfea42c403c8b75bba2c6c01fe9b7072",
+  "src": "/audio/voices/keita/N3-083-2.mp3",
+  "srt": "/audio/voices/keita/N3-083-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "1cc5ad134cdfca72af0742a769bfe5e56ee1a6913a7bfc83c327412b66f6a8f1",
+  "peakPcm": 22023,
+  "rmsDbfs": -19.75,
+  "rate": "+0%",
+  "listened": false
+}

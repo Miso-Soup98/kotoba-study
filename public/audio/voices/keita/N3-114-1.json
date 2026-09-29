@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-114",
+  "exampleIndex": 0,
+  "text": "電話で説明して済みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 177,
+  "signature": "6c5834541b3c09a8f12274ed121c09e36e4db59380638f42dfd304b24e6a6561",
+  "src": "/audio/voices/keita/N3-114-1.mp3",
+  "srt": "/audio/voices/keita/N3-114-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "874736a6f58964a63cd7afae29f24f17e092de42d52d9aa5e0a6510f7f2e6314",
+  "peakPcm": 23154,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

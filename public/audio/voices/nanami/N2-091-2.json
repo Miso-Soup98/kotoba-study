@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-091",
+  "exampleIndex": 1,
+  "text": "それが本当だとしても、私の考えは変わりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 259,
+  "signature": "c5dbc268ea07e7bc72fb33463da52845a29a6aa8d53148a415aff190980d407d",
+  "src": "/audio/voices/nanami/N2-091-2.mp3",
+  "srt": "/audio/voices/nanami/N2-091-2.srt",
+  "durationSeconds": 4.824,
+  "bytes": 28944,
+  "sha256": "898e11d5788e200aab378a2df062533ae7d6b950dac078b56f4c12c68b3bce26",
+  "peakPcm": 21740,
+  "rmsDbfs": -17.3,
+  "rate": "+0%",
+  "listened": false
+}

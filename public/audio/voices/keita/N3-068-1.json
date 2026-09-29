@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-068",
+  "exampleIndex": 0,
+  "text": "最後まで自分の考えを言い通しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 154,
+  "signature": "0c703d74a354b453a731ce301486220213b648be1a32991717c6a1fd96d63629",
+  "src": "/audio/voices/keita/N3-068-1.mp3",
+  "srt": "/audio/voices/keita/N3-068-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "be2ed32d6d405dbd7083eb90ff6791d6167ef611621103c0eeeeb82845e446cd",
+  "peakPcm": 22447,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

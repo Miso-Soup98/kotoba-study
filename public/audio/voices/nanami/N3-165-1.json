@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-165",
+  "exampleIndex": 0,
+  "text": "一体何があったのですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 203,
+  "signature": "e4d9f28d1b070c2063fdeac62d1939a12d81f91b1480ab6d2a82da43b86da344",
+  "src": "/audio/voices/nanami/N3-165-1.mp3",
+  "srt": "/audio/voices/nanami/N3-165-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "6e38ff764796920b987bd98067899fa29a1ff50ac32e0f92e3ac3e01e5d39b77",
+  "peakPcm": 20263,
+  "rmsDbfs": -18.56,
+  "rate": "+0%",
+  "listened": false
+}

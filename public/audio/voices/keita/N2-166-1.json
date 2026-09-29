@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-166",
+  "exampleIndex": 0,
+  "text": "恐らく、明日には結果が出るでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 297,
+  "signature": "58c5955e388e7fbdd703b760e6681c4158683784532604e20605202ba948061b",
+  "src": "/audio/voices/keita/N2-166-1.mp3",
+  "srt": "/audio/voices/keita/N2-166-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "96da37d8f386483edac2746f2d666a8a3ddde0f0c3ae2b22e6eec7407029fd9d",
+  "peakPcm": 22836,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

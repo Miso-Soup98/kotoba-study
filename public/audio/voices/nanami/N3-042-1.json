@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-042",
+  "exampleIndex": 0,
+  "text": "引っ越すとしたら、駅の近くがいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 141,
+  "signature": "96c3b8f2de462f233c46431edfa86c75e05ca1221a23d0d8da203291d243922c",
+  "src": "/audio/voices/nanami/N3-042-1.mp3",
+  "srt": "/audio/voices/nanami/N3-042-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "9203fc63fec57e3654da93434ab5e14d95284e9031a3ef0f57d7829699becfce",
+  "peakPcm": 19833,
+  "rmsDbfs": -18.7,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-092",
+  "exampleIndex": 0,
+  "text": "時間さえあれば、手伝えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 166,
+  "signature": "2cb8aa8aef9a13c3e6476e47b7ac15fa4634d319ed02b7db011464f4eefea8e1",
+  "src": "/audio/voices/nanami/N3-092-1.mp3",
+  "srt": "/audio/voices/nanami/N3-092-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "f57e27b1568a0278e4703578102c49db52a035519d4e38be7ddd88a2d15e984a",
+  "peakPcm": 20411,
+  "rmsDbfs": -18.13,
+  "rate": "+0%",
+  "listened": false
+}

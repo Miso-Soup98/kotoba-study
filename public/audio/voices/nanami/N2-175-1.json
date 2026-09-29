@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-175",
+  "exampleIndex": 0,
+  "text": "残りはわずかに三人です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 302,
+  "signature": "fc266bebe94db4f2d2a5ec45c66a21b0cf22026bec937e7fa1eb07cc0acf8cc3",
+  "src": "/audio/voices/nanami/N2-175-1.mp3",
+  "srt": "/audio/voices/nanami/N2-175-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "e6f3874ee83ad8f2907317fe70640f31717b683dabae762a5c4cd33d7a67987f",
+  "peakPcm": 20584,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

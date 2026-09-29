@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-035",
+  "exampleIndex": 0,
+  "text": "練習を重ねるにしたがって、自信がついてきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 138,
+  "signature": "9d44d35edf45469aa8a9acff1e7b0feb0cbf3835f690adccb9514c062b8dae3c",
+  "src": "/audio/voices/nanami/N3-035-1.mp3",
+  "srt": "/audio/voices/nanami/N3-035-1.srt",
+  "durationSeconds": 4.776,
+  "bytes": 28656,
+  "sha256": "644329e0dc9a0c36d58a79fd25e6e4945b385ab667bea197ea3accd41a7136e8",
+  "peakPcm": 22181,
+  "rmsDbfs": -18.31,
+  "rate": "+0%",
+  "listened": false
+}

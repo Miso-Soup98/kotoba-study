@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-075",
+  "exampleIndex": 1,
+  "text": "人を待っていては、何も始まりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 251,
+  "signature": "78e680345aa681e355624c66cb91a669ae602e507b18781d15446dc3eca59875",
+  "src": "/audio/voices/nanami/N2-075-2.mp3",
+  "srt": "/audio/voices/nanami/N2-075-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "d994ead5d4d20388a001ed7c25d23fc0befb955d7c60826b132c13fe08af8761",
+  "peakPcm": 20398,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

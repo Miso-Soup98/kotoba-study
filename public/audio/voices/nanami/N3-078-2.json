@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-078",
+  "exampleIndex": 1,
+  "text": "計算の速さにかけては、彼が一番です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 159,
+  "signature": "3bac8325d7e372c16c174798f33bd062a1870664dd4d51c13a253fabaf7c3d31",
+  "src": "/audio/voices/nanami/N3-078-2.mp3",
+  "srt": "/audio/voices/nanami/N3-078-2.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "33cf8112a6f5eef5d3d797f88645c214893bc7e3556d216eef76862dd83e0b91",
+  "peakPcm": 21597,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

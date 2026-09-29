@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-069",
+  "exampleIndex": 1,
+  "text": "入れたてのお茶は熱いので、気をつけてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 155,
+  "signature": "46d190192a30f76433bbd294d0c56c012e1b356b18993a7a6dc3bb3234a2be57",
+  "src": "/audio/voices/keita/N3-069-2.mp3",
+  "srt": "/audio/voices/keita/N3-069-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "bab5d30b10beb399c5cbd7390521c3dadda15328d6f137f94a1db985de748366",
+  "peakPcm": 25277,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

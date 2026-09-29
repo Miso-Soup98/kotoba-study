@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-216",
+  "exampleIndex": 1,
+  "text": "会場には百人強が集まりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 322,
+  "signature": "585f344b30e98d195c4975f83ff38d5dadc2e6dcb297ac7d995fed3eabeafb01",
+  "src": "/audio/voices/keita/N2-216-2.mp3",
+  "srt": "/audio/voices/keita/N2-216-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "5767e24a9ae378890845497bf3d76dbd99f9c260d6d688443aa1da0cf10fcd30",
+  "peakPcm": 22753,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

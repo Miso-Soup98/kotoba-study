@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-154",
+  "exampleIndex": 0,
+  "text": "この約束は決して忘れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 197,
+  "signature": "a152ff5134556e24dbf5b2887722b1a7fd6dacf3a4702062953f94019c1b1379",
+  "src": "/audio/voices/nanami/N3-154-1.mp3",
+  "srt": "/audio/voices/nanami/N3-154-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "23ca4f106e62b9a0d2e00fef1ca89fc47e4f7aad75ab709fc07d046a9222d53b",
+  "peakPcm": 19968,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

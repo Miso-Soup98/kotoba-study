@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-178",
+  "exampleIndex": 0,
+  "text": "この薬は、ちっとも苦くありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 303,
+  "signature": "f575034bd1ba0ecb63db9ffbd1dbff36f8458fbeb6b04a5a226585592f439695",
+  "src": "/audio/voices/keita/N2-178-1.mp3",
+  "srt": "/audio/voices/keita/N2-178-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "c8e700e246ad9f23fb6e3d9393f2e8e3fd5b9a8458c978e7e6203e9bfdd28a11",
+  "peakPcm": 22224,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-132",
+  "exampleIndex": 1,
+  "text": "子供は楽しげに話していました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 280,
+  "signature": "0ec5d0f7b4b94168a5f8492803b454baabfbba86b37c84fbdea9f035e647ed82",
+  "src": "/audio/voices/keita/N2-132-2.mp3",
+  "srt": "/audio/voices/keita/N2-132-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "f81b937882201cf36092e8581915cf4136c4cd65bc6689e60e87165a65b52c5d",
+  "peakPcm": 24485,
+  "rmsDbfs": -19.96,
+  "rate": "+0%",
+  "listened": false
+}

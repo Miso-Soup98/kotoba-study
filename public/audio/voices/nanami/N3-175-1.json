@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-175",
+  "exampleIndex": 0,
+  "text": "早く出ました。ところが、電車が止まっていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 208,
+  "signature": "ab1f2339d184f670d4ab10dc28739bbced67079174fbcd9789872b0465abce9d",
+  "src": "/audio/voices/nanami/N3-175-1.mp3",
+  "srt": "/audio/voices/nanami/N3-175-1.srt",
+  "durationSeconds": 5.376,
+  "bytes": 32256,
+  "sha256": "7c8b96c1df5df7123bcc4568c6174c3f2c4ddc628d0b7ae12bd50c8f9d69da89",
+  "peakPcm": 22154,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

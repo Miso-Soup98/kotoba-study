@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-133",
+  "exampleIndex": 1,
+  "text": "子供ならまだしも、大人がそんなことをしてはいけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 280,
+  "signature": "dabf8b3e90eff42457e551131c1dd14ede17a4759a985691846f5e9b6ceb5445",
+  "src": "/audio/voices/nanami/N2-133-2.mp3",
+  "srt": "/audio/voices/nanami/N2-133-2.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "bb8e120fecc23a716319f2d315cd8267365e256fb4831c801679e14c2bd232e5",
+  "peakPcm": 19762,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

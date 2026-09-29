@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-174",
+  "exampleIndex": 1,
+  "text": "ところで、宿題はもう終わりましたか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 207,
+  "signature": "c3791b41b2dd0fe6c6625c289227d01e1bbc4b6d19465585712a40f2ad3a3cb7",
+  "src": "/audio/voices/nanami/N3-174-2.mp3",
+  "srt": "/audio/voices/nanami/N3-174-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "54f86427e4f10c3807bd776794c707c06a635a6a0aff46ba56e7c7741d96b0bd",
+  "peakPcm": 20962,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-115",
+  "exampleIndex": 1,
+  "text": "何もそんなに怒らなくてもいいでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 271,
+  "signature": "5ab05309853a57863664f3efce15e4ff83a2ea1e8a7a6005b921082a9fc2ecce",
+  "src": "/audio/voices/nanami/N2-115-2.mp3",
+  "srt": "/audio/voices/nanami/N2-115-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "d082cee800ea675c6235cfdc82f51ad90f428fe23b697792fcb3a0f1de74ce13",
+  "peakPcm": 21107,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

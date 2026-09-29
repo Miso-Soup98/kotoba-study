@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-116",
+  "exampleIndex": 1,
+  "text": "道がぬれていることから、雨が降ったと分かります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 178,
+  "signature": "c37a80ee7fd4f0bbc449dc0275f229d58ebce7f32a123836cd184c4c3ddc5dbd",
+  "src": "/audio/voices/nanami/N3-116-2.mp3",
+  "srt": "/audio/voices/nanami/N3-116-2.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "089f9723d22e642dd1b49fe6dfb2378813aaecc45d119a597a9ef13351f39ea2",
+  "peakPcm": 21481,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

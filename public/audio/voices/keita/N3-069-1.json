@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-069",
+  "exampleIndex": 0,
+  "text": "焼きたてのパンを買いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 155,
+  "signature": "8315a7af9915bd969fa24de623786bd4e7be815f1cafb06caca8141d071e3c82",
+  "src": "/audio/voices/keita/N3-069-1.mp3",
+  "srt": "/audio/voices/keita/N3-069-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "6acbe0240016d0ee7e6ce35acde5e4fea4c6719cb330a365541e404c275a344c",
+  "peakPcm": 20574,
+  "rmsDbfs": -20.89,
+  "rate": "+0%",
+  "listened": false
+}

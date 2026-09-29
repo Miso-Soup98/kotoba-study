@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-092",
+  "exampleIndex": 1,
+  "text": "薬を飲みさえすれば、必ず治るとは限りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 166,
+  "signature": "6509288431c6057bebc50b1d4fe5f26207b35d2c7802baa5e79d90a14c930e6a",
+  "src": "/audio/voices/keita/N3-092-2.mp3",
+  "srt": "/audio/voices/keita/N3-092-2.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "a719b3368ca81ad6a43c790ea03b121332d70a73a13ff25781a434574f887fe8",
+  "peakPcm": 24665,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

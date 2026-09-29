@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-042",
+  "exampleIndex": 1,
+  "text": "代われるものなら、私が代わってあげたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 234,
+  "signature": "24fa85f7bcc9b90c1af5e554d8b122c049ec1daf4639620140c8dd45eac1f7c6",
+  "src": "/audio/voices/keita/N2-042-2.mp3",
+  "srt": "/audio/voices/keita/N2-042-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "c33b220c658f58a57b190ae265b174ebf955e2a71df408bcaf0f449863fc55f7",
+  "peakPcm": 23315,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

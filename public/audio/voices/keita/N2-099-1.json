@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-099",
+  "exampleIndex": 0,
+  "text": "参加者のみ、入場できます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 263,
+  "signature": "64475db1234f4d3cbf9b04b89cc50c5f75f7a0e04a13aff5876c5ab4aa6cca4b",
+  "src": "/audio/voices/keita/N2-099-1.mp3",
+  "srt": "/audio/voices/keita/N2-099-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "f4766d45438d689f8a6016672fd1f726982b05e3bad8891d807caa51821603c3",
+  "peakPcm": 21964,
+  "rmsDbfs": -21.17,
+  "rate": "+0%",
+  "listened": false
+}

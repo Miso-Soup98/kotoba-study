@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-150",
+  "exampleIndex": 0,
+  "text": "わざと間違えたのですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 195,
+  "signature": "24a32b7a46bde4c1256dbcc633b1c20eba734706ec3daad7d37c76a20834e2bb",
+  "src": "/audio/voices/keita/N3-150-1.mp3",
+  "srt": "/audio/voices/keita/N3-150-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "86f64ce45786b5e973f7fe5fdcace876a942a4a92b949a4395702ba374a2429a",
+  "peakPcm": 23633,
+  "rmsDbfs": -21.42,
+  "rate": "+0%",
+  "listened": false
+}

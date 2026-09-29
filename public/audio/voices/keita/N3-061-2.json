@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-061",
+  "exampleIndex": 1,
+  "text": "今日は一日立ちっぱなしでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 151,
+  "signature": "28a2852c1b998ac81b4d94a3a5a7f40f0817c4ed60d4ab442a1ae119335c2e3b",
+  "src": "/audio/voices/keita/N3-061-2.mp3",
+  "srt": "/audio/voices/keita/N3-061-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "4eb4debe2e63868410b8642072da3b31ec998494d3070b01b88dd90aa401a23f",
+  "peakPcm": 22878,
+  "rmsDbfs": -20.42,
+  "rate": "+0%",
+  "listened": false
+}

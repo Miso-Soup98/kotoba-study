@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-131",
+  "exampleIndex": 0,
+  "text": "試験中は話さないこと。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 186,
+  "signature": "e29e89724b875aa856dc42bd9d0c6ed6654f8e064989f3a7bdeb1326296bcb46",
+  "src": "/audio/voices/keita/N3-131-1.mp3",
+  "srt": "/audio/voices/keita/N3-131-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "d5ac464b2b3fd8346b4c0f1af795e2dd658e2d8f3856e0d2c019d7966f109603",
+  "peakPcm": 21874,
+  "rmsDbfs": -20.46,
+  "rate": "+0%",
+  "listened": false
+}

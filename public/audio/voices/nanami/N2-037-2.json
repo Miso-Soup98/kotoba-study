@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-037",
+  "exampleIndex": 1,
+  "text": "時間がたつのは早いものですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 232,
+  "signature": "1041f1bcd355045eaafd6dbeb6c905e1fedf689d359149431c03777ddc686dfd",
+  "src": "/audio/voices/nanami/N2-037-2.mp3",
+  "srt": "/audio/voices/nanami/N2-037-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "15173c717c31b85b77c83aff3a91e3f53f89665d828535423cc8fe01ae0591cc",
+  "peakPcm": 22687,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

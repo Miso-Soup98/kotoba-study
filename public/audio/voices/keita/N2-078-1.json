@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-078",
+  "exampleIndex": 0,
+  "text": "留学するにあたって、目標を決めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 253,
+  "signature": "25e36d5911f8dd2b13871d2c415c3cbd03d93408eeff06f6c765f4f403f7ddf5",
+  "src": "/audio/voices/keita/N2-078-1.mp3",
+  "srt": "/audio/voices/keita/N2-078-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "8d9f8c9b68fd4f0955935ade1d1f2f657e549a55dafbc73e6f05f75827e91e2f",
+  "peakPcm": 20722,
+  "rmsDbfs": -20.81,
+  "rate": "+0%",
+  "listened": false
+}

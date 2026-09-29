@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-029",
+  "exampleIndex": 0,
+  "text": "このままでは、大きな事故につながりかねません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 228,
+  "signature": "7d596b0608aca4b8722560f51379c51d66a75fd045e44afe98e1f1fdf3b45f8b",
+  "src": "/audio/voices/nanami/N2-029-1.mp3",
+  "srt": "/audio/voices/nanami/N2-029-1.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "d29f94eb4495d0885505dc2a48907442aa28bd7faabe216483601666185cc5af",
+  "peakPcm": 21062,
+  "rmsDbfs": -16.95,
+  "rate": "+0%",
+  "listened": false
+}

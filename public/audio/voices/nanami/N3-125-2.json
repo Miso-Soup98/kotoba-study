@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-125",
+  "exampleIndex": 1,
+  "text": "彼は出かけたきり、戻ってきません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 183,
+  "signature": "524c3405520d192c132f3d190c7ef7c3f770581a9d448cb498d7d545440afb56",
+  "src": "/audio/voices/nanami/N3-125-2.mp3",
+  "srt": "/audio/voices/nanami/N3-125-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "0682613a9b01c59472a16465a30d2dd95e9d5095ee3ec796d819805f0f0c585f",
+  "peakPcm": 21900,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

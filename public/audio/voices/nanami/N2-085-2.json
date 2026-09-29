@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-085",
+  "exampleIndex": 1,
+  "text": "この結果から見て、方法を変える必要があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 256,
+  "signature": "0b6404050a7cb0e133cc5aeee97c9e63e4619850600542e6a102d2f87df51cb2",
+  "src": "/audio/voices/nanami/N2-085-2.mp3",
+  "srt": "/audio/voices/nanami/N2-085-2.srt",
+  "durationSeconds": 4.728,
+  "bytes": 28368,
+  "sha256": "37914d8754d75b2e0cc82a5ba6600904d7ae40444b2d0c3e35a9745d46f12d0a",
+  "peakPcm": 21696,
+  "rmsDbfs": -16.52,
+  "rate": "+0%",
+  "listened": false
+}

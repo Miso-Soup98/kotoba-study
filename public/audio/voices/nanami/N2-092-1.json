@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-092",
+  "exampleIndex": 0,
+  "text": "どんなに難しくとも、諦めません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 260,
+  "signature": "0be058c295a2a707a43e5511ccf33e556ee27073a0abc35b5e997a37936c4787",
+  "src": "/audio/voices/nanami/N2-092-1.mp3",
+  "srt": "/audio/voices/nanami/N2-092-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "05f5967e004cf3645e946ec8c140f61acccd591edea349505237ef7e72133fac",
+  "peakPcm": 20163,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

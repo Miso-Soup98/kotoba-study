@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-d-listening-05",
+  "exampleIndex": 0,
+  "text": "報告会の資料ですが、表紙の日付は変更済みです。グラフは先週の数字のままなので、今日送った表に基づいて直してください。ただし、去年との比較に使っている三ページ目のグラフは、そのままで結構です。修正後はすぐに印刷せず、まず私にファイルを送ってください。確認が済んだら、印刷をお願いします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "d5f020445c43ea85fca59222d2d87cc455777be196263968e923ccc0b632b551",
+  "src": "/audio/training/n2-v05-d-listening-05.mp3",
+  "srt": "/audio/training/n2-v05-d-listening-05.srt",
+  "durationSeconds": 28.056,
+  "bytes": 168336,
+  "sha256": "6f41491784b288c98cc2d7604395af19230f3829f6c03820210ab760b78cc34a",
+  "peakPcm": 22559,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

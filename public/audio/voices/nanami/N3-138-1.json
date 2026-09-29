@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-138",
+  "exampleIndex": 0,
+  "text": "紙か何かありますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 189,
+  "signature": "69099908ec31a52f32237fd2bbd03f6307688b25c533b38cd4799092eb8d6953",
+  "src": "/audio/voices/nanami/N3-138-1.mp3",
+  "srt": "/audio/voices/nanami/N3-138-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "c911e6083d2244a574ba396356ab21026ca32ad81588d6956124404cc66aa075",
+  "peakPcm": 18407,
+  "rmsDbfs": -19.1,
+  "rate": "+0%",
+  "listened": false
+}

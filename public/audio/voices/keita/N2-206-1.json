@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-206",
+  "exampleIndex": 0,
+  "text": "少し落ち着きたまえ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 317,
+  "signature": "0fcd50c1f6c3547bda2b606973227726d804b8085bdc1736357520f5584088eb",
+  "src": "/audio/voices/keita/N2-206-1.mp3",
+  "srt": "/audio/voices/keita/N2-206-1.srt",
+  "durationSeconds": 2.136,
+  "bytes": 12816,
+  "sha256": "c30d8f6610d57e381478c2a36d6140aba8d5e226fa5a67c212397b4a5bf3ac0a",
+  "peakPcm": 20002,
+  "rmsDbfs": -23.07,
+  "rate": "+0%",
+  "listened": false
+}

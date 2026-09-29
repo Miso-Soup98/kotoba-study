@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-178",
+  "exampleIndex": 1,
+  "text": "何度読んでも、ちっとも分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 303,
+  "signature": "699d28d4ab9b795779c965447719b4a503b42cd980a2d2bd7c945082f810e577",
+  "src": "/audio/voices/nanami/N2-178-2.mp3",
+  "srt": "/audio/voices/nanami/N2-178-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "3b0ea73ff74f0724d6aea78a4dae7444a55b3982ec7f6b4455c370327827909e",
+  "peakPcm": 21757,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

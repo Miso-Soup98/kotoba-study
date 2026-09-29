@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-084",
+  "exampleIndex": 0,
+  "text": "予想に反して、試験は簡単でした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 162,
+  "signature": "953a73a11d5b6e7ee54526556c1aa63613aada51b49d1858bf50d11d61318d80",
+  "src": "/audio/voices/nanami/N3-084-1.mp3",
+  "srt": "/audio/voices/nanami/N3-084-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "4337c6ca36c21bf4f5d9292371414ceed1b9c5d608fb9f745223da4cf8e4fe94",
+  "peakPcm": 21024,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

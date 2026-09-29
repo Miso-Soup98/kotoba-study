@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-128",
+  "exampleIndex": 0,
+  "text": "こんなに高くては、買えません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 278,
+  "signature": "dad87e1882fcd33cb0d7cca85372f86571da95ac2216278b42d36e0404622f5a",
+  "src": "/audio/voices/keita/N2-128-1.mp3",
+  "srt": "/audio/voices/keita/N2-128-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "83ab94e03272a9b18c4b9c2f6e57fadc3d3c534e63e53c7c7be95730f652565f",
+  "peakPcm": 22612,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

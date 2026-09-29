@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-172",
+  "exampleIndex": 1,
+  "text": "こちらのほうが、よっぽど便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 300,
+  "signature": "924fd02e49f66f0067ff5d4ddf05513480d6b589f111d16169ff4f85fe98335f",
+  "src": "/audio/voices/nanami/N2-172-2.mp3",
+  "srt": "/audio/voices/nanami/N2-172-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "512258019370fa6b45c9d5a2a80c8ae095cebe1c97386d701181f2eaca0cacab",
+  "peakPcm": 20662,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false
+}

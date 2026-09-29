@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-116",
+  "exampleIndex": 1,
+  "text": "健康を守りたいなら、無理をしないことです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 272,
+  "signature": "46995161ab523d6ccac6a92a00b356add082be29aaf4a1a9693f45dd4cd86437",
+  "src": "/audio/voices/nanami/N2-116-2.mp3",
+  "srt": "/audio/voices/nanami/N2-116-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "2f96fc3ca0f54d7c63e5b05ee0a981ebaa0793a29b611e8c6b330b6a2ba10417",
+  "peakPcm": 21611,
+  "rmsDbfs": -16.85,
+  "rate": "+0%",
+  "listened": false
+}

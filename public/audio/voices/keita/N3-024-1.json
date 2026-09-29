@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-024",
+  "exampleIndex": 0,
+  "text": "聞こえるように、大きな声で話してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 132,
+  "signature": "346bbd09689b1ee09c4d95513599395e31b6722b9a827d0828a998a3e7ce31cc",
+  "src": "/audio/voices/keita/N3-024-1.mp3",
+  "srt": "/audio/voices/keita/N3-024-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "b84e1dd00c843c4e05ccf29fc778baffc799fd963ecdd4999da0a378298b5af6",
+  "peakPcm": 21500,
+  "rmsDbfs": -19.79,
+  "rate": "+0%",
+  "listened": false
+}

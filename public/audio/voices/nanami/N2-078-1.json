@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-078",
+  "exampleIndex": 0,
+  "text": "留学するにあたって、目標を決めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 253,
+  "signature": "9e8653fe9def6306e26d35bc17bbaa90af5981528ee80ba110876292abcd8663",
+  "src": "/audio/voices/nanami/N2-078-1.mp3",
+  "srt": "/audio/voices/nanami/N2-078-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "53fe625b7138d11af755246930e8c8aefb40cab8cac2dd07a590294ba0276c23",
+  "peakPcm": 21324,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

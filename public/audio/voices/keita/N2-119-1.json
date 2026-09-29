@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-119",
+  "exampleIndex": 0,
+  "text": "彼は休むことなく働きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 273,
+  "signature": "a45e6e5abdab065cc1daa94bea82ed26adc83803c41ce755e176c00873a2e5ce",
+  "src": "/audio/voices/keita/N2-119-1.mp3",
+  "srt": "/audio/voices/keita/N2-119-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "86c76ab84174e75f101cfd067babdd7901298016997c04510ca8f951bce3addc",
+  "peakPcm": 21523,
+  "rmsDbfs": -21.44,
+  "rate": "+0%",
+  "listened": false
+}

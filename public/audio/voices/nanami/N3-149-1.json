@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-149",
+  "exampleIndex": 0,
+  "text": "わざわざ来てくださって、ありがとうございます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 195,
+  "signature": "17d00bfaac276693735a914949ddb9392ef1cbefa8abedd01536648965942b44",
+  "src": "/audio/voices/nanami/N3-149-1.mp3",
+  "srt": "/audio/voices/nanami/N3-149-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "32253df726ee29ed66c14639b4d02314ef28c7d2c3472e3af2404cc2f8a1b3bf",
+  "peakPcm": 22014,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-05",
+  "exampleIndex": 0,
+  "text": "明日の展示の受付をお願いしている皆さんへ。配布用の地図は、印刷会社から直接届くことになったので、取りに行く必要はありません。地図が届いたら部数を数えてください。会場の案内板は私が置きます。皆さんには、開場に先立って、入口から受付までの通路に荷物がないかを確かめていただきたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "cfc1cacd8ab0dfd264e021fae48da913ca4ef217535c9ce0c60f4a79b240d022",
+  "src": "/audio/training/n2-v05-p-listening-05.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-05.srt",
+  "durationSeconds": 27.408,
+  "bytes": 164448,
+  "sha256": "6763c16ff4a6a27bf189b052f5cbdee0b619fe4e381ba8f2e82683af5273accf",
+  "peakPcm": 21948,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

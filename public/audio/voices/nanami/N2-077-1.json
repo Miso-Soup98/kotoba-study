@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-077",
+  "exampleIndex": 0,
+  "text": "実際に使ってこそ、言葉は身につきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 252,
+  "signature": "b1c570a299784183e047ed7ebe7d225488a47017fd41eb1a02c2ac43090023a3",
+  "src": "/audio/voices/nanami/N2-077-1.mp3",
+  "srt": "/audio/voices/nanami/N2-077-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "26d12bb1e087b895cf4de446f4db6c06595af83073118498da92eb87d289ce9b",
+  "peakPcm": 22978,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

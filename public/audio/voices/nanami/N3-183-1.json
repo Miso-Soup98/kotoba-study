@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-183",
+  "exampleIndex": 0,
+  "text": "この町は温泉で有名です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 212,
+  "signature": "3d6b06e482aa11923fa5da943b4755fe0964f73f8d76685b1ccaff7a14acfc23",
+  "src": "/audio/voices/nanami/N3-183-1.mp3",
+  "srt": "/audio/voices/nanami/N3-183-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "656dd194fb9ef122a8a4df451a22ebcbd4ee7dc000bd51fd13927682798ec1e7",
+  "peakPcm": 21064,
+  "rmsDbfs": -16.99,
+  "rate": "+0%",
+  "listened": false
+}

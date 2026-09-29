@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-024",
+  "exampleIndex": 0,
+  "text": "聞こえるように、大きな声で話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 132,
+  "signature": "acc3e612fd11ff5794bf18b30f480f7b8dd49711d08945bcb552dfde1c8e838c",
+  "src": "/audio/voices/nanami/N3-024-1.mp3",
+  "srt": "/audio/voices/nanami/N3-024-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "16dd64407540572e1196b26bad29e4d61cdf4a81ad4233d3155c9c2762fb028f",
+  "peakPcm": 22649,
+  "rmsDbfs": -16.72,
+  "rate": "+0%",
+  "listened": false
+}

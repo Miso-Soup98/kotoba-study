@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-026",
+  "exampleIndex": 1,
+  "text": "記録から考えると、彼は現場にいたに相違ありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 226,
+  "signature": "da496aec22b55b51b0c4dabedbad39548db538b01ca3211937185d2480836ee8",
+  "src": "/audio/voices/keita/N2-026-2.mp3",
+  "srt": "/audio/voices/keita/N2-026-2.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "afca69e9eb35e0b66ef82685ff711c5d0f002ae372b4abf7b35a6672ab2ad12a",
+  "peakPcm": 23326,
+  "rmsDbfs": -20.21,
+  "rate": "+0%",
+  "listened": false
+}

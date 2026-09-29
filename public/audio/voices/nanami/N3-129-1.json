@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-129",
+  "exampleIndex": 0,
+  "text": "日本の生活に慣れました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 185,
+  "signature": "5814351c5d4f2abbfc97fa8981eaff2cc17831e1f78711113a02a68020fb5a56",
+  "src": "/audio/voices/nanami/N3-129-1.mp3",
+  "srt": "/audio/voices/nanami/N3-129-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "89c9713b6a381050340e9ced9d21985dea445bc5a5fab352d8cced52567831b8",
+  "peakPcm": 19697,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

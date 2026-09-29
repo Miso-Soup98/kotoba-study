@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-073",
+  "exampleIndex": 1,
+  "text": "昨日は一日中、雨でした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 157,
+  "signature": "12980ef58bc9000d191b6b28b80093ba989e406875bee32d12ced6f75dd56324",
+  "src": "/audio/voices/nanami/N3-073-2.mp3",
+  "srt": "/audio/voices/nanami/N3-073-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "fda3ecf4737859a82402375a4d75bb2db8408c02b6fb956111b97454ed040020",
+  "peakPcm": 20253,
+  "rmsDbfs": -18.78,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-127",
+  "exampleIndex": 1,
+  "text": "同じ失敗を繰り返してはなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 277,
+  "signature": "e0c3095cd4122138d17be873b475cc7bf7777592e71b803e72245bfd87275440",
+  "src": "/audio/voices/keita/N2-127-2.mp3",
+  "srt": "/audio/voices/keita/N2-127-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "05218a424912f0fb5a4399c19e0462b1d1cb9940a297dd1dcc2ad105bb22a3bb",
+  "peakPcm": 25833,
+  "rmsDbfs": -20.39,
+  "rate": "+0%",
+  "listened": false
+}

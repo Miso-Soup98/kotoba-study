@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-029",
+  "exampleIndex": 1,
+  "text": "無理をすると、体を壊しかねません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 228,
+  "signature": "e9daddc9ba4479935c2dd14b9a00b852290f2931276ccacd6b8d8d1ef8324cf0",
+  "src": "/audio/voices/keita/N2-029-2.mp3",
+  "srt": "/audio/voices/keita/N2-029-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "357f7b9228732d9527571fdde6d5e52e14526eb3b30295eff46ecca6c383abae",
+  "peakPcm": 25388,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

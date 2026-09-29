@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-028",
+  "exampleIndex": 0,
+  "text": "その質問にはお答えしかねます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 227,
+  "signature": "760590b87a39bddae7ea10644ebff58616042b345ceed412622de40f4f0db559",
+  "src": "/audio/voices/keita/N2-028-1.mp3",
+  "srt": "/audio/voices/keita/N2-028-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "62ad347086131164f14e61d7a09bd4e0fdeb4ccbf87bde8f081c20d217cd37f6",
+  "peakPcm": 21176,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

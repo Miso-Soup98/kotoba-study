@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-076",
+  "exampleIndex": 1,
+  "text": "毎回遅れるようでは、信用されません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 251,
+  "signature": "6d72f6db3906ee85931d08c6ffc36b59a21d3beadf90dd1d478361a2a63b0556",
+  "src": "/audio/voices/keita/N2-076-2.mp3",
+  "srt": "/audio/voices/keita/N2-076-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "70a1ea76005640dc6347db46a3808e0422e457d989429380868c36e03b3ceac8",
+  "peakPcm": 24187,
+  "rmsDbfs": -19.83,
+  "rate": "+0%",
+  "listened": false
+}

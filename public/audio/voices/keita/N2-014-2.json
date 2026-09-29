@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-014",
+  "exampleIndex": 1,
+  "text": "規則に基づいて判断しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 220,
+  "signature": "2644a2f258f5d9c53323ba6cfabb010ba365034203a6cb57d716d3c8d2847ffb",
+  "src": "/audio/voices/keita/N2-014-2.mp3",
+  "srt": "/audio/voices/keita/N2-014-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "924185f561b542c66ad54946c0582c18d283ac859656308897d6a8d7ddc7feea",
+  "peakPcm": 20137,
+  "rmsDbfs": -21.15,
+  "rate": "+0%",
+  "listened": false
+}

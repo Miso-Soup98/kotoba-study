@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-054",
+  "exampleIndex": 0,
+  "text": "出かけようとしていたところに、客が来ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 240,
+  "signature": "6be3e74e2b7b680ca93f82d4b3f98e9c7786f4718f8bd5c74f5f30f7cced67ae",
+  "src": "/audio/voices/keita/N2-054-1.mp3",
+  "srt": "/audio/voices/keita/N2-054-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "856fc374c959551b1e360a14059e2865aa794e226c437d2b3957cc86cfb20399",
+  "peakPcm": 22012,
+  "rmsDbfs": -20.98,
+  "rate": "+0%",
+  "listened": false
+}

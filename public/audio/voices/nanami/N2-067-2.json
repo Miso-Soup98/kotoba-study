@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-067",
+  "exampleIndex": 1,
+  "text": "彼は漢字どころか、ひらがなも読めません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 247,
+  "signature": "787e1a62ded136f6cfb5247251e3dfc3bf1b43a7b7c38ca22348f28f2f514fc7",
+  "src": "/audio/voices/nanami/N2-067-2.mp3",
+  "srt": "/audio/voices/nanami/N2-067-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "48dcb03d3989ebe182e6760e0582f4bc25aa0b8420a96fafad38253b127d41a4",
+  "peakPcm": 21171,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

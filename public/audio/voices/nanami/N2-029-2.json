@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-029",
+  "exampleIndex": 1,
+  "text": "無理をすると、体を壊しかねません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 228,
+  "signature": "f5d6213978b00dba34df45e7c825501b3fefd008f38d87b2c6d4f06a47b9b694",
+  "src": "/audio/voices/nanami/N2-029-2.mp3",
+  "srt": "/audio/voices/nanami/N2-029-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "821feb8a349d06b64d84bcf4396daa8662746d28f5211354983611911465212d",
+  "peakPcm": 20947,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

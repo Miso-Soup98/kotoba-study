@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-037",
+  "exampleIndex": 0,
+  "text": "人は失敗から学ぶものです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 232,
+  "signature": "f6a478d97032a401fc23bfe6839f1ca7e01a493958e6682b49185c4e3c8ff13b",
+  "src": "/audio/voices/keita/N2-037-1.mp3",
+  "srt": "/audio/voices/keita/N2-037-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "4933110cafb5139930f16dc24035c5243b4b1628b5a973270208e7a5cf5ef6cd",
+  "peakPcm": 24625,
+  "rmsDbfs": -20.27,
+  "rate": "+0%",
+  "listened": false
+}

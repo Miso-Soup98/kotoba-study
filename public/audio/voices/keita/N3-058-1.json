@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-058",
+  "exampleIndex": 0,
+  "text": "今日は少し疲れ気味です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 149,
+  "signature": "e0ee34251042451c3b787fbd36523a812586c71557dd079e977b2ea2fe5f740f",
+  "src": "/audio/voices/keita/N3-058-1.mp3",
+  "srt": "/audio/voices/keita/N3-058-1.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "1dbb08007fdadbc6da4f29c4f0243c7552ac0bcebeb99380e64628a9b29b1762",
+  "peakPcm": 24852,
+  "rmsDbfs": -20.76,
+  "rate": "+0%",
+  "listened": false
+}

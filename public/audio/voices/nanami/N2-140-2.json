@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-140",
+  "exampleIndex": 1,
+  "text": "今後も利用者が増えると考えられます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 284,
+  "signature": "59dc2d4c7d4a43dca1a5d037f196fcb6099242eee440fc3b17e772ff529a9725",
+  "src": "/audio/voices/nanami/N2-140-2.mp3",
+  "srt": "/audio/voices/nanami/N2-140-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "7c60416fa74358e066d4b77a5ce781800a2bd82bfb337a8b83e6e8ca8d60a3af",
+  "peakPcm": 20931,
+  "rmsDbfs": -17.03,
+  "rate": "+0%",
+  "listened": false
+}

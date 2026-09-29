@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-112",
+  "exampleIndex": 0,
+  "text": "安全上の理由で、中止しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 270,
+  "signature": "89fd0936938eecd273a9cdd36a3666d97d21e8afb4e4ef330a8784c8793edde7",
+  "src": "/audio/voices/keita/N2-112-1.mp3",
+  "srt": "/audio/voices/keita/N2-112-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "416ce53b2a1d35aeae04eadda732a206b49a31e70898d4cd169d7adeb7f1c8e9",
+  "peakPcm": 20805,
+  "rmsDbfs": -20.3,
+  "rate": "+0%",
+  "listened": false
+}

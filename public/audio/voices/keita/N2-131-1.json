@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-131",
+  "exampleIndex": 0,
+  "text": "彼は何もなかったかのように話しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 279,
+  "signature": "4f4959ed7ae162def06deb2eab09c7c701eac8eec304a4ca17b447e053d49210",
+  "src": "/audio/voices/keita/N2-131-1.mp3",
+  "srt": "/audio/voices/keita/N2-131-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "aa976d2b37f463dcc0888740f1ecde0a92b26494b1279dfdd254bfb817885b7e",
+  "peakPcm": 21117,
+  "rmsDbfs": -20.79,
+  "rate": "+0%",
+  "listened": false
+}

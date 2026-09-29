@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-141",
+  "exampleIndex": 1,
+  "text": "電車が遅れたとかで、まだ来ていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 284,
+  "signature": "70a939a3968e900b825856dd35bbadd40c9e33ed930c41a26dff6b2b388292ca",
+  "src": "/audio/voices/keita/N2-141-2.mp3",
+  "srt": "/audio/voices/keita/N2-141-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "5e40917c0eded71eaa277cc61425ca02e74d5d6f6605b149cef3c6d2e7084ea9",
+  "peakPcm": 25815,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

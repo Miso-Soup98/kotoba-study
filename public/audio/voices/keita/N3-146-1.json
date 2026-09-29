@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-146",
+  "exampleIndex": 0,
+  "text": "この話には深みがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 193,
+  "signature": "882ed1a4560f8df4f4f2480ca1b2e6b4f6f3ec0db1069f6ca7660712fa37367d",
+  "src": "/audio/voices/keita/N3-146-1.mp3",
+  "srt": "/audio/voices/keita/N3-146-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "17ae90fee401e7f98b4ab88d2f594bc35219518431ec932a5e4ffeaf8c964b9c",
+  "peakPcm": 21857,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

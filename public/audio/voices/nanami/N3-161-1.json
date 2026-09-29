@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-161",
+  "exampleIndex": 0,
+  "text": "もしも道に迷ったら、電話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 201,
+  "signature": "982aff79eaaef9f9ff0f7d59a06e5fc72dc39cd32dfa818f3ded9bccffbd23f2",
+  "src": "/audio/voices/nanami/N3-161-1.mp3",
+  "srt": "/audio/voices/nanami/N3-161-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "dafd325fb882429c4a1acf260feac221e901ce8253e427da02063bdb7229c729",
+  "peakPcm": 21276,
+  "rmsDbfs": -17.94,
+  "rate": "+0%",
+  "listened": false
+}

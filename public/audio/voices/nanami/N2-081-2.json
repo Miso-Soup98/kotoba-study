@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-081",
+  "exampleIndex": 1,
+  "text": "事故を契機に、安全対策を見直しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 254,
+  "signature": "ed0b094760e8779b0d662a358c97d3f43aee68d8677b8386e6f7d635efee4cae",
+  "src": "/audio/voices/nanami/N2-081-2.mp3",
+  "srt": "/audio/voices/nanami/N2-081-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "ae0d4e3527a57f1023661f4f078e37aa8121762ca16dcccf504bd76e62dcf15b",
+  "peakPcm": 21315,
+  "rmsDbfs": -16.94,
+  "rate": "+0%",
+  "listened": false
+}

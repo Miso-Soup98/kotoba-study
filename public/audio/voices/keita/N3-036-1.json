@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-036",
+  "exampleIndex": 0,
+  "text": "練習すればするほど、上手になります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 138,
+  "signature": "a22cb07a870b4080d9e3bce2ee3f389c73d20e939c4c38b44352dc9e452188d6",
+  "src": "/audio/voices/keita/N3-036-1.mp3",
+  "srt": "/audio/voices/keita/N3-036-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "ce4356ac67f858c02bede5326b44b9f7ae14cea95b5cc1e5b53912dbf30acb8a",
+  "peakPcm": 22960,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

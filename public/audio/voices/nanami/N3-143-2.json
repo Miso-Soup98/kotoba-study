@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-143",
+  "exampleIndex": 1,
+  "text": "隣の部屋の音が気になって、眠れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 192,
+  "signature": "3b9046c393fb1804e3e95a7726cedc8261e8973f2a18496795cf8635260b420d",
+  "src": "/audio/voices/nanami/N3-143-2.mp3",
+  "srt": "/audio/voices/nanami/N3-143-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "2d1f98b7db406e2d106bc12150b990ab1d0ff74245fc8ded7517ef528c233940",
+  "peakPcm": 20452,
+  "rmsDbfs": -17.93,
+  "rate": "+0%",
+  "listened": false
+}

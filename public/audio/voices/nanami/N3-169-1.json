@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-169",
+  "exampleIndex": 0,
+  "text": "申し込みはすでに終わっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 205,
+  "signature": "cdb2ebcb3223a15689c4753c828b143699ccdcc565fba51e0ae9a6eccab5a7fb",
+  "src": "/audio/voices/nanami/N3-169-1.mp3",
+  "srt": "/audio/voices/nanami/N3-169-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "de73bf52a7705bc8d9dafd8e9c3dadc3872dec2685b030aa1d29b78f849ea6b1",
+  "peakPcm": 22502,
+  "rmsDbfs": -17.53,
+  "rate": "+0%",
+  "listened": false
+}

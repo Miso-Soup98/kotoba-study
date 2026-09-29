@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-134",
+  "exampleIndex": 0,
+  "text": "知っているくせして、何も言いませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 281,
+  "signature": "e45266f734aeebb64f0b5b550977c2b216b6481289179407d9f6fbfb2c35c1e5",
+  "src": "/audio/voices/nanami/N2-134-1.mp3",
+  "srt": "/audio/voices/nanami/N2-134-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "734de0db2781a7b39b2930902c368ae9909f467a4e81ef616994bbe2f62319ab",
+  "peakPcm": 20389,
+  "rmsDbfs": -18.61,
+  "rate": "+0%",
+  "listened": false
+}

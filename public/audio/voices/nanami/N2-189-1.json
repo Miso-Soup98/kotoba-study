@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-189",
+  "exampleIndex": 0,
+  "text": "三年後、再びこの町を訪ねました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 309,
+  "signature": "6d308f0b6812bfe47735e81f85eae8075c5af73b68a796c2be43e0f2d02e9254",
+  "src": "/audio/voices/nanami/N2-189-1.mp3",
+  "srt": "/audio/voices/nanami/N2-189-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "4a85264c1c87119dafbc2bb1d533f8f1efaa745d14965058e3f506b70ee1f6dd",
+  "peakPcm": 21003,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

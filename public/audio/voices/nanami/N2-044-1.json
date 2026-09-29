@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-044",
+  "exampleIndex": 0,
+  "text": "彼の話には、人を引きつけるものがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 235,
+  "signature": "97711a6bef05438b1954db72d0a374c81014b389c08f64aa09388a1e8913769a",
+  "src": "/audio/voices/nanami/N2-044-1.mp3",
+  "srt": "/audio/voices/nanami/N2-044-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "9d654a31fbdbbc2605661c8cf61b127e3d873046f487724cb234f7416e0ddfe8",
+  "peakPcm": 20525,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

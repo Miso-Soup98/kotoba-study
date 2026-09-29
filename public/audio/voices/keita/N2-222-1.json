@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-222",
+  "exampleIndex": 0,
+  "text": "方法は簡単です。しかしながら、時間がかかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 325,
+  "signature": "b64b350df497bc9a4c1b044277c393b8be210902199c5cc65878f732f1da16c1",
+  "src": "/audio/voices/keita/N2-222-1.mp3",
+  "srt": "/audio/voices/keita/N2-222-1.srt",
+  "durationSeconds": 5.568,
+  "bytes": 33408,
+  "sha256": "d5d3c098823b659968ee953f17ae5384cd89fa192fc83e92a24946268f0d80a8",
+  "peakPcm": 26302,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-172",
+  "exampleIndex": 1,
+  "text": "こちらのほうが、よっぽど便利です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 300,
+  "signature": "3516fddab2c784fb4f9961eb4f3884d86a94c4171e4bda1e80d916e661bcc304",
+  "src": "/audio/voices/keita/N2-172-2.mp3",
+  "srt": "/audio/voices/keita/N2-172-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "adb190894295bf1c0bda645e58652bd232899433790844c8fcd5ad3d502f73cc",
+  "peakPcm": 24712,
+  "rmsDbfs": -19.89,
+  "rate": "+0%",
+  "listened": false
+}

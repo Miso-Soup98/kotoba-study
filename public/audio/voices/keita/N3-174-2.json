@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-174",
+  "exampleIndex": 1,
+  "text": "ところで、宿題はもう終わりましたか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 207,
+  "signature": "ace609a4ea49af6a6cba97523e01a43e52b44f3fdf769609f58436073e83a445",
+  "src": "/audio/voices/keita/N3-174-2.mp3",
+  "srt": "/audio/voices/keita/N3-174-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "db37b6d15bd67c880664706d14c8a6cbd5613a891dbe44204316a31b85479b70",
+  "peakPcm": 24232,
+  "rmsDbfs": -19.45,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-067",
+  "exampleIndex": 1,
+  "text": "彼は漢字どころか、ひらがなも読めません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 247,
+  "signature": "ceb390dc3bc4dcb8c37f86173597f6068a729b08e3ff38c581f556845966ae18",
+  "src": "/audio/voices/keita/N2-067-2.mp3",
+  "srt": "/audio/voices/keita/N2-067-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "80b9fbbe2336ccac13d9140f748f511ed24310f95853fb98842f80a00eed68fe",
+  "peakPcm": 27628,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-060",
+  "exampleIndex": 1,
+  "text": "この習慣は失われつつあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 243,
+  "signature": "f31b8e908050a92682909e411b5d87cecd85c6565e3259fa58577af963ebedc6",
+  "src": "/audio/voices/nanami/N2-060-2.mp3",
+  "srt": "/audio/voices/nanami/N2-060-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "eef114b02c77e4410ddfb277901a3dd7b5b14c7e6424981fc1eaed78e50d61f5",
+  "peakPcm": 22736,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

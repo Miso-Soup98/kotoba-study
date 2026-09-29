@@ -47,9 +47,249 @@
       "pdfPage": null,
       "srt": "/audio/training/n2-listening-004.srt",
       "durationSeconds": 29.328
+    },
+    {
+      "entryId": "n2-v05-d-listening-01",
+      "exampleIndex": 0,
+      "text": "昨日、教室に青い本を忘れた方はいませんか。本は二階の事務室で預かっています。今日は午後七時まで受け取れます。明日は事務室が休みなので、来られない方は金曜日にお願いします。教室の先生ではなく、事務室の人に名前を伝えてください。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-d-listening-01.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-d-listening-01.srt",
+      "durationSeconds": 23.136
+    },
+    {
+      "entryId": "n2-v05-d-listening-02",
+      "exampleIndex": 0,
+      "text": "いつもは昼にパンを食べますが、今日は温かいものが食べたいです。食堂に来たら、カレーはもうありませんでした。うどんとラーメンはまだあるそうです。昨日ラーメンを食べたので、今日はうどんにします。食べた後で、売店で明日の朝のパンを買うつもりです。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-d-listening-02.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-d-listening-02.srt",
+      "durationSeconds": 22.464
+    },
+    {
+      "entryId": "n2-v05-d-listening-03",
+      "exampleIndex": 0,
+      "text": "サイズが合わない靴の交換についてご案内します。外で履いていないものに限り、購入から一週間以内なら交換できます。その際、レシートもお持ちください。箱はなくてもかまいません。同じ商品の別のサイズが店にない場合は、お取り寄せになりますので、その日のうちにお渡しできないこともあります。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-d-listening-03.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-d-listening-03.srt",
+      "durationSeconds": 26.064
+    },
+    {
+      "entryId": "n2-v05-d-listening-04",
+      "exampleIndex": 0,
+      "text": "発表の準備を分担しましょう。写真を選ぶのは私がやります。田中さんは、集めた資料を日付の順に並べてもらえますか。説明文を書くのは、資料の順番が決まってから、二人でやりたいです。表紙のデザインはまだ考えなくていいです。まず内容が分かる形にしてから、見た目を整えましょう。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-d-listening-04.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-d-listening-04.srt",
+      "durationSeconds": 26.904
+    },
+    {
+      "entryId": "n2-v05-d-listening-05",
+      "exampleIndex": 0,
+      "text": "報告会の資料ですが、表紙の日付は変更済みです。グラフは先週の数字のままなので、今日送った表に基づいて直してください。ただし、去年との比較に使っている三ページ目のグラフは、そのままで結構です。修正後はすぐに印刷せず、まず私にファイルを送ってください。確認が済んだら、印刷をお願いします。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-d-listening-05.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-d-listening-05.srt",
+      "durationSeconds": 28.056
+    },
+    {
+      "entryId": "n2-v05-d-listening-06",
+      "exampleIndex": 0,
+      "text": "新しい道具を使うのは好きですが、機能が多ければよいとは思いません。以前、多機能の手帳アプリを入れたものの、設定ばかりして予定を書き忘れました。今は、入力が簡単なものを使っています。もちろん、必要な機能は人によって違います。評判だけで選ばず、自分が何をしたいのかを先に考えるのが大事だと思います。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-d-listening-06.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-d-listening-06.srt",
+      "durationSeconds": 28.248
+    },
+    {
+      "entryId": "n2-v05-p-listening-01",
+      "exampleIndex": 0,
+      "text": "荷物の配達について確認のお電話です。ご希望は明日の午前中でしたが、その時間は予約がいっぱいです。午後三時から五時の間なら伺えます。ご都合が悪ければ、あさっての午前中も選べます。今日の夕方六時までに、どちらがよいか、この番号にお電話ください。こちらからもう一度電話する予定はありません。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-01.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-01.srt",
+      "durationSeconds": 28.176
+    },
+    {
+      "entryId": "n2-v05-p-listening-02",
+      "exampleIndex": 0,
+      "text": "当館の貸し傘は、出口の横にある箱に返してください。ただ、壊れてしまった傘は箱には入れず、受付へお持ちください。修理できるか確認します。借りた当日に返せなくても、三日以内なら大丈夫です。傘を借りるときに預かった百円は、受付で傘の番号を確認した後、お返しします。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-02.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-02.srt",
+      "durationSeconds": 26.76
+    },
+    {
+      "entryId": "n2-v05-p-listening-03",
+      "exampleIndex": 0,
+      "text": "旅行の写真を共有するときは、撮った日ごとにフォルダーを分けてください。場所の名前だけで分けると、同じ場所に二度行ったときに順番が分からなくなるからです。写真の名前は変えなくてかまいません。ぼけている写真も、こちらで確認するので、今は消さずに入れておいてください。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-03.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-03.srt",
+      "durationSeconds": 22.944
+    },
+    {
+      "entryId": "n2-v05-p-listening-04",
+      "exampleIndex": 0,
+      "text": "以前は小説で知らない言葉を見つけるたびに辞書を引いていました。でも、それでは話の流れを忘れてしまいます。今はまず一章を最後まで読んで、何度も出てきた言葉だけ調べています。細かい意味はまだ分からないところもありますが、登場人物の気持ちは前よりつかみやすくなりました。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-04.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-04.srt",
+      "durationSeconds": 23.88
+    },
+    {
+      "entryId": "n2-v05-p-listening-05",
+      "exampleIndex": 0,
+      "text": "明日の展示の受付をお願いしている皆さんへ。配布用の地図は、印刷会社から直接届くことになったので、取りに行く必要はありません。地図が届いたら部数を数えてください。会場の案内板は私が置きます。皆さんには、開場に先立って、入口から受付までの通路に荷物がないかを確かめていただきたいです。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-05.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-05.srt",
+      "durationSeconds": 27.408
+    },
+    {
+      "entryId": "n2-v05-p-listening-06",
+      "exampleIndex": 0,
+      "text": "新しい予約システムの試用期間を延ばします。使い方についての質問が多かったためです。ただし、延長するのは操作練習用の画面だけで、実際の予約受付は予定どおり月曜日から新しい画面に切り替えます。練習用の画面で予約しても、予約が確定したことにはなりません。画面上の表示をよく確認してください。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-06.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-06.srt",
+      "durationSeconds": 28.416
+    },
+    {
+      "entryId": "n2-v05-p-listening-07",
+      "exampleIndex": 0,
+      "text": "講座の感想は、これまで最後に紙へ書いてもらっていましたが、今月から翌日にメールで尋ねることにしました。終わった直後は、よかったとしか書けない人もいるようです。一晩おくことで、実際の生活で使えそうな点や、もう少し説明してほしい点を考えてもらいたいのです。紙の費用を減らすことが主な目的ではありません。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-07.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-07.srt",
+      "durationSeconds": 26.88
+    },
+    {
+      "entryId": "n2-v05-p-listening-08",
+      "exampleIndex": 0,
+      "text": "来週の発表時間は10分なので、調査方法を細かく説明していると、結果を話す時間がなくなります。方法は要点だけにし、詳しい手順は配布資料で読めるようにしてください。一方、予想と違った結果については、時間をかけて説明したほうがいいと思います。聞き手が一番知りたいのは、そこから何を学んだかという点だからです。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-08.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-08.srt",
+      "durationSeconds": 28.848
+    },
+    {
+      "entryId": "n2-v05-p-listening-09",
+      "exampleIndex": 0,
+      "text": "見学会を欠席する場合は、前日の正午までにご連絡いただければ、参加費をお返しします。それを過ぎると、原則として返金できません。ただし、主催者の都合で見学会自体を中止する場合は、連絡の有無にかかわらず、全員に返金します。雨の場合も屋内で開催しますので、雨だけを理由に中止することはありません。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-09.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-09.srt",
+      "durationSeconds": 28.416
+    },
+    {
+      "entryId": "n2-v05-p-listening-10",
+      "exampleIndex": 0,
+      "text": "私は絵を習い始めたころ、ほかの人と比べては落ち込んでいました。先生は、上手な作品だけを見るのではなく、自分の先月の絵と今日の絵を並べてみるように言いました。そうすると、小さな変化が見えてきたんです。今でも思うように描けないことはありますが、小さな上達を実感できることが、続ける気持ちにつながっています。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-10.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-10.srt",
+      "durationSeconds": 27.528
+    },
+    {
+      "entryId": "n2-v05-p-listening-11",
+      "exampleIndex": 0,
+      "text": "共有スペースでは、普段は飲み物を持ち込めます。しかし、今週は修理中の機械を置いているため、ふた付きの容器であっても持ち込まないでください。飲むときは廊下の休憩席をご利用ください。修理が終わり次第、元の利用方法に戻します。禁止が今後ずっと続くというわけではありません。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-11.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-11.srt",
+      "durationSeconds": 25.344
+    },
+    {
+      "entryId": "n2-v05-p-listening-12",
+      "exampleIndex": 0,
+      "text": "本を人に薦めるとき、私は内容を全部説明しないようにしています。詳しく話すほど親切だと思っていた時期もありますが、相手が自分で発見する楽しみを奪いかねません。どんな人に合いそうか、自分はどこに引かれたかを伝え、結末は聞かれない限り話しません。読むかどうかを決めるのは、相手ですから。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-p-listening-12.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-p-listening-12.srt",
+      "durationSeconds": 25.776
+    },
+    {
+      "entryId": "n2-v05-c-listening-01",
+      "exampleIndex": 0,
+      "text": "探していた雑誌は、一階の棚にはありません。古い号は先月から地下の資料室に移しました。ただ、資料室には職員と一緒でないと入れません。まず一階の受付で、読みたい雑誌の名前と発行された年を伝えてください。職員が用意します。読むことはできますが、古い号は家に持ち帰れません。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-c-listening-01.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-c-listening-01.srt",
+      "durationSeconds": 27.504
+    },
+    {
+      "entryId": "n2-v05-c-listening-02",
+      "exampleIndex": 0,
+      "text": "明日の打ち合わせには、先週渡した白い用紙だけを持ってきてください。青い用紙は内容が古くなったので使いません。新しい説明書は会場で配ります。パソコンも必要ありません。白い用紙にまだ名前を書いていない人は、会議が始まるまでに書いておいてください。筆記用具は会場で貸し出します。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-c-listening-02.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-c-listening-02.srt",
+      "durationSeconds": 26.736
+    },
+    {
+      "entryId": "n2-v05-c-listening-03",
+      "exampleIndex": 0,
+      "text": "試作品を使った感想を集めています。よかった点だけでなく、使いにくかった場面も教えてください。ただ、改良の案まで考えていただく必要はありません。どの操作で困ったのかが分かれば、こちらで方法を検討できます。使った時間の長さは問いませんので、短時間しか使わなかった方の意見も歓迎します。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-c-listening-03.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-c-listening-03.srt",
+      "durationSeconds": 26.784
+    },
+    {
+      "entryId": "n2-v05-c-listening-04",
+      "exampleIndex": 0,
+      "text": "提出まであと一時間ですね。見出しの色は統一したいところですが、まず集計表の合計を確認しましょう。数字が間違っていたら、結論も変わる可能性があります。誤字は私が読みながら直します。合計が正しいと分かったら、残った時間で見出しを整えてください。表紙の写真は、今回は今のままにしましょう。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-c-listening-04.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-c-listening-04.srt",
+      "durationSeconds": 28.488
+    },
+    {
+      "entryId": "n2-v05-c-listening-05",
+      "exampleIndex": 0,
+      "text": "相談窓口の予約が取りにくいという声を受けて、枠を増やす案が出ています。ただ、私はその前に、予約だけして来ない人が多い理由を調べたいと思います。忘れているのなら、前日に連絡する方法もあります。予約枠を増やすだけでは、必要な人が利用できない状態が続くおそれがあります。まず今の枠の使われ方を確かめたいのです。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-c-listening-05.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-c-listening-05.srt",
+      "durationSeconds": 29.352
+    },
+    {
+      "entryId": "n2-v05-c-listening-06",
+      "exampleIndex": 0,
+      "text": "話し合いで意見が違うと、すぐ一つの案にまとめようとする人がいます。でも私は、結論を急ぐ前に、それぞれが何を心配しているのかを聞くようにしています。案は違っても、守りたいことは同じかもしれません。賛成か反対かだけを尋ねるのではなく、理由を知ることが、次の案を考える手がかりになると思うのです。",
+      "voice": "nanami",
+      "src": "/audio/training/n2-v05-c-listening-06.mp3",
+      "pdfPage": null,
+      "srt": "/audio/training/n2-v05-c-listening-06.srt",
+      "durationSeconds": 27.192
     }
   ],
-  "scope": "四道原创N2备考听力练习，含一道N3过渡训练；Nanami日语女声常速独白。合成音频，非真人录音；未试听。",
+  "scope": "原创N2备考听力练习，含N4诊断与N3过渡训练；Nanami日语女声常速独白。合成音频，非真人录音；未试听。",
   "synthetic": true,
   "listened": false
 }

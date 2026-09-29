@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-088",
+  "exampleIndex": 1,
+  "text": "南向きの部屋に住んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 164,
+  "signature": "1a8a1ba41620f67c55f3bb569b3a89bbca1b5add34effd0030453315354d0eba",
+  "src": "/audio/voices/keita/N3-088-2.mp3",
+  "srt": "/audio/voices/keita/N3-088-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "3af5dc8d369b4b18e5825e3b12f65682318dcc14561578b9eadb9dc1d692ad8e",
+  "peakPcm": 21935,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

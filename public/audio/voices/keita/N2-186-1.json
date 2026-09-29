@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-186",
+  "exampleIndex": 0,
+  "text": "いよいよ明日から授業が始まります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 307,
+  "signature": "7da2770824ddd20e928c04576af7667693a6d0ee18030fcf2991d4181aa9c6a0",
+  "src": "/audio/voices/keita/N2-186-1.mp3",
+  "srt": "/audio/voices/keita/N2-186-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "2f8c88bd4389c5ebe3363d72e4987d4e80f05c6329f3452fbda5f701da769157",
+  "peakPcm": 20863,
+  "rmsDbfs": -20.31,
+  "rate": "+0%",
+  "listened": false
+}

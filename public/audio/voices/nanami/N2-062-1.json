@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-062",
+  "exampleIndex": 0,
+  "text": "何度も話し合った末に、計画を決めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 244,
+  "signature": "1fcddfc19f680fcc1773a365a3a9f7c0659c2c519abc4f3683f4da8ba1604366",
+  "src": "/audio/voices/nanami/N2-062-1.mp3",
+  "srt": "/audio/voices/nanami/N2-062-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "5fa6977d4519e677ed905f4162a3d5a60120caceeffc886e23c07411773c56bd",
+  "peakPcm": 20986,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false
+}

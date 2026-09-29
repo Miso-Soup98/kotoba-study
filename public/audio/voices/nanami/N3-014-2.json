@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-014",
+  "exampleIndex": 1,
+  "text": "寝るのが遅かったせいで、眠いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 127,
+  "signature": "dfabd700d9bd0190b290c8d74ec5df6f825b3d89e3ea39b3b0214338ac7658f4",
+  "src": "/audio/voices/nanami/N3-014-2.mp3",
+  "srt": "/audio/voices/nanami/N3-014-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "6a71fedb434ef338b8fbca7bb372a30e35b8a6a590c74aaee57c59e42a0c48db",
+  "peakPcm": 20351,
+  "rmsDbfs": -18.37,
+  "rate": "+0%",
+  "listened": false
+}

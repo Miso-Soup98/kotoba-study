@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-130",
+  "exampleIndex": 0,
+  "text": "思うままに、絵を描いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 279,
+  "signature": "17cdd1729b56b603d5d004a480a468401fd796dee834f31d4b660c08cd4ae708",
+  "src": "/audio/voices/keita/N2-130-1.mp3",
+  "srt": "/audio/voices/keita/N2-130-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "52e189ea07dc3acbc1ee671867f207a58dd77eea293efcd05c23b1ebd7602006",
+  "peakPcm": 24050,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

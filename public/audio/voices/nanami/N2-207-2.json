@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-207",
+  "exampleIndex": 1,
+  "text": "彼はいわゆる努力家です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 318,
+  "signature": "f133da733e4a4738e8f1b81368f272cb330d29bf91e161e46098823ce947af76",
+  "src": "/audio/voices/nanami/N2-207-2.mp3",
+  "srt": "/audio/voices/nanami/N2-207-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "fb6fc4c04c82ce83579d65a9272584fd88eb012736bf9657ba3afee087b569ac",
+  "peakPcm": 20270,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

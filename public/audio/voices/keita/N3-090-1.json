@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-090",
+  "exampleIndex": 0,
+  "text": "今日は昨日ほど寒くありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 165,
+  "signature": "59e1deb8894a16b847248ed27899a681f05d4f4ffc5662b0c2d819b2e9379f40",
+  "src": "/audio/voices/keita/N3-090-1.mp3",
+  "srt": "/audio/voices/keita/N3-090-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "dd5348f69e91e13a57f3f30bd5d415fa4ac8cc4118db61351eaab9355c8e7c99",
+  "peakPcm": 20722,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

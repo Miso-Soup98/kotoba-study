@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-022",
+  "exampleIndex": 0,
+  "text": "家賃に加えて、光熱費も必要です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 224,
+  "signature": "5e657c7658ccd514ed8def6351fca4c20e1795b16fa2f7cbda4f30d2d1db461e",
+  "src": "/audio/voices/nanami/N2-022-1.mp3",
+  "srt": "/audio/voices/nanami/N2-022-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "9691d3b463783c0612496184c6bd93dcb231c3dbc05056b209943bdb67c9846c",
+  "peakPcm": 24076,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false
+}

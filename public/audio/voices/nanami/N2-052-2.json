@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-052",
+  "exampleIndex": 1,
+  "text": "友達の紹介がきっかけで、この仕事を始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 239,
+  "signature": "e5ab3949c39e8cd1124b8ceb3ff41865a599c5ded034caa7e2f8f3336725aef9",
+  "src": "/audio/voices/nanami/N2-052-2.mp3",
+  "srt": "/audio/voices/nanami/N2-052-2.srt",
+  "durationSeconds": 4.872,
+  "bytes": 29232,
+  "sha256": "2522af47596be750074931b5361b1892025178129e113b13269c9e9c9a6600f1",
+  "peakPcm": 22617,
+  "rmsDbfs": -17.15,
+  "rate": "+0%",
+  "listened": false
+}

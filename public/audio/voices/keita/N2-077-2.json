@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-077",
+  "exampleIndex": 1,
+  "text": "互いを尊重してこそ、協力できます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 252,
+  "signature": "58bb0963b14b195bff51f40b0fcc879738f72fbf718d009686eec425818973a1",
+  "src": "/audio/voices/keita/N2-077-2.mp3",
+  "srt": "/audio/voices/keita/N2-077-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "9cbba8f29d0455459fa3b89c5755165d63a3fee9a6225258047583afc900d188",
+  "peakPcm": 25264,
+  "rmsDbfs": -20.3,
+  "rate": "+0%",
+  "listened": false
+}

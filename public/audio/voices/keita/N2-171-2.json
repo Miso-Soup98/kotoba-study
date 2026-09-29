@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-171",
+  "exampleIndex": 1,
+  "text": "果たして間に合うかどうか、分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 300,
+  "signature": "7733659ecf141131cd3f8bb2dbeb0400014c98e82128fe32a24505115c2f53b3",
+  "src": "/audio/voices/keita/N2-171-2.mp3",
+  "srt": "/audio/voices/keita/N2-171-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "1e40bf61e487326623b6083f6164dfd2471ea69b76a43e255f672d3ac585da37",
+  "peakPcm": 21959,
+  "rmsDbfs": -21.48,
+  "rate": "+0%",
+  "listened": false
+}

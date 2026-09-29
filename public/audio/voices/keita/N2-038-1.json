@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-038",
+  "exampleIndex": 0,
+  "text": "人の失敗を笑うものではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 232,
+  "signature": "50865ea3c968014d2b1e829e06bfa40bf50b625105c2b053b735e82b05e1ed0d",
+  "src": "/audio/voices/keita/N2-038-1.mp3",
+  "srt": "/audio/voices/keita/N2-038-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "9d2e426bd82c9a9dc71b7fce64feb8184e40d3585f4e46b5d7efa4e6cee50f04",
+  "peakPcm": 25133,
+  "rmsDbfs": -19.44,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-074",
+  "exampleIndex": 1,
+  "text": "帰国の際に、先生に挨拶しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 157,
+  "signature": "12d830639f5a1cb3872bbeaf07ca9983045dfeb2585883f461e3d8a80920f797",
+  "src": "/audio/voices/keita/N3-074-2.mp3",
+  "srt": "/audio/voices/keita/N3-074-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "ac8082a401cd06a01f1ea826c2982a98f6368d37ec791d716c80cd896b2177e8",
+  "peakPcm": 20469,
+  "rmsDbfs": -21.04,
+  "rate": "+0%",
+  "listened": false
+}

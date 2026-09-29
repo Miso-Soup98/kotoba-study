@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-199",
+  "exampleIndex": 1,
+  "text": "そう言えば、この本はまだ返していませんね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 314,
+  "signature": "9b33330328dcd3b2c94fe2e7803db5635b3429bf22730dbf2c454078cb13c057",
+  "src": "/audio/voices/nanami/N2-199-2.mp3",
+  "srt": "/audio/voices/nanami/N2-199-2.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "4e81b71ccf5cad18c07fb1342373d3ac028050fb51740c02c1b5e3a3dfc61f3e",
+  "peakPcm": 21746,
+  "rmsDbfs": -17.11,
+  "rate": "+0%",
+  "listened": false
+}

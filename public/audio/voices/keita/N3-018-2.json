@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-018",
+  "exampleIndex": 1,
+  "text": "何も勉強しないで、分かるわけがない。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 129,
+  "signature": "981e99e4df3e91c42ec6ef931c55be3506d75379c69f0a7cbc7e1fac7c16202f",
+  "src": "/audio/voices/keita/N3-018-2.mp3",
+  "srt": "/audio/voices/keita/N3-018-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "05dd8e77a849ae154fab8ac4146f5908e95d383dc7eba3d35cd9bef2f18b18ed",
+  "peakPcm": 23719,
+  "rmsDbfs": -20.5,
+  "rate": "+0%",
+  "listened": false
+}

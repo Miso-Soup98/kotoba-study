@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-054",
+  "exampleIndex": 1,
+  "text": "帰ろうとしているところを、先生に呼び止められました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 240,
+  "signature": "85cc93d613f700082d85fcc5877174726a734d82238093c733ffc766221a04c0",
+  "src": "/audio/voices/nanami/N2-054-2.mp3",
+  "srt": "/audio/voices/nanami/N2-054-2.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "18efaee46f530ec026762d6c7ded2a7dd2eb60bd53aa3b9d8cca3b468ff82e7f",
+  "peakPcm": 19922,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false
+}

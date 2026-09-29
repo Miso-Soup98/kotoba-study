@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-178",
+  "exampleIndex": 1,
+  "text": "何度読んでも、ちっとも分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 303,
+  "signature": "0ecc1d35f10be9c2734b3862b06eb79ff156d5d85909d77f6025926584d9f2f9",
+  "src": "/audio/voices/keita/N2-178-2.mp3",
+  "srt": "/audio/voices/keita/N2-178-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "50c5d4e57d9c35e1fd53066eea35f8e13ee31f474414d9640df2c5f28331eea8",
+  "peakPcm": 24087,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

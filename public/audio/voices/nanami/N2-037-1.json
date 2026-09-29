@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-037",
+  "exampleIndex": 0,
+  "text": "人は失敗から学ぶものです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 232,
+  "signature": "48cd69514ad8202a8ddb15000b9179abc7d501b410e5b95fa9cbc2b2cd833932",
+  "src": "/audio/voices/nanami/N2-037-1.mp3",
+  "srt": "/audio/voices/nanami/N2-037-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "f2cd82a745f4acc508270167d5cdd248b3e6502dbb7447a12f9cd5b78fd5fdba",
+  "peakPcm": 22871,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

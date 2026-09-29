@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-137",
+  "exampleIndex": 0,
+  "text": "京都や奈良といった町を訪ねました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 282,
+  "signature": "72fecc247ff198b88a2d3ed40dfc7d16311947c6f66d3f2bf06576848e470ad0",
+  "src": "/audio/voices/nanami/N2-137-1.mp3",
+  "srt": "/audio/voices/nanami/N2-137-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "1809aff545d45cf4f8ae10cdf78139fa5e4c08c631fc1efa6eff0481a245633e",
+  "peakPcm": 21219,
+  "rmsDbfs": -17.36,
+  "rate": "+0%",
+  "listened": false
+}

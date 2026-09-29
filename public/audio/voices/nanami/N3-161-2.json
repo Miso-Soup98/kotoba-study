@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-161",
+  "exampleIndex": 1,
+  "text": "もしも休みが取れたら、帰国したいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 201,
+  "signature": "4793548b204de9b625dd7edf93e72f7dc7cb574f62b69c4427638707a013eb73",
+  "src": "/audio/voices/nanami/N3-161-2.mp3",
+  "srt": "/audio/voices/nanami/N3-161-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "df35f65587e53c382541f7ad0d91ee3092564a17efe8220b28f18002008879d7",
+  "peakPcm": 20264,
+  "rmsDbfs": -18.42,
+  "rate": "+0%",
+  "listened": false
+}

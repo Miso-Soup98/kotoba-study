@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-098",
+  "exampleIndex": 0,
+  "text": "日曜日を除いて、毎日開いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 263,
+  "signature": "8106ec63fe48ede1b213208334a22cb329a13dedc72897d6a60b941cd212bf4c",
+  "src": "/audio/voices/keita/N2-098-1.mp3",
+  "srt": "/audio/voices/keita/N2-098-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "13bd60ac4a52f0041bd60bb10b2d4b0a69ac70b8e60a91e797f3d0016eb02bc7",
+  "peakPcm": 25990,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

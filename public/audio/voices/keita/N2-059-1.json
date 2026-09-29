@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-059",
+  "exampleIndex": 0,
+  "text": "将来を考えつつ、仕事を探しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 243,
+  "signature": "cd150679355825f2d8cec2799f668e170d68a5548b7edd04d7c801e9a5657ff1",
+  "src": "/audio/voices/keita/N2-059-1.mp3",
+  "srt": "/audio/voices/keita/N2-059-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "b769089099b2e0f0f9a2453df9edc10f06c04156556da73e11febceab129c91b",
+  "peakPcm": 24862,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

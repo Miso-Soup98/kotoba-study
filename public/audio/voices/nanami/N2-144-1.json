@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-144",
+  "exampleIndex": 0,
+  "text": "会議は本館にて行います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 286,
+  "signature": "b311af845e3fe54b250e75d528bb90e51d63b85f8506c46a8ab2ddafaf6705d2",
+  "src": "/audio/voices/nanami/N2-144-1.mp3",
+  "srt": "/audio/voices/nanami/N2-144-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "04065814d50f250498d51bdb6124099919d1dee853ff42666bb9aa8e2c2a1d65",
+  "peakPcm": 21060,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-138",
+  "exampleIndex": 1,
+  "text": "休みに映画か何か見ませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 189,
+  "signature": "76f1095a971bda6febdd3aebf901ce1473bc46f3c650d0453938c80369d9ec04",
+  "src": "/audio/voices/nanami/N3-138-2.mp3",
+  "srt": "/audio/voices/nanami/N3-138-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "83695400922988a57aed605eb1dc8d169da5d03eedaa7bb9856f2d3f362bbef5",
+  "peakPcm": 20438,
+  "rmsDbfs": -18.69,
+  "rate": "+0%",
+  "listened": false
+}

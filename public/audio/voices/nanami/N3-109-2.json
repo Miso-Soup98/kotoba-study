@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-109",
+  "exampleIndex": 1,
+  "text": "持てるだけ荷物を持ちました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 175,
+  "signature": "255adeb90bf9db4907c19b99673e862cb0df45c435d41e9e9bc1fed00d32bf34",
+  "src": "/audio/voices/nanami/N3-109-2.mp3",
+  "srt": "/audio/voices/nanami/N3-109-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "3d310768c3c22f2b48a6776bd975d5940c197db1fec743e1ff46bfd13701ce3c",
+  "peakPcm": 22630,
+  "rmsDbfs": -18.12,
+  "rate": "+0%",
+  "listened": false
+}

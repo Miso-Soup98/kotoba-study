@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-112",
+  "exampleIndex": 0,
+  "text": "安全上の理由で、中止しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 270,
+  "signature": "59830b5b69de9c38a0899683c9cf910ec309f12604a1ad0056e1d1cc886b2819",
+  "src": "/audio/voices/nanami/N2-112-1.mp3",
+  "srt": "/audio/voices/nanami/N2-112-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "7a268bddf7705d923dabc8ba2b2be781cfc905d1a894925682852ceafefa7ad8",
+  "peakPcm": 21229,
+  "rmsDbfs": -18.22,
+  "rate": "+0%",
+  "listened": false
+}

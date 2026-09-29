@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-051",
+  "exampleIndex": 1,
+  "text": "少し遅れても構いません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 146,
+  "signature": "9f446506c85f4bcdf3e39eece10f8fe3aaf2e4c4b4e9757a8b1e171d597d5c60",
+  "src": "/audio/voices/keita/N3-051-2.mp3",
+  "srt": "/audio/voices/keita/N3-051-2.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "740337689f484800104f851f0bd1d05feb0082eae699fe217a182d9b21d77901",
+  "peakPcm": 22600,
+  "rmsDbfs": -20.69,
+  "rate": "+0%",
+  "listened": false
+}

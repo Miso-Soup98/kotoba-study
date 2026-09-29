@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-07",
+  "exampleIndex": 0,
+  "text": "講座の感想は、これまで最後に紙へ書いてもらっていましたが、今月から翌日にメールで尋ねることにしました。終わった直後は、よかったとしか書けない人もいるようです。一晩おくことで、実際の生活で使えそうな点や、もう少し説明してほしい点を考えてもらいたいのです。紙の費用を減らすことが主な目的ではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "bc16252b3fb817a6fd1b1e5189d0875ac3d50ac33dc9ec5fada5b4671eb133a0",
+  "src": "/audio/training/n2-v05-p-listening-07.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-07.srt",
+  "durationSeconds": 26.88,
+  "bytes": 161280,
+  "sha256": "60c991695d6fd4d4df4e786bb137e60db67264d5f59a96e074d8a2b0949790da",
+  "peakPcm": 22640,
+  "rmsDbfs": -17.09,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

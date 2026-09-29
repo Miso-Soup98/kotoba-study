@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-114",
+  "exampleIndex": 0,
+  "text": "分からなくはないですが、賛成はできません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 271,
+  "signature": "693be038377b783a4024e9ff2a5a210b5e4d0d243b3f615db6b8e101662a0818",
+  "src": "/audio/voices/nanami/N2-114-1.mp3",
+  "srt": "/audio/voices/nanami/N2-114-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "cf0cd88b64e838fcce6f49701930caf4235f7cc385f1ba35a4b853f1860f163f",
+  "peakPcm": 19901,
+  "rmsDbfs": -17.28,
+  "rate": "+0%",
+  "listened": false
+}

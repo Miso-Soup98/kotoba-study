@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-223",
+  "exampleIndex": 0,
+  "text": "仕事が思うように進みません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 326,
+  "signature": "430c934e9b94b9b9fcf82382cacc1cf5b7324c9e23b56e8b434fccf6b885a9e2",
+  "src": "/audio/voices/keita/N2-223-1.mp3",
+  "srt": "/audio/voices/keita/N2-223-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "f7b0ee4bca24d0d234ccdc3626e8180b34cb6e7431a51977ddd78a96cefde636",
+  "peakPcm": 22709,
+  "rmsDbfs": -19.49,
+  "rate": "+0%",
+  "listened": false
+}

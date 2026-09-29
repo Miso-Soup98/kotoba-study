@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-206",
+  "exampleIndex": 1,
+  "text": "まず、私の話を聞きたまえ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 317,
+  "signature": "08a48e77374f33bc812c6134c2faabe3b38f8212368a0344cc751c5f6a2a5dfb",
+  "src": "/audio/voices/keita/N2-206-2.mp3",
+  "srt": "/audio/voices/keita/N2-206-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "8c7f952ac3442dd3e47006b7262ef6f192b0f88250c3b782f80845615eaa108f",
+  "peakPcm": 23348,
+  "rmsDbfs": -21.99,
+  "rate": "+0%",
+  "listened": false
+}

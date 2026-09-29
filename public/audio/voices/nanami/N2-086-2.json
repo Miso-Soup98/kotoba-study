@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-086",
+  "exampleIndex": 1,
+  "text": "私の経験からすれば、まだ改善できます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 257,
+  "signature": "fc726afcc7f2dfb45d6eb9b5471af945e2422d3ae90f4064830f3a7de21a04b6",
+  "src": "/audio/voices/nanami/N2-086-2.mp3",
+  "srt": "/audio/voices/nanami/N2-086-2.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "ee0bce995c3b34b380babb6efdca4deda4f0a1ebacea9c0003c847f6b9cf6673",
+  "peakPcm": 22759,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

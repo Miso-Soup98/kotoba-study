@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-133",
+  "exampleIndex": 1,
+  "text": "どうして電車が止まったのでしょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 187,
+  "signature": "f49c7ae309ac336dbd02f154b897a7f3ab20fab6126d0d9ca2f6d5781fd57546",
+  "src": "/audio/voices/nanami/N3-133-2.mp3",
+  "srt": "/audio/voices/nanami/N3-133-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "fe5ea0f9652af8721c68c2dbd3bb401ca10a1a270ca5247266cf95bcc08564f5",
+  "peakPcm": 20816,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

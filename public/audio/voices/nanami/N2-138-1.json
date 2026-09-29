@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-138",
+  "exampleIndex": 0,
+  "text": "「まず確認する」というふうに、順番を決めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 283,
+  "signature": "79bbd32559d0700f14100529a392aeb0ba1dc85e73f19d1483e4a52a407bbbca",
+  "src": "/audio/voices/nanami/N2-138-1.mp3",
+  "srt": "/audio/voices/nanami/N2-138-1.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "adc6e595e7ee5799eefd6f63d734a5e079efc9c8e4c0acc8b8055d5c455069d1",
+  "peakPcm": 20510,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

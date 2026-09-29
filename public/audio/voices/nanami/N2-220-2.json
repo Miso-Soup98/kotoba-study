@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-220",
+  "exampleIndex": 1,
+  "text": "何しろ人数が多くて、準備が大変です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 324,
+  "signature": "72a099162fe34dfc756eceb6a21cb144b54d17e8f0789079a258dd81a4e827f9",
+  "src": "/audio/voices/nanami/N2-220-2.mp3",
+  "srt": "/audio/voices/nanami/N2-220-2.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "a7982b13836de19d3bc90bf05beeddd6e7f80c5723123da34e2233df27119738",
+  "peakPcm": 21076,
+  "rmsDbfs": -17.55,
+  "rate": "+0%",
+  "listened": false
+}

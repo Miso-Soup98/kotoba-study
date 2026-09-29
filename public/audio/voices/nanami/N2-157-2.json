@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-157",
+  "exampleIndex": 1,
+  "text": "初めてなもので、よく分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 292,
+  "signature": "76885789f556a886f74c253490f152d787c29d4b858ad9f2d87d8bd2a09ddf8b",
+  "src": "/audio/voices/nanami/N2-157-2.mp3",
+  "srt": "/audio/voices/nanami/N2-157-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "0cf60a712d1bd531325169713d0bb5123e885d8036f59a697eb3ea4434bab8db",
+  "peakPcm": 22220,
+  "rmsDbfs": -17.51,
+  "rate": "+0%",
+  "listened": false
+}

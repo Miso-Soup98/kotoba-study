@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-106",
+  "exampleIndex": 1,
+  "text": "借りてでも、この本を読みたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 267,
+  "signature": "da86564ebe850bd81440db4dd347b7f7d35b0c4a63b0f5b78ea44e2f118b9bb9",
+  "src": "/audio/voices/nanami/N2-106-2.mp3",
+  "srt": "/audio/voices/nanami/N2-106-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "419329faa29bee87d635c26c8e1547a83c1c4457d940dd5a0c36ce4912d87217",
+  "peakPcm": 22104,
+  "rmsDbfs": -17.53,
+  "rate": "+0%",
+  "listened": false
+}

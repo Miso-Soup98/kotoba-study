@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-155",
+  "exampleIndex": 1,
+  "text": "駅に近いという点から、この家を選びました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 291,
+  "signature": "dfe1f17733055a8b421e70fb4201d3197b57da08e8222f850429207369428613",
+  "src": "/audio/voices/nanami/N2-155-2.mp3",
+  "srt": "/audio/voices/nanami/N2-155-2.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "54ff0305dc37d4e7a7776eba98b9ca11ca6182c4f110bad7ad20514d231f7478",
+  "peakPcm": 21658,
+  "rmsDbfs": -17.04,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-080",
+  "exampleIndex": 1,
+  "text": "調査を始めるに先立ち、目的を説明しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 254,
+  "signature": "fa7759081528e9f66383c0bacd7e26fce0b2695ea44f804810f1ff2db1756455",
+  "src": "/audio/voices/keita/N2-080-2.mp3",
+  "srt": "/audio/voices/keita/N2-080-2.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "4ba33b03db889fae3cf922e17e89931d47e050202b8a06b72c2edd2e03f3d7fc",
+  "peakPcm": 22535,
+  "rmsDbfs": -21.45,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-088",
+  "exampleIndex": 1,
+  "text": "初めての人にすれば、この説明は難しいでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 258,
+  "signature": "e2d29d4395ac1eace442e0b4e96aed0eabe805af68511be33e028f602c6b42a9",
+  "src": "/audio/voices/nanami/N2-088-2.mp3",
+  "srt": "/audio/voices/nanami/N2-088-2.srt",
+  "durationSeconds": 4.752,
+  "bytes": 28512,
+  "sha256": "7ecaff502abdbef685cde256daf889a1dfc1ee3aeeed1aa4c644eefa7e33c8f2",
+  "peakPcm": 20035,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

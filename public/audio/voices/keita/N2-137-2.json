@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-137",
+  "exampleIndex": 1,
+  "text": "紙や布といった材料を使います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 282,
+  "signature": "a2040553f462a004690b2724bbe46d2ba73f6deddaa7a82d2c7eff5a452b4157",
+  "src": "/audio/voices/keita/N2-137-2.mp3",
+  "srt": "/audio/voices/keita/N2-137-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "115a57e1ef8fa9627ce2de6b9f5299188111898042d42ff028fd703be3999c73",
+  "peakPcm": 21591,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

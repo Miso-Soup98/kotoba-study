@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-014",
+  "exampleIndex": 0,
+  "text": "資料に基づいて、説明します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 220,
+  "signature": "d1284b24e268c96c97c706041e9d135eff81560876b69fc74b1c28e97b9692bf",
+  "src": "/audio/voices/keita/N2-014-1.mp3",
+  "srt": "/audio/voices/keita/N2-014-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "f2aefe7d1b5b090a752453398076cb6b3b80c78fd173c36e4e65d13018363c16",
+  "peakPcm": 20575,
+  "rmsDbfs": -21.14,
+  "rate": "+0%",
+  "listened": false
+}

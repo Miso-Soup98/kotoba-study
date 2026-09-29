@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-169",
+  "exampleIndex": 0,
+  "text": "教えるつもりが、逆に教えてもらいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 299,
+  "signature": "8d20b1eb2021604501f8e29e5fffa83fc75bcba1d752d070e82efb247c3d0ec2",
+  "src": "/audio/voices/keita/N2-169-1.mp3",
+  "srt": "/audio/voices/keita/N2-169-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "4d297aa050e74bc3420972f8241a02a30e5082eb8dcdc541135a2dc501389ce5",
+  "peakPcm": 23555,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

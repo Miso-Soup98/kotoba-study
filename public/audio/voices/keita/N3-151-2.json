@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-151",
+  "exampleIndex": 1,
+  "text": "なるべく毎日歩くようにしています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 196,
+  "signature": "b44c5fede07d00a4b354e78d13b197ab2deeefa1bcbe837bca1158bbeaf571d2",
+  "src": "/audio/voices/keita/N3-151-2.mp3",
+  "srt": "/audio/voices/keita/N3-151-2.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "6589b9b9b5eb96f3fe050f14c94753bacd247fe6904a26dd152a957f3a78de6e",
+  "peakPcm": 24306,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

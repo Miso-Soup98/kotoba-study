@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-032",
+  "exampleIndex": 0,
+  "text": "内容を確認した上で、署名してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 136,
+  "signature": "26bc5cd195350554afecab6f6e656dcfb0015da30b83be822da051011cd02e1f",
+  "src": "/audio/voices/keita/N3-032-1.mp3",
+  "srt": "/audio/voices/keita/N3-032-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "b0a576fd60ed49ea9c21b7862724672c6aa2c50067f68bda92655c0da1a9df55",
+  "peakPcm": 26438,
+  "rmsDbfs": -20.09,
+  "rate": "+0%",
+  "listened": false
+}

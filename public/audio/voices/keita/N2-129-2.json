@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-129",
+  "exampleIndex": 1,
+  "text": "読んでは考え、考えては読みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 278,
+  "signature": "447d2531cec967f32100dcccc699eb0e07ebed7241a9d908c5e9e0b9f33ec8a4",
+  "src": "/audio/voices/keita/N2-129-2.mp3",
+  "srt": "/audio/voices/keita/N2-129-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "96b86b384e14d884ccff2a0150e73d5b3f96f39eaf5ab5fc49e0d984163ebb30",
+  "peakPcm": 25161,
+  "rmsDbfs": -20.19,
+  "rate": "+0%",
+  "listened": false
+}

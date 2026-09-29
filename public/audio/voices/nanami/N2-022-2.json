@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-022",
+  "exampleIndex": 1,
+  "text": "忙しいことに加えて、体調もよくありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 224,
+  "signature": "d38013bc621136e3b8eac398b9fd80d74567e3ed95364c0f60dd3d9302aeafba",
+  "src": "/audio/voices/nanami/N2-022-2.mp3",
+  "srt": "/audio/voices/nanami/N2-022-2.srt",
+  "durationSeconds": 4.512,
+  "bytes": 27072,
+  "sha256": "82581d4068596c70656f8c27cbb08135fab4e36d3a4612d61de86d0718ba42ca",
+  "peakPcm": 21285,
+  "rmsDbfs": -17.19,
+  "rate": "+0%",
+  "listened": false
+}

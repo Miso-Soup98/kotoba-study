@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-162",
+  "exampleIndex": 1,
+  "text": "最後まで続ける気でいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 295,
+  "signature": "8fa9c2ebd774684c5ce53571ce0fa531e92bf10b6b766cbf63b597de18dbdf01",
+  "src": "/audio/voices/nanami/N2-162-2.mp3",
+  "srt": "/audio/voices/nanami/N2-162-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "649fcbbc877281c4048b0dc11554258adc0f7c8b4fbaaf99594bb224483be08c",
+  "peakPcm": 21703,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

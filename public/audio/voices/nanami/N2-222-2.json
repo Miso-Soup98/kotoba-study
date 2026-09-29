@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-222",
+  "exampleIndex": 1,
+  "text": "説明は聞きました。しかしながら、疑問は残っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 325,
+  "signature": "364a8c137b76a7eedcf3f7cfe55c5079274b35d771e2149ae9ecd63cf636b2d9",
+  "src": "/audio/voices/nanami/N2-222-2.mp3",
+  "srt": "/audio/voices/nanami/N2-222-2.srt",
+  "durationSeconds": 5.904,
+  "bytes": 35424,
+  "sha256": "7abba024be8be1538a975f11b8275d458dc2dd586c6e11a77df6cf6d88c5c7e5",
+  "peakPcm": 23048,
+  "rmsDbfs": -18.03,
+  "rate": "+0%",
+  "listened": false
+}

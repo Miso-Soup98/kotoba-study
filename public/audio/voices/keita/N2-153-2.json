@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-153",
+  "exampleIndex": 1,
+  "text": "この店は週末に混む傾向があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 290,
+  "signature": "f592410e327637b455a2f569db150a9e27bcf69f3cc9ea3defe91b5d3befe030",
+  "src": "/audio/voices/keita/N2-153-2.mp3",
+  "srt": "/audio/voices/keita/N2-153-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "832fde17feac8de955ed18d3eb4b1c05195e1b3974c0659e2e26c3135582b40b",
+  "peakPcm": 22016,
+  "rmsDbfs": -19.74,
+  "rate": "+0%",
+  "listened": false
+}

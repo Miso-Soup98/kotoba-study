@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-039",
+  "exampleIndex": 0,
+  "text": "電車が遅れたものだから、間に合いませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 233,
+  "signature": "9eef154b301545ea01bdef2f40508ef4e0b7539b9cbb414d955788f115dc9aee",
+  "src": "/audio/voices/nanami/N2-039-1.mp3",
+  "srt": "/audio/voices/nanami/N2-039-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "ed9ccba92a7394ba40a69eef96886d9ded08cad29ce0e49e8a7d7d68ea3a190b",
+  "peakPcm": 20945,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

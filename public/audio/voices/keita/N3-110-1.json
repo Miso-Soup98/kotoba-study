@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-110",
+  "exampleIndex": 0,
+  "text": "彼は文句を言うばかりで、何もしません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 175,
+  "signature": "2155b59ed44c63d79986d81dced05aba0153cf5a100c7af83523d6be0178882e",
+  "src": "/audio/voices/keita/N3-110-1.mp3",
+  "srt": "/audio/voices/keita/N3-110-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "c3f98bd10f1a541945ed7ee1cb390c085ac2a828430116aca633157e1bf52cf8",
+  "peakPcm": 23695,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

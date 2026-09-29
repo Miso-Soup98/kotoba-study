@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-094",
+  "exampleIndex": 1,
+  "text": "費用が高いのみならず、時間もかかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 261,
+  "signature": "0707dcde7f7e99e1456c246c4747a0f16a7462da423161f83717c1af9a62ef9f",
+  "src": "/audio/voices/keita/N2-094-2.mp3",
+  "srt": "/audio/voices/keita/N2-094-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "0be6881769656463570042e117ab53eb417bd9019b7051695e63159c34e5f0a0",
+  "peakPcm": 25630,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

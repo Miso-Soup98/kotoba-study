@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-208",
+  "exampleIndex": 1,
+  "text": "万が一に備えて、水を置いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 318,
+  "signature": "ce6387536da33bafcf03df832da3f0f692cbc247caf39890d424cef2c49c2b12",
+  "src": "/audio/voices/keita/N2-208-2.mp3",
+  "srt": "/audio/voices/keita/N2-208-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "c4dac178628e8a0130e58c81804f4fbe202cc9a852db521e56627342c1aee25b",
+  "peakPcm": 24908,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

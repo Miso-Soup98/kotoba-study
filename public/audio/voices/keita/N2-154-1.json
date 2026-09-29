@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-154",
+  "exampleIndex": 0,
+  "text": "初めての作品としては、よくできています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 291,
+  "signature": "f02023ca0cb1671b213aa1809427b4b7cb287de65ecdc29beb5f257574821c46",
+  "src": "/audio/voices/keita/N2-154-1.mp3",
+  "srt": "/audio/voices/keita/N2-154-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "ac5aa96153bb7615e348d423a9728c4be2750da12c9f8bb8c0561a4bc6d90595",
+  "peakPcm": 21185,
+  "rmsDbfs": -21.67,
+  "rate": "+0%",
+  "listened": false
+}

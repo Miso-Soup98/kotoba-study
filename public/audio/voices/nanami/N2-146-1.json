@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-146",
+  "exampleIndex": 0,
+  "text": "駅に向かって歩いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 287,
+  "signature": "0f8cfb310efa7f69e5b2164e2487bcbfc08e4f3f668e3f22820a8ff094dc2bbb",
+  "src": "/audio/voices/nanami/N2-146-1.mp3",
+  "srt": "/audio/voices/nanami/N2-146-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "64816a7a0ec823055de67a510b0e5fcf42f75c19a0d114b75243ff085ad248bb",
+  "peakPcm": 19389,
+  "rmsDbfs": -17.53,
+  "rate": "+0%",
+  "listened": false
+}

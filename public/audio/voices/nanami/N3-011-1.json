@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-011",
+  "exampleIndex": 0,
+  "text": "この絵は有名な画家によって描かれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 126,
+  "signature": "89e4890e0c4c68d6ecac0b2eb74ae3f625bfd4ec2b165b784e2b0622f9b5362d",
+  "src": "/audio/voices/nanami/N3-011-1.mp3",
+  "srt": "/audio/voices/nanami/N3-011-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "6038ddb96b25e9ff34af42aef22a4976b6ecf320fe65a30faf9a2084dd54fa72",
+  "peakPcm": 21555,
+  "rmsDbfs": -17.31,
+  "rate": "+0%",
+  "listened": false
+}

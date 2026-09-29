@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-156",
+  "exampleIndex": 1,
+  "text": "御意見を頂ければと思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 292,
+  "signature": "ddd47421361004166f7f3205e5d227df30fba1e50c3053ef1a569192f4d32bb0",
+  "src": "/audio/voices/nanami/N2-156-2.mp3",
+  "srt": "/audio/voices/nanami/N2-156-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "f9a9f905055c4f1ec23647add783aa5fc18c3b618992ec9e27b1a8b6d457a7d7",
+  "peakPcm": 21463,
+  "rmsDbfs": -17.24,
+  "rate": "+0%",
+  "listened": false
+}

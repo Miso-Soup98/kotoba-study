@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-101",
+  "exampleIndex": 0,
+  "text": "一人として反対しませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 264,
+  "signature": "b1c66e4d8b54c7e66c38d1f70fe214ae3b844cf272a8bd671ce4206267750c8b",
+  "src": "/audio/voices/nanami/N2-101-1.mp3",
+  "srt": "/audio/voices/nanami/N2-101-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "04f01368ba1b9b8effd61d6dbd53d9f1209046611774db8aa067ea0bf765f6bb",
+  "peakPcm": 22183,
+  "rmsDbfs": -18.33,
+  "rate": "+0%",
+  "listened": false
+}

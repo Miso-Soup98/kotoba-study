@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-125",
+  "exampleIndex": 1,
+  "text": "原因を確認せねばなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 276,
+  "signature": "4f003ce4d36427e6a03cc305c3958ebc1353834da857b8bba27ab4e8114ffef4",
+  "src": "/audio/voices/keita/N2-125-2.mp3",
+  "srt": "/audio/voices/keita/N2-125-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "fc6aa5379331894e743e388385965febad9baa7e8a7c277bfc1bed0f7e943ef1",
+  "peakPcm": 23757,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

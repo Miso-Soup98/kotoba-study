@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-085",
+  "exampleIndex": 0,
+  "text": "先生に代わって、私が説明します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 163,
+  "signature": "8f3d30961d9564058a907cd0da6a2dedfeb17910af7884e232a018f086943d42",
+  "src": "/audio/voices/nanami/N3-085-1.mp3",
+  "srt": "/audio/voices/nanami/N3-085-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "a9ba194911c609b0a3a00370f3715fb0cbd4f8322efad2b4158f46bcdf0b631c",
+  "peakPcm": 22011,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

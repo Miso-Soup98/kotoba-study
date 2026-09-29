@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-203",
+  "exampleIndex": 0,
+  "text": "氏名及び住所を記入してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 316,
+  "signature": "f97f3fab0175b9bf9af3719d8d3aae09348fb9b2175e52859961844b8e1ece01",
+  "src": "/audio/voices/keita/N2-203-1.mp3",
+  "srt": "/audio/voices/keita/N2-203-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "84cc4d1c88a3e58c8f37159901871e3d93a321622980202767a13b4371c2dad0",
+  "peakPcm": 21545,
+  "rmsDbfs": -20.13,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-135",
+  "exampleIndex": 0,
+  "text": "会議は何時からだっけ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 188,
+  "signature": "624ac45c0965190cc52a3cac555962aa290e90d98d4ad1748d81cbb0f2fc59d3",
+  "src": "/audio/voices/keita/N3-135-1.mp3",
+  "srt": "/audio/voices/keita/N3-135-1.srt",
+  "durationSeconds": 2.184,
+  "bytes": 13104,
+  "sha256": "5189e5983802dc7df88bd2a0cda064a21e3f72dbb112413e27ec8d34078e898f",
+  "peakPcm": 23175,
+  "rmsDbfs": -22.24,
+  "rate": "+0%",
+  "listened": false
+}

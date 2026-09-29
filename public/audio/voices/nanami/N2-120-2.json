@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-120",
+  "exampleIndex": 1,
+  "text": "幸いなことに、誰もけがをしませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 274,
+  "signature": "695719e53374d8f77cf828ae64c8c286273efe157e99b41152062a381189abe8",
+  "src": "/audio/voices/nanami/N2-120-2.mp3",
+  "srt": "/audio/voices/nanami/N2-120-2.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "97694daeb5ecb95f516f2028900ce30649139094295dada867342a301aa178a2",
+  "peakPcm": 21928,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

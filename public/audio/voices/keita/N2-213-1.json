@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-213",
+  "exampleIndex": 0,
+  "text": "空がたちまち暗くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 321,
+  "signature": "a8be0eb0c0df30a9a0300277712cb62291804a70fcaa300c506699b46e36b62e",
+  "src": "/audio/voices/keita/N2-213-1.mp3",
+  "srt": "/audio/voices/keita/N2-213-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "02190d98638aa6561998e255dda5cc40bfdc54d9756ebb29cc58cc9488ab7957",
+  "peakPcm": 23938,
+  "rmsDbfs": -21.41,
+  "rate": "+0%",
+  "listened": false
+}

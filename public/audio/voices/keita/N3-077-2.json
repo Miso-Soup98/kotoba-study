@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-077",
+  "exampleIndex": 1,
+  "text": "駅前から川にかけて、店が並んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 159,
+  "signature": "5d0a8650216e09c1c2af4f8464971321f5949c0a84e1fc23ba18ba55ad6905b7",
+  "src": "/audio/voices/keita/N3-077-2.mp3",
+  "srt": "/audio/voices/keita/N3-077-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "a7fe62f9d6abd2a3623152c1145165bb48ca4c4384472352b30be04b7cf3acb0",
+  "peakPcm": 21608,
+  "rmsDbfs": -21.55,
+  "rate": "+0%",
+  "listened": false
+}

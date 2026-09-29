@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-073",
+  "exampleIndex": 0,
+  "text": "もう待ってはいられません。先に行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 250,
+  "signature": "0006b846147c377f131b002d82961efbf1fc66d0fa42ee78a3633697c80ff0fc",
+  "src": "/audio/voices/nanami/N2-073-1.mp3",
+  "srt": "/audio/voices/nanami/N2-073-1.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "628fca63b0e3ee299fdcbbfbb04c8d14468db3839f08f908729e82ca3c3fc92f",
+  "peakPcm": 20208,
+  "rmsDbfs": -18.47,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-040",
+  "exampleIndex": 1,
+  "text": "旅行といっても、隣の町へ行くだけです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 140,
+  "signature": "946e6c9d326f31702f68fe7c288a7be772f5a7216e1390c429266b5e7e8e4247",
+  "src": "/audio/voices/nanami/N3-040-2.mp3",
+  "srt": "/audio/voices/nanami/N3-040-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "a9238e37fdde305addd7cc9bf37f70a48b670ab516988c54fca3339c03227a7b",
+  "peakPcm": 21164,
+  "rmsDbfs": -17.48,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-019",
+  "exampleIndex": 0,
+  "text": "予算をめぐって、話し合いが続いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 223,
+  "signature": "e1f2ebe2f2ead58d18cc1ab123201b5e0e708a509796717cc5bbf6e03f7d4ec9",
+  "src": "/audio/voices/keita/N2-019-1.mp3",
+  "srt": "/audio/voices/keita/N2-019-1.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "4d9d13141a609fd73dda4756d335b7dbf8485034afa6cda4f776e77eeb805ab1",
+  "peakPcm": 23811,
+  "rmsDbfs": -21.04,
+  "rate": "+0%",
+  "listened": false
+}

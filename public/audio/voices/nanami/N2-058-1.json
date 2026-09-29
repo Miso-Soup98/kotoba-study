@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-058",
+  "exampleIndex": 0,
+  "text": "家を出ると同時に、雨が降り始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 242,
+  "signature": "2b679fd17309b70d49e154f8883993086ac672f9cec88bd024ec97c8af403100",
+  "src": "/audio/voices/nanami/N2-058-1.mp3",
+  "srt": "/audio/voices/nanami/N2-058-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "b7cee26a3fecb600b00b67f56c3f387ca7612818fd73965333f723dee78c4435",
+  "peakPcm": 19596,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

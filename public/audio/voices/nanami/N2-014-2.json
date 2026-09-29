@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-014",
+  "exampleIndex": 1,
+  "text": "規則に基づいて判断しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 220,
+  "signature": "eb8b3cd50b3d7925d3dc4b701f840dee9fd510ec6aab0baf14fb3208d6a79657",
+  "src": "/audio/voices/nanami/N2-014-2.mp3",
+  "srt": "/audio/voices/nanami/N2-014-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "e2610d27c6e4f33ed12ed3f1c2f5a56dbb08a033ba205fbefb15424e5d193598",
+  "peakPcm": 21585,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

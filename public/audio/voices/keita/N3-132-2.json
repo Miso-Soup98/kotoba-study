@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-132",
+  "exampleIndex": 1,
+  "text": "この問題を自分で解いてごらん。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 186,
+  "signature": "bb7e8a38019e6e6570780a5767a660d19472ec20fb351e5ee3d75524e186649e",
+  "src": "/audio/voices/keita/N3-132-2.mp3",
+  "srt": "/audio/voices/keita/N3-132-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "e6f35f7f41186b6aaeb59594ffbe5ebbc02e5c7831b62141051de548228a11b6",
+  "peakPcm": 22191,
+  "rmsDbfs": -19.26,
+  "rate": "+0%",
+  "listened": false
+}

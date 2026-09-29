@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-154",
+  "exampleIndex": 1,
+  "text": "私としては、計画を続けたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 291,
+  "signature": "12fa992b22aa9a1a32ba4735a30d6fe720021e7ffdfa1cf3523260083931a2b6",
+  "src": "/audio/voices/keita/N2-154-2.mp3",
+  "srt": "/audio/voices/keita/N2-154-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "0f902330c4c8a46e65ac0a46c14059a99d1b925f1235038db0e60ac544c6bfdf",
+  "peakPcm": 22900,
+  "rmsDbfs": -21.44,
+  "rate": "+0%",
+  "listened": false
+}

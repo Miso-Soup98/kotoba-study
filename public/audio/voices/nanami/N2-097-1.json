@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-097",
+  "exampleIndex": 0,
+  "text": "砂糖抜きでお願いします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 262,
+  "signature": "11dc8c5533ef21fad59423114adc15295ccdb88a8b0ec94eb7972cf02f249cbc",
+  "src": "/audio/voices/nanami/N2-097-1.mp3",
+  "srt": "/audio/voices/nanami/N2-097-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "080cdd907608aa14bbb2ef2349ba304e63d60cb1eaeac4423c575430d47c6701",
+  "peakPcm": 21254,
+  "rmsDbfs": -17.74,
+  "rate": "+0%",
+  "listened": false
+}

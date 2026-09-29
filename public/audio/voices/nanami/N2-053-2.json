@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-053",
+  "exampleIndex": 1,
+  "text": "ちょうど電話するところでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 240,
+  "signature": "4a69fdd023048f17ee9d02c0838b697ab386c00289db4418211191528f3eb0bb",
+  "src": "/audio/voices/nanami/N2-053-2.mp3",
+  "srt": "/audio/voices/nanami/N2-053-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "bb6dfb53252dda4d3b940bd4006559cacee37245a03d61e45c6ee5af1262b36a",
+  "peakPcm": 20706,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-181",
+  "exampleIndex": 0,
+  "text": "いきなり難しい質問をされました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 305,
+  "signature": "4f82285e15cc9b4fe6375bb6baa3f8ae231600eedca20536706e64dfa5091902",
+  "src": "/audio/voices/keita/N2-181-1.mp3",
+  "srt": "/audio/voices/keita/N2-181-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "ec6f14b18639863fcf1009a9ead17c12f549947ae4b7865654b1f20c46f8fb06",
+  "peakPcm": 19788,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

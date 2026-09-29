@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-096",
+  "exampleIndex": 0,
+  "text": "値段はともかく、使いやすさを重視します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 262,
+  "signature": "3494cba2c9bb289eb50ac634145f9019861e8de6a77fc37ce6bb172289c11cea",
+  "src": "/audio/voices/keita/N2-096-1.mp3",
+  "srt": "/audio/voices/keita/N2-096-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "e8088aaaf6abfa9885b747fc88308719487ef9e0abd2082402e371a40d7a0e2b",
+  "peakPcm": 26858,
+  "rmsDbfs": -20.42,
+  "rate": "+0%",
+  "listened": false
+}

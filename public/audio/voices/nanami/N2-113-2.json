@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-113",
+  "exampleIndex": 1,
+  "text": "去年以上に、参加者が増えました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 270,
+  "signature": "a297cacbc0230586f63a5846c8a4004a0308f6d0f616822c7713f5acc2c6a76f",
+  "src": "/audio/voices/nanami/N2-113-2.mp3",
+  "srt": "/audio/voices/nanami/N2-113-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "013e7f0cf16f64926e1fe342f4bc392ed78702207922b2246a031a7ac01a2b70",
+  "peakPcm": 21334,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

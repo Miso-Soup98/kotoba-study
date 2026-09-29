@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-041",
+  "exampleIndex": 0,
+  "text": "あんな店に二度と行くものか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 234,
+  "signature": "0dfb205a838c10ade3f7f245bbb09fde168c83e5b3ad212053554237040781ed",
+  "src": "/audio/voices/nanami/N2-041-1.mp3",
+  "srt": "/audio/voices/nanami/N2-041-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "554ed54b02cc132d3e21820202526b5745096c4458e87aee9a0cb3136ecc3a6f",
+  "peakPcm": 19749,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

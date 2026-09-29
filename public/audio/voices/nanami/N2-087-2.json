@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-087",
+  "exampleIndex": 1,
+  "text": "言葉遣いからして、失礼です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 257,
+  "signature": "28a8a262f0c4e7f03b0b3cee23b4ec8d02db9789d74f1c63df3a6e51f5ef1f75",
+  "src": "/audio/voices/nanami/N2-087-2.mp3",
+  "srt": "/audio/voices/nanami/N2-087-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "0abdb7f93502f633f55ae7fd579ce435731eebd46cd49745f3e32c8185885dab",
+  "peakPcm": 21832,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

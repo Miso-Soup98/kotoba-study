@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-141",
+  "exampleIndex": 0,
+  "text": "家族が元気でいられるように祈っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 191,
+  "signature": "0fafb213ce6b52111786b96f2362e41443e6a7a570c484a32797e8626030891f",
+  "src": "/audio/voices/keita/N3-141-1.mp3",
+  "srt": "/audio/voices/keita/N3-141-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "bf16f8595bf33794e72809f9c9ef7aeb8d891bfec8a226edcc92e53c5c648062",
+  "peakPcm": 21473,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

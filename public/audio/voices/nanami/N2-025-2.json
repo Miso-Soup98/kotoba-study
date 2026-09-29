@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-025",
+  "exampleIndex": 1,
+  "text": "彼の話は冗談に決まっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 226,
+  "signature": "0f784dbcdb151734269dd9c5a9f1059425a5cba3aac86e8542f637851fcbe638",
+  "src": "/audio/voices/nanami/N2-025-2.mp3",
+  "srt": "/audio/voices/nanami/N2-025-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "c4045f58b461c35444bd0564c6c4e8e020c39180c245ed40130559eb19c037be",
+  "peakPcm": 21878,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-126",
+  "exampleIndex": 0,
+  "text": "物価は上がる一方です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 183,
+  "signature": "7fc472da0f6062a04b087e33e648ce6d6ae721ab3a367c42bf61468bef74539e",
+  "src": "/audio/voices/keita/N3-126-1.mp3",
+  "srt": "/audio/voices/keita/N3-126-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "c2c01cf7ccdc182a4609ecbed076badb42713d04f95efdaad116066d76aa5249",
+  "peakPcm": 24983,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

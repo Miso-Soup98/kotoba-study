@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-169",
+  "exampleIndex": 1,
+  "text": "今度は逆に、私が質問します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 299,
+  "signature": "bb3540f2c27a0e282d69b9acfd9506e6d88272fdc91e231aa955f7320c52a8b4",
+  "src": "/audio/voices/keita/N2-169-2.mp3",
+  "srt": "/audio/voices/keita/N2-169-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "5dd50acbfe4ad3d41480305748f70006a96644127e582ce60454bd933499661f",
+  "peakPcm": 23408,
+  "rmsDbfs": -21.12,
+  "rate": "+0%",
+  "listened": false
+}

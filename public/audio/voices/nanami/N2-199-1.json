@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-199",
+  "exampleIndex": 0,
+  "text": "そう言えば、昨日田中さんに会いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 314,
+  "signature": "dec7eb4fad6ddba7bcc13aaaf5bda297dd975d4ca9420fa5d7a82c36a992edb5",
+  "src": "/audio/voices/nanami/N2-199-1.mp3",
+  "srt": "/audio/voices/nanami/N2-199-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "b99a1391fc670208d4df6ab2f4198b979c5fc7cb00454399cd0be2e12f822752",
+  "peakPcm": 20228,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

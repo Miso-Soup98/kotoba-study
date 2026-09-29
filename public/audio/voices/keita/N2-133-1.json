@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-133",
+  "exampleIndex": 0,
+  "text": "一日ならまだしも、一週間は待てません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 280,
+  "signature": "78cb1af2682b8166e140e28715459a274a4d8f3fd61e6054cab99920864870bd",
+  "src": "/audio/voices/keita/N2-133-1.mp3",
+  "srt": "/audio/voices/keita/N2-133-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "07dd92f498f316a703e114d8b94e8edaa22ca4b96e10e92b2726a992916103e4",
+  "peakPcm": 22783,
+  "rmsDbfs": -21.35,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-148",
+  "exampleIndex": 1,
+  "text": "窓を開けたところ、冷たい風が入ってきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 288,
+  "signature": "ea767e04c43192b04962fdb69cdc5d6bf4140a59ab30d2d7c03b313333e9534a",
+  "src": "/audio/voices/keita/N2-148-2.mp3",
+  "srt": "/audio/voices/keita/N2-148-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "c707d44afbab5ae65f5e07596d840f069df2eede1f966eae7ad8e33e1c2a9ab5",
+  "peakPcm": 25328,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-086",
+  "exampleIndex": 0,
+  "text": "映画に行く代わりに、家で本を読みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 163,
+  "signature": "3e4e1d3ad5f14f4ab25c2a48b321e29da150417564e5982d6d526f13b5c502b9",
+  "src": "/audio/voices/nanami/N3-086-1.mp3",
+  "srt": "/audio/voices/nanami/N3-086-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "bb654f9875f5521ecede23429d6bea13d140557d56bd7220e322eb8d76d45b42",
+  "peakPcm": 21153,
+  "rmsDbfs": -17.09,
+  "rate": "+0%",
+  "listened": false
+}

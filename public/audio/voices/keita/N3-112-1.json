@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-112",
+  "exampleIndex": 0,
+  "text": "もう試験が近いので、遊んでいる場合ではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 176,
+  "signature": "ce56796cdae378e1dbb7b20dd4d80d47c2e16dbf4072e871b9976c13c7693625",
+  "src": "/audio/voices/keita/N3-112-1.mp3",
+  "srt": "/audio/voices/keita/N3-112-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "2a341231d9b5f9b000c7634c5acb8633de58c2b9cd4107855c2e3093268a1a44",
+  "peakPcm": 22787,
+  "rmsDbfs": -19.77,
+  "rate": "+0%",
+  "listened": false
+}

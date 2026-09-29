@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-027",
+  "exampleIndex": 0,
+  "text": "この写真を見るたびに、家族を思い出します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 134,
+  "signature": "7500cca6c781954c8f2be5d3902b335e1d86bb69606634218fbb406f87f38e2d",
+  "src": "/audio/voices/nanami/N3-027-1.mp3",
+  "srt": "/audio/voices/nanami/N3-027-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "1eba8be5e20f8faaa89e753fb207b445f2e9a8e6ecc77df08f51c661236594d1",
+  "peakPcm": 20495,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

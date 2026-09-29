@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-172",
+  "exampleIndex": 0,
+  "text": "よほど疲れていたのでしょう。すぐ寝ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 300,
+  "signature": "b3d9d6defa9b9c0e5168a1ea69859263b942a167b5d3be947683a963dbbd856d",
+  "src": "/audio/voices/nanami/N2-172-1.mp3",
+  "srt": "/audio/voices/nanami/N2-172-1.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "baf84f9e78f755be9b6f56a491663a58b1daf563852f07c62430f9c6855d00b9",
+  "peakPcm": 22605,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

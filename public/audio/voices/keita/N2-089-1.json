@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-089",
+  "exampleIndex": 0,
+  "text": "冗談にせよ、言ってよいことではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 258,
+  "signature": "e63bf44de28caf6fa615b2460636b15f19690c9c2e1888f2e72849cf79e560bf",
+  "src": "/audio/voices/keita/N2-089-1.mp3",
+  "srt": "/audio/voices/keita/N2-089-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "deeaeb619136d5ba24b8c274d54914e142a7742351e14e138dd990b0b7e57821",
+  "peakPcm": 23423,
+  "rmsDbfs": -19.96,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-112",
+  "exampleIndex": 1,
+  "text": "困っている場合じゃない。まず連絡しよう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 176,
+  "signature": "74f98a3d6999ec147dbe1bc80aa57fade35ca24b6ac3d3b3b3836617e35c1317",
+  "src": "/audio/voices/keita/N3-112-2.mp3",
+  "srt": "/audio/voices/keita/N3-112-2.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "213c433c9b12fb7d74da51895e117cd56bbe08955729af67de029ef0796dde25",
+  "peakPcm": 24684,
+  "rmsDbfs": -21.68,
+  "rate": "+0%",
+  "listened": false
+}

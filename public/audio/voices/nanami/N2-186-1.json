@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-186",
+  "exampleIndex": 0,
+  "text": "いよいよ明日から授業が始まります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 307,
+  "signature": "7df1d6bbe949bf029aae0a1c7c19f938a09fc5b76ba0db946fd86711cf480bb0",
+  "src": "/audio/voices/nanami/N2-186-1.mp3",
+  "srt": "/audio/voices/nanami/N2-186-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "b59b42d54abe1c7166e022721ebe8b3507020515a20e756d9291d8cb3008b004",
+  "peakPcm": 21484,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-045",
+  "exampleIndex": 0,
+  "text": "最後まで責任を持つのが、本当の協力というものです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 236,
+  "signature": "e94801c6af1602f34bcdf9a6023259f0632a9730f322948e5326b5ec0270bff5",
+  "src": "/audio/voices/keita/N2-045-1.mp3",
+  "srt": "/audio/voices/keita/N2-045-1.srt",
+  "durationSeconds": 4.896,
+  "bytes": 29376,
+  "sha256": "321eb7b884c4d2f4fcf48ac02e0664cd1556b1de70d6421cdec697b27cb2241c",
+  "peakPcm": 22026,
+  "rmsDbfs": -19.89,
+  "rate": "+0%",
+  "listened": false
+}

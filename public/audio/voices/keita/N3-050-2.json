@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-050",
+  "exampleIndex": 1,
+  "text": "ここで待っていてもしょうがないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 145,
+  "signature": "e205bd075196811ebeabae1a34ac61d21f2a37fa1493d880902a130f4f313d75",
+  "src": "/audio/voices/keita/N3-050-2.mp3",
+  "srt": "/audio/voices/keita/N3-050-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "6354987ff121ecb4de7e565bcae24f13862c4e7fe0721c84df72cb1a8fe4dca1",
+  "peakPcm": 22921,
+  "rmsDbfs": -19.68,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-04",
+  "exampleIndex": 0,
+  "text": "以前は小説で知らない言葉を見つけるたびに辞書を引いていました。でも、それでは話の流れを忘れてしまいます。今はまず一章を最後まで読んで、何度も出てきた言葉だけ調べています。細かい意味はまだ分からないところもありますが、登場人物の気持ちは前よりつかみやすくなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "13dc87d368780816fd3592e71d8b6948e6f8dd23caff14f8d1c8a2036c93d51d",
+  "src": "/audio/training/n2-v05-p-listening-04.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-04.srt",
+  "durationSeconds": 23.88,
+  "bytes": 143280,
+  "sha256": "4ef6da7a63153d580225bb2d09e8831b01fde0b5c4410802a0496d5e66dbd0de",
+  "peakPcm": 22609,
+  "rmsDbfs": -16.96,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

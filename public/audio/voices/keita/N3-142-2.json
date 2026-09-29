@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-142",
+  "exampleIndex": 1,
+  "text": "許可を頂いたので、資料を使わせていただきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 191,
+  "signature": "f353fd4351863a58254031328659b4732471ec9f0d67a698ac0cde370f89d52f",
+  "src": "/audio/voices/keita/N3-142-2.mp3",
+  "srt": "/audio/voices/keita/N3-142-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "38c79a38ca712d1209e3062590986cb43219dd2e9829c057db47ffe597181aea",
+  "peakPcm": 25376,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

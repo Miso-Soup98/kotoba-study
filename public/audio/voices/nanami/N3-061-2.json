@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-061",
+  "exampleIndex": 1,
+  "text": "今日は一日立ちっぱなしでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 151,
+  "signature": "397d6c6a7d2e09f9e1fd9f5c39567d580d87101aabdd64c5f9798f72b48a6823",
+  "src": "/audio/voices/nanami/N3-061-2.mp3",
+  "srt": "/audio/voices/nanami/N3-061-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "7618485f516e833e24fa4cb6d396ec34c6e84fef7d6b1a71552ee4f22bb83944",
+  "peakPcm": 21912,
+  "rmsDbfs": -18.52,
+  "rate": "+0%",
+  "listened": false
+}

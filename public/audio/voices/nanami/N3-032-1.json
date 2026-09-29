@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-032",
+  "exampleIndex": 0,
+  "text": "内容を確認した上で、署名してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 136,
+  "signature": "b10ca8f3e315a5783d98d95551e09d6a7ed2be0656cb99b878517ee4431fc24c",
+  "src": "/audio/voices/nanami/N3-032-1.mp3",
+  "srt": "/audio/voices/nanami/N3-032-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "36e01d5b77f5831a708024d5336a84d176a3e85f0a10aaf971ada255b3dee571",
+  "peakPcm": 21520,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

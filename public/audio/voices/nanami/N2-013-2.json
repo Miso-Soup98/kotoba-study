@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-013",
+  "exampleIndex": 1,
+  "text": "気温に応じた服を選びましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 220,
+  "signature": "b47f9f4f825972a3e4cbba11d74f79d5191b7a556688b30c6a8f1c2b6110c191",
+  "src": "/audio/voices/nanami/N2-013-2.mp3",
+  "srt": "/audio/voices/nanami/N2-013-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "bf57c1ac1a62e1dc8e6869ba025b07993651fb6495c0b6b5ad88c6f0b4663f64",
+  "peakPcm": 21929,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

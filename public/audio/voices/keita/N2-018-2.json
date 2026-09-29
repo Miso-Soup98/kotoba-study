@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-018",
+  "exampleIndex": 1,
+  "text": "全国にわたって調査を行いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 222,
+  "signature": "eaba1455fadfdae36c9fce1374950317ea456e304cd873f56dd1b871c6b9bb00",
+  "src": "/audio/voices/keita/N2-018-2.mp3",
+  "srt": "/audio/voices/keita/N2-018-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "3882cba02047550a318de99419a7c07ae74f7f0d2b6f4a68e298af81d7385621",
+  "peakPcm": 23038,
+  "rmsDbfs": -20.79,
+  "rate": "+0%",
+  "listened": false
+}

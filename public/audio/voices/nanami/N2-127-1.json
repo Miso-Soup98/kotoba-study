@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-127",
+  "exampleIndex": 0,
+  "text": "個人情報を外に漏らしてはなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 277,
+  "signature": "6b1ff7f500c8fcecaddbb7982278a7fba2b77ebf26c8903926ca4a1ac239a4c3",
+  "src": "/audio/voices/nanami/N2-127-1.mp3",
+  "srt": "/audio/voices/nanami/N2-127-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "5e6ad85de14a728e2996d27e777386c585329e3347459ee2c488ded2557c9767",
+  "peakPcm": 19734,
+  "rmsDbfs": -16.98,
+  "rate": "+0%",
+  "listened": false
+}

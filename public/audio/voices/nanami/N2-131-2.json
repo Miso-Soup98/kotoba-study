@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-131",
+  "exampleIndex": 1,
+  "text": "時間が止まったかのようでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 279,
+  "signature": "6a8f20ad6756b361b024c17474e0338bbb2fff3eab256cec4d550ac2236b1db0",
+  "src": "/audio/voices/nanami/N2-131-2.mp3",
+  "srt": "/audio/voices/nanami/N2-131-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "08356850419f755375360edfc8094984b4a38a0060d218ab66e3b12b75113afc",
+  "peakPcm": 23147,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

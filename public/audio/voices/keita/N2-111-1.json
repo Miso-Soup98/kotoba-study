@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-111",
+  "exampleIndex": 0,
+  "text": "理論の上では可能ですが、実際は難しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 269,
+  "signature": "ed067a02ee4ad17c524c281a48bd7c614f3bfa18bb8edfeb206919d4738cec12",
+  "src": "/audio/voices/keita/N2-111-1.mp3",
+  "srt": "/audio/voices/keita/N2-111-1.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "0607f47daafc7f77a8724298b11b52207213546c02de23683a4c372df155fdae",
+  "peakPcm": 23710,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

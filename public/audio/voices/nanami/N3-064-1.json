@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-064",
+  "exampleIndex": 0,
+  "text": "名前を書き直してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 152,
+  "signature": "30d4fd036ed19566428714578217d7a8579e213eff74b0ce509aa1f88943065e",
+  "src": "/audio/voices/nanami/N3-064-1.mp3",
+  "srt": "/audio/voices/nanami/N3-064-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "979b08e76840b002f71cbdb12b1271bc44813d4c2b83b930d84b5e927fe0b23a",
+  "peakPcm": 20291,
+  "rmsDbfs": -18.35,
+  "rate": "+0%",
+  "listened": false
+}

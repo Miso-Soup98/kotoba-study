@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-060",
+  "exampleIndex": 0,
+  "text": "少しずつ状況が変わりつつあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 243,
+  "signature": "1b454ff276f2aab8d122e46453da2c40dfd1bf023f4f07563e54aafe3148e072",
+  "src": "/audio/voices/keita/N2-060-1.mp3",
+  "srt": "/audio/voices/keita/N2-060-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "bbc2c3ba596df6d394dcc2ab03d1b45fca3a4c5c44b1cfd951446e398e54d7c1",
+  "peakPcm": 22390,
+  "rmsDbfs": -21.53,
+  "rate": "+0%",
+  "listened": false
+}

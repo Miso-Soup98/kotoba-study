@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-083",
+  "exampleIndex": 0,
+  "text": "会議は東京において開かれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 162,
+  "signature": "42a755b99b960141c334782a05289f9acf70254d385485b4dbd95187c41679fc",
+  "src": "/audio/voices/keita/N3-083-1.mp3",
+  "srt": "/audio/voices/keita/N3-083-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "bf8dab13225ef9ad283b4a88afefffb806103f3035cbfbec8a0f8253fd767852",
+  "peakPcm": 21055,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

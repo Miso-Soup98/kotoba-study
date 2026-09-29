@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-088",
+  "exampleIndex": 1,
+  "text": "初めての人にすれば、この説明は難しいでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 258,
+  "signature": "10a3b3148b80601b1ad27b35ce597efcc4ce6d4b4bc030501a99a808104bf75a",
+  "src": "/audio/voices/keita/N2-088-2.mp3",
+  "srt": "/audio/voices/keita/N2-088-2.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "925d834df71ade81d71fd9381801635eba4d2c2df790cbcc8d923fbd5b4d7f18",
+  "peakPcm": 20567,
+  "rmsDbfs": -21.36,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-106",
+  "exampleIndex": 0,
+  "text": "休みを取ってでも、家族に会いに行きたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 267,
+  "signature": "8c3e3161686ddb7de7c8205cdaa9f4f6d1043ad2cb015bf4a5770dbdc3f60eb4",
+  "src": "/audio/voices/keita/N2-106-1.mp3",
+  "srt": "/audio/voices/keita/N2-106-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "d1c67d478309c0fb4169ae65164ccdb1e992c88d30d8c9423d4e7f6b0e5e7846",
+  "peakPcm": 22755,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

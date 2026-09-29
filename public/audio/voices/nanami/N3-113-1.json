@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-113",
+  "exampleIndex": 0,
+  "text": "遅れてはいけないから、早く出ます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 177,
+  "signature": "7447086bce0050d6d085dddd9f99c2351394bed3194d7ac1768ec52cf9322ff1",
+  "src": "/audio/voices/nanami/N3-113-1.mp3",
+  "srt": "/audio/voices/nanami/N3-113-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "84a539ed0c77896cf63c0d0696aadbf5bad78302ef8c9414cedaa8e7cf9d00e4",
+  "peakPcm": 21733,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-067",
+  "exampleIndex": 0,
+  "text": "猫が箱の中に入り込みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 154,
+  "signature": "0bc261f8c434c734aaf38f394c3083da9f4bf74d00cb5b238cc4f4cd1f93d842",
+  "src": "/audio/voices/keita/N3-067-1.mp3",
+  "srt": "/audio/voices/keita/N3-067-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "f97b4839639428ccbd2ddc6dbc0e1a99b645572f5376b2d2bc96679efe3a5846",
+  "peakPcm": 21508,
+  "rmsDbfs": -21.76,
+  "rate": "+0%",
+  "listened": false
+}

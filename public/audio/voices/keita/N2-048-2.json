@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-048",
+  "exampleIndex": 1,
+  "text": "一度成功しても、何でもできることにはなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 237,
+  "signature": "2354ca1effb0daa65ee9cb929c2a29fb35f461d66cd373ab15dd0c0e04861d02",
+  "src": "/audio/voices/keita/N2-048-2.mp3",
+  "srt": "/audio/voices/keita/N2-048-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "ff9d89ab20132d72fd9584d55fbf93941fc7f961997b5550564c0bc1d960ea42",
+  "peakPcm": 25049,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

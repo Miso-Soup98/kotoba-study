@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-210",
+  "exampleIndex": 0,
+  "text": "あの言葉の意味が未だに分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 319,
+  "signature": "083cb426ea51504e33c459c4b02fd050634cc5741c401fd705d2379e4c3b2b50",
+  "src": "/audio/voices/nanami/N2-210-1.mp3",
+  "srt": "/audio/voices/nanami/N2-210-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "3cc00baa4a4dd7f061ad8b883ef27282587c7a47700eafa81e39efba7e7052c0",
+  "peakPcm": 23512,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

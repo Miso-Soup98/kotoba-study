@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-197",
+  "exampleIndex": 0,
+  "text": "時間がないんですね。それなら、明日にしましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 313,
+  "signature": "d486bdbac86629e4a42416a8c336cd92e47110e8f6b94203fa564efdf7193017",
+  "src": "/audio/voices/keita/N2-197-1.mp3",
+  "srt": "/audio/voices/keita/N2-197-1.srt",
+  "durationSeconds": 4.92,
+  "bytes": 29520,
+  "sha256": "a1774b9621a04267a24348c90e9f6f85c2e22d1d95521c95db0c2959c9d73695",
+  "peakPcm": 24772,
+  "rmsDbfs": -20.68,
+  "rate": "+0%",
+  "listened": false
+}

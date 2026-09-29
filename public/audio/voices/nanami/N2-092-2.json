@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-092",
+  "exampleIndex": 1,
+  "text": "何が起ころうとも、約束を守ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 260,
+  "signature": "da37f08adc54c8650784fdf6b1f5c0f449c3b35b83b120d0e9f29a5265deb206",
+  "src": "/audio/voices/nanami/N2-092-2.mp3",
+  "srt": "/audio/voices/nanami/N2-092-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "b20728d7457fc33e6e2af9ae5f836e35f3ffb4d9d5ea2888561cde16c37a45d1",
+  "peakPcm": 21724,
+  "rmsDbfs": -16.86,
+  "rate": "+0%",
+  "listened": false
+}

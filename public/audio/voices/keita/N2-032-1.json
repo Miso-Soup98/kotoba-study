@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-032",
+  "exampleIndex": 0,
+  "text": "友達が送ってくれたので、歩かずに済みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 229,
+  "signature": "f2f4eef5a8cc0782f2b74c720aa3d3dbfba7400d553e35b1bead020189614a2d",
+  "src": "/audio/voices/keita/N2-032-1.mp3",
+  "srt": "/audio/voices/keita/N2-032-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "60bd489ff3fb998fd8d62d4c55a5c5cde799265733f3a6c4937fb845e3cff23a",
+  "peakPcm": 23788,
+  "rmsDbfs": -20.67,
+  "rate": "+0%",
+  "listened": false
+}

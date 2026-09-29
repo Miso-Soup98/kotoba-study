@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-109",
+  "exampleIndex": 1,
+  "text": "強い雨の中を歩いて帰りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 268,
+  "signature": "5968cdf07cc6374fc5f4e082d7a389b2d7245d285cc5a738a9a96005cc3ce322",
+  "src": "/audio/voices/nanami/N2-109-2.mp3",
+  "srt": "/audio/voices/nanami/N2-109-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "cd1beae29ef37fd6f445f42f20bdea79b16349b6bbac3eb17fad231aca87c94e",
+  "peakPcm": 20719,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

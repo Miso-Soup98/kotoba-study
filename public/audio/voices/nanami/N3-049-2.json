@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-049",
+  "exampleIndex": 1,
+  "text": "今日は眠くてしょうがないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 145,
+  "signature": "ade68c0d0c4f2ee405c76c05d50eadd504547f64249e50ed251b1f3aee21515f",
+  "src": "/audio/voices/nanami/N3-049-2.mp3",
+  "srt": "/audio/voices/nanami/N3-049-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "6ebbfb06506982c81c48777780d4937694994ccab00f29bccc16c37293c4e978",
+  "peakPcm": 22216,
+  "rmsDbfs": -17.15,
+  "rate": "+0%",
+  "listened": false
+}

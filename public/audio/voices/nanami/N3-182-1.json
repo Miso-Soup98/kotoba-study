@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-182",
+  "exampleIndex": 0,
+  "text": "具体的な例を挙げてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 211,
+  "signature": "787d73bb4199ece4adbc0a858306565bb7ea60b6cb7eb41cb6ba9d9b88d180a1",
+  "src": "/audio/voices/nanami/N3-182-1.mp3",
+  "srt": "/audio/voices/nanami/N3-182-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "4dbc38f8a2152c98b5230c4fda3b07705f45f9b4c940f03b572e9643551ba101",
+  "peakPcm": 20313,
+  "rmsDbfs": -18.33,
+  "rate": "+0%",
+  "listened": false
+}

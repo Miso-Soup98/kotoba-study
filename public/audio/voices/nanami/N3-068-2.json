@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-068",
+  "exampleIndex": 1,
+  "text": "彼は三時間走り通しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 154,
+  "signature": "1663a35422bdc42c094b1af680749eaaaa51f8fd278f0d5134428ccefc444601",
+  "src": "/audio/voices/nanami/N3-068-2.mp3",
+  "srt": "/audio/voices/nanami/N3-068-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "007c285bb04e4ea8d8955c3f0738ceee037bfd85eb1539d697cb65286cfd6cd3",
+  "peakPcm": 21362,
+  "rmsDbfs": -18.78,
+  "rate": "+0%",
+  "listened": false
+}

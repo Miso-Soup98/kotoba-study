@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-034",
+  "exampleIndex": 0,
+  "text": "準備は早いに越したことはありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 230,
+  "signature": "6c9ca9096af5a07a700335dc6a12147f2e1c3be465bb0891b247bf0e01bfc67b",
+  "src": "/audio/voices/nanami/N2-034-1.mp3",
+  "srt": "/audio/voices/nanami/N2-034-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "52059e7e75d3777e888e03ea0f43a887e5e5caa69ca07b4cb1f07a1e8286e9a5",
+  "peakPcm": 20459,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

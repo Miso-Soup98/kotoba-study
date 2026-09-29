@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-108",
+  "exampleIndex": 0,
+  "text": "値段は別として、この服は気に入っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 174,
+  "signature": "e73b8bbb9bd1d1a6879c1dd0fdb7546459b48802e5b001be9936b7e1c58c0628",
+  "src": "/audio/voices/nanami/N3-108-1.mp3",
+  "srt": "/audio/voices/nanami/N3-108-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "131d53e26f5a78e7e71f63cfa909101ae03d0025c620f40ffa233ffa8da3ff5d",
+  "peakPcm": 22727,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

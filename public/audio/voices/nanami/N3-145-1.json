@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-145",
+  "exampleIndex": 0,
+  "text": "この方法が一番よいのではないでしょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 193,
+  "signature": "a2a664656837914072f95b960116046a1def40ab47982454fdd1e69f1e65456f",
+  "src": "/audio/voices/nanami/N3-145-1.mp3",
+  "srt": "/audio/voices/nanami/N3-145-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "18f06eb63931ce8827b6ffe47465f464c2c9191704f8c2ab72dffdd302af10e2",
+  "peakPcm": 21770,
+  "rmsDbfs": -17.04,
+  "rate": "+0%",
+  "listened": false
+}

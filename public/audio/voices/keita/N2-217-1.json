@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-217",
+  "exampleIndex": 0,
+  "text": "何から何まで、ありがとうございました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 323,
+  "signature": "c80d4ff5efd58ede7fd450c0da47b614e5fa69d46e8d04db602d8b4f0b5fb3cc",
+  "src": "/audio/voices/keita/N2-217-1.mp3",
+  "srt": "/audio/voices/keita/N2-217-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "a8101967fe8f9888ca26cdc6a7c942238001d6b9f75f1da1ad471b377182ddf2",
+  "peakPcm": 25064,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

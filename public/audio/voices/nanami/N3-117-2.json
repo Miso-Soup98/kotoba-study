@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-117",
+  "exampleIndex": 1,
+  "text": "検査の結果、問題はありませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 179,
+  "signature": "23cd9ecabb1fe99fef28472fec0ce047a850786cda9942963c57b7c82ed22f49",
+  "src": "/audio/voices/nanami/N3-117-2.mp3",
+  "srt": "/audio/voices/nanami/N3-117-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "de26fcacdc88f7de3b8aa80a564e13f259499c8979bed50b8e62b4e0a0979fef",
+  "peakPcm": 22415,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

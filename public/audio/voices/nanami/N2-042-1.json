@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-042",
+  "exampleIndex": 0,
+  "text": "戻れるものなら、学生時代に戻りたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 234,
+  "signature": "ff856091c99413ce378e2df008580a66ba27f273ba29d586002fa755342dde7c",
+  "src": "/audio/voices/nanami/N2-042-1.mp3",
+  "srt": "/audio/voices/nanami/N2-042-1.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "3dc9d4c717836253a6ebdba2c9e9c27a8a782e467311e4aa4b65ccb7975b68a1",
+  "peakPcm": 21489,
+  "rmsDbfs": -16.99,
+  "rate": "+0%",
+  "listened": false
+}

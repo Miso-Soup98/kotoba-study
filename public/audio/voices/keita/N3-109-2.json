@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-109",
+  "exampleIndex": 1,
+  "text": "持てるだけ荷物を持ちました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 175,
+  "signature": "9bc5c40725c39c347dd4240a9b81203a6e873b8455594f7e9589ad6cdc8a5c2f",
+  "src": "/audio/voices/keita/N3-109-2.mp3",
+  "srt": "/audio/voices/keita/N3-109-2.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "5c4d4133a26369b9c48660c6627cbaa0937138e36f34f97759df205269929eb4",
+  "peakPcm": 22920,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-153",
+  "exampleIndex": 0,
+  "text": "外ではめったに食べません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 197,
+  "signature": "493d733192809fc283e73ee47e13dcb071ce9869b4b7fa2d3b2d2a68bdb83d47",
+  "src": "/audio/voices/nanami/N3-153-1.mp3",
+  "srt": "/audio/voices/nanami/N3-153-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "3197dc0f2ca97dbcfe9d00963c1cce0eff5d5d21865a5eb001f053c3c11c1c20",
+  "peakPcm": 21823,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

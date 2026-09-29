@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-194",
+  "exampleIndex": 1,
+  "text": "駅から近いです。その上、静かな場所です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 311,
+  "signature": "265a256e71b3fd5720931a11c80c816dce8fbe8c21a88793768477faa1f08f50",
+  "src": "/audio/voices/nanami/N2-194-2.mp3",
+  "srt": "/audio/voices/nanami/N2-194-2.srt",
+  "durationSeconds": 5.448,
+  "bytes": 32688,
+  "sha256": "5d6ce133b2534f96a75728191bd5fb8d1ec7a2c71d8a18ee3b5c5b1b4cdddf08",
+  "peakPcm": 21007,
+  "rmsDbfs": -18.6,
+  "rate": "+0%",
+  "listened": false
+}

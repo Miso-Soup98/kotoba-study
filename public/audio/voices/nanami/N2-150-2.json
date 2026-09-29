@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-150",
+  "exampleIndex": 1,
+  "text": "何とか費用を減らせないものか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 289,
+  "signature": "47ff81fd94bbd348254010ad6b33f516fcc1058528011c7a506ca655ebffe631",
+  "src": "/audio/voices/nanami/N2-150-2.mp3",
+  "srt": "/audio/voices/nanami/N2-150-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "001edc15db9eda5ce82d0c63323466edb2399ace3f7b7461efa527394e8ae8ad",
+  "peakPcm": 21352,
+  "rmsDbfs": -16.68,
+  "rate": "+0%",
+  "listened": false
+}

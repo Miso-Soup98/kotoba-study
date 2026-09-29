@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-175",
+  "exampleIndex": 1,
+  "text": "店へ行きました。ところが、休みでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 208,
+  "signature": "1a5e6ae85e18d76075acea0b1b2379b0614451a4406938adc07cd1ffc4cff5a0",
+  "src": "/audio/voices/keita/N3-175-2.mp3",
+  "srt": "/audio/voices/keita/N3-175-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "ab1faf65559397a7c84cacbb03fc656ca34770f4044e46c66f1d128b3537cb8f",
+  "peakPcm": 23524,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

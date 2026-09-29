@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-148",
+  "exampleIndex": 0,
+  "text": "長い工事がついに終わりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 194,
+  "signature": "19a31fb0ff21cf9feb46f51c133601ce3867738fa6b795c5e794319cbf5b3c12",
+  "src": "/audio/voices/nanami/N3-148-1.mp3",
+  "srt": "/audio/voices/nanami/N3-148-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "e544acfcea7a2663e3638d07bbc87bc6b0726cde86b8a9f180983da36563ef6c",
+  "peakPcm": 21136,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

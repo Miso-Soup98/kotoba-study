@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-11",
+  "exampleIndex": 0,
+  "text": "共有スペースでは、普段は飲み物を持ち込めます。しかし、今週は修理中の機械を置いているため、ふた付きの容器であっても持ち込まないでください。飲むときは廊下の休憩席をご利用ください。修理が終わり次第、元の利用方法に戻します。禁止が今後ずっと続くというわけではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "1f13607c7df8ff8faf5b8b85f3a2c855c968dfe0341bfef4f872ef461df3bab9",
+  "src": "/audio/training/n2-v05-p-listening-11.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-11.srt",
+  "durationSeconds": 25.344,
+  "bytes": 152064,
+  "sha256": "f1fe5f1cdb2d9d647f6768ff0df9b2a70ab0310ff6da40f5b3c0909d50917a04",
+  "peakPcm": 22132,
+  "rmsDbfs": -17.1,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

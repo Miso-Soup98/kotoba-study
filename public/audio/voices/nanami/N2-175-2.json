@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-175",
+  "exampleIndex": 1,
+  "text": "気温がわずかに上がりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 302,
+  "signature": "77457bbd1a54cbf787c186c226eff722f45a4e74b70d90fa85ffac648c32e3d8",
+  "src": "/audio/voices/nanami/N2-175-2.mp3",
+  "srt": "/audio/voices/nanami/N2-175-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "bc4ba6e85ea2d03158125591b09ea27adc6a9ec1d884f145e710d65fa6ec244a",
+  "peakPcm": 19708,
+  "rmsDbfs": -18.33,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-167",
+  "exampleIndex": 1,
+  "text": "どうせ無理だと決めつけないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 298,
+  "signature": "c1c7863a8d34ca91bcfef8ace713748f724555fd56fc52318f04a9b84c9ec555",
+  "src": "/audio/voices/keita/N2-167-2.mp3",
+  "srt": "/audio/voices/keita/N2-167-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "84545f402fcf038810955dddc589f184e4c8fc0092a6f42b86b1f7b6320b3568",
+  "peakPcm": 22071,
+  "rmsDbfs": -19.97,
+  "rate": "+0%",
+  "listened": false
+}

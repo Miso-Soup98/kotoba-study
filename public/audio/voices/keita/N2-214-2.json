@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-214",
+  "exampleIndex": 1,
+  "text": "説明を聞いて、事情がおおよそ分かりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 321,
+  "signature": "ed5aa1bd833c547836d91df2af2175a4504e9fdd18cd86bbbee94cddf2e4972e",
+  "src": "/audio/voices/keita/N2-214-2.mp3",
+  "srt": "/audio/voices/keita/N2-214-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "c9a221cf28ee4cc77580ab20b06b8c18ca1a11cc7ac5b51adaee2694cec9f046",
+  "peakPcm": 22486,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

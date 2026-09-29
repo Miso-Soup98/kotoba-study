@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-125",
+  "exampleIndex": 0,
+  "text": "約束は守らねばなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 276,
+  "signature": "4aec9a5f4c13bb7b66da18c9ccb37561ae8084e9e17094beba16d022ba34cf00",
+  "src": "/audio/voices/nanami/N2-125-1.mp3",
+  "srt": "/audio/voices/nanami/N2-125-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "9b0a0f7969c616fc67c838b67595fd8c8540d34465716dcbc1124d1530a40cc8",
+  "peakPcm": 23535,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

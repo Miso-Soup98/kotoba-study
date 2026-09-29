@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-217",
+  "exampleIndex": 1,
+  "text": "彼は何から何まで自分で決めます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 323,
+  "signature": "f69abfa6536246bab76e2f0dc9cad05db963eeedafad378dc14fc63771889cbe",
+  "src": "/audio/voices/keita/N2-217-2.mp3",
+  "srt": "/audio/voices/keita/N2-217-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "a35fcc3103ca35855675ed191418c5fbf44ec009a3583a76003bb494155fddc5",
+  "peakPcm": 20038,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

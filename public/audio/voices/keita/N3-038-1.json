@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-038",
+  "exampleIndex": 0,
+  "text": "連絡によると、会議は中止だということです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 139,
+  "signature": "0e2ab1ac473e9fff9d27f85f53193f33a4381a8664f4482a7f1db5f74e845a5a",
+  "src": "/audio/voices/keita/N3-038-1.mp3",
+  "srt": "/audio/voices/keita/N3-038-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "8edfbca57008d4575ad2445cb1106cdf0c141096a6e3018a3921e3643efd3cc4",
+  "peakPcm": 22147,
+  "rmsDbfs": -20.69,
+  "rate": "+0%",
+  "listened": false
+}

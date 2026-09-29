@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-127",
+  "exampleIndex": 1,
+  "text": "同じ失敗を繰り返してはなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 277,
+  "signature": "72ec0541f0defe832265d8602a8e0329eea9d3229b03fdc26ffbcccd29d5ced5",
+  "src": "/audio/voices/nanami/N2-127-2.mp3",
+  "srt": "/audio/voices/nanami/N2-127-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "5ba6faa0fa88b826ec0f91d078df09aa987a73638abf567de2b47e25ff3511fc",
+  "peakPcm": 21204,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

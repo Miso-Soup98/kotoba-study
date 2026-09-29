@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-040",
+  "exampleIndex": 0,
+  "text": "だって、まだ終わっていないんだもの。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 233,
+  "signature": "74b8966cbdeecf261e293c847d7fcb0e36874a0d1fa17677bd2d03276bc17fa1",
+  "src": "/audio/voices/nanami/N2-040-1.mp3",
+  "srt": "/audio/voices/nanami/N2-040-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "51fe54037103af9e6fc7b976eb15c717ea34d721ec857ca8a65115028e04798e",
+  "peakPcm": 22211,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

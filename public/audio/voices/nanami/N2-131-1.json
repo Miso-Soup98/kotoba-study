@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-131",
+  "exampleIndex": 0,
+  "text": "彼は何もなかったかのように話しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 279,
+  "signature": "95d6d1a8822f21b268a81c0e0efcc4f8dfe96572af10d789c3bf07f3c213c733",
+  "src": "/audio/voices/nanami/N2-131-1.mp3",
+  "srt": "/audio/voices/nanami/N2-131-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "532ff1dd71dbfe9a7321f44f15e82cc8c9e0f8adeaa353e9720c11b6fbc0ecc1",
+  "peakPcm": 20904,
+  "rmsDbfs": -17.3,
+  "rate": "+0%",
+  "listened": false
+}

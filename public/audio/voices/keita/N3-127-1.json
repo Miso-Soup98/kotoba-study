@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-127",
+  "exampleIndex": 0,
+  "text": "この町には山もあれば、海もあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 184,
+  "signature": "534d55f1f1d6fd31dfe1452e8561bf680c86e4dad427c5aba75f539c15bed98e",
+  "src": "/audio/voices/keita/N3-127-1.mp3",
+  "srt": "/audio/voices/keita/N3-127-1.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "34d36709a3c229f5bed59563bdc1abf6b53e7206e0d4ffdd2a3b88d3f7b154a3",
+  "peakPcm": 18858,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

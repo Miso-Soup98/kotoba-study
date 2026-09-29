@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-047",
+  "exampleIndex": 0,
+  "text": "明日は休みだということは、今日出す必要がありますね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 237,
+  "signature": "b339a6a0402f4d7ea46e0a47ea0ab204d5f07d08625f047a4a5b041b268207d0",
+  "src": "/audio/voices/nanami/N2-047-1.mp3",
+  "srt": "/audio/voices/nanami/N2-047-1.srt",
+  "durationSeconds": 5.136,
+  "bytes": 30816,
+  "sha256": "49aca82f5a414467ab47cef3e654254c7b7af71d673893a0896d0eaeda4dc5b6",
+  "peakPcm": 20255,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

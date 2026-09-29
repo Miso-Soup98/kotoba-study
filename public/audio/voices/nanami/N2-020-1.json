@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-020",
+  "exampleIndex": 0,
+  "text": "これは命にかかわる問題です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 223,
+  "signature": "a2939b6e15f4a4a78fc22c4c812398a93874d7e61f59878589d796a4448feebd",
+  "src": "/audio/voices/nanami/N2-020-1.mp3",
+  "srt": "/audio/voices/nanami/N2-020-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "958ac8e2c08343236efa11655238aa27f91bca56e20a0e6dc6a9d4a94843fd11",
+  "peakPcm": 21329,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

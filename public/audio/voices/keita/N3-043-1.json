@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-043",
+  "exampleIndex": 0,
+  "text": "たとえ雨でも、試合は行います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 142,
+  "signature": "b4251232b8982a0892a0ed61638f54879647e8478f627c2858c291fc3ac940bd",
+  "src": "/audio/voices/keita/N3-043-1.mp3",
+  "srt": "/audio/voices/keita/N3-043-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "35e4b9a6357bc986c404fbf5f07f72581be6b59707ce27ebac92c9f51a5681a6",
+  "peakPcm": 25188,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

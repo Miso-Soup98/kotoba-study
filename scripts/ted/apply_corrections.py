@@ -129,11 +129,56 @@ def load_enricher(path):
     return module
 
 
+def apply_learning_overlays(article, alignments, lessons, reviews):
+    """Keep source identities while adding explicitly reviewed private overlays."""
+    paragraphs = {p["id"]: p for p in article["paragraphs"]}
+    operations = [a for a in alignments if a.get("articleId") == article["id"]]
+    for operation in operations:
+        if operation.get("kind") == "hide-noncontent-glossary":
+            for index in operation.get("glossaryIndices", []):
+                if type(index) is not int or not 0 <= index < len(article["glossary"]):
+                    raise ValueError("Invalid hidden glossary index")
+                article["glossary"][index].update(displayHidden=True, uncertainTerm=True)
+        else:
+            targets = operation.get("targetParagraphIds", [])
+            if not targets or any(p not in paragraphs for p in targets + operation.get("sourceParagraphIds", [])):
+                raise ValueError("Alignment refers to a missing paragraph")
+            for pid in operation.get("hideParagraphIds", []):
+                if pid not in paragraphs or pid in targets:
+                    raise ValueError("Invalid hidden source paragraph")
+                paragraphs[pid].update(displayHidden=True, sourceMappedTo=targets)
+    selected = [item for item in lessons if item.get("articleId") == article["id"]]
+    if len({item["id"] for item in selected}) != len(selected):
+        raise ValueError("Duplicate contextual lesson")
+    for item in selected:
+        paragraph = paragraphs.get(item.get("paragraphId"))
+        start, end = item.get("start"), item.get("end")
+        if not paragraph or paragraph.get("displayHidden") or type(start) is not int or type(end) is not int or start < 0 or end <= start:
+            raise ValueError("Invalid contextual lesson location")
+        # Browser offsets are UTF-16 code units, not Python code points.
+        encoded = paragraph["japanese"].encode("utf-16-le")
+        if end * 2 > len(encoded) or encoded[start * 2:end * 2].decode("utf-16-le") != item["surface"]:
+            raise ValueError("Contextual lesson no longer matches corrected text")
+        if item.get("reviewStatus") != "context-reviewed" or item.get("kind") not in {"phrase", "grammar"}:
+            raise ValueError("Unreviewed contextual lesson")
+    if operations:
+        article["alignmentReview"] = copy.deepcopy(operations)
+    if selected:
+        article["contextLessons"] = copy.deepcopy(selected)
+    review = next((r for r in reviews if r.get("articleId") == article["id"]), None)
+    if review:
+        article["review"] = {key: copy.deepcopy(review[key]) for key in ("reviewedAt", "remainingIssues", "sourceHeadingJapanese") if key in review}
+    return article
+
+
 def build(args):
     input_dir, output_dir = args.input.resolve(), args.output.resolve()
     if input_dir == output_dir or input_dir in output_dir.parents or output_dir in input_dir.parents:
         raise ValueError("Input and output must be separate, nonnested directories")
     groups = checked_records(read_json(args.corrections))
+    alignments = read_json(args.alignments) if getattr(args, "alignments", None) else []
+    lessons = read_json(args.context_lessons) if getattr(args, "context_lessons", None) else []
+    reviews = read_json(args.review_report).get("articles", []) if getattr(args, "review_report", None) else []
     # Validate every correction against its source before writing any outputs.
     sources, pending = {}, []
     for article_id, records in sorted(groups.items()):
@@ -143,7 +188,8 @@ def build(args):
         if raw.get("id") != article_id:
             raise ValueError(f"Source article id mismatch: {article_id}")
         sources[path] = data
-        pending.append((raw, apply_article(raw, records), records, sha256(data)))
+        article = apply_learning_overlays(apply_article(raw, records), alignments, lessons, reviews)
+        pending.append((raw, article, records, sha256(data)))
     module = load_enricher(args.enricher)
 
     class ReviewedEnricher(module.Enricher):
@@ -215,6 +261,9 @@ def main():
     parser.add_argument("--corrections", type=Path, required=True)
     parser.add_argument("--enricher", type=Path, default=HERE / "enrich_ted.py")
     parser.add_argument("--dictionaries", type=Path, default=BASE / "dictionaries")
+    parser.add_argument("--alignments", type=Path)
+    parser.add_argument("--context-lessons", type=Path)
+    parser.add_argument("--review-report", type=Path)
     report = build(parser.parse_args())
     print(json.dumps({"articles": len(report["articles"]), "corrections": report["corrections"],
                       "tokens": report["totals"].get("tokens", 0),

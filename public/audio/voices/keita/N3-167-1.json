@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-167",
+  "exampleIndex": 0,
+  "text": "一日に読めるのは、せいぜい二十ページです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 204,
+  "signature": "122952599b2eff93601567a3dd3836ab1f4270db26277f39df0d53f26298c7e1",
+  "src": "/audio/voices/keita/N3-167-1.mp3",
+  "srt": "/audio/voices/keita/N3-167-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "48047fd932b0b3233bbfb8d46edcb284209daab237febc876b0cd4a9a567e73a",
+  "peakPcm": 22960,
+  "rmsDbfs": -19.95,
+  "rate": "+0%",
+  "listened": false
+}

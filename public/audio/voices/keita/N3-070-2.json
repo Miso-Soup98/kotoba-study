@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-070",
+  "exampleIndex": 1,
+  "text": "この本は章ごとに問題があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 155,
+  "signature": "61fed176111e3e3543c7cc15d46cb774ccbddffe549baf38feb3db357ad14ae5",
+  "src": "/audio/voices/keita/N3-070-2.mp3",
+  "srt": "/audio/voices/keita/N3-070-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "47f1e5f1a2d6fc3bee7caaccd9633c27c73dc778ba70d310f88205bd29caba8f",
+  "peakPcm": 21293,
+  "rmsDbfs": -19.71,
+  "rate": "+0%",
+  "listened": false
+}

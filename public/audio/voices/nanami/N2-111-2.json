@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-111",
+  "exampleIndex": 1,
+  "text": "書類の上では、手続きは終わっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 269,
+  "signature": "845faae9310ecf2cdcf2a1d52b68ce497b5baf7207519181328e4f8985d2cf0d",
+  "src": "/audio/voices/nanami/N2-111-2.mp3",
+  "srt": "/audio/voices/nanami/N2-111-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "8da8322cd12bf2237ed1ec9bce1ea5f9f02ca93381f2ec43bde2ff71db01d81a",
+  "peakPcm": 20576,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

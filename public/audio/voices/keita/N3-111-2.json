@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-111",
+  "exampleIndex": 1,
+  "text": "座ってばかりいないで、少し歩きましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 176,
+  "signature": "2e569fa13287a607fdff31cd2306c8c5126d1ddd61cd1cf82d758f24dfdca3b3",
+  "src": "/audio/voices/keita/N3-111-2.mp3",
+  "srt": "/audio/voices/keita/N3-111-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "e35c461f73870e4d8455b8ad94ba17b59120fa9da88fa2b39e632cefba58c849",
+  "peakPcm": 25068,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

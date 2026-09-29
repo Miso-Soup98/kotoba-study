@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-108",
+  "exampleIndex": 1,
+  "text": "成功するかどうかは別として、やってみます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 174,
+  "signature": "a0280047368b0dc322bc75d40f60fa2c7f845175c3946a318278160c346e38d6",
+  "src": "/audio/voices/nanami/N3-108-2.mp3",
+  "srt": "/audio/voices/nanami/N3-108-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "2bd3ae9400c50366c40d739d10c74f865b8209d1a3a3e0aa40c9aa596e679555",
+  "peakPcm": 20535,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

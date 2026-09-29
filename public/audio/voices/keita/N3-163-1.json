@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-163",
+  "exampleIndex": 0,
+  "text": "ふと昔の友達を思い出しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 202,
+  "signature": "e25c22337815f7191af26c33ffe6632689f53ff51f35b1325a4e65e9420712a0",
+  "src": "/audio/voices/keita/N3-163-1.mp3",
+  "srt": "/audio/voices/keita/N3-163-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "9b9926271ae8d1c12a2971eaee7d51c2315ca26726e65a67d2bf1dd8ac510568",
+  "peakPcm": 24910,
+  "rmsDbfs": -19.81,
+  "rate": "+0%",
+  "listened": false
+}

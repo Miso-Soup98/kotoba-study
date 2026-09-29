@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-109",
+  "exampleIndex": 0,
+  "text": "食べたいだけ食べてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 175,
+  "signature": "808d757b3bba4d718611663e5333f8d7d390ee0dc59ef38ee5fbde0f1a896056",
+  "src": "/audio/voices/keita/N3-109-1.mp3",
+  "srt": "/audio/voices/keita/N3-109-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "d5f287fe62a873526f7a22e47a17e5954a9609b08ef484f69e77c67d0371781a",
+  "peakPcm": 23883,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

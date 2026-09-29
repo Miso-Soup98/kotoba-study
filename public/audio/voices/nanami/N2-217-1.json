@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-217",
+  "exampleIndex": 0,
+  "text": "何から何まで、ありがとうございました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 323,
+  "signature": "56e33a23261ac897d67df9a5750c0d611840a8e0cca3eb001ddfe3c8c80de281",
+  "src": "/audio/voices/nanami/N2-217-1.mp3",
+  "srt": "/audio/voices/nanami/N2-217-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "76129145f881571a35598e0b0a9ade4de54a891bf76fc40441fd827ca2919225",
+  "peakPcm": 23143,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

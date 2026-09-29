@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-113",
+  "exampleIndex": 1,
+  "text": "忘れてはいけないので、手帳に書きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 177,
+  "signature": "ed18e48bddc87367718ce58d53e776176b8b2097905f468dc975111c3e83488a",
+  "src": "/audio/voices/keita/N3-113-2.mp3",
+  "srt": "/audio/voices/keita/N3-113-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "95d2e7acaf328cfd4fe7dc825143d5b77ebde015649d6f98183cd7daa69056b0",
+  "peakPcm": 21976,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

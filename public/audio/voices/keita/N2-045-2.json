@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-045",
+  "exampleIndex": 1,
+  "text": "何も説明しないのは、不親切というものです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 236,
+  "signature": "64b36ee9635f839735ef56e3bf893bb02f8fe5d5c6a1cbc5fd89b99e1a268da1",
+  "src": "/audio/voices/keita/N2-045-2.mp3",
+  "srt": "/audio/voices/keita/N2-045-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "aff02c268fba2d9ee567f4b77a787f68adcb1ff6a82845e8568cb7f90f9d553c",
+  "peakPcm": 26194,
+  "rmsDbfs": -20.31,
+  "rate": "+0%",
+  "listened": false
+}

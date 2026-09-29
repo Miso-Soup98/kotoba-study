@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-165",
+  "exampleIndex": 0,
+  "text": "どうやら電車が遅れているようです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 297,
+  "signature": "e80d258413f6bf5e78795238595e8f92c4ded7547cbe1344219b92fff3fcef62",
+  "src": "/audio/voices/keita/N2-165-1.mp3",
+  "srt": "/audio/voices/keita/N2-165-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "76395ac169320c959b5e03c2607433a0506462ad53a2ac5059b4175afc341c18",
+  "peakPcm": 23961,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

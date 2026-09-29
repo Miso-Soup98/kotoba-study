@@ -69,7 +69,7 @@ export function LessonDialog({
           <DialogTitle>{item?.title ?? "表达讲解"}</DialogTitle>
           <DialogDescription>
             {item?.kind === "grammar" ? "语法" : "词组"} ·
-            根据正文识别，结合完整句子判断用法
+            {item?.contextReviewed ? "已对照本段语境核对" : "根据正文识别，结合完整句子判断用法"}
           </DialogDescription>
         </DialogHeader>
         {selection && item && (

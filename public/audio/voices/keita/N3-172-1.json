@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-172",
+  "exampleIndex": 0,
+  "text": "この町が好きです。なぜなら、静かだからです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 206,
+  "signature": "9a870495d3c358a96e9dccdfe57b695145d7020377421d6607ff2eb3d32e790c",
+  "src": "/audio/voices/keita/N3-172-1.mp3",
+  "srt": "/audio/voices/keita/N3-172-1.srt",
+  "durationSeconds": 5.016,
+  "bytes": 30096,
+  "sha256": "d152a7495b324bef31bd722223b1d069c0daac7bf5fae322fd011a37b0c86f09",
+  "peakPcm": 25922,
+  "rmsDbfs": -21.65,
+  "rate": "+0%",
+  "listened": false
+}

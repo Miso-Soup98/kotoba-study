@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-178",
+  "exampleIndex": 1,
+  "text": "これは仮定です。すなわち、事実とは限りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 209,
+  "signature": "1d81fb4edc421399ee9abcd757b4dd93e000df05778d1584e527eb12d3678388",
+  "src": "/audio/voices/nanami/N3-178-2.mp3",
+  "srt": "/audio/voices/nanami/N3-178-2.srt",
+  "durationSeconds": 5.64,
+  "bytes": 33840,
+  "sha256": "24eaa3c961cd67a97efa1743074e6e8e79e6e3d3d1b69c4682f60c319d381158",
+  "peakPcm": 21297,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

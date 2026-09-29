@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-104",
+  "exampleIndex": 0,
+  "text": "早起きした甲斐がありました。美しい朝日が見られました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 266,
+  "signature": "85fad9e9900ecbd829a569798abfe48f7a844e2c75af206a765757f5f4ad765b",
+  "src": "/audio/voices/keita/N2-104-1.mp3",
+  "srt": "/audio/voices/keita/N2-104-1.srt",
+  "durationSeconds": 5.04,
+  "bytes": 30240,
+  "sha256": "a2127faf375400978aa80e83aa980a5b17375f599e8f08965497e3d28d4dacb9",
+  "peakPcm": 23240,
+  "rmsDbfs": -21.45,
+  "rate": "+0%",
+  "listened": false
+}

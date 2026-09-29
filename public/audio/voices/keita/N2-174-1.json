@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-174",
+  "exampleIndex": 0,
+  "text": "少なくとも三日は必要です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 301,
+  "signature": "a28da00353ba97e3666e6aa1200b909e454ceb43f1e278d1ae63333555ef9bc1",
+  "src": "/audio/voices/keita/N2-174-1.mp3",
+  "srt": "/audio/voices/keita/N2-174-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "7809d55e7cbf8879f11222327f6079dddc5012d0e55030dcdb83f5e7c2430381",
+  "peakPcm": 23121,
+  "rmsDbfs": -21.22,
+  "rate": "+0%",
+  "listened": false
+}

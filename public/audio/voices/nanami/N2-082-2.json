@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-082",
+  "exampleIndex": 1,
+  "text": "よいにつけ悪いにつけ、経験は役に立ちます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 255,
+  "signature": "a1521628728939c1bef1c37740b95bc210d6e301ed3999987ab9cc7f183bdb12",
+  "src": "/audio/voices/nanami/N2-082-2.mp3",
+  "srt": "/audio/voices/nanami/N2-082-2.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "a827e2129ad4fc49b99f1e9fecdc97a062089d268b4d2ca2f21f42222035004b",
+  "peakPcm": 23513,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

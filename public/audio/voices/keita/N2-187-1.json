@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-187",
+  "exampleIndex": 0,
+  "text": "宿題はとっくに終わっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 308,
+  "signature": "dbcb30d0d5f45e8fdf56533079ba24c622cd031c64a1edc9b3b568bef99314eb",
+  "src": "/audio/voices/keita/N2-187-1.mp3",
+  "srt": "/audio/voices/keita/N2-187-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "42244f60fdba5f8b7841b74c707e2a41cce2c6ba6812c57f27e9f989d85ab02f",
+  "peakPcm": 25293,
+  "rmsDbfs": -19.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-012",
+  "exampleIndex": 0,
+  "text": "できる限り手伝います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 219,
+  "signature": "ecdfc0f9d98a64b44ab98ff78fd51dc576278e2dedbcdac405bbeb3290112555",
+  "src": "/audio/voices/keita/N2-012-1.mp3",
+  "srt": "/audio/voices/keita/N2-012-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "eace998ef1e29d9df461e4cb42ecfb5aa0b9dc2b9c36614dae84a93d41a89a6a",
+  "peakPcm": 22283,
+  "rmsDbfs": -22.23,
+  "rate": "+0%",
+  "listened": false
+}

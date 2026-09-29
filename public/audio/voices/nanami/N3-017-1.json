@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-017",
+  "exampleIndex": 0,
+  "text": "日本人が皆、魚を好きなわけではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 129,
+  "signature": "5d6029988a30c18b1b9110c59815380f767f02186d5fd7b8757375ef434c2ca2",
+  "src": "/audio/voices/nanami/N3-017-1.mp3",
+  "srt": "/audio/voices/nanami/N3-017-1.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "76b92f11982664094a216491075d18ca93eb76e1de9c6ef84f93aaa51650581a",
+  "peakPcm": 20576,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

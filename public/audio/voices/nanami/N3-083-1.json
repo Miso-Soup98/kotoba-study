@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-083",
+  "exampleIndex": 0,
+  "text": "会議は東京において開かれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 162,
+  "signature": "df0efb59e9379882c7e960bf308d8cc9ab111a353423d7fd310e73e4e5df2722",
+  "src": "/audio/voices/nanami/N3-083-1.mp3",
+  "srt": "/audio/voices/nanami/N3-083-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "dbb732fe6613178937e0f476bdac174b8b65ddd84e7b7c80bb30c6d834561666",
+  "peakPcm": 21403,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

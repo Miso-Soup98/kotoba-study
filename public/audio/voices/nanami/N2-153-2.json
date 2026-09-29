@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-153",
+  "exampleIndex": 1,
+  "text": "この店は週末に混む傾向があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 290,
+  "signature": "08eadc8810ba0912f1849706129fbe964e48fd3ce8465f3d84f42687592ff12c",
+  "src": "/audio/voices/nanami/N2-153-2.mp3",
+  "srt": "/audio/voices/nanami/N2-153-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "fcc00b9af3e3efeb0b7526b4c89abfdf9d5ed4ff2f4054afe8fc03578a3b446e",
+  "peakPcm": 20988,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

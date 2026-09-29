@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-082",
+  "exampleIndex": 1,
+  "text": "心を込めて料理を作りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 161,
+  "signature": "3b5d17b50765829f1f949f8087d1b63290ab9c8d4b32b1bbd4bc467963291d93",
+  "src": "/audio/voices/nanami/N3-082-2.mp3",
+  "srt": "/audio/voices/nanami/N3-082-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "2f61a1eedd58d9bbd51141ce38316a40fe3d9cc1c0d51beb36b0e61b041858c8",
+  "peakPcm": 20366,
+  "rmsDbfs": -16.77,
+  "rate": "+0%",
+  "listened": false
+}

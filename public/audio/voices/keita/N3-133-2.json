@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-133",
+  "exampleIndex": 1,
+  "text": "どうして電車が止まったのでしょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 187,
+  "signature": "12d99c9c6c788ea54d8f7ecd92ddb2efb559d8c89f206dd623018a02da6297e8",
+  "src": "/audio/voices/keita/N3-133-2.mp3",
+  "srt": "/audio/voices/keita/N3-133-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "d3e89968c2f1cb3f91c62336e9cb704eb497c170bf0c4b563cd74adf779233a4",
+  "peakPcm": 21039,
+  "rmsDbfs": -21.23,
+  "rate": "+0%",
+  "listened": false
+}

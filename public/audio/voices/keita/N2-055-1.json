@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-055",
+  "exampleIndex": 0,
+  "text": "電気がついているところを見ると、まだ誰かいるようです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 241,
+  "signature": "c06d2f4d0e414055be16c56eb8789d72ecabe36e42d88c055bb4f0332c1c8a4b",
+  "src": "/audio/voices/keita/N2-055-1.mp3",
+  "srt": "/audio/voices/keita/N2-055-1.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "66251534e992141b733fb59c9a36e8248b2ba1df8e886c4614a3105a17a255b2",
+  "peakPcm": 25866,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-170",
+  "exampleIndex": 1,
+  "text": "結局、皆で歩いて帰りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 205,
+  "signature": "a3720df934c69829cd0fe4dfdb4141564dbd3a2213f3fd1c86766891a7f4495f",
+  "src": "/audio/voices/nanami/N3-170-2.mp3",
+  "srt": "/audio/voices/nanami/N3-170-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "3f2065198fd620a219a2ceaf9d8c0f843efa6d2ecd09cebab7e2af885211de01",
+  "peakPcm": 21420,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

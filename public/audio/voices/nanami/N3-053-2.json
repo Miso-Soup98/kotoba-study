@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-053",
+  "exampleIndex": 1,
+  "text": "冬にしては、今日は暖かいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 147,
+  "signature": "18bc6dcabe252a4967843807c457122063e65aa99c0a1423ac0af2455b096275",
+  "src": "/audio/voices/nanami/N3-053-2.mp3",
+  "srt": "/audio/voices/nanami/N3-053-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "100128eef156e754504d2834372ed42e76f4f819b9c7f6a0e43be91a6781e06a",
+  "peakPcm": 21099,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

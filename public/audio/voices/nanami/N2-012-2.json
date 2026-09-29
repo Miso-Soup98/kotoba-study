@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-012",
+  "exampleIndex": 1,
+  "text": "声の限り叫びました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 219,
+  "signature": "29379499b53f2c1b6b1ecde230e034923e76452b1824ac56314cfcdfed73071f",
+  "src": "/audio/voices/nanami/N2-012-2.mp3",
+  "srt": "/audio/voices/nanami/N2-012-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "bd882ef49fd754189dcab70c0e3b7e24c6525116cb3c69bf2401ba7bbb014e7b",
+  "peakPcm": 21682,
+  "rmsDbfs": -18.23,
+  "rate": "+0%",
+  "listened": false
+}

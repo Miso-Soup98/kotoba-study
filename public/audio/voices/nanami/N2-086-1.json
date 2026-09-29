@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-086",
+  "exampleIndex": 0,
+  "text": "足跡からすると、大きな動物のようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 257,
+  "signature": "535091253dad059f927875cd2299a8bcb6d57eb5948a3f893b410532861f7d64",
+  "src": "/audio/voices/nanami/N2-086-1.mp3",
+  "srt": "/audio/voices/nanami/N2-086-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "1b91e49a818827d78a1deb4d8d521654d8f2d1212df69514817c84c3edbba9fd",
+  "peakPcm": 21559,
+  "rmsDbfs": -17.12,
+  "rate": "+0%",
+  "listened": false
+}

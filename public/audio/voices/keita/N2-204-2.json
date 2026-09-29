@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-204",
+  "exampleIndex": 1,
+  "text": "これ以外に、方法はありますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 316,
+  "signature": "49a55177e0f2e6f2ad750269fa3e014366fa96c54fd64c2f9563bba0bf48179f",
+  "src": "/audio/voices/keita/N2-204-2.mp3",
+  "srt": "/audio/voices/keita/N2-204-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "6bd7fdcd23b8e67578af9fe2bba80bf0f4fda3fe5437af77546dc3533c6f69e6",
+  "peakPcm": 23859,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

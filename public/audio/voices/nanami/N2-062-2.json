@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-062",
+  "exampleIndex": 1,
+  "text": "苦労の末に、店を開きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 244,
+  "signature": "3db9e7b96ca1246dc263c39e9cf884538cce43aef0fe6f96d54bda835e956305",
+  "src": "/audio/voices/nanami/N2-062-2.mp3",
+  "srt": "/audio/voices/nanami/N2-062-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "5b39938c7d15e7f6b340b606101cb4c1a9102a0a9fb141ed85a17290732ad0d6",
+  "peakPcm": 20020,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

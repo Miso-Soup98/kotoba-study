@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-197",
+  "exampleIndex": 0,
+  "text": "時間がないんですね。それなら、明日にしましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 313,
+  "signature": "72014cf3c0dc50fc89474ab1f65b91efdceae0a2a090f2d600c9d6334a8d5167",
+  "src": "/audio/voices/nanami/N2-197-1.mp3",
+  "srt": "/audio/voices/nanami/N2-197-1.srt",
+  "durationSeconds": 5.376,
+  "bytes": 32256,
+  "sha256": "32813b159d8435835e96fea4cbc388ef525c85ac1b8d7882fabd7c2a9e1d0792",
+  "peakPcm": 21747,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

@@ -38,10 +38,13 @@ import {
 import type { useStudy } from "@/lib/study/use-study";
 import { makeTedWord } from "@/lib/ted/word";
 import { TedPlayer } from "./ted-player";
+import { ListeningCardDialog } from "./listening-card";
+import { visibleParagraph } from "@/lib/ted/paragraph";
+import { articleMatches, reviewedMatches } from "@/lib/ted/context-lessons";
+import type { TedLoop } from "@/lib/ted/types";
 import { LessonDialog, LessonText } from "./ted-lessons";
 import {
   lessonWord,
-  matchLessons,
   type LessonPattern,
   type LessonMatch,
 } from "@/lib/ted/lessons";
@@ -65,6 +68,7 @@ export function TedStudy({
   const [patterns, setPatterns] = useState<LessonPattern[]>([]),
     [patternError, setPatternError] = useState(false);
   const [layer, setLayer] = useState("word");
+  const [listeningTarget, setListeningTarget] = useState<{ id: string; loop: TedLoop } | null>(null);
   const [selectedLesson, setSelectedLesson] = useState<{
     match: LessonMatch;
     paragraph: TedParagraph;
@@ -127,6 +131,7 @@ export function TedStudy({
     let cancelled = false;
     const request = new AbortController();
     setArticle(null);
+    setListeningTarget(null);
     setSelectedLesson(null);
     setSelectedWord(null);
     setDesktopOpen(false);
@@ -188,8 +193,8 @@ export function TedStudy({
         (article?.paragraphs ?? []).map((paragraph) => [
           paragraph.id,
           {
-            phrase: matchLessons(paragraph.japanese, patterns, "phrase"),
-            grammar: matchLessons(paragraph.japanese, patterns, "grammar"),
+            phrase: article ? articleMatches(article, paragraph, patterns, "phrase") : [],
+            grammar: article ? articleMatches(article, paragraph, patterns, "grammar") : [],
           },
         ]),
       ),
@@ -209,9 +214,11 @@ export function TedStudy({
         selectedLesson.paragraph,
         selectedLesson.match,
       );
-      await study.append("ted_word", word.id, JSON.stringify(word));
-      await study.append("bookmark", word.id, true);
-      await study.append("enroll", word.id, true);
+      await study.appendBatch([
+        { kind: "ted_word", entity: word.id, value: JSON.stringify(word) },
+        { kind: "bookmark", entity: word.id, value: true },
+        { kind: "enroll", entity: word.id, value: true },
+      ]);
       toast.success("已加入生词本与复习，记录会自动同步");
     } catch {
       toast.error("表达未能完整保存，请重试");
@@ -557,6 +564,10 @@ export function TedStudy({
             <p role="alert">词组和语法讲解未能加载，请重新打开 TED 页面。</p>
           )}
           <TedCorrections article={article} />
+          {article.review && <div className="context-lesson"><strong>本篇正文与译义已对照原图复核 · {article.review.reviewedAt}</strong>
+            <p>语境讲解优先于自动匹配提示。读音仍需结合原音核对。</p>
+            {!!article.review.remainingIssues.length && <details><summary>仍需留意的原文问题</summary>
+              {article.review.remainingIssues.map((issue, i) => <p key={i}>{issue}</p>)}</details>}</div>}
           <details className="ted-source-notes">
             <summary>扫描识别与资料核对</summary>
             <p>
@@ -569,7 +580,7 @@ export function TedStudy({
           <Popover open={desktopOpen} onOpenChange={setDesktopOpen}>
             <PopoverAnchor virtualRef={anchor} />
             <div className="ted-paragraphs">
-              {article.paragraphs.map((paragraph, index) =>
+              {article.paragraphs.filter(p => !p.displayHidden).map((paragraph, index) =>
                 !paragraph.japanese && !showChinese ? null : (
                   <section
                     className={`panel ted-paragraph ${activeParagraph === paragraph.id ? "listening" : ""} ${paragraphId === paragraph.id ? "selected" : ""}`}
@@ -683,6 +694,11 @@ export function TedStudy({
                           "本段中文尚未可靠识别，请查看原PDF。"}
                       </p>
                     )}
+                    {!!reviewedMatches(article, paragraph).length && <div className="context-lesson">
+                      <strong>这段里的表达</strong><div className="button-row">
+                        {reviewedMatches(article, paragraph).map(match => <button className="text-button" key={match.lesson.id}
+                          onClick={() => setSelectedLesson({ match, paragraph })}>{match.lesson.title} · 语境讲解</button>)}
+                      </div></div>}
                   </section>
                 ),
               )}
@@ -727,7 +743,7 @@ export function TedStudy({
           {!!article.glossary.length && (
             <section className="panel ted-original-glossary">
               <h2>原文词汇与用法</h2>
-              {article.glossary.map((g, index) => (
+              {article.glossary.filter(g => !g.displayHidden).map((g, index) => (
                 <details key={index}>
                   <summary>
                     <span lang="ja">{g.term}</span> <small>{g.reading}</small>
@@ -766,7 +782,11 @@ export function TedStudy({
               progress={study.model.tedProgress[article.id] ?? 0}
               loops={study.model.tedLoops}
               paragraphId={paragraphId}
-              onActive={setActiveParagraph}
+              onActive={id => setActiveParagraph(visibleParagraph(article, id)?.id)}
+              onListeningCard={(id, loop) => {
+                window.dispatchEvent(new Event("kotoba:stop-ted"));
+                setListeningTarget({ id, loop });
+              }}
               onStart={onStartAudio}
               onSave={(id, loop) =>
                 study.append(
@@ -787,6 +807,8 @@ export function TedStudy({
           )}
         </aside>
       </div>
+      {listeningTarget && <ListeningCardDialog key={listeningTarget.id} target={listeningTarget}
+        article={article} study={study} onClose={() => setListeningTarget(null)} />}
       <Dialog open={mobileOpen} onOpenChange={setMobileOpen}>
         <DialogContent className="ted-word-dialog">
           <DialogHeader>

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-180",
+  "exampleIndex": 0,
+  "text": "昨日は、ろくに寝ていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 304,
+  "signature": "c58cfea95beb7019738e2f2a736f5329e775d08c75d379e27d00d85100ab868c",
+  "src": "/audio/voices/nanami/N2-180-1.mp3",
+  "srt": "/audio/voices/nanami/N2-180-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "77e885e08a05d1ff73c3c2362ba8b9a491036fd192bb1de305466cc6f124bfe1",
+  "peakPcm": 19759,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-212",
+  "exampleIndex": 0,
+  "text": "一旦家に帰ってから、出直します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 320,
+  "signature": "6dc3cbce5f1dfca1e8d86e12a8217197465562fb60960d2f87bd756d96329930",
+  "src": "/audio/voices/keita/N2-212-1.mp3",
+  "srt": "/audio/voices/keita/N2-212-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "8dd1d064d23aecaadce28a2ad28181e9b5447d4d44f715e024e1f4005a662732",
+  "peakPcm": 26134,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

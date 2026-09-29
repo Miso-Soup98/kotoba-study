@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-020",
+  "exampleIndex": 0,
+  "text": "高い物が必ずしもよいとは限りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 130,
+  "signature": "9772e0411caaf6bb410f7901135e0e6e16672e6ee4b63ec54e41d1e6ec95e21e",
+  "src": "/audio/voices/nanami/N3-020-1.mp3",
+  "srt": "/audio/voices/nanami/N3-020-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "1925f5df6786c66809d2a243f2d7f193f1d743b53f64a3964bb19d0bddf3058d",
+  "peakPcm": 21638,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

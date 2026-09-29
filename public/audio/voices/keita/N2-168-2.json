@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-168",
+  "exampleIndex": 1,
+  "text": "説明を足したら、かえって分かりにくくなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 298,
+  "signature": "b6832d99663fc61640dd221b5b4edd72ae0cf91239dc0d0c6b4806f8343d50b8",
+  "src": "/audio/voices/keita/N2-168-2.mp3",
+  "srt": "/audio/voices/keita/N2-168-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "0400df3f0ef900eeed0ebb23e92cfdc40b8de090f6584b1270387e94f280b055",
+  "peakPcm": 25054,
+  "rmsDbfs": -20.77,
+  "rate": "+0%",
+  "listened": false
+}

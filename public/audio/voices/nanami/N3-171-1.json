@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-171",
+  "exampleIndex": 0,
+  "text": "確かに、この方法は便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 206,
+  "signature": "639a376f779f9e7025c844f6287615c413fcb9fa0950e00caf1356ecec98b83e",
+  "src": "/audio/voices/nanami/N3-171-1.mp3",
+  "srt": "/audio/voices/nanami/N3-171-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "dd7231a5cba4961119754d8a17b66de3b98623cb40d3d8883466e956d0d25b7b",
+  "peakPcm": 19275,
+  "rmsDbfs": -17.11,
+  "rate": "+0%",
+  "listened": false
+}

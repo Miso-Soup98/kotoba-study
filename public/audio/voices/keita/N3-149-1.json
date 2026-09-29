@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-149",
+  "exampleIndex": 0,
+  "text": "わざわざ来てくださって、ありがとうございます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 195,
+  "signature": "a402fa129abd0b5d0f77186224a98356e9c96924ebe73b9f75921fecaa5e068d",
+  "src": "/audio/voices/keita/N3-149-1.mp3",
+  "srt": "/audio/voices/keita/N3-149-1.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "9b907dac966a1da4eb86fb198f0c28a354ae58fa6d8fab4e739d19386a34305a",
+  "peakPcm": 24077,
+  "rmsDbfs": -21.39,
+  "rate": "+0%",
+  "listened": false
+}

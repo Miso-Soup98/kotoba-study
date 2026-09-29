@@ -6,7 +6,8 @@ export const practiceSchema = z
     correct: z.boolean(),
     category: z.enum(["grammar", "vocabulary", "reading", "listening"]),
     elapsedSeconds: z.number().int().min(0).max(3600),
-    mode: z.enum(["practice", "timed", "mistakes"]),
+    mode: z.enum(["practice", "timed", "mistakes", "diagnostic", "checkpoint"]),
+    sessionId: z.string().uuid().optional(),
   })
   .strict();
 export function parsedPractice(value: unknown) {

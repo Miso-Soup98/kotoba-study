@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-160",
+  "exampleIndex": 1,
+  "text": "もしかすると、彼はもう帰ったのかもしれません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 200,
+  "signature": "4a66aba0ae849adef82aa2ea04caa3b8ff20c1ade091a55c0464b841f3d6fa53",
+  "src": "/audio/voices/keita/N3-160-2.mp3",
+  "srt": "/audio/voices/keita/N3-160-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "f44d81b8113c6dc6287be3e8afe26f76ac92102ba1fd054265418c3644ea7bf6",
+  "peakPcm": 23126,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

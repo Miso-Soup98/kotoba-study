@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-180",
+  "exampleIndex": 0,
+  "text": "昨日は、ろくに寝ていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 304,
+  "signature": "49ea4ca516dbd601b28c397b82b9d658241ec0c94553c88dadc6b616c981f278",
+  "src": "/audio/voices/keita/N2-180-1.mp3",
+  "srt": "/audio/voices/keita/N2-180-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "c7724098c99a29151b01fd27dbea5f60ec90ff223f58ab82ed0a9db7f6223927",
+  "peakPcm": 23032,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-160",
+  "exampleIndex": 0,
+  "text": "帰りがけに、本を返しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 294,
+  "signature": "37b1f810d043d151e57602b6c6fa265c3eccc303de90ae0ac0dd6ad65befb24e",
+  "src": "/audio/voices/keita/N2-160-1.mp3",
+  "srt": "/audio/voices/keita/N2-160-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "9f4d12c0f3eec9994460a561cc2d4af2c40f9acac29f4c26e67b3b90259b452c",
+  "peakPcm": 24824,
+  "rmsDbfs": -20.7,
+  "rate": "+0%",
+  "listened": false
+}

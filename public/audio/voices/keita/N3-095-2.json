@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-095",
+  "exampleIndex": 1,
+  "text": "明日は晴れるといいですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 168,
+  "signature": "c1737f6c84295ba18a12cd10cf65632986f4341522fec032bd9819a1a76a530e",
+  "src": "/audio/voices/keita/N3-095-2.mp3",
+  "srt": "/audio/voices/keita/N3-095-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "7719cb2d4c4e1eff1ffb081e28eb992d2948cc6105b9ad0c11bc22bdbe832cce",
+  "peakPcm": 23465,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

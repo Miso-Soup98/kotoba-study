@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-020",
+  "exampleIndex": 1,
+  "text": "会社の信用にかかわるので、慎重に対応します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 223,
+  "signature": "4bfa9016396759f84313db6397156a3ec071293eb29ec7b2b1a9172e12ce1f0f",
+  "src": "/audio/voices/nanami/N2-020-2.mp3",
+  "srt": "/audio/voices/nanami/N2-020-2.srt",
+  "durationSeconds": 4.8,
+  "bytes": 28800,
+  "sha256": "928cf06c37e1e72c92b69d15f010fd2dc51e46d02ffea7b8db22d57e974afbb2",
+  "peakPcm": 21507,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

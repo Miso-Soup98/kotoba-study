@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-218",
+  "exampleIndex": 0,
+  "text": "今は何より休むことが大切です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 323,
+  "signature": "7409a772779c6ae14577c1db440a192720e7c2b26def27ef2774dc5a5dd16dff",
+  "src": "/audio/voices/nanami/N2-218-1.mp3",
+  "srt": "/audio/voices/nanami/N2-218-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "04b21479ad32122a3d8ac23e148eef65104bc560a3978ea10564231b8e2ed18a",
+  "peakPcm": 20852,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

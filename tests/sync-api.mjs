@@ -22,3 +22,27 @@ const restored=await (await post({events:[],cursor:0})).json();
 assert.equal(restored.events.filter(row=>row.id===practice.id).length,1);
 assert.deepEqual(JSON.parse(restored.events.find(row=>row.id===practice.id).value),JSON.parse(practice.value));
 console.log('PASS: anonymous access, header spoofing, cross-origin writes, payload validation, retry idempotency, second-client pull, incremental cursor, removal tombstone, no-store headers, practice answer persistence and retry.');
+
+const sessionId=crypto.randomUUID(), cardId=`listen:${crypto.randomUUID()}`, began=Date.now();
+const learningEvents=[
+  {id:crypto.randomUUID(),kind:'training_session',entity:`session:${sessionId}`,at:began,
+   value:JSON.stringify({id:sessionId,mode:'diagnostic',contentVersion:'n2-2026-09-v05',questionIds:['n2-v05-d-grammar-01'],startedAt:began,deadline:0,category:'all'})},
+  {id:crypto.randomUUID(),kind:'practice',entity:'practice:n2-v05-d-grammar-01',at:began+1,
+   value:JSON.stringify({questionId:'n2-v05-d-grammar-01',sessionId,mode:'diagnostic',category:'grammar',choice:0,correct:true,elapsedSeconds:1})},
+  {id:crypto.randomUUID(),kind:'training_finish',entity:`session:${sessionId}`,at:began+2,value:'finished'},
+  {id:crypto.randomUUID(),kind:'listening_card',entity:cardId,at:began+3,
+   value:JSON.stringify({id:cardId,articleId:'ted-new-004',articleTitle:'接口测试',label:'测试片段',start:1,end:2,japanese:'聞きましょう。',chinese:'听一听吧。',sourceLoopId:`tedloop:${crypto.randomUUID()}`})},
+  {id:crypto.randomUUID(),kind:'enroll',entity:cardId,at:began+4,value:true},
+];
+const learnCursor=restored.cursor;
+assert.equal((await post({events:learningEvents,cursor:learnCursor})).status,200);
+assert.equal((await post({events:learningEvents,cursor:learnCursor})).status,200);
+const learned=await (await post({events:[],cursor:learnCursor})).json();
+for(const event of learningEvents){
+  const matches=learned.events.filter(row=>row.id===event.id);
+  assert.equal(matches.length,1);
+  assert.equal(matches[0].value,event.value);
+}
+const malformed={...learningEvents[3],id:crypto.randomUUID(),value:JSON.stringify({...JSON.parse(learningEvents[3].value),end:0})};
+assert.equal((await post({events:[malformed],cursor:learnCursor})).status,400);
+console.log('PASS: versioned training session, submitted answer, finish marker and listening-card enrollment persist across clients; retries deduplicate; invalid clip rejected.');

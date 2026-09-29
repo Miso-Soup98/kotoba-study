@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-066",
+  "exampleIndex": 1,
+  "text": "皆で一つの作品を作り上げました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 153,
+  "signature": "df7724d6d1c0e6d436a78e73f6b5b59b4468960bd59322595b7318e365aa034d",
+  "src": "/audio/voices/keita/N3-066-2.mp3",
+  "srt": "/audio/voices/keita/N3-066-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "79d11e7ac96c9ec802b92f1927d3c3a52e31e2fcf94d43a88e5720ce3249c0e7",
+  "peakPcm": 22433,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

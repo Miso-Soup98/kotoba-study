@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-011",
+  "exampleIndex": 0,
+  "text": "この絵は有名な画家によって描かれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 126,
+  "signature": "aeff356649b15813949619578ef72b1cf346bc791f42037cc5cb1085b7556113",
+  "src": "/audio/voices/keita/N3-011-1.mp3",
+  "srt": "/audio/voices/keita/N3-011-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "c4869165a0b046ea4a44c6a2bc026754b281503f38737a1207f0ca53cc9b514e",
+  "peakPcm": 19683,
+  "rmsDbfs": -20.03,
+  "rate": "+0%",
+  "listened": false
+}

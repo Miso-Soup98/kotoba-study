@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-118",
+  "exampleIndex": 1,
+  "text": "心配するあまり、何度も電話しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 179,
+  "signature": "01c128bc72b25cb58b8a7875fb01edef92c6ed47539530c401377cefaec7865f",
+  "src": "/audio/voices/keita/N3-118-2.mp3",
+  "srt": "/audio/voices/keita/N3-118-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "5107923efeaeafbc1fca694fe85236abe1a2ac893d4c4bb63b602a22697addcc",
+  "peakPcm": 23995,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

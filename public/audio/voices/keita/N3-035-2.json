@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-035",
+  "exampleIndex": 1,
+  "text": "係員の指示にしたがって、並んでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 138,
+  "signature": "4bd6e65e76c77ec3b79e15c17f182d621a403e7ba647db4e0cb7e383327a346a",
+  "src": "/audio/voices/keita/N3-035-2.mp3",
+  "srt": "/audio/voices/keita/N3-035-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "8d5ef451ac4aa016bec7c466f0a695554af1f086e3a434121c7f6ff1775f94f1",
+  "peakPcm": 24402,
+  "rmsDbfs": -21.3,
+  "rate": "+0%",
+  "listened": false
+}

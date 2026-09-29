@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-160",
+  "exampleIndex": 1,
+  "text": "出がけに電話が鳴りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 294,
+  "signature": "2289f9887ee9dd019c753c5b9e4b15fbc702dc7a16385745c22563879e116482",
+  "src": "/audio/voices/nanami/N2-160-2.mp3",
+  "srt": "/audio/voices/nanami/N2-160-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "0253c9c24d0c8c1f311ceb5f0bb64330a481fddba7e5e31c9175ae6751dc8507",
+  "peakPcm": 21792,
+  "rmsDbfs": -18.64,
+  "rate": "+0%",
+  "listened": false
+}

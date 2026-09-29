@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-121",
+  "exampleIndex": 1,
+  "text": "初めてなので、不安になるのももっともです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 274,
+  "signature": "7acc0cb355d9a5227e312ca41e06ed6800a1f04cfcf9ba20254b15698fbd721b",
+  "src": "/audio/voices/keita/N2-121-2.mp3",
+  "srt": "/audio/voices/keita/N2-121-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "76c54e95c4490a43413a5658ea13fa3e1780099e8720a04c5a4d907654eee6d2",
+  "peakPcm": 23241,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

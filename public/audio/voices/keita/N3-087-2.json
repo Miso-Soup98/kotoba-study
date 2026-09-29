@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-087",
+  "exampleIndex": 1,
+  "text": "留学生向けに説明会を開きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 164,
+  "signature": "eb6ec154783ccb73c45c428680fc5760a190ba6a5e0fb90355fe5e1cbb2712c8",
+  "src": "/audio/voices/keita/N3-087-2.mp3",
+  "srt": "/audio/voices/keita/N3-087-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "867ebcc2d0096bbd94373ec4f826669f7a34821157b75515cbab459dd6e1a9ed",
+  "peakPcm": 20693,
+  "rmsDbfs": -20.03,
+  "rate": "+0%",
+  "listened": false
+}

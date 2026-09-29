@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-043",
+  "exampleIndex": 0,
+  "text": "たとえ雨でも、試合は行います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 142,
+  "signature": "8cd77f2d8d357da99f3b305af445750ee734cb9756f7cc57b09ac0c16073471b",
+  "src": "/audio/voices/nanami/N3-043-1.mp3",
+  "srt": "/audio/voices/nanami/N3-043-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "5936fafa84c0084998f7400d5f99a242dda898d8c4ae5fed5abc312b75cd0e27",
+  "peakPcm": 21685,
+  "rmsDbfs": -17.15,
+  "rate": "+0%",
+  "listened": false
+}

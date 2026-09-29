@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-124",
+  "exampleIndex": 0,
+  "text": "子供のころ、この川で遊んだものです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 182,
+  "signature": "0e4363b0ba0d3feefdda373c4cd25bc502c5ea1a7bb43be86908affa6d146be5",
+  "src": "/audio/voices/nanami/N3-124-1.mp3",
+  "srt": "/audio/voices/nanami/N3-124-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "a9e2d117bde40936c60b0466d1f82e34b1d56163cedae7812333362caf696ac0",
+  "peakPcm": 21979,
+  "rmsDbfs": -16.95,
+  "rate": "+0%",
+  "listened": false
+}

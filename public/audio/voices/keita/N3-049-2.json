@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-049",
+  "exampleIndex": 1,
+  "text": "今日は眠くてしょうがないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 145,
+  "signature": "1115d1f3919b0999207c754a6c5cb667edeb25829405320f2dad201d10450b50",
+  "src": "/audio/voices/keita/N3-049-2.mp3",
+  "srt": "/audio/voices/keita/N3-049-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "ffbf550f95b26100b39d214db7279a128f178d117c4cc6bdd90cc8c66b0194cb",
+  "peakPcm": 20709,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

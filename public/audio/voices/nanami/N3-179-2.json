@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-179",
+  "exampleIndex": 1,
+  "text": "宿題に加えて、さらに作文も出ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 210,
+  "signature": "041223bb434ff6ba32cf3596e0e58143e76495dc2f912de91ae136e447d4961e",
+  "src": "/audio/voices/nanami/N3-179-2.mp3",
+  "srt": "/audio/voices/nanami/N3-179-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "b6ed12613daab079ea2f4f7be05519186c7edee116fde67cfb7eef4f638ec57a",
+  "peakPcm": 22184,
+  "rmsDbfs": -18.18,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-d-listening-04",
+  "exampleIndex": 0,
+  "text": "発表の準備を分担しましょう。写真を選ぶのは私がやります。田中さんは、集めた資料を日付の順に並べてもらえますか。説明文を書くのは、資料の順番が決まってから、二人でやりたいです。表紙のデザインはまだ考えなくていいです。まず内容が分かる形にしてから、見た目を整えましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "e36d01d34f10cd617785441797906c21d0a44ba4903f5eab70e96e02e1d05b3a",
+  "src": "/audio/training/n2-v05-d-listening-04.mp3",
+  "srt": "/audio/training/n2-v05-d-listening-04.srt",
+  "durationSeconds": 26.904,
+  "bytes": 161424,
+  "sha256": "21bed95b7ccefb368f9c01ff9fa9d31b00cc54bccac08d5406611643cd86bf74",
+  "peakPcm": 23165,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

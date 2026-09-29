@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-220",
+  "exampleIndex": 0,
+  "text": "何しろ初めてなので、時間がかかります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 324,
+  "signature": "e2da25c90287483df646ba16ac67c982028213f66abde93e3cbe2bd8d85368f3",
+  "src": "/audio/voices/nanami/N2-220-1.mp3",
+  "srt": "/audio/voices/nanami/N2-220-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "97062a820f062e40e62fd7906972e71125f48eb86b4c41a618f19198cbdfa589",
+  "peakPcm": 22516,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

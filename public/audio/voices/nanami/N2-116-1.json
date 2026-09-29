@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-116",
+  "exampleIndex": 0,
+  "text": "上達したいなら、毎日練習することです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 272,
+  "signature": "a823802d2f50d1b1398f67bd135b18881f2bc0efff585b3d291f0f0323d119fb",
+  "src": "/audio/voices/nanami/N2-116-1.mp3",
+  "srt": "/audio/voices/nanami/N2-116-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "8ebffabc0a89209df839bd5ae61033dffd83273febe8258a7e1a701a90cb926c",
+  "peakPcm": 21769,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

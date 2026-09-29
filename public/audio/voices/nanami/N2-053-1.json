@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-053",
+  "exampleIndex": 0,
+  "text": "もう少しで、電車に乗り遅れるところでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 240,
+  "signature": "f154b4988f4b48846deffe96082fd542ed00f6a084c461beb92603f1959131d0",
+  "src": "/audio/voices/nanami/N2-053-1.mp3",
+  "srt": "/audio/voices/nanami/N2-053-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "0e179f577249990e1e96c916b1feaf10883951e3b81ec8761aaa5b84d64b23ac",
+  "peakPcm": 21090,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

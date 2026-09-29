@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-057",
+  "exampleIndex": 0,
+  "text": "座るか座らないかのうちに、名前を呼ばれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 242,
+  "signature": "ecf1e44e323eb7055742051f20f7969289319ac45050930ffa321de0fafca79c",
+  "src": "/audio/voices/nanami/N2-057-1.mp3",
+  "srt": "/audio/voices/nanami/N2-057-1.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "c9022677b9ffecc3bbd1c9a77af2cbbe1ebc49d2be5d79abd61cdf914147e408",
+  "peakPcm": 21546,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

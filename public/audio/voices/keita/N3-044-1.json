@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-044",
+  "exampleIndex": 0,
+  "text": "この店は安いだけでなく、味もいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 142,
+  "signature": "a1c8009c3b93b7ba282d2498bffb625c60615a67b0c0e7d5bb6cda0628451b2d",
+  "src": "/audio/voices/keita/N3-044-1.mp3",
+  "srt": "/audio/voices/keita/N3-044-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "f5493c8fd494d3f9de651933638755cdbeabf943e12a4079ba85163b7eb81f54",
+  "peakPcm": 25031,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-048",
+  "exampleIndex": 1,
+  "text": "間違えたので、やり直すしかないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 144,
+  "signature": "650e34f55c694fffadaa65b67c60816f65d95f2ca397c0388d06fefc4a2e2264",
+  "src": "/audio/voices/keita/N3-048-2.mp3",
+  "srt": "/audio/voices/keita/N3-048-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "15c586d3e46ea3ff10a3002b1877efb7b886ea4643f008b87b0ddf6ad8f9154a",
+  "peakPcm": 22406,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

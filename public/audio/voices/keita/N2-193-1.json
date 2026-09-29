@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-193",
+  "exampleIndex": 0,
+  "text": "この部屋は広いです。しかも、家賃が安いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 311,
+  "signature": "375450669a56c0138a9330aa7449a8bef06405eed958ebbaf7373d9d90f451c7",
+  "src": "/audio/voices/keita/N2-193-1.mp3",
+  "srt": "/audio/voices/keita/N2-193-1.srt",
+  "durationSeconds": 5.184,
+  "bytes": 31104,
+  "sha256": "a7dae7fbfb76f93048e8ef9216fb8c91c0c12fd03950b65a99c2aeeea09e57dd",
+  "peakPcm": 26933,
+  "rmsDbfs": -21.25,
+  "rate": "+0%",
+  "listened": false
+}

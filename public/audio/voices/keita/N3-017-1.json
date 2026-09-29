@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-017",
+  "exampleIndex": 0,
+  "text": "日本人が皆、魚を好きなわけではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 129,
+  "signature": "50b5a4ff8c1879336d9b41d10859813dce05c74cb8647363bff26f8e2c415173",
+  "src": "/audio/voices/keita/N3-017-1.mp3",
+  "srt": "/audio/voices/keita/N3-017-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "be3fce16f3a9903891d1971b58d25cb6ff9573c28a47c2607ddfc5c159895e57",
+  "peakPcm": 22789,
+  "rmsDbfs": -20.45,
+  "rate": "+0%",
+  "listened": false
+}

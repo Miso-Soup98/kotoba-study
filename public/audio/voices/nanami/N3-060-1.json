@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-060",
+  "exampleIndex": 0,
+  "text": "この作文は間違いだらけです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 150,
+  "signature": "0c9b723b81dbc57b2f04088488eaa5c83488d3ca6ae16b6dec6c36b6390c8a26",
+  "src": "/audio/voices/nanami/N3-060-1.mp3",
+  "srt": "/audio/voices/nanami/N3-060-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "c936263f51b38395060182660f52ad72f54d507eba6db17262e5dd8ef9824f70",
+  "peakPcm": 20660,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-149",
+  "exampleIndex": 0,
+  "text": "春とはいえ、朝はまだ寒いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 288,
+  "signature": "1102cce69e14feb24ff28e7e39020a23eb1d8052f4a9d24be4de1aa5f7282a0f",
+  "src": "/audio/voices/nanami/N2-149-1.mp3",
+  "srt": "/audio/voices/nanami/N2-149-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "01405c1754f89da1f178e762e9e833ca455ca8640c0566c35edc98cc63cfcad8",
+  "peakPcm": 22135,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

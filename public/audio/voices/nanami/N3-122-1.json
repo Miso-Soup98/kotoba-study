@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-122",
+  "exampleIndex": 0,
+  "text": "昨日行くつもりでしたが、雨でやめました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 181,
+  "signature": "a845dd42c1e437cf45a3e7ee135aaab69ebcead7b4cacafeda74d94d72d7da8d",
+  "src": "/audio/voices/nanami/N3-122-1.mp3",
+  "srt": "/audio/voices/nanami/N3-122-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "5ddbe88d8653152e9409c805fc4a21391eb1d53b4517e41bb07b07bf5e37b4b9",
+  "peakPcm": 20756,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

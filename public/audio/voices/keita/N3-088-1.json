@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-088",
+  "exampleIndex": 0,
+  "text": "この教材は初心者向きです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 164,
+  "signature": "3044ac7ea98b624d363ba0c9a331749a3c7bbe7743e43ad8cea4f5baa321ac84",
+  "src": "/audio/voices/keita/N3-088-1.mp3",
+  "srt": "/audio/voices/keita/N3-088-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "c08937d6f8a2cca5d8072a93bf9086a4a3a8824d9b8ef60cc932a90d5e4983bc",
+  "peakPcm": 23366,
+  "rmsDbfs": -19.69,
+  "rate": "+0%",
+  "listened": false
+}

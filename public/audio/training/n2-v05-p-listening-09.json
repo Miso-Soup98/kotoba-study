@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-09",
+  "exampleIndex": 0,
+  "text": "見学会を欠席する場合は、前日の正午までにご連絡いただければ、参加費をお返しします。それを過ぎると、原則として返金できません。ただし、主催者の都合で見学会自体を中止する場合は、連絡の有無にかかわらず、全員に返金します。雨の場合も屋内で開催しますので、雨だけを理由に中止することはありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "f2b2959847f27f405f9fc1b31629945e722f0c63c3c9052afe921eb66f8d8b68",
+  "src": "/audio/training/n2-v05-p-listening-09.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-09.srt",
+  "durationSeconds": 28.416,
+  "bytes": 170496,
+  "sha256": "61de69218da38d45ef185c04489fbf20b47ae02d8deef00038f30959f1af00e3",
+  "peakPcm": 21457,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

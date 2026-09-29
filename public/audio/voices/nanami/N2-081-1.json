@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-081",
+  "exampleIndex": 0,
+  "text": "入学を契機に、一人暮らしを始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 254,
+  "signature": "b628735b2a51727c006b82b1ff085050d72da69933f1b2d072a9cbbe8844ab4d",
+  "src": "/audio/voices/nanami/N2-081-1.mp3",
+  "srt": "/audio/voices/nanami/N2-081-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "6baaa70978e3878bc20f76547064739db90266f00240d7ba3e01259637ff9eb7",
+  "peakPcm": 21398,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

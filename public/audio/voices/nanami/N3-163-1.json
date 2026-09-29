@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-163",
+  "exampleIndex": 0,
+  "text": "ふと昔の友達を思い出しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 202,
+  "signature": "32f372b721b8e2c8c08152c9871594c49b17b58c511209e37c79ac2223beafe0",
+  "src": "/audio/voices/nanami/N3-163-1.mp3",
+  "srt": "/audio/voices/nanami/N3-163-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "7a37b7e05abc3d8096ebf38b64a96e3fb07ed47635b8cf9cba76017589adfa88",
+  "peakPcm": 20310,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

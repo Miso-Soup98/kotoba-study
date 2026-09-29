@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-115",
+  "exampleIndex": 0,
+  "text": "ここで怒っても始まりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 178,
+  "signature": "2c47e1a112e7e067d10e483f254b558df0853d86537b18df2f11fa8f3c59ac4b",
+  "src": "/audio/voices/keita/N3-115-1.mp3",
+  "srt": "/audio/voices/keita/N3-115-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "b2fe9bf6307f608f8b993781666e22203ae2b33ce21abbddca844a6346e38e21",
+  "peakPcm": 22967,
+  "rmsDbfs": -19.8,
+  "rate": "+0%",
+  "listened": false
+}

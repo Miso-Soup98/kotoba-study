@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-161",
+  "exampleIndex": 0,
+  "text": "もしも道に迷ったら、電話してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 201,
+  "signature": "cbafd584f39557ad269e67ef4411d9a501d07c6821ddb2ef80455c94afea5af3",
+  "src": "/audio/voices/keita/N3-161-1.mp3",
+  "srt": "/audio/voices/keita/N3-161-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "31c65c51e4a38897e0be2910ca44cd40f0e91a337a6cfe337e3859609e03ae78",
+  "peakPcm": 20474,
+  "rmsDbfs": -21.16,
+  "rate": "+0%",
+  "listened": false
+}

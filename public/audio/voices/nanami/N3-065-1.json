@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-065",
+  "exampleIndex": 0,
+  "text": "困ったときは、助け合いましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 153,
+  "signature": "d1659364a0ab911d555c2405104d170ea8b9cd7b95d571e7a8410a5ceb4caae7",
+  "src": "/audio/voices/nanami/N3-065-1.mp3",
+  "srt": "/audio/voices/nanami/N3-065-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "80cd7fc7cfb458d076f6670be4d21b7d525e4defdf3dd49d24b57b2e301e9f9b",
+  "peakPcm": 23220,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

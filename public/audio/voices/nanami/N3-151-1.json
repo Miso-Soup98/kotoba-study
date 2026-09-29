@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-151",
+  "exampleIndex": 0,
+  "text": "なるべく早く返事をください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 196,
+  "signature": "3c5da8572736815d3cd30e317648aa76ee46db5f0067aae370cb5b192c243476",
+  "src": "/audio/voices/nanami/N3-151-1.mp3",
+  "srt": "/audio/voices/nanami/N3-151-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "27d56e93b8513426676cd3a7ef54962e11d16e0ade7631382eaac61368d19f7a",
+  "peakPcm": 20897,
+  "rmsDbfs": -18.25,
+  "rate": "+0%",
+  "listened": false
+}

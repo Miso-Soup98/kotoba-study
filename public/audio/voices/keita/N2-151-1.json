@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-151",
+  "exampleIndex": 0,
+  "text": "忙しくて、友達に会えずじまいでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 289,
+  "signature": "25d89c8a890397b8d2ba76088fb6d19fc49258f73787607b66361fbce8a27b24",
+  "src": "/audio/voices/keita/N2-151-1.mp3",
+  "srt": "/audio/voices/keita/N2-151-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "284f868e84c90a3310892db1c192f01c838f8d0a2691d1d25ef608f21b110958",
+  "peakPcm": 23087,
+  "rmsDbfs": -21.0,
+  "rate": "+0%",
+  "listened": false
+}

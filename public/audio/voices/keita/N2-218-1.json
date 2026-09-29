@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-218",
+  "exampleIndex": 0,
+  "text": "今は何より休むことが大切です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 323,
+  "signature": "978d9f2535238c9e9e8bbb852105bc287493ed2fc29dc88686a23f81f02d254b",
+  "src": "/audio/voices/keita/N2-218-1.mp3",
+  "srt": "/audio/voices/keita/N2-218-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "b52f4c871c811ac4581940f3a17f90d547b8fe13828365856553e19b64d85040",
+  "peakPcm": 23837,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

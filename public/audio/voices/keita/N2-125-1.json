@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-125",
+  "exampleIndex": 0,
+  "text": "約束は守らねばなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 276,
+  "signature": "770e870168924b7acbe8a60c62f4f66cfc57be830e9cab6a63d4be8541d1559e",
+  "src": "/audio/voices/keita/N2-125-1.mp3",
+  "srt": "/audio/voices/keita/N2-125-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "1ccd12ec098fca53c629d223439d55c709acc31446960de74f7acf3fe1c9db9d",
+  "peakPcm": 21762,
+  "rmsDbfs": -21.05,
+  "rate": "+0%",
+  "listened": false
+}

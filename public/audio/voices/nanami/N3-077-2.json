@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-077",
+  "exampleIndex": 1,
+  "text": "駅前から川にかけて、店が並んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 159,
+  "signature": "a03c374cca434a1a5e5b13ff33f272b6b0dcd21b0c9a98d9c78ae93c72a1202f",
+  "src": "/audio/voices/nanami/N3-077-2.mp3",
+  "srt": "/audio/voices/nanami/N3-077-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "73646d0fa452664a5cab1dc0450f9baf6302a2dd32b1c65f52f2eac65a31bfe6",
+  "peakPcm": 22494,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

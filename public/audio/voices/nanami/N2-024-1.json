@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-024",
+  "exampleIndex": 0,
+  "text": "成功は皆の努力の結果にほかなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 225,
+  "signature": "926b3080473fe0ecf9d77a6edef8f9ba1ab4c9e29a9b40341b32e8735a9c5ee4",
+  "src": "/audio/voices/nanami/N2-024-1.mp3",
+  "srt": "/audio/voices/nanami/N2-024-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "82cfbfb6589500c4d33da866f959d9d7cd6a9f565963939df9772f98e7858a83",
+  "peakPcm": 21846,
+  "rmsDbfs": -16.35,
+  "rate": "+0%",
+  "listened": false
+}

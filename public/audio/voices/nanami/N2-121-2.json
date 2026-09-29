@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-121",
+  "exampleIndex": 1,
+  "text": "初めてなので、不安になるのももっともです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 274,
+  "signature": "b0f9c5f07f8c67d889b706458bba080a323ec49729694f0bc19a4e82634d5a57",
+  "src": "/audio/voices/nanami/N2-121-2.mp3",
+  "srt": "/audio/voices/nanami/N2-121-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "25e0b8de2eb323dac363a94a423b3c54e87e39adb01443a4a6fe79c16fe3db11",
+  "peakPcm": 21708,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

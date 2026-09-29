@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-151",
+  "exampleIndex": 1,
+  "text": "買った本は読まずじまいでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 289,
+  "signature": "5c0572a96e7dfd4efddde097f3e7aeb03c8e10c6dc7de059d26918353d5f61c3",
+  "src": "/audio/voices/nanami/N2-151-2.mp3",
+  "srt": "/audio/voices/nanami/N2-151-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "3bfbfd42027381813212a50465fa43c6cfd2690f744352a016b728ec08b2526e",
+  "peakPcm": 21106,
+  "rmsDbfs": -18.73,
+  "rate": "+0%",
+  "listened": false
+}

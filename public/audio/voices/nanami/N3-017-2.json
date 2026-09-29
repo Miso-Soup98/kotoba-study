@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-017",
+  "exampleIndex": 1,
+  "text": "行きたくないわけではありません。時間がないんです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 129,
+  "signature": "f07b9362dcb77f2b7fb0661c0754e0b824f59fcfe12da04eed126aee77d92eca",
+  "src": "/audio/voices/nanami/N3-017-2.mp3",
+  "srt": "/audio/voices/nanami/N3-017-2.srt",
+  "durationSeconds": 5.112,
+  "bytes": 30672,
+  "sha256": "b1e73c9b4ffcfee6b47ea6b6ac121932d3adf90f73417b320419a498eeeffd2d",
+  "peakPcm": 21608,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

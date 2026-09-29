@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-140",
+  "exampleIndex": 1,
+  "text": "友達に、窓を閉めるように頼みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 190,
+  "signature": "f6534fc581f21b18ae0ad9c64613d19ae9487f91fec91b672b245860ac8cdf43",
+  "src": "/audio/voices/keita/N3-140-2.mp3",
+  "srt": "/audio/voices/keita/N3-140-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "cc5f4b686e0fcd3b633c833c65c1282c44ce72fda68960afe34cfde891cb75a6",
+  "peakPcm": 24043,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

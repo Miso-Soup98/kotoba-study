@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-056",
+  "exampleIndex": 0,
+  "text": "食べられないことはありませんが、あまり好きではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 148,
+  "signature": "30559e537b71ae766c5d8cc50e93ad84b56de8d81a90a4751f45a01c48dfb16c",
+  "src": "/audio/voices/keita/N3-056-1.mp3",
+  "srt": "/audio/voices/keita/N3-056-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "26463c958d912f4ae7f50771acc8564b79017239996bb711ed554d510f277abc",
+  "peakPcm": 23700,
+  "rmsDbfs": -20.09,
+  "rate": "+0%",
+  "listened": false
+}

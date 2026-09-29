@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-065",
+  "exampleIndex": 0,
+  "text": "困ったときは、助け合いましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 153,
+  "signature": "323be86df3b789856323e794429570456531260edb4aad16b9b8bc3bd5fe2b71",
+  "src": "/audio/voices/keita/N3-065-1.mp3",
+  "srt": "/audio/voices/keita/N3-065-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "2bef0414aa5054e33c32dcb0e56e4e591ece4f19df4a0290560346e45f1fd79d",
+  "peakPcm": 23950,
+  "rmsDbfs": -21.79,
+  "rate": "+0%",
+  "listened": false
+}

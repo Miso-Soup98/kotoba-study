@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-018",
+  "exampleIndex": 0,
+  "text": "会議は三時間にわたって続きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 222,
+  "signature": "988733803201cb7067a15a1cc132e28b1ecac830e3331e0f6f57abc0f0082971",
+  "src": "/audio/voices/keita/N2-018-1.mp3",
+  "srt": "/audio/voices/keita/N2-018-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "b4672149a51eea8b88a357ed90022c66f8cd4b6585e09c2e6a66c828ea4ce348",
+  "peakPcm": 20887,
+  "rmsDbfs": -21.4,
+  "rate": "+0%",
+  "listened": false
+}

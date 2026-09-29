@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-104",
+  "exampleIndex": 1,
+  "text": "誰かに呼ばれたような気がしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 172,
+  "signature": "28ec05265ac161ed21aa0903d10c34b35236d87d5a9ca02376a8744765ea4789",
+  "src": "/audio/voices/nanami/N3-104-2.mp3",
+  "srt": "/audio/voices/nanami/N3-104-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "fb8de7fe9c6b388f640ed4cf9b57c4d533c644c1c9cb2b4e7259c9c569fb2d8a",
+  "peakPcm": 23132,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

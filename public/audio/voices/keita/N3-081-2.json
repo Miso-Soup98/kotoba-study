@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-081",
+  "exampleIndex": 1,
+  "text": "一年を通して、この町は暖かいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 161,
+  "signature": "27beb70d5160a6665833793cb0e52999e8043022845251d8d83446a113aede3b",
+  "src": "/audio/voices/keita/N3-081-2.mp3",
+  "srt": "/audio/voices/keita/N3-081-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "df4602a5e82454fa111944d43831b64e16eef45745b9b3355fc87fa44559115d",
+  "peakPcm": 22299,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-117",
+  "exampleIndex": 1,
+  "text": "料理好きな姉のことだから、喜ぶはずです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 272,
+  "signature": "08dc54e71b4a052b9ac0fe2f8a966a530bb75f839e4b91c6076323cf0cae14ab",
+  "src": "/audio/voices/nanami/N2-117-2.mp3",
+  "srt": "/audio/voices/nanami/N2-117-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "476b3ffcd75a7da01731203aaa3cd0fef1a82207dc822456c6242c06133a2636",
+  "peakPcm": 21154,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

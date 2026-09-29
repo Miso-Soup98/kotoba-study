@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-031",
+  "exampleIndex": 1,
+  "text": "現場を見て初めて、状況を理解しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 136,
+  "signature": "90a56e045bbb7ba77513e8d381407a882c300bb2c4296e33d071431553d1865f",
+  "src": "/audio/voices/nanami/N3-031-2.mp3",
+  "srt": "/audio/voices/nanami/N3-031-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "4ba802db897793aab77a1588e083eac4864b95ea5e1fbfffcaad0f8bbfb0d458",
+  "peakPcm": 23143,
+  "rmsDbfs": -16.96,
+  "rate": "+0%",
+  "listened": false
+}

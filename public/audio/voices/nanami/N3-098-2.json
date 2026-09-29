@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-098",
+  "exampleIndex": 1,
+  "text": "彼は自分の間違いを認めようとしません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 169,
+  "signature": "a0cf6730433a282e534d2a93018b51174f182227e9555483aa1bc27aa47b60d9",
+  "src": "/audio/voices/nanami/N3-098-2.mp3",
+  "srt": "/audio/voices/nanami/N3-098-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "6b0afa3b5139979e3bc3ea27ade68ab37d47153c9a3d6574543ced50e542c8a9",
+  "peakPcm": 20542,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

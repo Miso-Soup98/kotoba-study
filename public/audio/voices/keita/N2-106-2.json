@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-106",
+  "exampleIndex": 1,
+  "text": "借りてでも、この本を読みたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 267,
+  "signature": "bec706c7c7c753ef93c8d2f6f897349bb450044c51dca571db8715624feaee33",
+  "src": "/audio/voices/keita/N2-106-2.mp3",
+  "srt": "/audio/voices/keita/N2-106-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "764bede94d310acbc8a69162a3db48854533aa153454f7a282e3d3e35883790f",
+  "peakPcm": 23105,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

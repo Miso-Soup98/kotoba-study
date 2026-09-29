@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-134",
+  "exampleIndex": 1,
+  "text": "約束したくせして、忘れたと言いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 281,
+  "signature": "28d91e76bc31a351408156cd2697b6e7ba4563abc12ff31b3d17caab19ed5119",
+  "src": "/audio/voices/keita/N2-134-2.mp3",
+  "srt": "/audio/voices/keita/N2-134-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "e00a55a674d346902e85ff54b2549c898a2a3d643adeb36c12258e3ad104eb3b",
+  "peakPcm": 23362,
+  "rmsDbfs": -22.1,
+  "rate": "+0%",
+  "listened": false
+}

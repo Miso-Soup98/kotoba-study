@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-013",
+  "exampleIndex": 0,
+  "text": "先生のおかげで、試験に合格しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 127,
+  "signature": "3d860f1671d49142356b72eb8383255b31b1b0fe894aeeaa961dbf81e6b6c4d1",
+  "src": "/audio/voices/nanami/N3-013-1.mp3",
+  "srt": "/audio/voices/nanami/N3-013-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "5d8450e6561495281dc8da89751066457f48e3709e0cb9d1b9286038d8b582a6",
+  "peakPcm": 21449,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

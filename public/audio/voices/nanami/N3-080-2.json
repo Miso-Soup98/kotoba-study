@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-080",
+  "exampleIndex": 1,
+  "text": "京都をはじめ、いろいろな町を訪ねました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 160,
+  "signature": "a8c2dff11dbc03c419054078d383d7eabbc4e3176833de94ae23dd9c7291f47d",
+  "src": "/audio/voices/nanami/N3-080-2.mp3",
+  "srt": "/audio/voices/nanami/N3-080-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "fe2b93a4bd08f15f75a991c88fb5da391773f95e61814f10569fc7ade67f6f80",
+  "peakPcm": 21803,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-105",
+  "exampleIndex": 1,
+  "text": "この石は宝石のように見えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 173,
+  "signature": "130c6edd11e187c3df584d7e8dc78cd4731e08295c54c4cb658c013e87925ce8",
+  "src": "/audio/voices/nanami/N3-105-2.mp3",
+  "srt": "/audio/voices/nanami/N3-105-2.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "d50b112a5a2eb54ad699ab574fd019dabbdda75283a1b4b2acce10195b35df01",
+  "peakPcm": 21112,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

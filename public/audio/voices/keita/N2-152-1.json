@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-152",
+  "exampleIndex": 0,
+  "text": "子供ならともかく、大人がそんなことをしてはいけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 290,
+  "signature": "6ae9be014b5b35d55b00189ccbb2f6e239e066cbf3ae03a75888e308b53bc49f",
+  "src": "/audio/voices/keita/N2-152-1.mp3",
+  "srt": "/audio/voices/keita/N2-152-1.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "c6f6468f185a01278212eeab3914025b7a36002c3d3ab89c23128bade82a0e27",
+  "peakPcm": 25432,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

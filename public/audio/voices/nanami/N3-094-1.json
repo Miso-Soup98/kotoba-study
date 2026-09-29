@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-094",
+  "exampleIndex": 0,
+  "text": "読んだことは読みましたが、よく覚えていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 167,
+  "signature": "89e59137cbba9835f4595248a4ef19eb025343d10747543e734c08fcb55d9473",
+  "src": "/audio/voices/nanami/N3-094-1.mp3",
+  "srt": "/audio/voices/nanami/N3-094-1.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "21971e58b6fb819ef4ce06017f948751b37dfbb058a14b0b1467234f2a0f17af",
+  "peakPcm": 22180,
+  "rmsDbfs": -17.01,
+  "rate": "+0%",
+  "listened": false
+}

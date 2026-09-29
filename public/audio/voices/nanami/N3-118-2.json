@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-118",
+  "exampleIndex": 1,
+  "text": "心配するあまり、何度も電話しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 179,
+  "signature": "3a8a7c140d2fc6b9563db02b83fcb0878108292bd89087e333ba318afa514d76",
+  "src": "/audio/voices/nanami/N3-118-2.mp3",
+  "srt": "/audio/voices/nanami/N3-118-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "3b6c445623b853aab81117bcdd0d3f8042e42c12bbe5bd9a916430c18af3bea8",
+  "peakPcm": 20512,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

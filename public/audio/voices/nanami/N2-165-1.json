@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-165",
+  "exampleIndex": 0,
+  "text": "どうやら電車が遅れているようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 297,
+  "signature": "5e2f690eaa1dbd32208be83234db181f8a17b99acbebfe32888663515d21be90",
+  "src": "/audio/voices/nanami/N2-165-1.mp3",
+  "srt": "/audio/voices/nanami/N2-165-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "8ea41cf576f7619a0a83ac7c3e20611ecfb7e78ae03eecbf0a874b1e041f8a18",
+  "peakPcm": 20742,
+  "rmsDbfs": -16.92,
+  "rate": "+0%",
+  "listened": false
+}

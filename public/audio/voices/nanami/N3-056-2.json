@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-056",
+  "exampleIndex": 1,
+  "text": "今日中にできないことはないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 148,
+  "signature": "e9e747fb0680f1f320a6b99b3eacfc347c73cf7eb467d13df0114260e0f8c6e7",
+  "src": "/audio/voices/nanami/N3-056-2.mp3",
+  "srt": "/audio/voices/nanami/N3-056-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "f2eb548f48c352c9584b736cc5dc808f8c369ca79da9f0ef24bd51ef34a88d81",
+  "peakPcm": 20059,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

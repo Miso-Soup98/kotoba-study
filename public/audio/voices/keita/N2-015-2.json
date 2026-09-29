@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-015",
+  "exampleIndex": 1,
+  "text": "皆の意見をもとに、計画を作ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 221,
+  "signature": "fbe62f3ebff30f21e6843e6dcec306dd6f3d509d5663724992316d689b5cd3df",
+  "src": "/audio/voices/keita/N2-015-2.mp3",
+  "srt": "/audio/voices/keita/N2-015-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "fde86165d40da8f19f8428c3bae7971ee4bf1d2ce242e937ef657359fba9f33b",
+  "peakPcm": 23569,
+  "rmsDbfs": -19.76,
+  "rate": "+0%",
+  "listened": false
+}

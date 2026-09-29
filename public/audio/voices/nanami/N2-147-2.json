@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-147",
+  "exampleIndex": 1,
+  "text": "学生に限り、この部屋を使えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 287,
+  "signature": "f0e9c313748f8a0d40ed7d25e04cc8ccd1576493ca6453fc2a72e4f7430fabca",
+  "src": "/audio/voices/nanami/N2-147-2.mp3",
+  "srt": "/audio/voices/nanami/N2-147-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "673afb4f5244220d763ad458141c2607dec62d2dbfc5be55acadb046e730ebe1",
+  "peakPcm": 21135,
+  "rmsDbfs": -18.03,
+  "rate": "+0%",
+  "listened": false
+}

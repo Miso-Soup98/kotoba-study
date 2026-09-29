@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-155",
+  "exampleIndex": 0,
+  "text": "別に怒っているわけではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 198,
+  "signature": "1b7d7617e84369eb441e1a8f8e24b5a97004cc95549a70f64a048448bfc69637",
+  "src": "/audio/voices/keita/N3-155-1.mp3",
+  "srt": "/audio/voices/keita/N3-155-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "cb47e3c27e6b8f02ec76e3fb70fb47cd378d3c1ed12dcfed61bc4a7c7c613e56",
+  "peakPcm": 23329,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

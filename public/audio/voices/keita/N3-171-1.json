@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-171",
+  "exampleIndex": 0,
+  "text": "確かに、この方法は便利です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 206,
+  "signature": "573ffa036660fe649bb5a4871677ac7598f4f80a9c9ae13a5e487b8e233059be",
+  "src": "/audio/voices/keita/N3-171-1.mp3",
+  "srt": "/audio/voices/keita/N3-171-1.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "d114b7d4674788a764ac50a2d9278f115232015cbb57e40d449890ed442c84a4",
+  "peakPcm": 23466,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

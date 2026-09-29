@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-129",
+  "exampleIndex": 0,
+  "text": "書いては消し、何度も直しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 278,
+  "signature": "bd69229b9b1f236eceff26d74e5321e84f36021b7f9b800651b489bb853a4831",
+  "src": "/audio/voices/keita/N2-129-1.mp3",
+  "srt": "/audio/voices/keita/N2-129-1.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "83eac6a3b4a87c4d36ecf14caf1e5ffef0e483e757274dcc2cca9fc5fe36d4dc",
+  "peakPcm": 25050,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

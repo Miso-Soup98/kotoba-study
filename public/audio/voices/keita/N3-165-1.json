@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-165",
+  "exampleIndex": 0,
+  "text": "一体何があったのですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 203,
+  "signature": "42d86787c0c8b1055d9978cbad04a386246a16a8d51676271c9123f6649ad4f8",
+  "src": "/audio/voices/keita/N3-165-1.mp3",
+  "srt": "/audio/voices/keita/N3-165-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "d75f03ca377e779d71f949a63f82eef8dd021cfa8e000419997279e79d7c1b8f",
+  "peakPcm": 24183,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

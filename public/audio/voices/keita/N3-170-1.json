@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-170",
+  "exampleIndex": 0,
+  "text": "いろいろ考えましたが、結局買いませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 205,
+  "signature": "a7f714fcf8a56760f4aa7ea5a5cefc807042cb63d6a00727126c0728de5ab5f1",
+  "src": "/audio/voices/keita/N3-170-1.mp3",
+  "srt": "/audio/voices/keita/N3-170-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "8ed3658112d19dde085f885468a4fc96cec22a9138e05ce56102a8a012bb2e60",
+  "peakPcm": 21957,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

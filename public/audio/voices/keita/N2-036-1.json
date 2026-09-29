@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-036",
+  "exampleIndex": 0,
+  "text": "大切だからこそ、厳しく言うのです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 231,
+  "signature": "528919d6b04b0c065fa2921a0ed588c9ed9230f2dfcb9708d06651901aec9bb2",
+  "src": "/audio/voices/keita/N2-036-1.mp3",
+  "srt": "/audio/voices/keita/N2-036-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "87f9ea053a4414ab1f68260f104c9a087c9cf58380395a011dc03528fe3d42a7",
+  "peakPcm": 23615,
+  "rmsDbfs": -22.44,
+  "rate": "+0%",
+  "listened": false
+}

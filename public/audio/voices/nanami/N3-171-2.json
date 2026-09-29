@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-171",
+  "exampleIndex": 1,
+  "text": "確かに安いですが、必要ではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 206,
+  "signature": "696a8a0e08aa4a1540cf624c4674920a727fed0304358e1d730ae06ad9275471",
+  "src": "/audio/voices/nanami/N3-171-2.mp3",
+  "srt": "/audio/voices/nanami/N3-171-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "28899d39bb5f52c5037b03dc3bfc468d938e2eb3dc936fc264a304f2ff8e57e9",
+  "peakPcm": 20452,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

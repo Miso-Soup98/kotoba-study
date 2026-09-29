@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-039",
+  "exampleIndex": 1,
+  "text": "初めてなものだから、やり方が分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 233,
+  "signature": "c281e0373738487b0c4703d7f555279c481c567cf4a5e680a2487028223d734a",
+  "src": "/audio/voices/nanami/N2-039-2.mp3",
+  "srt": "/audio/voices/nanami/N2-039-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "20201d4909fb48a00d89dc95f776b4a572413c44053a28476e9ff954a01132f7",
+  "peakPcm": 21544,
+  "rmsDbfs": -17.93,
+  "rate": "+0%",
+  "listened": false
+}

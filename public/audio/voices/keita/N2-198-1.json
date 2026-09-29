@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-198",
+  "exampleIndex": 0,
+  "text": "夏ですが、それにしても暑すぎます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 313,
+  "signature": "7f4407fd1999a08eebc78bcfef727287c762a4eddbe04faf1522b2060d2c4917",
+  "src": "/audio/voices/keita/N2-198-1.mp3",
+  "srt": "/audio/voices/keita/N2-198-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "9c6c2e79d9a64be25b1b7bc4d970a0471292a487bd427bc057f73f0aafd3d1d8",
+  "peakPcm": 25110,
+  "rmsDbfs": -21.61,
+  "rate": "+0%",
+  "listened": false
+}

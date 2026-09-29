@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-075",
+  "exampleIndex": 0,
+  "text": "迷っていては、間に合いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 251,
+  "signature": "1484a0c3cf87f6519d3b135c65d52d42865924b22d5bb580bbde829f57499a91",
+  "src": "/audio/voices/nanami/N2-075-1.mp3",
+  "srt": "/audio/voices/nanami/N2-075-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "1ba93244e519c97c425e6c2cb45b2e6468fd0bfaceb6ac3413da42ba6509aa26",
+  "peakPcm": 21140,
+  "rmsDbfs": -17.74,
+  "rate": "+0%",
+  "listened": false
+}

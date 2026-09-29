@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-120",
+  "exampleIndex": 1,
+  "text": "予定どおりに会議が始まりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 180,
+  "signature": "9d37d90de7bf2d4c82985fba6e7f35520b212f4bc3ff0fca967b9401a4c5ac2c",
+  "src": "/audio/voices/nanami/N3-120-2.mp3",
+  "srt": "/audio/voices/nanami/N3-120-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "403cd4895baac93cef24084ee00d3e8cb172d199fdd43ca67a935c25aeeaf95c",
+  "peakPcm": 20853,
+  "rmsDbfs": -17.28,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-117",
+  "exampleIndex": 0,
+  "text": "よく相談した結果、引っ越すことにしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 179,
+  "signature": "693d79292a3629fad3a8ab6e0e2ad280b5344a157e0797adf2a70ecf4828a5ef",
+  "src": "/audio/voices/keita/N3-117-1.mp3",
+  "srt": "/audio/voices/keita/N3-117-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "36a4c71661fa95851bb3bbea1df4c9b0eb1dea2060be9a302b83adfa6e6345cb",
+  "peakPcm": 24120,
+  "rmsDbfs": -21.84,
+  "rate": "+0%",
+  "listened": false
+}

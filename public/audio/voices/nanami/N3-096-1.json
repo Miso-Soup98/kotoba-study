@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-096",
+  "exampleIndex": 0,
+  "text": "もっと早く出ればよかったです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 168,
+  "signature": "040ffb0e67b9176746a88266a529ca89b7a9b59fd12d2f67912c31dcaed9c057",
+  "src": "/audio/voices/nanami/N3-096-1.mp3",
+  "srt": "/audio/voices/nanami/N3-096-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "3117320321c0be77749d4bd8010409598518db0cb860ce7693223a0468a720e4",
+  "peakPcm": 23118,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

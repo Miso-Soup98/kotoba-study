@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-178",
+  "exampleIndex": 1,
+  "text": "これは仮定です。すなわち、事実とは限りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 209,
+  "signature": "15bf12b9ac1362587d6d9d424ac62516d94a51b317edcd0d95e1582c8c6a721b",
+  "src": "/audio/voices/keita/N3-178-2.mp3",
+  "srt": "/audio/voices/keita/N3-178-2.srt",
+  "durationSeconds": 5.232,
+  "bytes": 31392,
+  "sha256": "9e2208079d6c043ad394c1662f61ddb8b88c75b8132a15af3886f00192856ddd",
+  "peakPcm": 24232,
+  "rmsDbfs": -21.72,
+  "rate": "+0%",
+  "listened": false
+}

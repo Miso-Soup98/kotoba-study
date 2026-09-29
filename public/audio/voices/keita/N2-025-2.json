@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-025",
+  "exampleIndex": 1,
+  "text": "彼の話は冗談に決まっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 226,
+  "signature": "339c08038a9902826c45072c8c4b167046edb3248ddf7fe4aa050a15a470fad6",
+  "src": "/audio/voices/keita/N2-025-2.mp3",
+  "srt": "/audio/voices/keita/N2-025-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "795875b61ebb91ae900da37c8b841fef35878c138d1d00a04f8493afef8939fa",
+  "peakPcm": 21990,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

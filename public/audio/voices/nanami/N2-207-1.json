@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-207",
+  "exampleIndex": 0,
+  "text": "これは、いわゆる自己紹介です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 318,
+  "signature": "a15138bccb15fa4df320ee7c553f38c9d64ffbf009f1e365555b79c3c26120f7",
+  "src": "/audio/voices/nanami/N2-207-1.mp3",
+  "srt": "/audio/voices/nanami/N2-207-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "e62f12e63d3f56afb87d9a2961d58b65abd270d54022e90a486a4e3faff6efcc",
+  "peakPcm": 21226,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

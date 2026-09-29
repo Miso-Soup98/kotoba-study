@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-163",
+  "exampleIndex": 1,
+  "text": "せっかくの休みなので、ゆっくりします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 296,
+  "signature": "de6d721f55c4f3959fd7e9cac563dbfed1196ec01d16af58dc585c94bf99a80f",
+  "src": "/audio/voices/nanami/N2-163-2.mp3",
+  "srt": "/audio/voices/nanami/N2-163-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "15e4bd48a3b63a87183d3a11880cb05f8548286724e0ffd574a435d1e3b8a868",
+  "peakPcm": 21290,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

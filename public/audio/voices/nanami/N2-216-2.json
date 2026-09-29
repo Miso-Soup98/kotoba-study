@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-216",
+  "exampleIndex": 1,
+  "text": "会場には百人強が集まりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 322,
+  "signature": "b83cc3b7a778eea8cd6d057e437f98558d86b885731eeea05fa28866ca8833a4",
+  "src": "/audio/voices/nanami/N2-216-2.mp3",
+  "srt": "/audio/voices/nanami/N2-216-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "1d71700d2e0156d2e5a71936ecd4b07422150e45cb3b5853bc89be48420e7352",
+  "peakPcm": 20908,
+  "rmsDbfs": -17.79,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-194",
+  "exampleIndex": 0,
+  "text": "熱があります。その上、頭も痛いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 311,
+  "signature": "f28522741178890ae0728a2de16a284f29f3c75b90f079d290b795b91383b766",
+  "src": "/audio/voices/nanami/N2-194-1.mp3",
+  "srt": "/audio/voices/nanami/N2-194-1.srt",
+  "durationSeconds": 5.16,
+  "bytes": 30960,
+  "sha256": "83ff3413fc95762b1157cf2b9f956548ab8176946b795fa1062dd58d56f2c263",
+  "peakPcm": 21929,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-056",
+  "exampleIndex": 1,
+  "text": "子供は帰ってきたかと思うと、すぐ外へ走っていきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 241,
+  "signature": "891b7dd232a7bec916448301c21f32f9d07b40ed4058f3e2ad9145e1e4d36ae6",
+  "src": "/audio/voices/keita/N2-056-2.mp3",
+  "srt": "/audio/voices/keita/N2-056-2.srt",
+  "durationSeconds": 4.8,
+  "bytes": 28800,
+  "sha256": "d4855378a6eef083466709302e6571a58b693ba423861f391b38b4147587e51e",
+  "peakPcm": 25639,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-062",
+  "exampleIndex": 1,
+  "text": "何か言いかけて、やめました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 151,
+  "signature": "bd7984a05a4cce4713ffcdc6b8663b624a40a3238eba608e5ad590fc61aafc9b",
+  "src": "/audio/voices/nanami/N3-062-2.mp3",
+  "srt": "/audio/voices/nanami/N3-062-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "8c09d68c2d419b7de30a82189abba7c17f4eca6f85ae83517d692634907f5d35",
+  "peakPcm": 21372,
+  "rmsDbfs": -18.65,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-100",
+  "exampleIndex": 1,
+  "text": "学生時代の思い出は忘れがたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 170,
+  "signature": "2bdb290f1e21f366bf85654e37b6d7e32ac4b466b68f234d93d14d878bdf6a25",
+  "src": "/audio/voices/keita/N3-100-2.mp3",
+  "srt": "/audio/voices/keita/N3-100-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "a27b7a646d84ee5fb7227d8f0116a5f9b02c97c607467e1a1f53d82b5d018759",
+  "peakPcm": 22473,
+  "rmsDbfs": -21.18,
+  "rate": "+0%",
+  "listened": false
+}

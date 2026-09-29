@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-132",
+  "exampleIndex": 0,
+  "text": "彼女は不安げな顔をしていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 280,
+  "signature": "b69692ded808e00afecd3d5b5fbc7fc7b8a5bae6816fc37b33469b310613c691",
+  "src": "/audio/voices/keita/N2-132-1.mp3",
+  "srt": "/audio/voices/keita/N2-132-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "1bc94da4ecfe612f894e4e2402f1c37c57f18972cd4cd9841888ffa51d68de5e",
+  "peakPcm": 19699,
+  "rmsDbfs": -20.17,
+  "rate": "+0%",
+  "listened": false
+}

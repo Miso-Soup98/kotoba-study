@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-069",
+  "exampleIndex": 0,
+  "text": "この仕事は楽しい反面、責任も重いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 248,
+  "signature": "fa08644a877e8a5355e783a71a177f382d90820297c4066d9d2b73a707ff26cd",
+  "src": "/audio/voices/nanami/N2-069-1.mp3",
+  "srt": "/audio/voices/nanami/N2-069-1.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "0eb4775cb1d0b12663f883170a79d35729c7bf535cbe7f31757bd11ea530cbb2",
+  "peakPcm": 22716,
+  "rmsDbfs": -17.17,
+  "rate": "+0%",
+  "listened": false
+}

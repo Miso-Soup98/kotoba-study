@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-112",
+  "exampleIndex": 1,
+  "text": "制度上、変更はできません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 270,
+  "signature": "bb2f26b95a4ec0f58eb5dbd0a3171d50ca168b39c7d9a5f80808fc6b65b6324e",
+  "src": "/audio/voices/nanami/N2-112-2.mp3",
+  "srt": "/audio/voices/nanami/N2-112-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "8deb102e09b814bd90f13ba1f679ee552e0cc134e0877e84a44a9c19b38b9dee",
+  "peakPcm": 20622,
+  "rmsDbfs": -17.07,
+  "rate": "+0%",
+  "listened": false
+}

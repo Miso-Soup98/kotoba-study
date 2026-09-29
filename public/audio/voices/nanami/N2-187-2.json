@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-187",
+  "exampleIndex": 1,
+  "text": "彼はとっくに帰りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 308,
+  "signature": "ffe53231bbc630faf12c231bc947a22552ee7ede0f6f99a3dde99553a4ed8024",
+  "src": "/audio/voices/nanami/N2-187-2.mp3",
+  "srt": "/audio/voices/nanami/N2-187-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "3f9017a216abc86193c6cd8c652db24e2b53d7c7a992d08ae21a2b4d1f70b350",
+  "peakPcm": 20824,
+  "rmsDbfs": -18.58,
+  "rate": "+0%",
+  "listened": false
+}

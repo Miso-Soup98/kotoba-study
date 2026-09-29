@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-115",
+  "exampleIndex": 0,
+  "text": "何も今日全部する必要はありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 271,
+  "signature": "086fa3222c89f70a32f713154b23d46219fd2f08c9f40d2ae979c728331cbb17",
+  "src": "/audio/voices/keita/N2-115-1.mp3",
+  "srt": "/audio/voices/keita/N2-115-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "308b4c73622831d238a658a551448850ac059d7c95def881ccb635fece6b44c3",
+  "peakPcm": 24955,
+  "rmsDbfs": -20.03,
+  "rate": "+0%",
+  "listened": false
+}

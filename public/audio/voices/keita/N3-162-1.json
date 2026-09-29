@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-162",
+  "exampleIndex": 0,
+  "text": "一人のほうが、むしろ集中できます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 201,
+  "signature": "e38fa9e5d95f88c4e0ba7d3efce941997038954de75ab3b36ebab8cc8b48fbee",
+  "src": "/audio/voices/keita/N3-162-1.mp3",
+  "srt": "/audio/voices/keita/N3-162-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "3a562d5df34eb8aca219900746f7c2ac6e4033cbc1e22d7a225ac111be4fe298",
+  "peakPcm": 21121,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

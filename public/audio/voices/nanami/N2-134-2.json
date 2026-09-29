@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-134",
+  "exampleIndex": 1,
+  "text": "約束したくせして、忘れたと言いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 281,
+  "signature": "cf924d318d439542b7afefc8ceaf6488b53717f08cb65d7e0cc5715306fccd76",
+  "src": "/audio/voices/nanami/N2-134-2.mp3",
+  "srt": "/audio/voices/nanami/N2-134-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "5fd9f8502ebcaa27dfad4565b2122260a1a8e553ccc856d26d727822ee32707a",
+  "peakPcm": 21454,
+  "rmsDbfs": -18.18,
+  "rate": "+0%",
+  "listened": false
+}

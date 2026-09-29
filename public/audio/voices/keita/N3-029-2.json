@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-029",
+  "exampleIndex": 1,
+  "text": "立ち上がったとたんに、めまいがしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 135,
+  "signature": "90a624818fea697d97acdb8167e944f525f3b8d2a3efa00d8d887eb3c2545082",
+  "src": "/audio/voices/keita/N3-029-2.mp3",
+  "srt": "/audio/voices/keita/N3-029-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "87fd100d631a3ad26c694203b498a10c51d603e1cd7d911453d6677171553d5c",
+  "peakPcm": 22237,
+  "rmsDbfs": -21.28,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-103",
+  "exampleIndex": 0,
+  "text": "その話を聞いて、笑わずにはいられませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 172,
+  "signature": "5be609c3b0e42a98c64ddf5f0ce8d4f72d3c2786b90224e4d74ee8ab24fcd1be",
+  "src": "/audio/voices/keita/N3-103-1.mp3",
+  "srt": "/audio/voices/keita/N3-103-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "47010d87e323dffb0e1976b72e406418081c78ff051b7f9c36288b7b74134a50",
+  "peakPcm": 25365,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

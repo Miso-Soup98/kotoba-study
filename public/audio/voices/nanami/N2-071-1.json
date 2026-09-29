@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-071",
+  "exampleIndex": 0,
+  "text": "家族のことが心配でなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 249,
+  "signature": "70bb5cbac3067fabd46f0d394531a9879d10893152fad65085bd13172bd4eaf9",
+  "src": "/audio/voices/nanami/N2-071-1.mp3",
+  "srt": "/audio/voices/nanami/N2-071-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "b731c80db6bc1b2ea491acba5a2769c34fce66199c7c35e6848c021c108ce9a6",
+  "peakPcm": 22187,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

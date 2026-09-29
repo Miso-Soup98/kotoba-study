@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-142",
+  "exampleIndex": 0,
+  "text": "本やら服やらで、部屋がいっぱいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 285,
+  "signature": "f578aa9ee024e2e0708bc03ba2bd5177911230f405e6725e72710c9b2d6bf607",
+  "src": "/audio/voices/nanami/N2-142-1.mp3",
+  "srt": "/audio/voices/nanami/N2-142-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "e76e17d64062167b3b6742f098eeff2727b14b620a11069f83608ff872dc1fc1",
+  "peakPcm": 21996,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

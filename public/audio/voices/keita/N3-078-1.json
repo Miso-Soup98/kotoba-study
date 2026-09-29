@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-078",
+  "exampleIndex": 0,
+  "text": "料理にかけては、姉にかないません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 159,
+  "signature": "74d60067f5c6a053e7d97184706bd97a47aab9f7b712fe5655886b31b4f1409e",
+  "src": "/audio/voices/keita/N3-078-1.mp3",
+  "srt": "/audio/voices/keita/N3-078-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "cf1b67ab3d4a462d7b2cc682e12ac170429b563ebebdc3f45c97104539b215b2",
+  "peakPcm": 21665,
+  "rmsDbfs": -21.07,
+  "rate": "+0%",
+  "listened": false
+}

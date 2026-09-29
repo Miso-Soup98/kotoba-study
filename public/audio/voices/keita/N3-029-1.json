@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-029",
+  "exampleIndex": 0,
+  "text": "外に出たとたん、雨が降り出しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 135,
+  "signature": "155a6c111b5a07bf3461e6a26eddb5b2b7d49c05600a5317a819d318f20cc212",
+  "src": "/audio/voices/keita/N3-029-1.mp3",
+  "srt": "/audio/voices/keita/N3-029-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "1f5e084ed69e121c4ee5e2512c7d0e44b6a813c9b20b4ed60e62c7f050535a51",
+  "peakPcm": 25022,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-182",
+  "exampleIndex": 1,
+  "text": "午後になって、気温が一気に下がりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 305,
+  "signature": "8f2f61df2dd195a8ec2ab5aebf925cd63cd892ea1c1b522293da4c6a1eaa8b12",
+  "src": "/audio/voices/nanami/N2-182-2.mp3",
+  "srt": "/audio/voices/nanami/N2-182-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "483323cc12b6578914f1d9095cffc087c36160dde3665cc691b01fd7e1ac5e8a",
+  "peakPcm": 22423,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

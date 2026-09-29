@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-182",
+  "exampleIndex": 0,
+  "text": "具体的な例を挙げてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 211,
+  "signature": "29c99483086376d0fc3e0c2e48f16f6bb39e100a4e47e4b75970d5246019fe7a",
+  "src": "/audio/voices/keita/N3-182-1.mp3",
+  "srt": "/audio/voices/keita/N3-182-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "abdeff6d6e532dae5f89fc52609263671085113c3689c45338f6fd1c83ac0425",
+  "peakPcm": 24488,
+  "rmsDbfs": -20.35,
+  "rate": "+0%",
+  "listened": false
+}

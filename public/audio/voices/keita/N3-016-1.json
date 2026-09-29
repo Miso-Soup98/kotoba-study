@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-016",
+  "exampleIndex": 0,
+  "text": "十年住んでいたのですか。日本語が上手なわけですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 128,
+  "signature": "ec78e067af6f5e2814b7f03ade67f6c8b2e52ab77f73a533ecc38c5745d8e88f",
+  "src": "/audio/voices/keita/N3-016-1.mp3",
+  "srt": "/audio/voices/keita/N3-016-1.srt",
+  "durationSeconds": 4.992,
+  "bytes": 29952,
+  "sha256": "e1884850060c106d206f74dcc2c9b7acaa278855f4660c2ec6ec41453fbb64ff",
+  "peakPcm": 23438,
+  "rmsDbfs": -19.58,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-111",
+  "exampleIndex": 0,
+  "text": "弟は遊んでばかりいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 176,
+  "signature": "a0cad7467b6549712b15bc0330b659c29b476fa9ead0078611fdeec181416871",
+  "src": "/audio/voices/keita/N3-111-1.mp3",
+  "srt": "/audio/voices/keita/N3-111-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "e951c5ed2e00e6b270b1ddfbd995f25c778923337463c2a945ff4c12da057eb9",
+  "peakPcm": 22052,
+  "rmsDbfs": -19.99,
+  "rate": "+0%",
+  "listened": false
+}

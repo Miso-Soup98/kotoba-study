@@ -37,6 +37,9 @@ export type EventKind =
   | "ted_loop"
   | "ted_word"
   | "ted_progress"
+  | "listening_card"
+  | "training_session"
+  | "training_finish"
   | "practice";
 export type StudyEvent = {
   id: string;

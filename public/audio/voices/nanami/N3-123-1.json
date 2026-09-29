@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-123",
+  "exampleIndex": 0,
+  "text": "旅行したつもりで、そのお金を貯めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 182,
+  "signature": "d959a9710a4b9597e5b2d784b4f840ecd5fa3820616cb8eb1d791ed929aeea45",
+  "src": "/audio/voices/nanami/N3-123-1.mp3",
+  "srt": "/audio/voices/nanami/N3-123-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "04f9b063d573f652b0ba59f56d764dabc8d010d070ae10d03facbb69ed11b0c2",
+  "peakPcm": 21424,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

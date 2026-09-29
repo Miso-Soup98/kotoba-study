@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-094",
+  "exampleIndex": 1,
+  "text": "この店は安いことは安いですが、少し遠いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 167,
+  "signature": "0e253124b4d4f45bce05ea856deee8f95a4516ae9745aafa5da3562a9a822547",
+  "src": "/audio/voices/keita/N3-094-2.mp3",
+  "srt": "/audio/voices/keita/N3-094-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "ac0f1a6c181b5aa024631bc7e261ab0721ba7a2697b208da9e4276c5bbffa756",
+  "peakPcm": 23180,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

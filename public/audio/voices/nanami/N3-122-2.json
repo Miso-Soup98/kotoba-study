@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-122",
+  "exampleIndex": 1,
+  "text": "送ったつもりでしたが、まだ送っていませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 181,
+  "signature": "68a80001091a16734f38df2be1135726c659bc49e6b4a620045499c9e29eb03b",
+  "src": "/audio/voices/nanami/N3-122-2.mp3",
+  "srt": "/audio/voices/nanami/N3-122-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "ebafa0e41b70d74fb963d37a6805d7d600769ea4a7535132bf85e9c66cc528a8",
+  "peakPcm": 20474,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-047",
+  "exampleIndex": 1,
+  "text": "無理をせずに、休んでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 144,
+  "signature": "3e86c150bc6c933a3ac965e974b629425d8b12e5d4e1823ce11a8928aaf9ab79",
+  "src": "/audio/voices/keita/N3-047-2.mp3",
+  "srt": "/audio/voices/keita/N3-047-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "c45389a5a6809c8cdbf0aa0393940e42bed8ba4c113760fc508c9e1c58864893",
+  "peakPcm": 21082,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

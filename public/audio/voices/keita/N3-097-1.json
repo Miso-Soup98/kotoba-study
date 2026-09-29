@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-097",
+  "exampleIndex": 0,
+  "text": "重い箱を持ち上げようとしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 169,
+  "signature": "6d746db594e6cd44fe2204c845e985de4c7ed2933c567047eced7108f79899e3",
+  "src": "/audio/voices/keita/N3-097-1.mp3",
+  "srt": "/audio/voices/keita/N3-097-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "54285ed6673ca76aadfd3adffc415fbc73d55b69603817b936d0ee4424312065",
+  "peakPcm": 23440,
+  "rmsDbfs": -19.79,
+  "rate": "+0%",
+  "listened": false
+}

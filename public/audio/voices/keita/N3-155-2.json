@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-155",
+  "exampleIndex": 1,
+  "text": "今日は別に予定はありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 198,
+  "signature": "f3af8986db0e76afc3f2ac5ea0896ec1e0635fd181ae563e2ba16ff4740c1445",
+  "src": "/audio/voices/keita/N3-155-2.mp3",
+  "srt": "/audio/voices/keita/N3-155-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "071e6a3d1f633e21ffa7b4bcee8db779f18872c023b32e7d317c86f2f8e8a79f",
+  "peakPcm": 20792,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

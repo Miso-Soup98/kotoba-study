@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-191",
+  "exampleIndex": 1,
+  "text": "問題は、なお残っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 310,
+  "signature": "876bd98a0d42b637d5be946d966fcf349cec3da28f350af3b009c66fcdd095c5",
+  "src": "/audio/voices/keita/N2-191-2.mp3",
+  "srt": "/audio/voices/keita/N2-191-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "3c97e143763f09c90ef096abf2f8f07d03de02573d92db1e88cda3e6674d0574",
+  "peakPcm": 26063,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

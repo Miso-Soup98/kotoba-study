@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-028",
+  "exampleIndex": 1,
+  "text": "料理をしている最中に、客が来ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 134,
+  "signature": "95d29cf5103ed352a6fb59cebc8e377356f6735428b73b5cc674e7b46eca27c8",
+  "src": "/audio/voices/keita/N3-028-2.mp3",
+  "srt": "/audio/voices/keita/N3-028-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "fbcb455041ee4931e1dcde46e37ccc65fef25f24d9b514658196a1305cbf0747",
+  "peakPcm": 22321,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

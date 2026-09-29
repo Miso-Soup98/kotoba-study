@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-018",
+  "exampleIndex": 1,
+  "text": "何も勉強しないで、分かるわけがない。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 129,
+  "signature": "f7496bb981fe2191bbe02e318744bcdc20babba59f19444c51f4c0b57f47fdd7",
+  "src": "/audio/voices/nanami/N3-018-2.mp3",
+  "srt": "/audio/voices/nanami/N3-018-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "d8f1f0e1bead5cfcf7424974deb0163a25e51b73d8426c11affd38a1932a7507",
+  "peakPcm": 22520,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

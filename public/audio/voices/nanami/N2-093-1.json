@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-093",
+  "exampleIndex": 0,
+  "text": "彼は謝ったばかりか、修理代まで払ってくれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 260,
+  "signature": "d1f31f61717c1c3db7b8c0ecfee2dcd8174b8d8cfe5da9efee0c7631889c83be",
+  "src": "/audio/voices/nanami/N2-093-1.mp3",
+  "srt": "/audio/voices/nanami/N2-093-1.srt",
+  "durationSeconds": 5.016,
+  "bytes": 30096,
+  "sha256": "cfc4da7070571341eac08c12e998ce3b931cdec7af94a44e9dd04cdb0cd9cfbb",
+  "peakPcm": 20217,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

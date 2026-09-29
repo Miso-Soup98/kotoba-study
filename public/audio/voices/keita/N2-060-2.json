@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-060",
+  "exampleIndex": 1,
+  "text": "この習慣は失われつつあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 243,
+  "signature": "e7b7f72a8ce64202022f7fd0b76ac435e63cfc0a7db3828910f78881e7db8cfe",
+  "src": "/audio/voices/keita/N2-060-2.mp3",
+  "srt": "/audio/voices/keita/N2-060-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "8217d870b8b14bab148cf01006e474913c93a8696f253fe74b3d60f0fab4cd82",
+  "peakPcm": 21787,
+  "rmsDbfs": -20.45,
+  "rate": "+0%",
+  "listened": false
+}

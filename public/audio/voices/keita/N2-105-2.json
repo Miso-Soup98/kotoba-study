@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-105",
+  "exampleIndex": 1,
+  "text": "考え抜いた末に、この方法を選びました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 266,
+  "signature": "eef9362e866f9b98d334c5d040b7efa70c20b362564e36cc4a321fc1e99c3e85",
+  "src": "/audio/voices/keita/N2-105-2.mp3",
+  "srt": "/audio/voices/keita/N2-105-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "ebc487e3a5c436d452659a4feb125baab3989ed7ba1868d794fa245a565e4f15",
+  "peakPcm": 21826,
+  "rmsDbfs": -19.77,
+  "rate": "+0%",
+  "listened": false
+}

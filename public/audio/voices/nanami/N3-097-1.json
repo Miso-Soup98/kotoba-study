@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-097",
+  "exampleIndex": 0,
+  "text": "重い箱を持ち上げようとしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 169,
+  "signature": "94257264bcdb32ef6b7162f6aafb4e6385230652ed98ecb25b55aad479b46887",
+  "src": "/audio/voices/nanami/N3-097-1.mp3",
+  "srt": "/audio/voices/nanami/N3-097-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "aad56dd7cd25ae098f87f048d2bdb92582843802e4363b6c1b452cbf358885b7",
+  "peakPcm": 21423,
+  "rmsDbfs": -17.57,
+  "rate": "+0%",
+  "listened": false
+}

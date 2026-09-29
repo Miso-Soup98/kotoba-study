@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-208",
+  "exampleIndex": 0,
+  "text": "万が一遅れる場合は、連絡してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 318,
+  "signature": "fa2300ea2e02de4e84e9a9d2029b55989e19919414c2092d358ec4f2b6cc2bab",
+  "src": "/audio/voices/nanami/N2-208-1.mp3",
+  "srt": "/audio/voices/nanami/N2-208-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "0b2072a55107662d64c7afc503fe9c961cd37f26eb775c9bed411e24967e1648",
+  "peakPcm": 22380,
+  "rmsDbfs": -16.97,
+  "rate": "+0%",
+  "listened": false
+}

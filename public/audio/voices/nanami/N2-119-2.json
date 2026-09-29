@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-119",
+  "exampleIndex": 1,
+  "text": "誰にも知られることなく、町を去りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 273,
+  "signature": "1fc9793000675cc58be28a7fb031ef1912093e57d6fa599ab2e130ac31bb6b60",
+  "src": "/audio/voices/nanami/N2-119-2.mp3",
+  "srt": "/audio/voices/nanami/N2-119-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "fd90c95b11439791d190242c7cceb4e96a9f9a295c65218a908b5bc9c436f4f4",
+  "peakPcm": 20218,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-179",
+  "exampleIndex": 1,
+  "text": "その意見には少しも賛成できません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 304,
+  "signature": "a56f8ff3bec01f3846e65368a6359c98f7c9d3bf9f9da57c85d3df85b77589f8",
+  "src": "/audio/voices/keita/N2-179-2.mp3",
+  "srt": "/audio/voices/keita/N2-179-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "924e3617578f4b2ecbe3b3273c5d6e4018ebf5194a2fc11922906ce55976f065",
+  "peakPcm": 21215,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

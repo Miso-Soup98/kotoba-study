@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-122",
+  "exampleIndex": 0,
+  "text": "同じ間違いは繰り返すまいと思いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 275,
+  "signature": "44c4f164c9abd37ac4303dfea3b268f3f1ec4f6969d571fc3de8d5a1bb2cd618",
+  "src": "/audio/voices/keita/N2-122-1.mp3",
+  "srt": "/audio/voices/keita/N2-122-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "e2f7d6c32ca6e0d28a7c6864f73d5181d52ee2d54dbb129e68d32e862b981ae9",
+  "peakPcm": 24885,
+  "rmsDbfs": -20.17,
+  "rate": "+0%",
+  "listened": false
+}

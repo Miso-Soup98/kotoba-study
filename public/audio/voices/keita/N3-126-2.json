@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-126",
+  "exampleIndex": 1,
+  "text": "何も対策をしなければ、状況は悪くなるばかりです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 183,
+  "signature": "175212e3dbd5b0dc23cd6d692dd39fbea531c3b1c6f622280460958d510a2f44",
+  "src": "/audio/voices/keita/N3-126-2.mp3",
+  "srt": "/audio/voices/keita/N3-126-2.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "2e4f603de384c659d1ca92ad01d32d9a95646d52bc1f5ef42f118f30c56f41e6",
+  "peakPcm": 24780,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

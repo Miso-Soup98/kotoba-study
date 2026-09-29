@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-165",
+  "exampleIndex": 1,
+  "text": "彼は一体どこへ行ったのでしょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 203,
+  "signature": "697636874f9ade8e40477d02d1ddec2be8502cc3d41c43bc3428686513d3431e",
+  "src": "/audio/voices/keita/N3-165-2.mp3",
+  "srt": "/audio/voices/keita/N3-165-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "408ddb4bb5f3cfc18b5724943bfbba5de0dc8658458230f2b4779d9458486256",
+  "peakPcm": 24437,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

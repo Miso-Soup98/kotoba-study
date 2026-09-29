@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-079",
+  "exampleIndex": 0,
+  "text": "駅を中心に町が広がっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 160,
+  "signature": "bfdf7e3167698e80aa4d646b0d95dfe7b2ce99b2582c4e50f2ebac7d28522011",
+  "src": "/audio/voices/keita/N3-079-1.mp3",
+  "srt": "/audio/voices/keita/N3-079-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "11ccf17aaadda3b412d7e8e421e91ec7b4ff897eb29b3c3b70f2685b38ce866f",
+  "peakPcm": 20672,
+  "rmsDbfs": -20.53,
+  "rate": "+0%",
+  "listened": false
+}

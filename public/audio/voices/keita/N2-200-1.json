@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-200",
+  "exampleIndex": 0,
+  "text": "右へ曲がってください。そうすると、駅が見えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 314,
+  "signature": "f18ca4b17c004f06e85983eaa71e3ff9a3ebeb52712a889f62dcfefdfa82a227",
+  "src": "/audio/voices/keita/N2-200-1.mp3",
+  "srt": "/audio/voices/keita/N2-200-1.srt",
+  "durationSeconds": 5.136,
+  "bytes": 30816,
+  "sha256": "7353eb1701e2cba148862155283fd34df2b5ea0c52808ba00cad9be9682b3637",
+  "peakPcm": 23994,
+  "rmsDbfs": -21.28,
+  "rate": "+0%",
+  "listened": false
+}

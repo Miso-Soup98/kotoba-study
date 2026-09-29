@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-028",
+  "exampleIndex": 1,
+  "text": "料理をしている最中に、客が来ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 134,
+  "signature": "514092cc8b7edc98c8988544cd2c9a8085e54348358f83310849925bdc6e743d",
+  "src": "/audio/voices/nanami/N3-028-2.mp3",
+  "srt": "/audio/voices/nanami/N3-028-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "08954979bd8c96b6c0658a18795afc754cd4e1f7b9c3df7346aa86d8c1d47ccf",
+  "peakPcm": 20624,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-145",
+  "exampleIndex": 1,
+  "text": "彼は少し疲れているのではないだろうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 193,
+  "signature": "2d52ef10c515db47f7af38d28a490c4bb1b2c49a7c7be21bd15d9e8031aec8d4",
+  "src": "/audio/voices/nanami/N3-145-2.mp3",
+  "srt": "/audio/voices/nanami/N3-145-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "10882cd1ef236df1a3946663eb85c221e00e3b641451ddd476bba98b257505f7",
+  "peakPcm": 20173,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

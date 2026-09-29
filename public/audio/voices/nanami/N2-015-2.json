@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-015",
+  "exampleIndex": 1,
+  "text": "皆の意見をもとに、計画を作ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 221,
+  "signature": "c244d89ac1d9a71db92a1b6e6dc75ad92912c8478f29313e4910376103fb25ca",
+  "src": "/audio/voices/nanami/N2-015-2.mp3",
+  "srt": "/audio/voices/nanami/N2-015-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "e6728750210bb8501c93e6d94e1620866b8919f6575fef49a4a8302535bf4932",
+  "peakPcm": 19797,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

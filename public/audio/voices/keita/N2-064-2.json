@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-064",
+  "exampleIndex": 1,
+  "text": "大切な仕事だけに、慎重に進めます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 245,
+  "signature": "944a759201052d8cc8d0daa3a60206ce26b9690fc5e2f1d534fd0251863638d6",
+  "src": "/audio/voices/keita/N2-064-2.mp3",
+  "srt": "/audio/voices/keita/N2-064-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "f075768cba8bf1030fc6e29275d791cdf63d2f8a9cfd55cefdbd3e70fc758e13",
+  "peakPcm": 23954,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-030",
+  "exampleIndex": 1,
+  "text": "雪のため、電車が遅れる恐れがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 228,
+  "signature": "123b63968c8c1594e17e5e49c5c9cf4180e3e0889978887c00a96d9100628a19",
+  "src": "/audio/voices/keita/N2-030-2.mp3",
+  "srt": "/audio/voices/keita/N2-030-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "8d200ce4ba7d12d00f37689b2e422feab247abce8b2f7588c6258d8b15b3f36c",
+  "peakPcm": 21874,
+  "rmsDbfs": -20.55,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-168",
+  "exampleIndex": 1,
+  "text": "しばらく彼に会っていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 204,
+  "signature": "5ca765f2bd2c90baa15a76e75e83417ff805c7b2550618c978e732cc8d5564c3",
+  "src": "/audio/voices/nanami/N3-168-2.mp3",
+  "srt": "/audio/voices/nanami/N3-168-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "503a5422c9e48d1c2cf14d2c509e84fae27f3346e8b36cddf300c84e40c5e872",
+  "peakPcm": 21998,
+  "rmsDbfs": -18.48,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-192",
+  "exampleIndex": 0,
+  "text": "参加は自由です。もっとも、予約は必要ですが。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 310,
+  "signature": "cfc998262f89a96c23bcb93167c4b8296c6b94600e21f9b971fdd707344232c5",
+  "src": "/audio/voices/nanami/N2-192-1.mp3",
+  "srt": "/audio/voices/nanami/N2-192-1.srt",
+  "durationSeconds": 5.64,
+  "bytes": 33840,
+  "sha256": "997b49d69309ebcf3b3e3c59a221625510126157f733c3d7e2740613580ffec5",
+  "peakPcm": 22558,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

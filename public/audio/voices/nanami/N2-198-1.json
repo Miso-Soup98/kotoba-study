@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-198",
+  "exampleIndex": 0,
+  "text": "夏ですが、それにしても暑すぎます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 313,
+  "signature": "21fee23a619365ada957cef50ed0140737baa420667c2b98837e81834c267d1f",
+  "src": "/audio/voices/nanami/N2-198-1.mp3",
+  "srt": "/audio/voices/nanami/N2-198-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "84f05f59bab34e2ef1b7175098d1369e9d31948824888d91a9275273b1ca64fa",
+  "peakPcm": 21575,
+  "rmsDbfs": -18.31,
+  "rate": "+0%",
+  "listened": false
+}

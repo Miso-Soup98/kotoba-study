@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-121",
+  "exampleIndex": 0,
+  "text": "約束を破ったのだから、怒って当然です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 274,
+  "signature": "86a6b0cb6d753bb50ed847a89a69d86a2bc7f7c086d55de9e6de368a614949dd",
+  "src": "/audio/voices/nanami/N2-121-1.mp3",
+  "srt": "/audio/voices/nanami/N2-121-1.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "af7450aeb8d3d4dd55dfff1ba2f3729d646eb8a6edc9757dfcc3cc864ae588c5",
+  "peakPcm": 21826,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

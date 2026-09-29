@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-053",
+  "exampleIndex": 1,
+  "text": "ちょうど電話するところでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 240,
+  "signature": "05262761bf1f3440a3efc0dae000d79a60eacc6c15d0f3296cf024c7330140a6",
+  "src": "/audio/voices/keita/N2-053-2.mp3",
+  "srt": "/audio/voices/keita/N2-053-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "1e21559221f7259878314f9fa6138ff6646d80a39a659dbb924518c01da40430",
+  "peakPcm": 23002,
+  "rmsDbfs": -19.92,
+  "rate": "+0%",
+  "listened": false
+}

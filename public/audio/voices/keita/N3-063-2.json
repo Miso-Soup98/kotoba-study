@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-063",
+  "exampleIndex": 1,
+  "text": "一人では食べ切れません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 152,
+  "signature": "0f0db7a214e1e48c0e84b75eaf881588bbaaca78ce128a996fc45f22ea969237",
+  "src": "/audio/voices/keita/N3-063-2.mp3",
+  "srt": "/audio/voices/keita/N3-063-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "50c6ccbfc02295b0a31346f86500aa1538bec1c02576d5688d200295c5c3437c",
+  "peakPcm": 22371,
+  "rmsDbfs": -21.01,
+  "rate": "+0%",
+  "listened": false
+}

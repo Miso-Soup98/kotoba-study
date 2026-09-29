@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-022",
+  "exampleIndex": 1,
+  "text": "忙しいことに加えて、体調もよくありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 224,
+  "signature": "26e2e5c5bf0a09bf65f74704f49d8145594c1b1dd0ba0f401869af3f86653bf6",
+  "src": "/audio/voices/keita/N2-022-2.mp3",
+  "srt": "/audio/voices/keita/N2-022-2.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "f681d5049662a4ccdb0c23026f12bc92ec062dd3c1f2cc9e86c6320bb3a5455d",
+  "peakPcm": 23085,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-135",
+  "exampleIndex": 0,
+  "text": "こんな量、一人では食べられっこありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 281,
+  "signature": "f80bff75baaeb2dbf0656f998b506425bd97d599d5bdca308737f04b8460b0e4",
+  "src": "/audio/voices/keita/N2-135-1.mp3",
+  "srt": "/audio/voices/keita/N2-135-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "19a4ef84aee7f2eaaf51236b823c0092f9e05eea3e4d1fb0fd51eb97c7ea78cf",
+  "peakPcm": 22350,
+  "rmsDbfs": -19.99,
+  "rate": "+0%",
+  "listened": false
+}

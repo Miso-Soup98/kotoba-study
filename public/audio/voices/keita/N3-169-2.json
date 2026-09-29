@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-169",
+  "exampleIndex": 1,
+  "text": "その話はすでに聞いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 205,
+  "signature": "032c9c025bb626cd6352db096a35a351439cb9d0840714abc7712217b8333c0b",
+  "src": "/audio/voices/keita/N3-169-2.mp3",
+  "srt": "/audio/voices/keita/N3-169-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "baae7b530174050ca58d755b148975f19164da44e027f5973dc3a5e08c568d37",
+  "peakPcm": 23568,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-070",
+  "exampleIndex": 1,
+  "text": "賛成する人がいる一方で、反対する人もいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 248,
+  "signature": "7e486a2ab87a8a1fe534f5cb7a616e6714bf4c5751006460a55f707363422989",
+  "src": "/audio/voices/keita/N2-070-2.mp3",
+  "srt": "/audio/voices/keita/N2-070-2.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "7af998d016dcf639aa0a639094b69ea1c20f475a54822dd150c0d377bae742ad",
+  "peakPcm": 23175,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

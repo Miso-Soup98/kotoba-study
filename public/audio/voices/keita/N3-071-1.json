@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-071",
+  "exampleIndex": 0,
+  "text": "一人に二枚ずつ配ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 156,
+  "signature": "249ebde1dce98b5738e66aed006e78fb3662f54da1d59d8b10a3e0bc30a0257d",
+  "src": "/audio/voices/keita/N3-071-1.mp3",
+  "srt": "/audio/voices/keita/N3-071-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "489070211fbb7da638c507fbd0d0dae77933b4aa47bb9d930876f5b540880c70",
+  "peakPcm": 22314,
+  "rmsDbfs": -20.9,
+  "rate": "+0%",
+  "listened": false
+}

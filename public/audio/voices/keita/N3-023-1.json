@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-023",
+  "exampleIndex": 0,
+  "text": "この建物では、たばこを吸わないことになっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 132,
+  "signature": "a9f90162bf548b386773d38e5171da5a3c8d1648b254c7ef90c8986593cdf216",
+  "src": "/audio/voices/keita/N3-023-1.mp3",
+  "srt": "/audio/voices/keita/N3-023-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "1f177f6ebf6f69e64d3fcbe8d1f2950417c4b77de9bc8801e4caef43220f8882",
+  "peakPcm": 25201,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

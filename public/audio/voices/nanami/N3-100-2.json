@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-100",
+  "exampleIndex": 1,
+  "text": "学生時代の思い出は忘れがたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 170,
+  "signature": "54dc79fe6d4a786036010fd371d13316c691bdfea44da9ae138f755281f958ad",
+  "src": "/audio/voices/nanami/N3-100-2.mp3",
+  "srt": "/audio/voices/nanami/N3-100-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "1b4af314a3bd5731c298d47befcdfcc9743551f8d5a4bf6bd59009583340f4c6",
+  "peakPcm": 21625,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

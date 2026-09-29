@@ -1,5 +1,44 @@
 @import "tailwindcss";
 @import "tw-animate-css";
+
+.course-tabs, .course-resume, .course-overview, .course-diagnostic, .course-item { display: flex; gap: 1rem; align-items: center; justify-content: space-between; }
+.course-tabs { justify-content: flex-start; margin-bottom: 1rem; }
+.course-overview, .course-diagnostic, .course-week { margin-bottom: 1rem; }
+.course-overview > div:first-child { max-width: 42rem; }
+.course-overview h2, .course-week h2 { font-size: 1.4rem; line-height: 1.6; }
+.course-progress { min-width: 10rem; display: grid; gap: .4rem; }
+.course-progress strong { font-size: 2rem; color: #173d36; }
+.course-progress small { font-size: 1rem; }
+.course-progress progress { width: 100%; accent-color: #267f57; }
+.course-select { display: flex; gap: .6rem; align-items: center; flex-wrap: wrap; font-size: 1rem; }
+.course-select select { background: white; border: 1px solid #ccd9d0; border-radius: .5rem; padding: .6rem; max-width: 100%; font: inherit; }
+.course-lessons { border-top: 1px solid #e0e7e2; margin: 1.1rem 0; }
+.course-item { padding: .8rem 0; border-bottom: 1px solid #e0e7e2; flex-wrap: wrap; }
+.course-item > span { flex: 1; min-width: 10rem; }
+.course-item small, .course-lesson-title small { display: block; font-size: .875rem; color: #586b63; }
+.course-lesson-title { flex: 1; min-width: 10rem; text-align: left; border: 0; background: none; font-size: 1rem; padding: .2rem; cursor: pointer; }
+.course-lesson-title span { display: block; line-height: 1.7; }
+.course-daily, .course-ted { padding: 1rem 0; }
+.course-daily > div { border-bottom: 1px solid #e0e7e2; padding: .8rem 0; }
+.course-week summary, .listening-card-list summary, .assessment-answer summary { cursor: pointer; font-size: 1rem; padding: .6rem 0; }
+.assessment-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
+.assessment-answer { border-top: 1px solid #e0e7e2; padding: .6rem 0; text-align: left; }
+.assessment-answer p, .context-lesson p { white-space: pre-wrap; overflow-wrap: anywhere; }
+.diagnostic-result { background: #e9f1ec; border-radius: .7rem; padding: 1rem; margin: 1rem 0; }
+.listening-card-dialog { max-height: 90dvh; overflow-y: auto; }
+.listening-card-dialog label { display: grid; gap: .5rem; font-size: 1rem; }
+.listening-card-dialog input, .listening-card-dialog textarea { width: 100%; border: 1px solid #ccd9d0; border-radius: .5rem; padding: .7rem; font: inherit; }
+.listening-card-dialog textarea { min-height: 7rem; resize: vertical; }
+.listening-card-audio { padding: 1rem 0; }
+.listening-card-list { margin-top: 1rem; }
+.context-lesson { border-left: 3px solid #267f57; padding: .8rem 1rem; margin: .8rem 0; background: #f4f8f5; }
+.context-lesson h3 { font-size: 1.1rem; }
+@media (max-width: 680px) {
+  .course-overview, .course-diagnostic { flex-direction: column; align-items: stretch; }
+  .assessment-grid { grid-template-columns: 1fr; }
+  .course-item .compact { white-space: normal; }
+  .course-week .section-heading { flex-wrap: wrap; }
+}
 @custom-variant dark (&:is(.dark *));
 @theme inline {
   --color-background: var(--background);

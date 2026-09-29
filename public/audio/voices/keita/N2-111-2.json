@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-111",
+  "exampleIndex": 1,
+  "text": "書類の上では、手続きは終わっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 269,
+  "signature": "2ed16add73375b85c435fb314ff484c616c71fc06653f632d789714cd6cc10d9",
+  "src": "/audio/voices/keita/N2-111-2.mp3",
+  "srt": "/audio/voices/keita/N2-111-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "2e0f4dc9489c7ca6615ddf29e68d0da550b985bc0d2595b158a234444bb739a3",
+  "peakPcm": 20292,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

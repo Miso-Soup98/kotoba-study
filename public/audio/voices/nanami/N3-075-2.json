@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-075",
+  "exampleIndex": 1,
+  "text": "駅へ向かう途中に、大きな公園があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 158,
+  "signature": "c03f70156848d1c92aa86643e6a4c3c7dc09293875e1e00c977d467a8b86ca17",
+  "src": "/audio/voices/nanami/N3-075-2.mp3",
+  "srt": "/audio/voices/nanami/N3-075-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "7747795200052b0482ca665b00b6776766056caf24e887a1a9d490e22fe26dd6",
+  "peakPcm": 20118,
+  "rmsDbfs": -16.86,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-070",
+  "exampleIndex": 0,
+  "text": "三日ごとに花に水をやります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 155,
+  "signature": "186a01c757bd9eb5f21b465994f61d028697a72e27a63f627833f208f15def35",
+  "src": "/audio/voices/nanami/N3-070-1.mp3",
+  "srt": "/audio/voices/nanami/N3-070-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "b0fcf7a311b20f4c4d9915f955769b12f192868d9f18178e38a64da489f9877f",
+  "peakPcm": 23009,
+  "rmsDbfs": -17.07,
+  "rate": "+0%",
+  "listened": false
+}

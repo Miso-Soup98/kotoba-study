@@ -14,6 +14,7 @@ export type LessonPattern = {
   patterns: string[];
   grammarIds: string[];
   references: { title: string; url: string }[];
+  contextReviewed?: boolean;
 };
 export type LessonMatch = {
   start: number;

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-091",
+  "exampleIndex": 0,
+  "text": "今から出るとしても、間に合いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 259,
+  "signature": "064bb76253804aefecbbef7e1237d6c7ba03fdfa0aad9a106dc6cb54666f295e",
+  "src": "/audio/voices/nanami/N2-091-1.mp3",
+  "srt": "/audio/voices/nanami/N2-091-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "b496bbf42c775c3ac3a69f15ca7508893ef606b4e7e3923b612c60b93cfd4b6c",
+  "peakPcm": 19876,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

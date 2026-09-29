@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-058",
+  "exampleIndex": 1,
+  "text": "彼は医者であると同時に、作家でもあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 242,
+  "signature": "fbb6246da91e01ab53ff772e3823a85d2ac8a30028831ddc4eb6e70df746e306",
+  "src": "/audio/voices/nanami/N2-058-2.mp3",
+  "srt": "/audio/voices/nanami/N2-058-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "9c17d0037b651371e17640712e4872d39e98fe7a61151cedb315f4bb52f7b80a",
+  "peakPcm": 20757,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

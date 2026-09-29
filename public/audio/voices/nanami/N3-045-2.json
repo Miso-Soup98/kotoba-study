@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-045",
+  "exampleIndex": 1,
+  "text": "道に迷った上に、雨にも降られました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 143,
+  "signature": "1933f2a2697d7349af8d2c7284326c60c365cc0afeed6cb7a582f17b156cd291",
+  "src": "/audio/voices/nanami/N3-045-2.mp3",
+  "srt": "/audio/voices/nanami/N3-045-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "4c40716311779b1ff7ea8b67d46ed1d2423206b7d0ee304d9734aad95e550ba0",
+  "peakPcm": 20273,
+  "rmsDbfs": -17.89,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-144",
+  "exampleIndex": 0,
+  "text": "足元に気をつけてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 192,
+  "signature": "1978319a65d9bb71bdc9773c17590e5c80436743694b33bfcfecef1d71529bf3",
+  "src": "/audio/voices/keita/N3-144-1.mp3",
+  "srt": "/audio/voices/keita/N3-144-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "a951cf507b2c1e06c469dc2faef66fb477a0d2b1f7eaabf180eb22bf182ba36d",
+  "peakPcm": 21217,
+  "rmsDbfs": -21.9,
+  "rate": "+0%",
+  "listened": false
+}

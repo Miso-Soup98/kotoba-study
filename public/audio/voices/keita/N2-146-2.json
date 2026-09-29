@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-146",
+  "exampleIndex": 1,
+  "text": "試験に向けて、毎日復習しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 287,
+  "signature": "728c819ed8dc8bc58c24ffd90f08aed9d674ac34a3f8fdd190493102231b4e38",
+  "src": "/audio/voices/keita/N2-146-2.mp3",
+  "srt": "/audio/voices/keita/N2-146-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "2ac7526dbe1b7fb7b8bd9558310576752a4cd817121fa0330226569874684edb",
+  "peakPcm": 25685,
+  "rmsDbfs": -20.9,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-101",
+  "exampleIndex": 1,
+  "text": "一日として忘れたことはありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 264,
+  "signature": "5264c952d5481970f7aa6db2259b6913f40832f5f63b55509df6581086d47dd1",
+  "src": "/audio/voices/keita/N2-101-2.mp3",
+  "srt": "/audio/voices/keita/N2-101-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "c2255851b6d02fbc55d49e38beea6a332200bf7d488707b39d82be277d1c8bf0",
+  "peakPcm": 20983,
+  "rmsDbfs": -21.09,
+  "rate": "+0%",
+  "listened": false
+}

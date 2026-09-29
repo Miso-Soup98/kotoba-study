@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-137",
+  "exampleIndex": 1,
+  "text": "紙や布といった材料を使います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 282,
+  "signature": "6b80f079e258eaeb226af3cb73841b855ae761292612e1774286a47f193580c1",
+  "src": "/audio/voices/nanami/N2-137-2.mp3",
+  "srt": "/audio/voices/nanami/N2-137-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "3a3f2f7620b32783d3b94bc532bfcc68b628be30f014f432e6500d91829c17f6",
+  "peakPcm": 19968,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

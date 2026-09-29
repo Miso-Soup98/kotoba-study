@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-102",
+  "exampleIndex": 0,
+  "text": "雨はまだやみそうにありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 171,
+  "signature": "18722313cb88372357dcdc80041438d5509f38a5e1337a42e2308a625c5678bd",
+  "src": "/audio/voices/nanami/N3-102-1.mp3",
+  "srt": "/audio/voices/nanami/N3-102-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "d0b83798cfa353c6dc77451031b6863722907625873414763c45a552b5fea55e",
+  "peakPcm": 20419,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

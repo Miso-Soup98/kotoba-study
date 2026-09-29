@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-213",
+  "exampleIndex": 0,
+  "text": "空がたちまち暗くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 321,
+  "signature": "067dd3f1cfa1da0d8f8f04899e53b10e654e42bffdb7abb81e4deeefe3d21297",
+  "src": "/audio/voices/nanami/N2-213-1.mp3",
+  "srt": "/audio/voices/nanami/N2-213-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "0c7d01588523b035dfcac9b12d8595354aab8abdb7dee20f5425d6355c7e5e24",
+  "peakPcm": 20962,
+  "rmsDbfs": -18.35,
+  "rate": "+0%",
+  "listened": false
+}

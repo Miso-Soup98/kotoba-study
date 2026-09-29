@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-036",
+  "exampleIndex": 0,
+  "text": "大切だからこそ、厳しく言うのです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 231,
+  "signature": "d4757c53497a20a751af3e6df954434cdf14a347c2a7b5f4be3698fe5a2d7d8c",
+  "src": "/audio/voices/nanami/N2-036-1.mp3",
+  "srt": "/audio/voices/nanami/N2-036-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "95bfd1e07ecac8a8f62644b44ad61804801397072cc2520f6b504d112ee2688c",
+  "peakPcm": 22365,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

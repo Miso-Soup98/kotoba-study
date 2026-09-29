@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-011",
+  "exampleIndex": 1,
+  "text": "新しい方法が研究者によって発見されました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 126,
+  "signature": "cf0f0bc8056c9fe12cda881c24fb190ca2042c9686f79b2e7b5c59c8bd05272f",
+  "src": "/audio/voices/nanami/N3-011-2.mp3",
+  "srt": "/audio/voices/nanami/N3-011-2.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "19fde7475714f9a9a1e83d6d4c7f3cd0a02e96ae854b29b1ea3d4ee187e0502b",
+  "peakPcm": 19647,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

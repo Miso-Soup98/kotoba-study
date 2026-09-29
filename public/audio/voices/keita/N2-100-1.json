@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-100",
+  "exampleIndex": 0,
+  "text": "これは一つの可能性でしかありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 264,
+  "signature": "809c25ae8a2bedf8390aace76d529b583deab8bbe62a3eba3db63aa847076a67",
+  "src": "/audio/voices/keita/N2-100-1.mp3",
+  "srt": "/audio/voices/keita/N2-100-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "a696ae43cabb0baf269c29cee12312af490a11dbe90b2cfc42520ab1a07f4a02",
+  "peakPcm": 24851,
+  "rmsDbfs": -20.98,
+  "rate": "+0%",
+  "listened": false
+}

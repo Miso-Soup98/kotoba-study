@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-206",
+  "exampleIndex": 0,
+  "text": "少し落ち着きたまえ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 317,
+  "signature": "0ccc5d81524e7efa1666e1ae777e65ceab978f6e17497902bc3f3c3070c0361a",
+  "src": "/audio/voices/nanami/N2-206-1.mp3",
+  "srt": "/audio/voices/nanami/N2-206-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "81afb50adee58365565107d13855bbcf9fd3204678f1e41c99e172b2c4f8da20",
+  "peakPcm": 20272,
+  "rmsDbfs": -19.85,
+  "rate": "+0%",
+  "listened": false
+}

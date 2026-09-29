@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-059",
+  "exampleIndex": 0,
+  "text": "将来を考えつつ、仕事を探しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 243,
+  "signature": "59ddd6d6d3b1af43b9b2a66208c2aba25649f24b29809129e6be11ad0d107bb6",
+  "src": "/audio/voices/nanami/N2-059-1.mp3",
+  "srt": "/audio/voices/nanami/N2-059-1.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "28a0c9916e53fef5fceae9cc9465e9b46b8dceadd97bc71fe24902dbd6647b74",
+  "peakPcm": 21643,
+  "rmsDbfs": -16.95,
+  "rate": "+0%",
+  "listened": false
+}

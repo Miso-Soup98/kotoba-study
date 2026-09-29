@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-192",
+  "exampleIndex": 1,
+  "text": "歩いて行けます。もっとも、少し遠いですが。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 310,
+  "signature": "bb1b89ad7a0e3d312f6efea43b2bc384d195ef26b204159b5201d6f25f6ddf76",
+  "src": "/audio/voices/keita/N2-192-2.mp3",
+  "srt": "/audio/voices/keita/N2-192-2.srt",
+  "durationSeconds": 4.824,
+  "bytes": 28944,
+  "sha256": "c0c6e41d08ef36a6588ba5e91a906d57b9e75c478a954abae6418f46927cf0da",
+  "peakPcm": 24958,
+  "rmsDbfs": -22.06,
+  "rate": "+0%",
+  "listened": false
+}

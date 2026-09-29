@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-167",
+  "exampleIndex": 0,
+  "text": "どうせ待つなら、本を読みましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 298,
+  "signature": "2c419b920f1070ef14e16e142ab61953656e7fa5115372967a3a2d8732382629",
+  "src": "/audio/voices/nanami/N2-167-1.mp3",
+  "srt": "/audio/voices/nanami/N2-167-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "4ffcfad5e809b2da05f6cba864df206a12b5a44a8375effffc262384a429b7fb",
+  "peakPcm": 23494,
+  "rmsDbfs": -16.97,
+  "rate": "+0%",
+  "listened": false
+}

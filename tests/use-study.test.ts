@@ -319,6 +319,11 @@ async function makeStudy({ withTed = false, historySize = 0 } = {}) {
       return rebuilds;
     },
     requests,
+    async appendBatch(inputs) {
+      const added = await value.appendBatch(inputs);
+      await flush();
+      return added;
+    },
     setResponse(callback) {
       response = callback;
     },
@@ -458,4 +463,26 @@ test("fifty idle sync cycles with 2000 extra history events never rebuild the mo
   assert.equal(app.study.cache.events.length, 2002);
   assert.equal(app.study.model, before);
   assert.equal(app.rebuilds, rebuilds);
+});
+
+test("multi-event saves publish once and invalid batches leave no partial learning state", async (t) => {
+  const app = await makeStudy();
+  t.after(() => app.unmount());
+  const baseline = app.rebuilds;
+  const id = "N3-099";
+  const saved = await app.appendBatch([
+    { kind: "task", entity: `course:${id}`, value: true },
+    { kind: "enroll", entity: id, value: true },
+  ]);
+  assert.equal(saved.length, 2);
+  assert.equal(app.rebuilds, baseline + 1);
+  assert.equal(app.study.model.tasks[`course:${id}`], true);
+  assert.equal(app.study.model.cards[id].enrolled, true);
+  const cache = app.study.cache;
+  await assert.rejects(() => app.appendBatch([
+    { kind: "task", entity: "course:invalid", value: true },
+    { kind: "enroll", entity: "invalid", value: "not-a-boolean" },
+  ]), /无效/);
+  assert.equal(app.study.cache, cache);
+  assert.equal(app.study.model.tasks["course:invalid"], undefined);
 });

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-049",
+  "exampleIndex": 1,
+  "text": "天気次第で、予定を変えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 238,
+  "signature": "575b7e6eae78ed2870dc91bae5203a218229d44f6e290fb58b19a60647a02745",
+  "src": "/audio/voices/nanami/N2-049-2.mp3",
+  "srt": "/audio/voices/nanami/N2-049-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "3277275abf585705a91884af849e28af07e494835afdda6adeb4c0396e489aec",
+  "peakPcm": 20857,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

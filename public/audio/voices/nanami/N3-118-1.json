@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-118",
+  "exampleIndex": 0,
+  "text": "緊張のあまり、名前を忘れました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 179,
+  "signature": "d779db81a5576d5cff985bc1dadbab4b60bfc11d299f3025a3911b1fcbddfde1",
+  "src": "/audio/voices/nanami/N3-118-1.mp3",
+  "srt": "/audio/voices/nanami/N3-118-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "a11cec4471c7f6276c233a0cb5c7d3ecab7535a90e86a2a9b757c984c93847c2",
+  "peakPcm": 21145,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-034",
+  "exampleIndex": 0,
+  "text": "年を取るにつれて、早く目が覚めるようになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 137,
+  "signature": "5d7caf9bbc3c21fea0a10b334be532a9a78a38c884622a8e099e818a3dca7f85",
+  "src": "/audio/voices/keita/N3-034-1.mp3",
+  "srt": "/audio/voices/keita/N3-034-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "aad98c3fb5dc72dbbaa015a7d4164f0357a3adb3ee1bf642ffb0742c06067362",
+  "peakPcm": 26487,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

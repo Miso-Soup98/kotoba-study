@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-124",
+  "exampleIndex": 1,
+  "text": "もう一度、最初から考えようじゃないか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 276,
+  "signature": "e8267021ce6ba13827fe379791a4fa63ad19e407bebfd1d0cfd54785c99d9514",
+  "src": "/audio/voices/keita/N2-124-2.mp3",
+  "srt": "/audio/voices/keita/N2-124-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "f85f4ad5a93a88b3ecddfa93236cd129dd9c0c71db12d0985f4eae939db7ef4f",
+  "peakPcm": 23314,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

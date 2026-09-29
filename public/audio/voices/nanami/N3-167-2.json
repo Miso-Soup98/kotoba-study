@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-167",
+  "exampleIndex": 1,
+  "text": "待てるのは、せいぜい十分です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 204,
+  "signature": "b5b017945de077f80cad5b1f9c9de705c109d7f9ed3a2146f32b53170b07ec37",
+  "src": "/audio/voices/nanami/N3-167-2.mp3",
+  "srt": "/audio/voices/nanami/N3-167-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "7fe4343620d1ee3e65cdac67ad0bad9f13c3933ab250c4e75543d13df68f4b74",
+  "peakPcm": 23595,
+  "rmsDbfs": -16.91,
+  "rate": "+0%",
+  "listened": false
+}

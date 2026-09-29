@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-079",
+  "exampleIndex": 1,
+  "text": "出発するに際し、全員に注意を伝えました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 253,
+  "signature": "6b2a2feefc64c6db8285cb99bbfb72e1f0e8ac701544e6017a73cd5b0df2208a",
+  "src": "/audio/voices/nanami/N2-079-2.mp3",
+  "srt": "/audio/voices/nanami/N2-079-2.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "1236aba7da932897434865174fce690d08eef0c4e0e439dd11f7f4ebb200c643",
+  "peakPcm": 20888,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

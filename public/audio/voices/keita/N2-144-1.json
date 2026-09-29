@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-144",
+  "exampleIndex": 0,
+  "text": "会議は本館にて行います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 286,
+  "signature": "c63ad75d6322ddaec099f841de5ba58214fbd62a2ca7584e03acf989f933b60f",
+  "src": "/audio/voices/keita/N2-144-1.mp3",
+  "srt": "/audio/voices/keita/N2-144-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "6720c6508ff438427d59a069be9987a3dbbf5f5b35111b71306eaaa23f72f6b1",
+  "peakPcm": 21173,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

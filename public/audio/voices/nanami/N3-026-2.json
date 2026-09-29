@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-026",
+  "exampleIndex": 1,
+  "text": "本を読んでいるうちに、眠くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 133,
+  "signature": "99a8a2459a14a1ce92a12ec4fb73f0d9ab950f822ce6c5c5a3adb05e380c8ed7",
+  "src": "/audio/voices/nanami/N3-026-2.mp3",
+  "srt": "/audio/voices/nanami/N3-026-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "90b3b0cfbaa5062fc08487c8b32d21c4bdcf385eb447ebb9822df242e747c15d",
+  "peakPcm": 20114,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

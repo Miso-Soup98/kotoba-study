@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-016",
+  "exampleIndex": 0,
+  "text": "十年住んでいたのですか。日本語が上手なわけですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 128,
+  "signature": "a63b8b62687c91aea04cea02bd61bb1e7126034b150d7c460a38e5f9700232ba",
+  "src": "/audio/voices/nanami/N3-016-1.mp3",
+  "srt": "/audio/voices/nanami/N3-016-1.srt",
+  "durationSeconds": 5.568,
+  "bytes": 33408,
+  "sha256": "36caff3ca0f9d3061da55bb3461d3576a24079d94d5a11dd36df91b8cd449ed0",
+  "peakPcm": 22747,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

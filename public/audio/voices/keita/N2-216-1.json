@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-216",
+  "exampleIndex": 0,
+  "text": "駅まで一時間弱かかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 322,
+  "signature": "6d414d1de4587eb9df7cf2892797a457c3a7b57b5862d8e9e6e38d18dbd72aee",
+  "src": "/audio/voices/keita/N2-216-1.mp3",
+  "srt": "/audio/voices/keita/N2-216-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "600fde0fd678e826e6942747bdad604a3eaaa653e5548fe3b66b4dc1b2e3fdf0",
+  "peakPcm": 22996,
+  "rmsDbfs": -21.63,
+  "rate": "+0%",
+  "listened": false
+}

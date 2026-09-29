@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-117",
+  "exampleIndex": 0,
+  "text": "よく相談した結果、引っ越すことにしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 179,
+  "signature": "3b41fd71a6357ec259f949cbbb32db77f29e6abed11363f96fdad84383b91484",
+  "src": "/audio/voices/nanami/N3-117-1.mp3",
+  "srt": "/audio/voices/nanami/N3-117-1.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "a77e94d020f9e971cbbe7a0dc85bb63d1aa3f8dc055150908a7d6cde112856a9",
+  "peakPcm": 21362,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

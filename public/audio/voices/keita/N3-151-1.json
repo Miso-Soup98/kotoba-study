@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-151",
+  "exampleIndex": 0,
+  "text": "なるべく早く返事をください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 196,
+  "signature": "63c760953d00e680c70d09889339f94156518393e9ed4a4182c3996c98d9fa88",
+  "src": "/audio/voices/keita/N3-151-1.mp3",
+  "srt": "/audio/voices/keita/N3-151-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "23075b5ce15cafac4c40eb34fdc7922e5322e31411c48ab67fd2651123961236",
+  "peakPcm": 23981,
+  "rmsDbfs": -21.53,
+  "rate": "+0%",
+  "listened": false
+}

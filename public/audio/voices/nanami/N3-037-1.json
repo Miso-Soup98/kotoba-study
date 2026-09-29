@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-037",
+  "exampleIndex": 0,
+  "text": "あの人は医者に違いありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 139,
+  "signature": "3f8890c5e8e3a1b3f9ed06d15c8d14016d725a794c957ef7489229b91c0ee6e3",
+  "src": "/audio/voices/nanami/N3-037-1.mp3",
+  "srt": "/audio/voices/nanami/N3-037-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "cfa42157d37a2ceff5d119aeaa7e97afa824b5308f42fc30e364e85d65b43865",
+  "peakPcm": 21418,
+  "rmsDbfs": -18.59,
+  "rate": "+0%",
+  "listened": false
+}

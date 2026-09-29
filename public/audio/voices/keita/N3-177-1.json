@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-177",
+  "exampleIndex": 0,
+  "text": "明日も店は開きません。つまり、二日間休みです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 209,
+  "signature": "9e4b70cabccd3587ac3d435bc6372d32a1411c6cbd09ac4bc7455d80a4ae250d",
+  "src": "/audio/voices/keita/N3-177-1.mp3",
+  "srt": "/audio/voices/keita/N3-177-1.srt",
+  "durationSeconds": 5.448,
+  "bytes": 32688,
+  "sha256": "e0d2e1a279f28af81158de21e1484545f5ccdde8bc468e114ef2f6df4a43bf82",
+  "peakPcm": 25479,
+  "rmsDbfs": -22.11,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-040",
+  "exampleIndex": 0,
+  "text": "だって、まだ終わっていないんだもの。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 233,
+  "signature": "771fe5bde0e460fb966af40d059bd0eea01446d8280295373a1525b59c6ea2e0",
+  "src": "/audio/voices/keita/N2-040-1.mp3",
+  "srt": "/audio/voices/keita/N2-040-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "0588ce65d528bd6c34e49481c26fbedb9eecf4769569622fa656ade0f9ce0b79",
+  "peakPcm": 26817,
+  "rmsDbfs": -21.07,
+  "rate": "+0%",
+  "listened": false
+}

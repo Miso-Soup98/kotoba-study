@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-066",
+  "exampleIndex": 0,
+  "text": "一週間で論文を書き上げました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 153,
+  "signature": "8e18943e928b53adef481bedb37c7e8dc3026a5b9f2a6da224421ccf0a23f680",
+  "src": "/audio/voices/keita/N3-066-1.mp3",
+  "srt": "/audio/voices/keita/N3-066-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "adc77904f70721221a8043b105181f7fa6949c061bdf695e1a8690d0f1662497",
+  "peakPcm": 21637,
+  "rmsDbfs": -20.76,
+  "rate": "+0%",
+  "listened": false
+}

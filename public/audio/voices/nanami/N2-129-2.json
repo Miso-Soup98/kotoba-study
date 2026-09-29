@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-129",
+  "exampleIndex": 1,
+  "text": "読んでは考え、考えては読みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 278,
+  "signature": "474f5b5bfb335595aaf1316b78800b1bef08a05721099d69440b7a7a53b954ae",
+  "src": "/audio/voices/nanami/N2-129-2.mp3",
+  "srt": "/audio/voices/nanami/N2-129-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "bed3735769d3f6a182c04e430e6ac9a39e578cc445aeee85531d4591bf4bce05",
+  "peakPcm": 20690,
+  "rmsDbfs": -17.25,
+  "rate": "+0%",
+  "listened": false
+}

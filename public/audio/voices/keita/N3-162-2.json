@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-162",
+  "exampleIndex": 1,
+  "text": "心配というより、むしろ楽しみです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 201,
+  "signature": "359c07634a9eeb92358e55af9abc45697b81770115936e4c246c329e7d6f7473",
+  "src": "/audio/voices/keita/N3-162-2.mp3",
+  "srt": "/audio/voices/keita/N3-162-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "6adfae25b9dfb4f1d2440a1253a2a16240ef6a11a62875053aee08833a90811c",
+  "peakPcm": 21980,
+  "rmsDbfs": -20.68,
+  "rate": "+0%",
+  "listened": false
+}

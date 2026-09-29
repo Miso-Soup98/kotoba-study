@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-097",
+  "exampleIndex": 1,
+  "text": "出かけようとしたとき、電話が鳴りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 169,
+  "signature": "d3499e964f98e9d1c12f5423844808ba217f4a31c72a11bcb0d605ebdbe2a14b",
+  "src": "/audio/voices/keita/N3-097-2.mp3",
+  "srt": "/audio/voices/keita/N3-097-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "b6faf19b24943d842020c8ce7ec98b86778462a3f59f813c1a8e728d93ebaa4b",
+  "peakPcm": 22044,
+  "rmsDbfs": -20.68,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-119",
+  "exampleIndex": 0,
+  "text": "家族とともに、新しい町へ移りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 180,
+  "signature": "373e78b926bef84a200fa87d80bc06684ea133b425eb797ecd2160e53787c8f1",
+  "src": "/audio/voices/nanami/N3-119-1.mp3",
+  "srt": "/audio/voices/nanami/N3-119-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "c48f50bf5d301e64d598e258d3fb357a6b1d65d4388baa9cd8d7ca4bbab443ea",
+  "peakPcm": 22969,
+  "rmsDbfs": -17.69,
+  "rate": "+0%",
+  "listened": false
+}

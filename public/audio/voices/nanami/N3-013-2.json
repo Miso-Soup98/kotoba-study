@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-013",
+  "exampleIndex": 1,
+  "text": "早く出たおかげで、間に合いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 127,
+  "signature": "32fbafc2130908967a102234b172f1d66ebb8e3f41973d56c040224a9815f227",
+  "src": "/audio/voices/nanami/N3-013-2.mp3",
+  "srt": "/audio/voices/nanami/N3-013-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "8a16ed3d158ee75e883e12ba3ea020f000ce9350fc4c4ea9e0678ca135208cf5",
+  "peakPcm": 21487,
+  "rmsDbfs": -17.98,
+  "rate": "+0%",
+  "listened": false
+}

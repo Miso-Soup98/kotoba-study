@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-174",
+  "exampleIndex": 1,
+  "text": "少なくとも、私は反対していません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 301,
+  "signature": "83e044966e9ec2a6ce0a7a4a16d3356a2487eda24567281700de07bf1a12e1e8",
+  "src": "/audio/voices/keita/N2-174-2.mp3",
+  "srt": "/audio/voices/keita/N2-174-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "c5d30c53b277107426eeb61665f333324facb14b0527c805b46b84dff4d34c92",
+  "peakPcm": 22188,
+  "rmsDbfs": -21.45,
+  "rate": "+0%",
+  "listened": false
+}

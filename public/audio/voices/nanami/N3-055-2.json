@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-055",
+  "exampleIndex": 1,
+  "text": "この家は小さいながらも、住みやすいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 148,
+  "signature": "2c51e6d91841efcf13fad97baa51d45806226c72c4fad993a6fdabbbcac01cbc",
+  "src": "/audio/voices/nanami/N3-055-2.mp3",
+  "srt": "/audio/voices/nanami/N3-055-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "02fb6654329fbb5e4709146b5b6a4014fb844e119852104cd4f5df0321c67625",
+  "peakPcm": 22321,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

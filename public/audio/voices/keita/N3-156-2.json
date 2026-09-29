@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-156",
+  "exampleIndex": 1,
+  "text": "なかなかいい考えですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 198,
+  "signature": "ac04b5de093a81c6442fa36e8329b98a66451e375f5b4512e8b61113936d020d",
+  "src": "/audio/voices/keita/N3-156-2.mp3",
+  "srt": "/audio/voices/keita/N3-156-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "ac72abd81a21ef276cc2c330a833358384bbe275c7df5951e79cf998b6057364",
+  "peakPcm": 23273,
+  "rmsDbfs": -21.46,
+  "rate": "+0%",
+  "listened": false
+}

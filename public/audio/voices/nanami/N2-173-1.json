@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-173",
+  "exampleIndex": 0,
+  "text": "せめて名前だけでも教えてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 301,
+  "signature": "d80e2088aab2d459c3b84a61d3b54aa7f6eb760b3a2b4e12cc41d7be33e23d5c",
+  "src": "/audio/voices/nanami/N2-173-1.mp3",
+  "srt": "/audio/voices/nanami/N2-173-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "81bf9fb2637ca8adedf5e14a0ed880e522abbd0f4ee435dfcc6191a40138905c",
+  "peakPcm": 20513,
+  "rmsDbfs": -17.88,
+  "rate": "+0%",
+  "listened": false
+}

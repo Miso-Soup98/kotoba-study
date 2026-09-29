@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-158",
+  "exampleIndex": 1,
+  "text": "大きな声を出さないでちょうだい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 293,
+  "signature": "0ca1c9ab3da67f6c3a1c30dedb5dd042a5ceffa0921f89878fe53402baf0668f",
+  "src": "/audio/voices/keita/N2-158-2.mp3",
+  "srt": "/audio/voices/keita/N2-158-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "313067d5effe65b611548031408f57710518b644e08a348e823888667f45e613",
+  "peakPcm": 22241,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

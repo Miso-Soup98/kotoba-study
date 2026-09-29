@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-120",
+  "exampleIndex": 1,
+  "text": "予定どおりに会議が始まりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 180,
+  "signature": "5122760011e77df107855a84f5ed9bcd5a82e2a12007cf4200bc7f1c9887e393",
+  "src": "/audio/voices/keita/N3-120-2.mp3",
+  "srt": "/audio/voices/keita/N3-120-2.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "187264a6f5f1204845c6837b2ec49e16c374d64f69915922465f2f2968d455f5",
+  "peakPcm": 21006,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-033",
+  "exampleIndex": 1,
+  "text": "本人に聞かないことには、事情は分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 230,
+  "signature": "16d26d1ce2ba86b14d20ed59834e492fc2ce5ad029703f9c9c36c373703a0cef",
+  "src": "/audio/voices/keita/N2-033-2.mp3",
+  "srt": "/audio/voices/keita/N2-033-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "4f0cc91c23e77f32b7cff209c47c087c68008c467ddbf21787ae5d9e7e5fdc0d",
+  "peakPcm": 23189,
+  "rmsDbfs": -20.02,
+  "rate": "+0%",
+  "listened": false
+}

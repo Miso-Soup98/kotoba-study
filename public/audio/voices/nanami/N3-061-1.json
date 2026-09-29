@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-061",
+  "exampleIndex": 0,
+  "text": "窓を開けっぱなしにしないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 151,
+  "signature": "aea918955ac36c3871bd141c95e54651598c130d28968d99e9d971ad09f3f3d1",
+  "src": "/audio/voices/nanami/N3-061-1.mp3",
+  "srt": "/audio/voices/nanami/N3-061-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "f8c7252469d43853e1863e2ba5746228079882ee305b5342231ed2194e25a629",
+  "peakPcm": 21439,
+  "rmsDbfs": -18.23,
+  "rate": "+0%",
+  "listened": false
+}

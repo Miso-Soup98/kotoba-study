@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-069",
+  "exampleIndex": 1,
+  "text": "入れたてのお茶は熱いので、気をつけてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 155,
+  "signature": "126a4d34fa1a27f65b9aa41ada11d158e79dbf5d8adbde84b39714361c6f0c0b",
+  "src": "/audio/voices/nanami/N3-069-2.mp3",
+  "srt": "/audio/voices/nanami/N3-069-2.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "ed89a7062a16878afd0ffbad307170b716cb45fc302ed9136ca935ee8f85dacc",
+  "peakPcm": 22318,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

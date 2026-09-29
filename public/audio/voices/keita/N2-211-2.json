@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-211",
+  "exampleIndex": 1,
+  "text": "話しているうちに、いつの間にか夜になりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 320,
+  "signature": "0f447be6ae0d62a61e608af02ae723c8aed03760fe0dd7569539482abba9cc2f",
+  "src": "/audio/voices/keita/N2-211-2.mp3",
+  "srt": "/audio/voices/keita/N2-211-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "e002ed39df6f25cab98404d5d5dc44f1b1bca18fc9746122767ba4141ec6f062",
+  "peakPcm": 21552,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

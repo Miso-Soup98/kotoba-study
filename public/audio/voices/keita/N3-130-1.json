@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-130",
+  "exampleIndex": 0,
+  "text": "もう帰らないと。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 185,
+  "signature": "67ff5b021b1c95392533410a5060f91c2862c40c1a9ac23ab7d24eb7667620d2",
+  "src": "/audio/voices/keita/N3-130-1.mp3",
+  "srt": "/audio/voices/keita/N3-130-1.srt",
+  "durationSeconds": 1.92,
+  "bytes": 11520,
+  "sha256": "99b2a796d1112435c90ea9ede2dd7dbff1c1e243119050cab58953c2c361a531",
+  "peakPcm": 22036,
+  "rmsDbfs": -21.54,
+  "rate": "+0%",
+  "listened": false
+}

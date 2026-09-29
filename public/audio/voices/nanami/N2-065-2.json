@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-065",
+  "exampleIndex": 1,
+  "text": "高いだけのことはあって、この道具は丈夫です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 246,
+  "signature": "84f04f4ff2393bd1ab2523d830bd47f7729e2d40da86d59ea8ebbf1c05a131fd",
+  "src": "/audio/voices/nanami/N2-065-2.mp3",
+  "srt": "/audio/voices/nanami/N2-065-2.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "d7ee769a40f6801c58879e9decb6590050ada5d83f84f36160644192fab08763",
+  "peakPcm": 21404,
+  "rmsDbfs": -17.11,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-216",
+  "exampleIndex": 0,
+  "text": "駅まで一時間弱かかります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 322,
+  "signature": "59092184ef0c07d92184130ba79eea1dbe2f3321f5beb80f880e16fcb48e2b82",
+  "src": "/audio/voices/nanami/N2-216-1.mp3",
+  "srt": "/audio/voices/nanami/N2-216-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "6411b8e3b99a514be315451eda30b7b6dd7e6c2f8c0ecdbeed2daa1f50f23c2c",
+  "peakPcm": 22611,
+  "rmsDbfs": -18.49,
+  "rate": "+0%",
+  "listened": false
+}

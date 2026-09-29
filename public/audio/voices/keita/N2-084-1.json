@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-084",
+  "exampleIndex": 0,
+  "text": "値段から言うと、こちらのほうがいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 256,
+  "signature": "f2da1dc99df57d6153d8af92ff59d7afcfd0f0d773252ec543cfffaf4546cdea",
+  "src": "/audio/voices/keita/N2-084-1.mp3",
+  "srt": "/audio/voices/keita/N2-084-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "393da5d3c5563121f3d9049c5b220f4470fc36fd5b3aa608d81ce382d54a00d1",
+  "peakPcm": 26657,
+  "rmsDbfs": -20.19,
+  "rate": "+0%",
+  "listened": false
+}

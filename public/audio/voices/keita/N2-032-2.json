@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-032",
+  "exampleIndex": 1,
+  "text": "修理できたので、買い直さなくて済みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 229,
+  "signature": "4ecef48b3c961bff2765e24230822df44f39485821f4fd20d1881f782806561a",
+  "src": "/audio/voices/keita/N2-032-2.mp3",
+  "srt": "/audio/voices/keita/N2-032-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "3ae8e9ca864c4bb64edccf374c65fc3586bc074d209563b3dc182e7363871254",
+  "peakPcm": 24734,
+  "rmsDbfs": -21.02,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-089",
+  "exampleIndex": 1,
+  "text": "泣きたいくらいうれしかったです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 165,
+  "signature": "66bdb7d7916d5df267429b9a071172c8fbac2cd0a4e9dba94db269660ee27620",
+  "src": "/audio/voices/keita/N3-089-2.mp3",
+  "srt": "/audio/voices/keita/N3-089-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "d66cb18ae655851b1a402a656aaf02d0d8e067323f84985a760bad695944f5bc",
+  "peakPcm": 23682,
+  "rmsDbfs": -21.74,
+  "rate": "+0%",
+  "listened": false
+}

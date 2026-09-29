@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-147",
+  "exampleIndex": 1,
+  "text": "ついさっき、先生が帰りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 194,
+  "signature": "30b62dc1b51235935ba7660c50d7414d1825579127071a9c5c3cb33e8639b7ae",
+  "src": "/audio/voices/nanami/N3-147-2.mp3",
+  "srt": "/audio/voices/nanami/N3-147-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "bad03c33985fcb70cc2032c97888f07291eea192a98eec7be82df583e84a5db7",
+  "peakPcm": 20494,
+  "rmsDbfs": -18.65,
+  "rate": "+0%",
+  "listened": false
+}

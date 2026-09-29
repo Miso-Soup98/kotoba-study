@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-176",
+  "exampleIndex": 1,
+  "text": "今日出しますか、それとも明日にしますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 208,
+  "signature": "301fb96ae1c1ef53649df6b4779e54f07ea06507589d34313ca6d0aae8253527",
+  "src": "/audio/voices/keita/N3-176-2.mp3",
+  "srt": "/audio/voices/keita/N3-176-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "55c8a1615adc4b7f66899897038ba1318b5658b61e1674bb9a5faa51111483f4",
+  "peakPcm": 22176,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

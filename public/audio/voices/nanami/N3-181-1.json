@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-181",
+  "exampleIndex": 0,
+  "text": "果物、例えば、りんごを毎日食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 211,
+  "signature": "02cda21a2c237020a51453cbdbc84548442ba4c4037557ec17c37483605b38ef",
+  "src": "/audio/voices/nanami/N3-181-1.mp3",
+  "srt": "/audio/voices/nanami/N3-181-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "5f9c160bd19a8b2838034ae1233e57273a87ee1c25d0313f744cf03ab5f762e9",
+  "peakPcm": 21110,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

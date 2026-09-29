@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-011",
+  "exampleIndex": 0,
+  "text": "私が知っている限りでは、彼はまだ学生です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 219,
+  "signature": "e37023c8a53231f0e6f6e47032dfcd2c0058eef5bf3f18faee99fcb27538edbd",
+  "src": "/audio/voices/keita/N2-011-1.mp3",
+  "srt": "/audio/voices/keita/N2-011-1.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "767ea6204a63a6cff1be1d73d6cec00e65e400a6832aa4fc6ce3dcdede504513",
+  "peakPcm": 22840,
+  "rmsDbfs": -21.01,
+  "rate": "+0%",
+  "listened": false
+}

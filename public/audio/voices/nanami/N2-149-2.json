@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-149",
+  "exampleIndex": 1,
+  "text": "安いとはいっても、私には高すぎます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 288,
+  "signature": "610a38ba8a2c37906e8e07b2760d4f662fdf1f08a1d8eb67f44a2aafb6d5a8c4",
+  "src": "/audio/voices/nanami/N2-149-2.mp3",
+  "srt": "/audio/voices/nanami/N2-149-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "3dfaebdd4fdecf6255e8b65a3f5447e0e76fe71da1f475f850baa232d7f946ec",
+  "peakPcm": 21926,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

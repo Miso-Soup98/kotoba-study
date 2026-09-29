@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-142",
+  "exampleIndex": 1,
+  "text": "許可を頂いたので、資料を使わせていただきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 191,
+  "signature": "f14e2372827f68a1982de596cb9fa0e95bcb77f052d926692b2564e20ee9fb36",
+  "src": "/audio/voices/nanami/N3-142-2.mp3",
+  "srt": "/audio/voices/nanami/N3-142-2.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "a5c6586abb63e029086bcbfa2516164b7a7df90aa3083105cd76ff16d4e69420",
+  "peakPcm": 21930,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

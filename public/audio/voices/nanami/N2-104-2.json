@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-104",
+  "exampleIndex": 1,
+  "text": "練習の甲斐があって、うまく話せました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 266,
+  "signature": "e8011432d54589a8f1307aed7d59a75da9d7f1d477c71189e680125f1713dda5",
+  "src": "/audio/voices/nanami/N2-104-2.mp3",
+  "srt": "/audio/voices/nanami/N2-104-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "2d7ce44a2262666bf7ba0f6c947f8e75b2d12588c8c6aee8fd00f73c08a617b4",
+  "peakPcm": 20830,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

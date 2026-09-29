@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-020",
+  "exampleIndex": 0,
+  "text": "これは命にかかわる問題です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 223,
+  "signature": "3e18730ca16b4c370ec2cf869f196a09089fe4c3b7dd714836b14f490bc9addd",
+  "src": "/audio/voices/keita/N2-020-1.mp3",
+  "srt": "/audio/voices/keita/N2-020-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "8d04fc76ac9bb019add7300ae94a9eb2deb552d7512672fa809f7680e2c792c3",
+  "peakPcm": 24834,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

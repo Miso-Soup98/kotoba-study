@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-090",
+  "exampleIndex": 0,
+  "text": "行くにしろ行かないにしろ、今日中に返事をください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 259,
+  "signature": "39183a6092c6d06b52e51224c8a7a7a4fb376c793eeb19a639f97fe67749e021",
+  "src": "/audio/voices/nanami/N2-090-1.mp3",
+  "srt": "/audio/voices/nanami/N2-090-1.srt",
+  "durationSeconds": 4.776,
+  "bytes": 28656,
+  "sha256": "f111e7cc945aad1e9ffa205264ff2db53448a0a716ffbe6b68bc89ca3c6d7241",
+  "peakPcm": 19642,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

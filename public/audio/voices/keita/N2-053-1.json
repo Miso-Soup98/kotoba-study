@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-053",
+  "exampleIndex": 0,
+  "text": "もう少しで、電車に乗り遅れるところでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 240,
+  "signature": "239cf095c6ca6761847fb023896b74d5a14281dca75e6760929b6a9ef55ea5d2",
+  "src": "/audio/voices/keita/N2-053-1.mp3",
+  "srt": "/audio/voices/keita/N2-053-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "1b540282fb6b5d7194825917757049a91beae0928e5456117a9c4fff94bd1e50",
+  "peakPcm": 21721,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

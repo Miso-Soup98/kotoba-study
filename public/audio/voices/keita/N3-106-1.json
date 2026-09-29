@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-106",
+  "exampleIndex": 0,
+  "text": "疲れたとみえて、弟はすぐ寝ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 173,
+  "signature": "0887073a052af5cf066bbd1ec8a903ae1eb1a379f4ed6beb69b3680ddc370365",
+  "src": "/audio/voices/keita/N3-106-1.mp3",
+  "srt": "/audio/voices/keita/N3-106-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "0e0c0780addd75a8e1fa2b32869988fd85ae7c4f02158695b990e6c630c41e25",
+  "peakPcm": 23902,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

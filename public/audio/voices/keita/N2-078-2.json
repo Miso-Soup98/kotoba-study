@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-078",
+  "exampleIndex": 1,
+  "text": "開店にあたり、ご挨拶申し上げます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 253,
+  "signature": "31d2ecdba342c6dc6cd2b9e55b7a117e3b71306a68cd867c3b2d571efc70220b",
+  "src": "/audio/voices/keita/N2-078-2.mp3",
+  "srt": "/audio/voices/keita/N2-078-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "d7dfe523204fbbf4e382403aa0ce50926446b4442cb7ffa3e26ff5f7e7db15c7",
+  "peakPcm": 24457,
+  "rmsDbfs": -20.81,
+  "rate": "+0%",
+  "listened": false
+}

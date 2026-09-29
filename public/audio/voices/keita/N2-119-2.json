@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-119",
+  "exampleIndex": 1,
+  "text": "誰にも知られることなく、町を去りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 273,
+  "signature": "24b6ee75b3700ab80037c025d4a47fe0314869d357b62bc9fddd6fdb4a57e691",
+  "src": "/audio/voices/keita/N2-119-2.mp3",
+  "srt": "/audio/voices/keita/N2-119-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "1be06802ac562d767976984e8eeef66fe956c031a979c5997084825341fa11a9",
+  "peakPcm": 26223,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

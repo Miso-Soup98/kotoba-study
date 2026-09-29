@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-136",
+  "exampleIndex": 0,
+  "text": "道がないので、引き返すよりほかありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 282,
+  "signature": "2f550722f417ce8d2dfcf88616c87987d01464fae3cd127f3a9cf9e24d33b5b0",
+  "src": "/audio/voices/nanami/N2-136-1.mp3",
+  "srt": "/audio/voices/nanami/N2-136-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "c8ca83e77dffda2b1b83971a11b594e9af1b4099cd9ef67e7e24ddcb0022b210",
+  "peakPcm": 21605,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

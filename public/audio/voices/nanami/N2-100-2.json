@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-100",
+  "exampleIndex": 1,
+  "text": "その話は、まだうわさでしかありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 264,
+  "signature": "26529ee822f181f698b171a400a00ac4f90ac42caa869532558951f9a38fe930",
+  "src": "/audio/voices/nanami/N2-100-2.mp3",
+  "srt": "/audio/voices/nanami/N2-100-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "48815dac226edd0ce7276eebf6c41303c0c253a50483ca3d55b31dd20a1d0ef9",
+  "peakPcm": 22121,
+  "rmsDbfs": -17.93,
+  "rate": "+0%",
+  "listened": false
+}

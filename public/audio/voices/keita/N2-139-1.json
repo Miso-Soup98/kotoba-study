@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-139",
+  "exampleIndex": 0,
+  "text": "こんなふうに書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 283,
+  "signature": "10e4d82e23fdf29be9c70e32f28903b8834913d3222dbab20b6e51dc7e8425fd",
+  "src": "/audio/voices/keita/N2-139-1.mp3",
+  "srt": "/audio/voices/keita/N2-139-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "8a7ff47c01c0015f9985e65143a5221754ef49f3c822507ba1ae592e8ef30e47",
+  "peakPcm": 20235,
+  "rmsDbfs": -21.39,
+  "rate": "+0%",
+  "listened": false
+}

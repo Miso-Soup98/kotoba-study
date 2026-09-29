@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-107",
+  "exampleIndex": 0,
+  "text": "忙しいにしても、連絡くらいできます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 174,
+  "signature": "c654f6c426668e7bdc4e3ce7923f7b5cadc8c3b10120f37201c96b799598d3a1",
+  "src": "/audio/voices/keita/N3-107-1.mp3",
+  "srt": "/audio/voices/keita/N3-107-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "6853e4ddf9b53e7025abb8aaeffe712d3d520a49784663d2eafc96fe5e55f5a9",
+  "peakPcm": 24506,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

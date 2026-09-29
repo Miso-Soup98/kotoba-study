@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-140",
+  "exampleIndex": 0,
+  "text": "先生に、明日までに出すように言われました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 190,
+  "signature": "d0ead47420726a26987b0d33c18fe625504d8980bf48e919c6f357218cfb34e9",
+  "src": "/audio/voices/nanami/N3-140-1.mp3",
+  "srt": "/audio/voices/nanami/N3-140-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "9749f778bf35e426db54cacf915876846d44fad35eff0c8c1c0896fde27427a2",
+  "peakPcm": 20547,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

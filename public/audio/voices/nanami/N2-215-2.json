@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-215",
+  "exampleIndex": 1,
+  "text": "たった一度の失敗で、やめないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 322,
+  "signature": "40f82633cb8598139ebac7cebd6d41aeb919af734eff6d65f5f0354715f4551f",
+  "src": "/audio/voices/nanami/N2-215-2.mp3",
+  "srt": "/audio/voices/nanami/N2-215-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "0e396eac6136a628c5b696d6061efc485e325ee2ff4a3534ec876798c97acf69",
+  "peakPcm": 22391,
+  "rmsDbfs": -18.53,
+  "rate": "+0%",
+  "listened": false
+}

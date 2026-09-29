@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-190",
+  "exampleIndex": 1,
+  "text": "明日は試験です。ちなみに、辞書は使えません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 309,
+  "signature": "5f15ba8374f8d1f2baeebce11b5a7d085ed27e08b9602e521690647a14232da3",
+  "src": "/audio/voices/nanami/N2-190-2.mp3",
+  "srt": "/audio/voices/nanami/N2-190-2.srt",
+  "durationSeconds": 5.352,
+  "bytes": 32112,
+  "sha256": "a2559c1ca233bcf59873dc8e2576aaa31a144bc941d83a98ceb2c7505c44c0e5",
+  "peakPcm": 22237,
+  "rmsDbfs": -18.83,
+  "rate": "+0%",
+  "listened": false
+}

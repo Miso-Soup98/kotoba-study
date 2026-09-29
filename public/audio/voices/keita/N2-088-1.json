@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-088",
+  "exampleIndex": 0,
+  "text": "親にしたら、子供の安全が一番です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 258,
+  "signature": "9ba534487575df658332623e82fa48c592f099d0f395c816d5171f73cc973a6b",
+  "src": "/audio/voices/keita/N2-088-1.mp3",
+  "srt": "/audio/voices/keita/N2-088-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "3daa15a1429916e43f03bf20bbdab4a5ad22e05b9a767c300c46e82d42d331b8",
+  "peakPcm": 24730,
+  "rmsDbfs": -19.74,
+  "rate": "+0%",
+  "listened": false
+}

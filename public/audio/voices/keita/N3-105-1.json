@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-105",
+  "exampleIndex": 0,
+  "text": "彼は疲れているように見えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 173,
+  "signature": "4213d0ea6b41140ac782bc2e641c0a6bf4bd004ccfff6b96ee2ceb2d2bb24dbb",
+  "src": "/audio/voices/keita/N3-105-1.mp3",
+  "srt": "/audio/voices/keita/N3-105-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "ea6776d131ecabfc4c72c15b3cef22f7307f3817062c2672e9c81e024c259838",
+  "peakPcm": 23583,
+  "rmsDbfs": -20.0,
+  "rate": "+0%",
+  "listened": false
+}

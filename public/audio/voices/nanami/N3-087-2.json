@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-087",
+  "exampleIndex": 1,
+  "text": "留学生向けに説明会を開きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 164,
+  "signature": "a720644bbb1b111afa340a551b02093c97ef2989b32b473ab8cb7bcceb8797ab",
+  "src": "/audio/voices/nanami/N3-087-2.mp3",
+  "srt": "/audio/voices/nanami/N3-087-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "5ec75b1fb69f656df6fcbc48805f4b42d35087e37c559f464f17093710e55451",
+  "peakPcm": 20678,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

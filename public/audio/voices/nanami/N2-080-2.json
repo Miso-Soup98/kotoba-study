@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-080",
+  "exampleIndex": 1,
+  "text": "調査を始めるに先立ち、目的を説明しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 254,
+  "signature": "7aaa28aa763709a1def82f2b5606b6ae303788990182cec8809433fb37e6a2e0",
+  "src": "/audio/voices/nanami/N2-080-2.mp3",
+  "srt": "/audio/voices/nanami/N2-080-2.srt",
+  "durationSeconds": 4.824,
+  "bytes": 28944,
+  "sha256": "0204c68e4c617c08a3e2f0d1985be1a2db5ccb0fd37606d41aee3ca3bb462834",
+  "peakPcm": 21057,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

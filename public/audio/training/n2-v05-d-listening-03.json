@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-d-listening-03",
+  "exampleIndex": 0,
+  "text": "サイズが合わない靴の交換についてご案内します。外で履いていないものに限り、購入から一週間以内なら交換できます。その際、レシートもお持ちください。箱はなくてもかまいません。同じ商品の別のサイズが店にない場合は、お取り寄せになりますので、その日のうちにお渡しできないこともあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "8260c972e392259ccec62f8ed8076eb316b3964e45e592f3caa9195a8de5efb1",
+  "src": "/audio/training/n2-v05-d-listening-03.mp3",
+  "srt": "/audio/training/n2-v05-d-listening-03.srt",
+  "durationSeconds": 26.064,
+  "bytes": 156384,
+  "sha256": "a84af29653f6d06551524d3baa6d0ee594728d3062f1dd66fb56863db458ca9f",
+  "peakPcm": 22300,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

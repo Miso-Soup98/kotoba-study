@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-095",
+  "exampleIndex": 0,
+  "text": "分からないときは、先生に聞けばいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 168,
+  "signature": "77502a142960146596723d5b90728c708ab6b8aa2a8fbb50b90f825c7a39d82c",
+  "src": "/audio/voices/nanami/N3-095-1.mp3",
+  "srt": "/audio/voices/nanami/N3-095-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "c553596d34c3827a4a8af1a53faaceef48b4a8daf4825c0d7a5610ca7493a709",
+  "peakPcm": 21175,
+  "rmsDbfs": -17.57,
+  "rate": "+0%",
+  "listened": false
+}

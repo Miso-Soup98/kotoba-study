@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-036",
+  "exampleIndex": 1,
+  "text": "失敗したからこそ、学べたことがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 231,
+  "signature": "9fa260bd4df884f3b6e3e75d4f927204455c0f31f770f0bc991ece1ecdb6db95",
+  "src": "/audio/voices/keita/N2-036-2.mp3",
+  "srt": "/audio/voices/keita/N2-036-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "bf3fc57cb8f58a1da3652a483d2936a6defef4bd0a1b63d498bfae0d89e93cd6",
+  "peakPcm": 24645,
+  "rmsDbfs": -21.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-152",
+  "exampleIndex": 1,
+  "text": "一日ならともかく、一週間は待てません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 290,
+  "signature": "19426cbdfaeaea20250ecbc4a6113711b284ed2973e917e7dd95a99156729f48",
+  "src": "/audio/voices/nanami/N2-152-2.mp3",
+  "srt": "/audio/voices/nanami/N2-152-2.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "f232a9efb80e70758a7d9cbb3d432739cfb9a8edae2cc04502928e4d1d334ab1",
+  "peakPcm": 19567,
+  "rmsDbfs": -18.46,
+  "rate": "+0%",
+  "listened": false
+}

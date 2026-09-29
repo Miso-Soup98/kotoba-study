@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-199",
+  "exampleIndex": 1,
+  "text": "そう言えば、この本はまだ返していませんね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 314,
+  "signature": "d975d927ffd035f05e913a158df2e33a702232d5ae8e7f466028bde1db583735",
+  "src": "/audio/voices/keita/N2-199-2.mp3",
+  "srt": "/audio/voices/keita/N2-199-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "9bb35032773627d40f2632c17ff78db541df5627f322c1a9068ca2a4a3b2e596",
+  "peakPcm": 22403,
+  "rmsDbfs": -19.83,
+  "rate": "+0%",
+  "listened": false
+}

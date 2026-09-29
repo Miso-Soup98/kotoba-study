@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-148",
+  "exampleIndex": 1,
+  "text": "窓を開けたところ、冷たい風が入ってきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 288,
+  "signature": "f6bf4750ff2b399b0f7230d6ee658ce60e5f1229d92208a0c3bdf38d8b0b1115",
+  "src": "/audio/voices/nanami/N2-148-2.mp3",
+  "srt": "/audio/voices/nanami/N2-148-2.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "31a5b1caf80b13ed544879a4445bf1234e3a20d17d3cdb4172288aa547519b2a",
+  "peakPcm": 20708,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

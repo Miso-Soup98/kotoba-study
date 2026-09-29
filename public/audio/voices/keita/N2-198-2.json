@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-198",
+  "exampleIndex": 1,
+  "text": "初めてだそうですね。それにしても、上手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 313,
+  "signature": "57fecf4b6d965272fdfa0c4b2a687de5349b3e688f79ba6fb9920c0578e28720",
+  "src": "/audio/voices/keita/N2-198-2.mp3",
+  "srt": "/audio/voices/keita/N2-198-2.srt",
+  "durationSeconds": 4.944,
+  "bytes": 29664,
+  "sha256": "23576d2db75a6c4dd37f288cf340d88ca92884c66842f5e7a93afd1560084f50",
+  "peakPcm": 23929,
+  "rmsDbfs": -21.31,
+  "rate": "+0%",
+  "listened": false
+}

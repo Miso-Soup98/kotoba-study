@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-025",
+  "exampleIndex": 0,
+  "text": "温かいうちに食べてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 133,
+  "signature": "90115d3e4eb0dc9af19eb125875e6bc0a69b48285a99ff46735385c26e17632a",
+  "src": "/audio/voices/nanami/N3-025-1.mp3",
+  "srt": "/audio/voices/nanami/N3-025-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "078c9f2dbd7eb7aa9d1bbcf777d5e45b99fccb8c141bac76dfaaba51b2ead322",
+  "peakPcm": 19196,
+  "rmsDbfs": -18.69,
+  "rate": "+0%",
+  "listened": false
+}

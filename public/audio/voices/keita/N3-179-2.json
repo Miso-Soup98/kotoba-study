@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-179",
+  "exampleIndex": 1,
+  "text": "宿題に加えて、さらに作文も出ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 210,
+  "signature": "56b6159470b8518f644dc95978d9c6ba2783cf6275165af1f7edf03c0bdddfed",
+  "src": "/audio/voices/keita/N3-179-2.mp3",
+  "srt": "/audio/voices/keita/N3-179-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "2cffb9625956c76a269344c8054143ce1188e3105600e3da55688d459af70906",
+  "peakPcm": 22443,
+  "rmsDbfs": -19.96,
+  "rate": "+0%",
+  "listened": false
+}

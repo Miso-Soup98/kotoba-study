@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-098",
+  "exampleIndex": 0,
+  "text": "弟は野菜を食べようとしません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 169,
+  "signature": "cc83d5053fc7a041da4bdc9c58154213e0ed767c89aa862e071ac3f029991da4",
+  "src": "/audio/voices/keita/N3-098-1.mp3",
+  "srt": "/audio/voices/keita/N3-098-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "3699df53559e1494711de4ab5bc1be147b414f0e7c1cb8026c1d19d47fb4b5e6",
+  "peakPcm": 21106,
+  "rmsDbfs": -20.36,
+  "rate": "+0%",
+  "listened": false
+}

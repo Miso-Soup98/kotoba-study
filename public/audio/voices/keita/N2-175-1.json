@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-175",
+  "exampleIndex": 0,
+  "text": "残りはわずかに三人です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 302,
+  "signature": "0146d508c9c669d2415cbc9f9d145eead476c0080ce4556873a5cda8a6e124e2",
+  "src": "/audio/voices/keita/N2-175-1.mp3",
+  "srt": "/audio/voices/keita/N2-175-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "308570960d3775cd1a751cda990f1321bf95a8816eba3ac12eed8b7f075a4d7c",
+  "peakPcm": 21924,
+  "rmsDbfs": -20.5,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-142",
+  "exampleIndex": 0,
+  "text": "御厚意に甘えて、一晩泊まらせていただきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 191,
+  "signature": "aea82a2f17581d26ab7d65fdbcd69c4b8ba414351c1a0c8f0b62283b58860840",
+  "src": "/audio/voices/nanami/N3-142-1.mp3",
+  "srt": "/audio/voices/nanami/N3-142-1.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "dc0270370921d96171f5b73072c7e1acde7d8e354d88c34e4531c8684d43034f",
+  "peakPcm": 21023,
+  "rmsDbfs": -17.16,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-139",
+  "exampleIndex": 0,
+  "text": "私なんかには、まだ難しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 190,
+  "signature": "e8159679022a89aa6d3fefe8ff7433bed63c5d742a788ae50e84e3edb8575304",
+  "src": "/audio/voices/nanami/N3-139-1.mp3",
+  "srt": "/audio/voices/nanami/N3-139-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "f9e4692a18e02682cecc702df7027ab161a254efd8c52ba881383cf96763f2a4",
+  "peakPcm": 20349,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

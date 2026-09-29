@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-025",
+  "exampleIndex": 0,
+  "text": "こんなに練習したのだから、上手になるに決まっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 226,
+  "signature": "ff5eac1c3a8e90a297268fb10887e414f9d469b36fdd5baa06aabf6bb5cee2dc",
+  "src": "/audio/voices/keita/N2-025-1.mp3",
+  "srt": "/audio/voices/keita/N2-025-1.srt",
+  "durationSeconds": 4.512,
+  "bytes": 27072,
+  "sha256": "3fed31b13ae2e1ae3ca062cc2a91951d61fa4063b72a00eab4203d7d463ac4a7",
+  "peakPcm": 22569,
+  "rmsDbfs": -19.85,
+  "rate": "+0%",
+  "listened": false
+}

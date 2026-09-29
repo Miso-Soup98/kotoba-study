@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-039",
+  "exampleIndex": 1,
+  "text": "一人で全部するというのは、大変です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 140,
+  "signature": "96da0d02dba876a76e7c3e6e5ae7e883e87532ab34da4aacad5094f9e337f472",
+  "src": "/audio/voices/nanami/N3-039-2.mp3",
+  "srt": "/audio/voices/nanami/N3-039-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "47e54c399b1d828513a502f388d2d4183005bc21985ea5f6f5dc753c439f9b8a",
+  "peakPcm": 21100,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

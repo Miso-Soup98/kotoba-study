@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-177",
+  "exampleIndex": 1,
+  "text": "彼は父の弟です。つまり、私のおじです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 209,
+  "signature": "30128551a796ac7a8912dcaa3ecdee14f80cec163a2f6002a1c2d601af57f6ad",
+  "src": "/audio/voices/nanami/N3-177-2.mp3",
+  "srt": "/audio/voices/nanami/N3-177-2.srt",
+  "durationSeconds": 5.592,
+  "bytes": 33552,
+  "sha256": "4b785ccda621980f6d1e483a1df6a20dd4d3fbe53690a1335046a6dbaac1f480",
+  "peakPcm": 20703,
+  "rmsDbfs": -18.49,
+  "rate": "+0%",
+  "listened": false
+}

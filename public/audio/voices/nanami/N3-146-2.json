@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-146",
+  "exampleIndex": 1,
+  "text": "友達の苦しみが少し分かりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 193,
+  "signature": "84c71c0fc1340d8c2d35ea6c1617e40658dd8c04f4a78e538bb9d5f73947dc20",
+  "src": "/audio/voices/nanami/N3-146-2.mp3",
+  "srt": "/audio/voices/nanami/N3-146-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "8ddbd67ebe904dafb3fcc631cfeaa1505384c05325672ea0cc3b3c453a4e2604",
+  "peakPcm": 22077,
+  "rmsDbfs": -18.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-139",
+  "exampleIndex": 0,
+  "text": "私なんかには、まだ難しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 190,
+  "signature": "f8b1a0838db351e0d2df78ffdbc3e40fd8734f1cd9af7938f022e5cda1547351",
+  "src": "/audio/voices/keita/N3-139-1.mp3",
+  "srt": "/audio/voices/keita/N3-139-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "eef29550b8554717653468e071ea3c0986be163d5c6fce99b0398162817c064d",
+  "peakPcm": 25552,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

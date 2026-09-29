@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-015",
+  "exampleIndex": 0,
+  "text": "実際の出来事をもとに、小説を書きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 221,
+  "signature": "9f1fa114de36d7edbbf0a4aece62273a92387220cf59dd86900e7d0ce1185fee",
+  "src": "/audio/voices/nanami/N2-015-1.mp3",
+  "srt": "/audio/voices/nanami/N2-015-1.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "39b311c93046881d0101ade07591485cf01c9db937cde52a4b4539a3b5771104",
+  "peakPcm": 21462,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

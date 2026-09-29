@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-122",
+  "exampleIndex": 1,
+  "text": "この雨では、客はあまり来るまい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 275,
+  "signature": "b8cb96e5850b781b20df762697cb6f1d808c3b70d6c3cf780150c2e2241d8f8e",
+  "src": "/audio/voices/keita/N2-122-2.mp3",
+  "srt": "/audio/voices/keita/N2-122-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "8419dbed51ae2ad995c0f85243f7935676e11305abe590ca02581af67f495ee0",
+  "peakPcm": 21180,
+  "rmsDbfs": -20.31,
+  "rate": "+0%",
+  "listened": false
+}

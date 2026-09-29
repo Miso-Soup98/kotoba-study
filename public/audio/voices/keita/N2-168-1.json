@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-168",
+  "exampleIndex": 0,
+  "text": "急いだら、かえって間違いが増えました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 298,
+  "signature": "82848d32e1ebca6b7135c6e139576f94a0dd94ad14afe6bc4625bde6cb089a47",
+  "src": "/audio/voices/keita/N2-168-1.mp3",
+  "srt": "/audio/voices/keita/N2-168-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "b48b913abe18eb083133bbaf97cbcac506005854bb2cc5420f1e7797d77b2586",
+  "peakPcm": 24821,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

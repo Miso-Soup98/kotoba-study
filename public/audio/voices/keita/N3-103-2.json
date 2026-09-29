@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-103",
+  "exampleIndex": 1,
+  "text": "連絡がなくて、心配しないではいられません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 172,
+  "signature": "27932b2fdeb09173676a45ca5e4db7856cb18c4c3a793da7e6d1e398d247475c",
+  "src": "/audio/voices/keita/N3-103-2.mp3",
+  "srt": "/audio/voices/keita/N3-103-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "bebec8f17a4cbb4a973037e551cbd58835eabf3071756dc2faa0ce36daa6f8f8",
+  "peakPcm": 22250,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

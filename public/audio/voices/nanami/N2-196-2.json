@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-196",
+  "exampleIndex": 1,
+  "text": "十分寝ました。それなのに、まだ眠いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 312,
+  "signature": "4068abacb999be4aa37f3113a1c30d60e1b7e9f49284766e7e80ae3d37b40e92",
+  "src": "/audio/voices/nanami/N2-196-2.mp3",
+  "srt": "/audio/voices/nanami/N2-196-2.srt",
+  "durationSeconds": 5.136,
+  "bytes": 30816,
+  "sha256": "fba8bd8a5d24fc9e5285aed74e1e799d35d2d2ff9caf1119b3258a9095dd47fc",
+  "peakPcm": 21718,
+  "rmsDbfs": -17.98,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-176",
+  "exampleIndex": 0,
+  "text": "お茶にしますか。それとも、水にしますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 208,
+  "signature": "bcff6c45503503dcf3a3a982974719e5f6894d0b3787f137d2e6c98903d37541",
+  "src": "/audio/voices/nanami/N3-176-1.mp3",
+  "srt": "/audio/voices/nanami/N3-176-1.srt",
+  "durationSeconds": 4.776,
+  "bytes": 28656,
+  "sha256": "8f55f2e2080009198440acf528c21877145f0571e9f3a03c7c13f19213234299",
+  "peakPcm": 22136,
+  "rmsDbfs": -19.43,
+  "rate": "+0%",
+  "listened": false
+}

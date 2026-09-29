@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-180",
+  "exampleIndex": 1,
+  "text": "さて、次の問題を見てください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 210,
+  "signature": "9c586267574e760b18b4248f6bbcea04dabcaa37e64506d054fb752ba4c50f1a",
+  "src": "/audio/voices/nanami/N3-180-2.mp3",
+  "srt": "/audio/voices/nanami/N3-180-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "fe3a9d00118e2d67826c8cbd9612946e339086f8a441903820c3a80ee8003d01",
+  "peakPcm": 21740,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

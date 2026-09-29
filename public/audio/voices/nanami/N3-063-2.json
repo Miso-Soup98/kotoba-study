@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-063",
+  "exampleIndex": 1,
+  "text": "一人では食べ切れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 152,
+  "signature": "8d5b42d468197d7e8a788b244aef8d5c5dab23eafb7e367d0b895a555741cf3c",
+  "src": "/audio/voices/nanami/N3-063-2.mp3",
+  "srt": "/audio/voices/nanami/N3-063-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "cfc53bc20d2611341a5d7692df84030fcf936fe043367f1af19bf661621b8c32",
+  "peakPcm": 20692,
+  "rmsDbfs": -18.38,
+  "rate": "+0%",
+  "listened": false
+}

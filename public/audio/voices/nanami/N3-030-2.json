@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-030",
+  "exampleIndex": 1,
+  "text": "先生に聞いてからでなければ、決められません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 135,
+  "signature": "2be1235282709234e8c447d027f2f27e20a8382f478a678e5c16afcfb49c7a13",
+  "src": "/audio/voices/nanami/N3-030-2.mp3",
+  "srt": "/audio/voices/nanami/N3-030-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "79484e635e307269b5e61275db86bdbe48509b350190d1210e17cb05afed6631",
+  "peakPcm": 20441,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

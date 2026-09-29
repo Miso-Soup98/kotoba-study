@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-123",
+  "exampleIndex": 1,
+  "text": "先生になったつもりで、説明してみてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 182,
+  "signature": "0fdce04fd7d49b0ac39b1874af3cc41bcffcc5b1d12cc900f8d297eabd0b3c20",
+  "src": "/audio/voices/keita/N3-123-2.mp3",
+  "srt": "/audio/voices/keita/N3-123-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "6c01cf0c4051cc3c2b4369929415d08f7e79370d92f2052bfc61ce4959438125",
+  "peakPcm": 21155,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-094",
+  "exampleIndex": 0,
+  "text": "この問題は学生のみならず、教員にも関係します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 261,
+  "signature": "db1db9c59086a121880065ac3f631f57977b477b15de596f722c53c96b510caf",
+  "src": "/audio/voices/nanami/N2-094-1.mp3",
+  "srt": "/audio/voices/nanami/N2-094-1.srt",
+  "durationSeconds": 5.136,
+  "bytes": 30816,
+  "sha256": "d0ce472636c6e7c9154495405b83443a47be7cdfec4a8e0796260265b5b9aa64",
+  "peakPcm": 21790,
+  "rmsDbfs": -16.98,
+  "rate": "+0%",
+  "listened": false
+}

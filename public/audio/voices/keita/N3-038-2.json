@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-038",
+  "exampleIndex": 1,
+  "text": "ほかの人が来ないなら、今日は私だけということですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 139,
+  "signature": "a1c078a4a27470246506c50dc1c8b763f7db97c49bd267e7fcbee33e727d70a2",
+  "src": "/audio/voices/keita/N3-038-2.mp3",
+  "srt": "/audio/voices/keita/N3-038-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "53c8b342c2be459025cd98a6f015dffe1e178301be98ce640abab118bd717b86",
+  "peakPcm": 23584,
+  "rmsDbfs": -20.35,
+  "rate": "+0%",
+  "listened": false
+}

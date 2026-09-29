@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-027",
+  "exampleIndex": 1,
+  "text": "その説明はあり得ません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 227,
+  "signature": "3defe50f69e41c47823bcda40ae17c33ffeb23a9b68a57a55bc11df1e18b408e",
+  "src": "/audio/voices/nanami/N2-027-2.mp3",
+  "srt": "/audio/voices/nanami/N2-027-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "1ea252f3d49974d5b3ec1e0d90f72ca26e40e010ba668396c9607bd9e64f801e",
+  "peakPcm": 20618,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-090",
+  "exampleIndex": 0,
+  "text": "今日は昨日ほど寒くありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 165,
+  "signature": "074d0b84c09ba7335921534148ce4662e9e5eacaa1dfda3d35c36648db610710",
+  "src": "/audio/voices/nanami/N3-090-1.mp3",
+  "srt": "/audio/voices/nanami/N3-090-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "49a4d763cc365221c12e40b219b33200191cb21234f1d3dada8b3806fe774337",
+  "peakPcm": 21764,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

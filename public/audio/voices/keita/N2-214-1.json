@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-214",
+  "exampleIndex": 0,
+  "text": "費用はおおよそ三万円です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 321,
+  "signature": "96815e3b547ca0f01a0fa8ec085ca9ad1d64c28c9af200b2255fd1fbfc87cf70",
+  "src": "/audio/voices/keita/N2-214-1.mp3",
+  "srt": "/audio/voices/keita/N2-214-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "c0ceaa379e39d61670bcaf43f8261da7099ccac01a33bd6855dfa3420d847d6d",
+  "peakPcm": 23721,
+  "rmsDbfs": -19.78,
+  "rate": "+0%",
+  "listened": false
+}

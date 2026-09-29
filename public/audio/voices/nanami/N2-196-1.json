@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-196",
+  "exampleIndex": 0,
+  "text": "何度も説明しました。それなのに、また同じ間違いをしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 312,
+  "signature": "054c5637b407b39895851beb1282a715e964cc736e5eaa0384572e8a61eec039",
+  "src": "/audio/voices/nanami/N2-196-1.mp3",
+  "srt": "/audio/voices/nanami/N2-196-1.srt",
+  "durationSeconds": 6.528,
+  "bytes": 39168,
+  "sha256": "33eb9a60789b87c76c0bdd923402da1060ccfe7f0d26c998b05d003f77bcd352",
+  "peakPcm": 22649,
+  "rmsDbfs": -18.13,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-130",
+  "exampleIndex": 1,
+  "text": "明日までに、宿題を終わらせないといけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 185,
+  "signature": "b5a7e4151902d77954b14d5fcc0cb281cda371ea02633eef5d6ced68964f06d9",
+  "src": "/audio/voices/keita/N3-130-2.mp3",
+  "srt": "/audio/voices/keita/N3-130-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "3cfd94f1c73ee6d3734bd7fc56ee6aa36f712105b7c14fefa706c3ef566d9c87",
+  "peakPcm": 25201,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

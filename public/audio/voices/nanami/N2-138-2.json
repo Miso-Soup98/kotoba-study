@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-138",
+  "exampleIndex": 1,
+  "text": "皆が参加できるというふうに考えていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 283,
+  "signature": "1cdb0db0918d6d503fcf1df7bb760276431411c264da216114aa5e8bdb00da25",
+  "src": "/audio/voices/nanami/N2-138-2.mp3",
+  "srt": "/audio/voices/nanami/N2-138-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "30e136135913f6c67b4ab57199c814f7d56767116a96afbe9d3a553de8b46f87",
+  "peakPcm": 22643,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

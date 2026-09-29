@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-038",
+  "exampleIndex": 1,
+  "text": "ほかの人が来ないなら、今日は私だけということですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 139,
+  "signature": "3a22d59515bb6e16a05934111cbfbec888fbee6515fce070f422d0d1ebe3cee8",
+  "src": "/audio/voices/nanami/N3-038-2.mp3",
+  "srt": "/audio/voices/nanami/N3-038-2.srt",
+  "durationSeconds": 4.992,
+  "bytes": 29952,
+  "sha256": "95f3513d5d670961347ddb8098b2734dadd4d73a1d001701ae928963d56819e8",
+  "peakPcm": 21538,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

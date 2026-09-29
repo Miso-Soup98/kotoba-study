@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-067",
+  "exampleIndex": 0,
+  "text": "猫が箱の中に入り込みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 154,
+  "signature": "85b92724f5444dabc59b5f3307a9909f977bc71aeedc7e22ea610542b8b4b971",
+  "src": "/audio/voices/nanami/N3-067-1.mp3",
+  "srt": "/audio/voices/nanami/N3-067-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "13b6b677ff375eded552c6b40010eaade1b23f1f1b6b1f0db7a7d7a01b7600c5",
+  "peakPcm": 22383,
+  "rmsDbfs": -18.01,
+  "rate": "+0%",
+  "listened": false
+}

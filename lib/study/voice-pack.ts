@@ -1,4 +1,4 @@
-import manifest from "../../public/audio/voices/manifest.json" with { type: "json" };
+import manifest from "./voice-manifest.json" with { type: "json" };
 import type { Entry } from "./types.ts";
 
 export type VoiceId = "nanami" | "keita";

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-121",
+  "exampleIndex": 1,
+  "text": "知らないふりをしないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 181,
+  "signature": "03ad9cde58b6be01b3674941e289f74d1db40baa3743eb4e45758bc01ee34716",
+  "src": "/audio/voices/keita/N3-121-2.mp3",
+  "srt": "/audio/voices/keita/N3-121-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "c74966c9c6117f31760f81bf792467ddfa3ab87f60fc2647616c3977d345dc43",
+  "peakPcm": 27506,
+  "rmsDbfs": -20.46,
+  "rate": "+0%",
+  "listened": false
+}

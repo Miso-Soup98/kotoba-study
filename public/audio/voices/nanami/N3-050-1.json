@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-050",
+  "exampleIndex": 0,
+  "text": "終わったことを悔やんでも仕方がありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 145,
+  "signature": "908be6ed3ea70e6104f3cedbd6275f2d65f9206a12267110d8a4e5df96efdd24",
+  "src": "/audio/voices/nanami/N3-050-1.mp3",
+  "srt": "/audio/voices/nanami/N3-050-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "3b7af2901c6bfd0d3f0e5238646545ca90f4ccc384c5a11657536a1daa4f0733",
+  "peakPcm": 22023,
+  "rmsDbfs": -17.25,
+  "rate": "+0%",
+  "listened": false
+}

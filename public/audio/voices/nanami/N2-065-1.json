@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-065",
+  "exampleIndex": 0,
+  "text": "毎日練習しただけのことはありますね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 246,
+  "signature": "d385b5a1614007da3ff8894b3bfd6c73a18af39b1cb1603d3444443cbdc439ae",
+  "src": "/audio/voices/nanami/N2-065-1.mp3",
+  "srt": "/audio/voices/nanami/N2-065-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "4cc99a0624cd0be40743f446d17ea29bd674c1a8017284355b69919458c2b71d",
+  "peakPcm": 22052,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-134",
+  "exampleIndex": 0,
+  "text": "春と言えば、桜ですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 187,
+  "signature": "757c365096e4773a3b601c1f7dd56561e57b2ca8219124eba2cddc62e89e72e8",
+  "src": "/audio/voices/keita/N3-134-1.mp3",
+  "srt": "/audio/voices/keita/N3-134-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "2248f0e28c485e206fea0c8763eca88ce8dd1b8fe85a15faf2ab80f0962ed030",
+  "peakPcm": 23591,
+  "rmsDbfs": -21.55,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-052",
+  "exampleIndex": 1,
+  "text": "勉強したわりに、点が低かったです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 146,
+  "signature": "cd16714f6bca2ca2e651bd601b17293d78a8778c4be94d3247c6d3c7c4fd6217",
+  "src": "/audio/voices/keita/N3-052-2.mp3",
+  "srt": "/audio/voices/keita/N3-052-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "e74b15525c359c7c9cc2e6534b0e9805abe40776b533502b7b1f41dbb35452fd",
+  "peakPcm": 23875,
+  "rmsDbfs": -20.65,
+  "rate": "+0%",
+  "listened": false
+}

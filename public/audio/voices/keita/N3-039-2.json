@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-039",
+  "exampleIndex": 1,
+  "text": "一人で全部するというのは、大変です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 140,
+  "signature": "26c345d92ab0aeeceab579ba5ddd7f5fa9aeed8880975c92e0f0c706c107379d",
+  "src": "/audio/voices/keita/N3-039-2.mp3",
+  "srt": "/audio/voices/keita/N3-039-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "bde6033a8bca746d9ec4010127d6e9241ed43ab99ca8ee5849126b64472819e2",
+  "peakPcm": 22008,
+  "rmsDbfs": -20.65,
+  "rate": "+0%",
+  "listened": false
+}

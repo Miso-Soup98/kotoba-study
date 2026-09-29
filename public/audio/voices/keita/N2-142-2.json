@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-142",
+  "exampleIndex": 1,
+  "text": "引っ越しの準備やら仕事やらで、忙しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 285,
+  "signature": "bd4a676bb7feb41a1456c384bdccc4c68ef17cd361e722e521a189ecd469ae3a",
+  "src": "/audio/voices/keita/N2-142-2.mp3",
+  "srt": "/audio/voices/keita/N2-142-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "b5eccda80f0b61149b5567bb29636b8d52c4ee0f1fdbd104a2db0b439a8dfa8d",
+  "peakPcm": 21261,
+  "rmsDbfs": -20.7,
+  "rate": "+0%",
+  "listened": false
+}

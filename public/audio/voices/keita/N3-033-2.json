@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-033",
+  "exampleIndex": 1,
+  "text": "仕事を選ぶ上で、何を重視しますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 137,
+  "signature": "9a2954d86167ad17983995465b24540b2980148bf4a4896d3b69454b181d4887",
+  "src": "/audio/voices/keita/N3-033-2.mp3",
+  "srt": "/audio/voices/keita/N3-033-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "5d80537043551bc199c65c19c7d01e7e350b5451366917d1df90cdeb76b8b6b0",
+  "peakPcm": 24371,
+  "rmsDbfs": -19.71,
+  "rate": "+0%",
+  "listened": false
+}

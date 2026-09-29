@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-222",
+  "exampleIndex": 1,
+  "text": "説明は聞きました。しかしながら、疑問は残っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 325,
+  "signature": "7c2922a71fa3d0c1c98055b552f0368e77be0cff82889176d1adbf6ebcf2495c",
+  "src": "/audio/voices/keita/N2-222-2.mp3",
+  "srt": "/audio/voices/keita/N2-222-2.srt",
+  "durationSeconds": 5.544,
+  "bytes": 33264,
+  "sha256": "8b80cc7f4f2d7513742178638d78952a8db3b720620a2e767810ef600915516b",
+  "peakPcm": 24051,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

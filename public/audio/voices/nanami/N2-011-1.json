@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-011",
+  "exampleIndex": 0,
+  "text": "私が知っている限りでは、彼はまだ学生です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 219,
+  "signature": "6bdcdde4003cf9282295a553126953f96a07df50c82a50a05da228905feae081",
+  "src": "/audio/voices/nanami/N2-011-1.mp3",
+  "srt": "/audio/voices/nanami/N2-011-1.srt",
+  "durationSeconds": 4.68,
+  "bytes": 28080,
+  "sha256": "83d8921a6380ed6b31eded9a06d523a8d0f2b77ddff9099d3873f1e775efbc4f",
+  "peakPcm": 22148,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

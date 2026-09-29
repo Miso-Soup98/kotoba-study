@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-156",
+  "exampleIndex": 0,
+  "text": "この料理はなかなかおいしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 198,
+  "signature": "49ff0644c7a3652520097b5320dbdd366a7b94b61d1cedbba1aff6ec6bb003d5",
+  "src": "/audio/voices/keita/N3-156-1.mp3",
+  "srt": "/audio/voices/keita/N3-156-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "8708aa64c83f46a2415af13253720ce5d5a7d443cce2358d0f463cf12d6ac409",
+  "peakPcm": 20906,
+  "rmsDbfs": -20.28,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-c-listening-05",
+  "exampleIndex": 0,
+  "text": "相談窓口の予約が取りにくいという声を受けて、枠を増やす案が出ています。ただ、私はその前に、予約だけして来ない人が多い理由を調べたいと思います。忘れているのなら、前日に連絡する方法もあります。予約枠を増やすだけでは、必要な人が利用できない状態が続くおそれがあります。まず今の枠の使われ方を確かめたいのです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "7dcd2db40817729602a643a5e1957bb995b4859e2bb915435dcf59d3be41e7c5",
+  "src": "/audio/training/n2-v05-c-listening-05.mp3",
+  "srt": "/audio/training/n2-v05-c-listening-05.srt",
+  "durationSeconds": 29.352,
+  "bytes": 176112,
+  "sha256": "b82447fbe4b2b79316add4029804cde35905df6f495a80301be2ae404cf6eb3b",
+  "peakPcm": 22167,
+  "rmsDbfs": -16.96,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

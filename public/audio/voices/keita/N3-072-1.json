@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-072",
+  "exampleIndex": 0,
+  "text": "三年ぶりに友達に会いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 156,
+  "signature": "e0262b8786288037545d7bf17b3686a7d5ee327489162f3afffb8aa19afd0fef",
+  "src": "/audio/voices/keita/N3-072-1.mp3",
+  "srt": "/audio/voices/keita/N3-072-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "f3b5c370e2faae0ed83aaa7be5274c6cbd48eba618ef0fa7105842edacd84ea3",
+  "peakPcm": 21302,
+  "rmsDbfs": -20.3,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-150",
+  "exampleIndex": 0,
+  "text": "もっと簡単に説明できないものか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 289,
+  "signature": "50ea0c1d716f41deb227b47358fdd2c25a4aaf07b5f2f639107b209ccc13c351",
+  "src": "/audio/voices/nanami/N2-150-1.mp3",
+  "srt": "/audio/voices/nanami/N2-150-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "f116e0421d99e0fde867901342b93ebd3aa659fbc615e97a07560dd3c2892636",
+  "peakPcm": 21831,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

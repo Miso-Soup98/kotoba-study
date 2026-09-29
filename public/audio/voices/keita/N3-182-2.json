@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-182",
+  "exampleIndex": 1,
+  "text": "計画的に勉強しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 211,
+  "signature": "a68828b4da24256a7d014a239d49daabc6f24dd43e7c08ff8b811eb47b810d25",
+  "src": "/audio/voices/keita/N3-182-2.mp3",
+  "srt": "/audio/voices/keita/N3-182-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "29084d01ae96728790cb0c5af5ba0b05f4e21eceeb80cb3500aa4768aa944ac8",
+  "peakPcm": 23742,
+  "rmsDbfs": -20.68,
+  "rate": "+0%",
+  "listened": false
+}

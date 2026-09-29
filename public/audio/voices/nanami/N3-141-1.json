@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-141",
+  "exampleIndex": 0,
+  "text": "家族が元気でいられるように祈っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 191,
+  "signature": "09de957d70d8af5a28f3e7b777d37389a124bbec8635855bbea84eeb8ff01908",
+  "src": "/audio/voices/nanami/N3-141-1.mp3",
+  "srt": "/audio/voices/nanami/N3-141-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "6a62358f537106a365140a7933d3b868c500e2c6a5a8c2f8ef4ffbdc201c342d",
+  "peakPcm": 23297,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false
+}

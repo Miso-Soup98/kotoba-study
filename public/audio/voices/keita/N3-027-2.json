@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-027",
+  "exampleIndex": 1,
+  "text": "旅行のたびに、お土産を買います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 134,
+  "signature": "2fcbc2a61b861c701f60338965680ee6773215299117b564942ea85e150114a7",
+  "src": "/audio/voices/keita/N3-027-2.mp3",
+  "srt": "/audio/voices/keita/N3-027-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "b54e2b1bd6e2ae4cbc6686465e88a7898e6081ef9538522597d3683e748a9cbb",
+  "peakPcm": 19198,
+  "rmsDbfs": -20.45,
+  "rate": "+0%",
+  "listened": false
+}

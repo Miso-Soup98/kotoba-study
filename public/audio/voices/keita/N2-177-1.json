@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-177",
+  "exampleIndex": 0,
+  "text": "その話は全く知りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 303,
+  "signature": "1e98f0abe81c1824029fbd60612a0fb0167c5c75e5203aef2e58adad3e0e8feb",
+  "src": "/audio/voices/keita/N2-177-1.mp3",
+  "srt": "/audio/voices/keita/N2-177-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "df20d6ff86a9571114f936c4e928eeceb4dcde752d916715fce46b4980cf5272",
+  "peakPcm": 22229,
+  "rmsDbfs": -20.98,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-096",
+  "exampleIndex": 0,
+  "text": "もっと早く出ればよかったです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 168,
+  "signature": "10373b77249e1ff6b68682c067b6b517f3470936ce9145469ca3aa19bf8266d8",
+  "src": "/audio/voices/keita/N3-096-1.mp3",
+  "srt": "/audio/voices/keita/N3-096-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "7c8517787d6dd8c47a5e2ddd130b60edd817edc5645ccc6ee97607bd94f58220",
+  "peakPcm": 21968,
+  "rmsDbfs": -21.76,
+  "rate": "+0%",
+  "listened": false
+}

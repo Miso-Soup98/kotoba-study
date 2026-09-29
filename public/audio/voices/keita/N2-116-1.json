@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-116",
+  "exampleIndex": 0,
+  "text": "上達したいなら、毎日練習することです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 272,
+  "signature": "058e04297bb51a3cdea44451b7b90aa39a888d828f32e55c30b1319ecd5d4b60",
+  "src": "/audio/voices/keita/N2-116-1.mp3",
+  "srt": "/audio/voices/keita/N2-116-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "fd46a7f95bc16f02ab7b4f829d3de3c3307583c020581a7f198c83aaeea21605",
+  "peakPcm": 26186,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-145",
+  "exampleIndex": 1,
+  "text": "ここより先は、入れません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 286,
+  "signature": "041e36318828b615466e04b19bef009750c0d815999f97b6fc7f967aed755bed",
+  "src": "/audio/voices/keita/N2-145-2.mp3",
+  "srt": "/audio/voices/keita/N2-145-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "54a23ce41bf5ebbc1f0695ec31842451ce43f73b6bfb173e96d3db8ee037011d",
+  "peakPcm": 22525,
+  "rmsDbfs": -21.54,
+  "rate": "+0%",
+  "listened": false
+}

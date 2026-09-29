@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-217",
+  "exampleIndex": 1,
+  "text": "彼は何から何まで自分で決めます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 323,
+  "signature": "c6ef35bbc062326c55876734c7e6bd50681b6bcd05c3928b9e3f5237128ebe88",
+  "src": "/audio/voices/nanami/N2-217-2.mp3",
+  "srt": "/audio/voices/nanami/N2-217-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "1842e24c33d27a0a3381127e311a73935869eec2b7e323c0baa6a29f6b101878",
+  "peakPcm": 20955,
+  "rmsDbfs": -17.25,
+  "rate": "+0%",
+  "listened": false
+}

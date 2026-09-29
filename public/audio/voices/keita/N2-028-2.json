@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-028",
+  "exampleIndex": 1,
+  "text": "今すぐには判断しかねます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 227,
+  "signature": "6d4a75457c06870c5c45ddcc899e9571a2d8fd6b9bcb7a73c1644eb435572c06",
+  "src": "/audio/voices/keita/N2-028-2.mp3",
+  "srt": "/audio/voices/keita/N2-028-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "5dd4d52a3ef56237d8262cacfc4140ca8b004351bb36e66ad306f13928b8a7cf",
+  "peakPcm": 20514,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

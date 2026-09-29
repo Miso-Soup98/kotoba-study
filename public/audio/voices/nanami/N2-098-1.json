@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-098",
+  "exampleIndex": 0,
+  "text": "日曜日を除いて、毎日開いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 263,
+  "signature": "a9f66f5229e573636714c8681d610ee560a709684869c7949a895a6b632137e9",
+  "src": "/audio/voices/nanami/N2-098-1.mp3",
+  "srt": "/audio/voices/nanami/N2-098-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "5b7aba19e1b08164e978ef492c477183c53fe5d377b679b003dd4acbe245a4c5",
+  "peakPcm": 21956,
+  "rmsDbfs": -17.58,
+  "rate": "+0%",
+  "listened": false
+}

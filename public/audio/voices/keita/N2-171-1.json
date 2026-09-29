@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-171",
+  "exampleIndex": 0,
+  "text": "果たして、この計画は成功するでしょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 300,
+  "signature": "3c99c39b851a2ccc637af4d547c3b3f2bbe568ef80ee9fc11d934157ac0f8dcf",
+  "src": "/audio/voices/keita/N2-171-1.mp3",
+  "srt": "/audio/voices/keita/N2-171-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "98dc85b168a6eb1218db9792011850411ca81ce44041cabd29b7808dfe93a95a",
+  "peakPcm": 22216,
+  "rmsDbfs": -21.33,
+  "rate": "+0%",
+  "listened": false
+}

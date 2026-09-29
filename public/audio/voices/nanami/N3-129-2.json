@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-129",
+  "exampleIndex": 1,
+  "text": "早く起きるのに慣れていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 185,
+  "signature": "48ef72da0401f5846ead5f9f6e0c82ffedaddff82b9b5cae39dbb8d1041213c3",
+  "src": "/audio/voices/nanami/N3-129-2.mp3",
+  "srt": "/audio/voices/nanami/N3-129-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "4169ab9867dadba5880b2dde07571ef8dd4a64f00132e8629c97c1c7872bcd33",
+  "peakPcm": 21862,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-211",
+  "exampleIndex": 0,
+  "text": "いつの間にか、雨がやんでいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 320,
+  "signature": "39951428f73ee01b3028f990dfe0ff8684e48bffa429f244e49eae1c3bb6e48f",
+  "src": "/audio/voices/nanami/N2-211-1.mp3",
+  "srt": "/audio/voices/nanami/N2-211-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "5a4b34dcd142d5cef73b51bcd1494b44aa0fd95770c81eaf478af357b27af8da",
+  "peakPcm": 23144,
+  "rmsDbfs": -18.13,
+  "rate": "+0%",
+  "listened": false
+}

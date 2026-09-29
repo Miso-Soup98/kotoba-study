@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-213",
+  "exampleIndex": 1,
+  "text": "その本はたちまち売り切れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 321,
+  "signature": "8d69c0892da61bcc4b63a273efc68e5d1deafb77cebc47148e717a5689185996",
+  "src": "/audio/voices/keita/N2-213-2.mp3",
+  "srt": "/audio/voices/keita/N2-213-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "333cc1ceb8913ff227422af38e11baab768c52e7ed8dce92a3bbde651f1f28c8",
+  "peakPcm": 22071,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

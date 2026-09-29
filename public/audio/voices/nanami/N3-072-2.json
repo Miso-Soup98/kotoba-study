@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-072",
+  "exampleIndex": 1,
+  "text": "久しぶりに母校を訪ねました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 156,
+  "signature": "f35c2f4bb6ee6d467e428c4583acfdb883751d1e75a1ce2b856d7730a39e7a14",
+  "src": "/audio/voices/nanami/N3-072-2.mp3",
+  "srt": "/audio/voices/nanami/N3-072-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "73c1f45988b452d419767fe3c3210ae5ea030fc35036afdcfa467691f9b5efbd",
+  "peakPcm": 20513,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

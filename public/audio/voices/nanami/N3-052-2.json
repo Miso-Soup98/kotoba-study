@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-052",
+  "exampleIndex": 1,
+  "text": "勉強したわりに、点が低かったです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 146,
+  "signature": "52095be87fcc3ef27491a0588501216b9b6dbb2d5c808f2cefb22eef4bc7e061",
+  "src": "/audio/voices/nanami/N3-052-2.mp3",
+  "srt": "/audio/voices/nanami/N3-052-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "c034395c215dc62a3ea12af32871dc56f130d0888af70b743b127ad83ca4de56",
+  "peakPcm": 20254,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-159",
+  "exampleIndex": 1,
+  "text": "まさか一人で全部食べたんですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 200,
+  "signature": "7bdd2dd7d19dcd843937032041c9a15300df3e3d71b9e085ce10da209332e4e7",
+  "src": "/audio/voices/nanami/N3-159-2.mp3",
+  "srt": "/audio/voices/nanami/N3-159-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "898371e56862b2f89daa8080abd91d312569f721733e639b60ad0e19908d4213",
+  "peakPcm": 20673,
+  "rmsDbfs": -18.3,
+  "rate": "+0%",
+  "listened": false
+}

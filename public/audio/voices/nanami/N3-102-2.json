@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-102",
+  "exampleIndex": 1,
+  "text": "この仕事は今日中に終わりそうもありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 171,
+  "signature": "095e4576390491596079b43f05292d1dfcb2e40faff4447f19c687876058850d",
+  "src": "/audio/voices/nanami/N3-102-2.mp3",
+  "srt": "/audio/voices/nanami/N3-102-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "6535add0e0ff6b51727a99cd816db0fe36b3357b272b6739eee86f7e337e408c",
+  "peakPcm": 21413,
+  "rmsDbfs": -16.7,
+  "rate": "+0%",
+  "listened": false
+}

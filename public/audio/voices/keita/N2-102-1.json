@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-102",
+  "exampleIndex": 0,
+  "text": "小さくても、部屋があるだけましです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 265,
+  "signature": "e2bae4fef3c02e2586973afb477f5cadc66c4bb79f9edffad91995aba912971f",
+  "src": "/audio/voices/keita/N2-102-1.mp3",
+  "srt": "/audio/voices/keita/N2-102-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "955b85e16c8fbb2c5bad0a2a264df5f87d9d7a7e22b732b3fa55de5e0215020d",
+  "peakPcm": 23250,
+  "rmsDbfs": -21.85,
+  "rate": "+0%",
+  "listened": false
+}

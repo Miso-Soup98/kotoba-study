@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-c-listening-06",
+  "exampleIndex": 0,
+  "text": "話し合いで意見が違うと、すぐ一つの案にまとめようとする人がいます。でも私は、結論を急ぐ前に、それぞれが何を心配しているのかを聞くようにしています。案は違っても、守りたいことは同じかもしれません。賛成か反対かだけを尋ねるのではなく、理由を知ることが、次の案を考える手がかりになると思うのです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "563d80a4c49e523de234b7cddb051be249633af742775f294ac8607e63fd2be5",
+  "src": "/audio/training/n2-v05-c-listening-06.mp3",
+  "srt": "/audio/training/n2-v05-c-listening-06.srt",
+  "durationSeconds": 27.192,
+  "bytes": 163152,
+  "sha256": "9f79066754768564136008790963bf16919d62082f16dd6a34be415ca4e08ce3",
+  "peakPcm": 22332,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

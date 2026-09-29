@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-203",
+  "exampleIndex": 1,
+  "text": "本館及び別館は休館です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 316,
+  "signature": "b81d18c31c71efe6ce9f1fb52c3d4cc7fee6e0598cfc4d1a4a0818544210aecd",
+  "src": "/audio/voices/keita/N2-203-2.mp3",
+  "srt": "/audio/voices/keita/N2-203-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "76e434160c8fc42dd96b883d3c8162c5e64a7945881b7ed57dcbec63eafcfffa",
+  "peakPcm": 23023,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-12",
+  "exampleIndex": 0,
+  "text": "本を人に薦めるとき、私は内容を全部説明しないようにしています。詳しく話すほど親切だと思っていた時期もありますが、相手が自分で発見する楽しみを奪いかねません。どんな人に合いそうか、自分はどこに引かれたかを伝え、結末は聞かれない限り話しません。読むかどうかを決めるのは、相手ですから。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "c9f49fc153b82aa8fcc6d96ad0c80fea1d102d25105ad910a98194868abe021b",
+  "src": "/audio/training/n2-v05-p-listening-12.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-12.srt",
+  "durationSeconds": 25.776,
+  "bytes": 154656,
+  "sha256": "52b6e98c7e2f35bbd8700f2a1ba7cd94fa886d74d190618263cb21b32f521793",
+  "peakPcm": 22090,
+  "rmsDbfs": -17.37,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

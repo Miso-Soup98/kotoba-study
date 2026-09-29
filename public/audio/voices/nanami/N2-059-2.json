@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-059",
+  "exampleIndex": 1,
+  "text": "悪いと知りつつも、約束を破ってしまいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 243,
+  "signature": "5f0eae365f5dd56b964708af99b6f415f9e609aa84b24616b1121e8072b91746",
+  "src": "/audio/voices/nanami/N2-059-2.mp3",
+  "srt": "/audio/voices/nanami/N2-059-2.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "1c0a3150b912a371c55d082c7d5558e998eb626a2faa19c4202db4914c43131d",
+  "peakPcm": 21693,
+  "rmsDbfs": -17.3,
+  "rate": "+0%",
+  "listened": false
+}

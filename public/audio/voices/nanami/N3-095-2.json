@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-095",
+  "exampleIndex": 1,
+  "text": "明日は晴れるといいですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 168,
+  "signature": "0c854ee97db8015be1acc21537d6b790b110399d44248a64c167aa99f8f025dc",
+  "src": "/audio/voices/nanami/N3-095-2.mp3",
+  "srt": "/audio/voices/nanami/N3-095-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "c847fb10f63a4fa323e31b057d688a3a41f87ceaa1d2af43b4dc3f16ef4f4c4f",
+  "peakPcm": 21424,
+  "rmsDbfs": -18.13,
+  "rate": "+0%",
+  "listened": false
+}

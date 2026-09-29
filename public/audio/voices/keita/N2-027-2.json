@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-027",
+  "exampleIndex": 1,
+  "text": "その説明はあり得ません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 227,
+  "signature": "955e2c213eb579972875b864d84d48ffeda5fb64bfe17ea6f9573cfe042738f1",
+  "src": "/audio/voices/keita/N2-027-2.mp3",
+  "srt": "/audio/voices/keita/N2-027-2.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "0f75dcd90d79bf901a9af30c702e503a06755ae9b39e9bd8f702ffdbe4333062",
+  "peakPcm": 18906,
+  "rmsDbfs": -20.67,
+  "rate": "+0%",
+  "listened": false
+}

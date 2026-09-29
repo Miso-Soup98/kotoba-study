@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-139",
+  "exampleIndex": 1,
+  "text": "どういうふうに説明したらよいですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 283,
+  "signature": "11d379c16bc5e0ca88f033dc4824d29814f6586747febadd8ee98b0b4f9e74db",
+  "src": "/audio/voices/keita/N2-139-2.mp3",
+  "srt": "/audio/voices/keita/N2-139-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "e7ebe12c898530db3ab88956f8401aae5ae80d6bddd13808a5e7ef6aa83c5ccb",
+  "peakPcm": 20476,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

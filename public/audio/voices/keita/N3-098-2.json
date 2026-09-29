@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-098",
+  "exampleIndex": 1,
+  "text": "彼は自分の間違いを認めようとしません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 169,
+  "signature": "ae8fea9b608e30fc9ff6f5816644fe6cae44af9b805655bdf8caa958be743eee",
+  "src": "/audio/voices/keita/N3-098-2.mp3",
+  "srt": "/audio/voices/keita/N3-098-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "1599c5d6ef91aecc3f2cc53d47afcc7c5ef0a97f1e00f2672de331a6c42bc838",
+  "peakPcm": 20807,
+  "rmsDbfs": -19.8,
+  "rate": "+0%",
+  "listened": false
+}

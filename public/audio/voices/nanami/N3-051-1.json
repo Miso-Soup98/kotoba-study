@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-051",
+  "exampleIndex": 0,
+  "text": "ここに座っても構いませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 146,
+  "signature": "97a2e633606d0f38cdfa691e5977f724a7f2af0ac42371bb3b08ecaf1251e2ed",
+  "src": "/audio/voices/nanami/N3-051-1.mp3",
+  "srt": "/audio/voices/nanami/N3-051-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "b06957a526fdc64997876b0737af594190e584985a3bbd17719f2b63cd7a1d91",
+  "peakPcm": 21884,
+  "rmsDbfs": -18.57,
+  "rate": "+0%",
+  "listened": false
+}

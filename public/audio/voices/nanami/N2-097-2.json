@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-097",
+  "exampleIndex": 1,
+  "text": "この問題は、歴史を抜きにしては考えられません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 262,
+  "signature": "2ff38ce246ec285261e27f0e909c06866656119c2a223a591eae75ba611cef4c",
+  "src": "/audio/voices/nanami/N2-097-2.mp3",
+  "srt": "/audio/voices/nanami/N2-097-2.srt",
+  "durationSeconds": 4.68,
+  "bytes": 28080,
+  "sha256": "35cebbb03dec8a61df7ebc64d303c871cbb1ae5a17ea9601273043cbddda4947",
+  "peakPcm": 19996,
+  "rmsDbfs": -17.47,
+  "rate": "+0%",
+  "listened": false
+}

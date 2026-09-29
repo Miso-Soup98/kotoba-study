@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-070",
+  "exampleIndex": 0,
+  "text": "三日ごとに花に水をやります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 155,
+  "signature": "432a11e74cbaf114cb4aa19c1f66b0d5bc954e28b29a73225bcddc218a0f1934",
+  "src": "/audio/voices/keita/N3-070-1.mp3",
+  "srt": "/audio/voices/keita/N3-070-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "04df1e1f4459927f0a02be3f350f8e4ec5a3557a20da2e986dc53ad017b9728e",
+  "peakPcm": 22152,
+  "rmsDbfs": -21.17,
+  "rate": "+0%",
+  "listened": false
+}

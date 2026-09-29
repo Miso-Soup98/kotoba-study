@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-083",
+  "exampleIndex": 0,
+  "text": "工事中につき、通行できません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 255,
+  "signature": "fda4eb4f0f64495feec71e7ed630336caf3dc0be67a6955c19d0bca9d7e550f8",
+  "src": "/audio/voices/keita/N2-083-1.mp3",
+  "srt": "/audio/voices/keita/N2-083-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "12de834d74f081425874ea5a3df0efbd7e50046dea8b5e29ac9141421a78a5ae",
+  "peakPcm": 21338,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

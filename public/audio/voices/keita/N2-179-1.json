@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-179",
+  "exampleIndex": 0,
+  "text": "彼は少しも慌てませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 304,
+  "signature": "60284d0d1d8ba7e897240f061d26345862f90fafc4fe32c122be3d7c3d6cc13c",
+  "src": "/audio/voices/keita/N2-179-1.mp3",
+  "srt": "/audio/voices/keita/N2-179-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "9e214521592134fe539dd97a123b878b1f739c7c2b686999e055fde26eeb4482",
+  "peakPcm": 22405,
+  "rmsDbfs": -20.99,
+  "rate": "+0%",
+  "listened": false
+}

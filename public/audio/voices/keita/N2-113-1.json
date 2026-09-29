@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-113",
+  "exampleIndex": 0,
+  "text": "思った以上に、時間がかかりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 270,
+  "signature": "3cedc9ab659ad37706b9fbecd518170bd4f99184186094345fae3aa191e57504",
+  "src": "/audio/voices/keita/N2-113-1.mp3",
+  "srt": "/audio/voices/keita/N2-113-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "50cd905b030e631127847cbe6697c63da69f317921e76bef39f0d4dc8bf1ef45",
+  "peakPcm": 26198,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

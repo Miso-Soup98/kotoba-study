@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-183",
+  "exampleIndex": 1,
+  "text": "この店は、量が多いことで有名です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 212,
+  "signature": "75f1a16ffb59edbc5dd1ae19d077566a0df768ac3dd3e89599626d16f578b1c8",
+  "src": "/audio/voices/nanami/N3-183-2.mp3",
+  "srt": "/audio/voices/nanami/N3-183-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "f818697025ff4b68957746daa8c26a649c11d72f8b84cfece87b331881e04f75",
+  "peakPcm": 20814,
+  "rmsDbfs": -17.06,
+  "rate": "+0%",
+  "listened": false
+}

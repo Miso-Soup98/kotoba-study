@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-051",
+  "exampleIndex": 1,
+  "text": "卒業して以来、先生に会っていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 239,
+  "signature": "bc4d56a7be6dd5dcf62d72380dd70f435ee7f4225adc290b403d521e20daa826",
+  "src": "/audio/voices/nanami/N2-051-2.mp3",
+  "srt": "/audio/voices/nanami/N2-051-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "e4eda62a440aa450d34287a3cbd212195d9774fc28d73fb271f1592993ae3597",
+  "peakPcm": 21210,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

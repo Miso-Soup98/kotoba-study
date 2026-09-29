@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-136",
+  "exampleIndex": 1,
+  "text": "本人に確かめるよりほかないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 282,
+  "signature": "15e93b5088c30a9abe166dcdad79b3c6b06de4d6f74eb1385c6e45894164f567",
+  "src": "/audio/voices/keita/N2-136-2.mp3",
+  "srt": "/audio/voices/keita/N2-136-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "ff9b7effe3e54164c0d9d6c7ceaed06b4b14bbdb89dd6abe81e18cbf1f439c37",
+  "peakPcm": 22352,
+  "rmsDbfs": -20.35,
+  "rate": "+0%",
+  "listened": false
+}

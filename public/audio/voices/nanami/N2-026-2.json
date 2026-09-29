@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-026",
+  "exampleIndex": 1,
+  "text": "記録から考えると、彼は現場にいたに相違ありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 226,
+  "signature": "3dc2138e8b8689fca5b63ab211b3c265b9dedbfa128f665038f727e894fcc898",
+  "src": "/audio/voices/nanami/N2-026-2.mp3",
+  "srt": "/audio/voices/nanami/N2-026-2.srt",
+  "durationSeconds": 5.016,
+  "bytes": 30096,
+  "sha256": "61ae5189683e51fb62344c567622aa0ccde6267067c6c098608465872d32736f",
+  "peakPcm": 21886,
+  "rmsDbfs": -16.67,
+  "rate": "+0%",
+  "listened": false
+}

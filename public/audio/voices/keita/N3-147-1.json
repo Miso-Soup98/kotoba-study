@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-147",
+  "exampleIndex": 0,
+  "text": "おいしくて、つい食べすぎました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 194,
+  "signature": "e35eb198c8ecd1b08c94ca9b890c9466547a7637e54c66e5806158cff5e5fbca",
+  "src": "/audio/voices/keita/N3-147-1.mp3",
+  "srt": "/audio/voices/keita/N3-147-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "7259fce204146f8c0228ce2eb074ace3909ad97f7a627ac7ae82ffc2e8828b26",
+  "peakPcm": 21776,
+  "rmsDbfs": -21.93,
+  "rate": "+0%",
+  "listened": false
+}

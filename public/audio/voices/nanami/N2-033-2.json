@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-033",
+  "exampleIndex": 1,
+  "text": "本人に聞かないことには、事情は分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 230,
+  "signature": "e2948d3108ed08a4f08bf8f7d960273e0de1fcee6af85a7755b84b1993e784b5",
+  "src": "/audio/voices/nanami/N2-033-2.mp3",
+  "srt": "/audio/voices/nanami/N2-033-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "721a592ac51518679413a7dc998f839f91e9adb98d8a3970336eeaae498ebbec",
+  "peakPcm": 20340,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

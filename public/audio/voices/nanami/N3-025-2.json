@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-025",
+  "exampleIndex": 1,
+  "text": "忘れないうちに、連絡します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 133,
+  "signature": "4ec0bc71a32cee145f49c4146d9230ed6ed528ea007484be844f222d95e2fe50",
+  "src": "/audio/voices/nanami/N3-025-2.mp3",
+  "srt": "/audio/voices/nanami/N3-025-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "018f3eca757d7021eb9b7aa9bf3512ab1bdb7def8b6194ba6de0a73e2fcf33b0",
+  "peakPcm": 21518,
+  "rmsDbfs": -18.14,
+  "rate": "+0%",
+  "listened": false
+}

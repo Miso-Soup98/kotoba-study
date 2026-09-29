@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-049",
+  "exampleIndex": 0,
+  "text": "結果は準備次第です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 238,
+  "signature": "3e1dfe54e8a528425ef58820cbab237a6c6676a78f423eb88ce9e0c710b79020",
+  "src": "/audio/voices/keita/N2-049-1.mp3",
+  "srt": "/audio/voices/keita/N2-049-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "a95fbea992c30d455c4d719bae36b7efb95a7c13f665467659ed82326f843655",
+  "peakPcm": 25048,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

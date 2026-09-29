@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-092",
+  "exampleIndex": 0,
+  "text": "どんなに難しくとも、諦めません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 260,
+  "signature": "cda00a304fd9ad56ad7c419c5759c222702ed0f4e285d6ff02904031e2b4a89a",
+  "src": "/audio/voices/keita/N2-092-1.mp3",
+  "srt": "/audio/voices/keita/N2-092-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "ee1d0b6ece29a28c5924a655e464eabde0ce00227cb2affdbb401b0b9e0a9516",
+  "peakPcm": 24303,
+  "rmsDbfs": -20.67,
+  "rate": "+0%",
+  "listened": false
+}

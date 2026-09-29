@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-047",
+  "exampleIndex": 1,
+  "text": "無理をせずに、休んでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 144,
+  "signature": "7a6298e9116e2d1b12113eb933c4b6350f09d9e565ecf02ae93da6980845f89b",
+  "src": "/audio/voices/nanami/N3-047-2.mp3",
+  "srt": "/audio/voices/nanami/N3-047-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "5fea526f3c5c418d8018eaa0ac16b6ddf7645b569918d09f0e48f81036d869e0",
+  "peakPcm": 20262,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

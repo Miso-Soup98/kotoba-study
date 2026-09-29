@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-172",
+  "exampleIndex": 1,
+  "text": "電車で行きます。なぜなら、そのほうが速いからです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 206,
+  "signature": "ef7f28991939919928b70b8e55bccd9e93e8fc02d1e7dded800fb99e3722d79f",
+  "src": "/audio/voices/nanami/N3-172-2.mp3",
+  "srt": "/audio/voices/nanami/N3-172-2.srt",
+  "durationSeconds": 5.52,
+  "bytes": 33120,
+  "sha256": "08a4b44f482779f469cb3b7e10fcacd2ebd1c198c9fda87d834649434e7ef921",
+  "peakPcm": 20853,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

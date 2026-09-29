@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-069",
+  "exampleIndex": 0,
+  "text": "焼きたてのパンを買いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 155,
+  "signature": "ae8ada1f31536601df64aa6c7678a2408be033c0b50eb28dbcf3616c3f092214",
+  "src": "/audio/voices/nanami/N3-069-1.mp3",
+  "srt": "/audio/voices/nanami/N3-069-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "f36fb577aab8016077e0d2bbfe83478958f52eaa7d467c6f447ccc1c7c233ef7",
+  "peakPcm": 22540,
+  "rmsDbfs": -18.57,
+  "rate": "+0%",
+  "listened": false
+}

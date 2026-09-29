@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-209",
+  "exampleIndex": 1,
+  "text": "二人は何やら相談しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 319,
+  "signature": "026daf45d0d85e872ae5b77e8d664e183ece153bdc9dabb771329e3683440d22",
+  "src": "/audio/voices/nanami/N2-209-2.mp3",
+  "srt": "/audio/voices/nanami/N2-209-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "cac9e998555764a8678a4f7eb0493a729d25a7d5a11a516d224f2b1d38c03103",
+  "peakPcm": 20980,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

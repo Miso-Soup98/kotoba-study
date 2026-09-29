@@ -5,6 +5,8 @@ import type { TedLoop } from "../ted/types";
 import { parsedLoop, tedWordSchema } from "../ted/validation.ts";
 import { parsedPractice } from "../training/validation.ts";
 import type { PracticeRecord } from "../training/types.ts";
+import { parseListeningCard, type ListeningCard } from "./listening-card.ts";
+import { parseTrainingSession, type TrainingSession } from "../training/session.ts";
 export const ALGORITHM = "fsrs-5.4.2/default-0.9/no-fuzz";
 export const scheduler = fsrs({ request_retention: 0.9, enable_fuzz: false });
 export type CardState = {
@@ -14,6 +16,9 @@ export type CardState = {
 };
 export type Model = {
   practice: PracticeRecord[];
+  trainingSessions: Record<string, TrainingSession>;
+  listeningCards: Record<string, ListeningCard>;
+  trainingConflicts: number;
   tedLoops: Record<string, TedLoop | null>;
   tedWords: Record<string, Word>;
   tedProgress: Record<string, number>;
@@ -36,6 +41,9 @@ export type Model = {
 export function rebuild(events: StudyEvent[]): Model {
   const result: Model = {
     practice: [],
+    trainingSessions: {},
+    listeningCards: {},
+    trainingConflicts: 0,
     tedLoops: {},
     tedWords: {},
     tedProgress: {},
@@ -56,11 +64,47 @@ export function rebuild(events: StudyEvent[]): Model {
         (a.e.seq ?? Number.MAX_SAFE_INTEGER) -
           (b.e.seq ?? Number.MAX_SAFE_INTEGER) || a.i - b.i,
     );
+  const answered = new Set<string>();
+  // Resolve immutable session metadata before answers, including offline uploads
+  // which reached the server after another device finished the same session.
   for (const { e } of ordered) {
+    if (e.kind === "training_session") {
+      const parsed = parseTrainingSession(e.value);
+      if (parsed.success && e.entity === `session:${parsed.data.id}` && !result.trainingSessions[parsed.data.id])
+        result.trainingSessions[parsed.data.id] = parsed.data;
+    }
+  }
+  for (const { e } of ordered) {
+    if (e.kind === "training_finish") {
+      const session = result.trainingSessions[e.entity.replace(/^session:/, "")];
+      if (session && !session.endedAt && e.at >= session.startedAt && (e.value === "finished" || e.value === "abandoned")) {
+        session.endedAt = e.at;
+        session.finishReason = e.value;
+      }
+    }
+  }
+  for (const { e } of ordered) {
+    if (e.kind === "listening_card") {
+      const parsed = parseListeningCard(e.value);
+      if (parsed.success && parsed.data.id === e.entity) result.listeningCards[e.entity] = parsed.data;
+    }
     if (e.kind === "practice") {
       const parsed = parsedPractice(e.value);
-      if (parsed.success)
+      if (parsed.success) {
+        if (parsed.data.sessionId) {
+          const session = result.trainingSessions[parsed.data.sessionId];
+          const key = `${parsed.data.sessionId}:${parsed.data.questionId}`;
+          if (!session || !session.questionIds.includes(parsed.data.questionId) ||
+              session.mode !== parsed.data.mode || answered.has(key) ||
+              e.at < session.startedAt || (session.endedAt !== undefined && e.at > session.endedAt) ||
+              (session.deadline > 0 && e.at > session.deadline)) {
+            result.trainingConflicts++;
+            continue;
+          }
+          answered.add(key);
+        }
         result.practice.push({ ...parsed.data, id: e.id, at: e.at });
+      }
     }
     if (e.kind === "ted_progress")
       result.tedProgress[e.entity] = Number(e.value);

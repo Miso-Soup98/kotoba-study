@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-163",
+  "exampleIndex": 0,
+  "text": "せっかく来たのに、店は休みでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 296,
+  "signature": "5e8fa58d282a303a41afb2ec3ec4e6b734f0cec4e1d0f704ede94e357a7c1f96",
+  "src": "/audio/voices/nanami/N2-163-1.mp3",
+  "srt": "/audio/voices/nanami/N2-163-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "1b49b2ded0ebca839aed7749fae465573e0649bdd900f36546a587131df0e4e5",
+  "peakPcm": 21118,
+  "rmsDbfs": -18.67,
+  "rate": "+0%",
+  "listened": false
+}

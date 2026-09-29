@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-025",
+  "exampleIndex": 0,
+  "text": "温かいうちに食べてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 133,
+  "signature": "241bae0a1c8a6ae98c226852fd858cec4a03455a09bc9082e42403bf6ea31448",
+  "src": "/audio/voices/keita/N3-025-1.mp3",
+  "srt": "/audio/voices/keita/N3-025-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "315215cac642fcde60de5a1f93a3f5ccaf49f434f7222e13ad4ffe1e4193a0ea",
+  "peakPcm": 25486,
+  "rmsDbfs": -22.05,
+  "rate": "+0%",
+  "listened": false
+}

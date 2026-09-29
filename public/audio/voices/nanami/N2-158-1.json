@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-158",
+  "exampleIndex": 0,
+  "text": "そこに名前を書いてちょうだい。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 293,
+  "signature": "426176d2ad00d5635b777f5f79a327d72d18c142307969c435036306185dc0cf",
+  "src": "/audio/voices/nanami/N2-158-1.mp3",
+  "srt": "/audio/voices/nanami/N2-158-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "8b5f26b5bbbc94b98ae10aea2f6059b84d7221d6782eb5a730eb7b69a0417b45",
+  "peakPcm": 20932,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

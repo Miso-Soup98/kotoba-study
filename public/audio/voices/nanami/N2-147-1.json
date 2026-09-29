@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-147",
+  "exampleIndex": 0,
+  "text": "本日に限り、入場は無料です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 287,
+  "signature": "513baf064937d2ea64f3bd5d147e05acac3dc4f5c7440297467c6e7d23147789",
+  "src": "/audio/voices/nanami/N2-147-1.mp3",
+  "srt": "/audio/voices/nanami/N2-147-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "61e008543297e0b034a984ac6f793199d5e9cefbbf1b8c5c0c8e3fb12745f4a8",
+  "peakPcm": 19374,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

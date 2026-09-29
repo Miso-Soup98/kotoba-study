@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-170",
+  "exampleIndex": 0,
+  "text": "一応、予約を確認しておきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 299,
+  "signature": "0a8b81d3c8ed57677412beee99973c814b8471d023a370a425d65af5abd458be",
+  "src": "/audio/voices/keita/N2-170-1.mp3",
+  "srt": "/audio/voices/keita/N2-170-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "9fa967c235f79c5f7d62b74e14ff9ae6453e69bed65cfef374b73a353dd998ec",
+  "peakPcm": 24178,
+  "rmsDbfs": -19.95,
+  "rate": "+0%",
+  "listened": false
+}

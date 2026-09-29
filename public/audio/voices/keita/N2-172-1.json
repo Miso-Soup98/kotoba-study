@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-172",
+  "exampleIndex": 0,
+  "text": "よほど疲れていたのでしょう。すぐ寝ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 300,
+  "signature": "d2aa9da773ff90e5e24ed0dc0e37779a2b50e2df6e507a79170309eb56e0ad72",
+  "src": "/audio/voices/keita/N2-172-1.mp3",
+  "srt": "/audio/voices/keita/N2-172-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "b3b8f5f23328e33363709da19a4348f7b416ebed81c6828944d52075e8898852",
+  "peakPcm": 23604,
+  "rmsDbfs": -21.23,
+  "rate": "+0%",
+  "listened": false
+}

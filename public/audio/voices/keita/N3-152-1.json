@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-152",
+  "exampleIndex": 0,
+  "text": "どうしてもこの本を読みたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 196,
+  "signature": "3eb14573476c2c2171456befc1e73e90af032f8f09b16295cacb929cf004e3e1",
+  "src": "/audio/voices/keita/N3-152-1.mp3",
+  "srt": "/audio/voices/keita/N3-152-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "492c5af234a279a2b9f806c68bcb11b08526a7d37abf51f9b63955746e4148a8",
+  "peakPcm": 22883,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

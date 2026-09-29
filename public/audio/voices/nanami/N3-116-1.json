@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-116",
+  "exampleIndex": 0,
+  "text": "形が星に似ていることから、この名前が付きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 178,
+  "signature": "0b6890c0ac287721b4b1388620dc83e8529f736e36f09846b5ed8740a8175aa9",
+  "src": "/audio/voices/nanami/N3-116-1.mp3",
+  "srt": "/audio/voices/nanami/N3-116-1.srt",
+  "durationSeconds": 4.68,
+  "bytes": 28080,
+  "sha256": "af38690b7a29d736240421e49dcd7f3ee3fe0883cfe695ff3aa79211b186aacb",
+  "peakPcm": 22009,
+  "rmsDbfs": -18.15,
+  "rate": "+0%",
+  "listened": false
+}

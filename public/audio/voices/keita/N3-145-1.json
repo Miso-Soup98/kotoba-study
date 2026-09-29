@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-145",
+  "exampleIndex": 0,
+  "text": "この方法が一番よいのではないでしょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 193,
+  "signature": "32f364bbe77afe227de485edf111b1ac156685dbf390c7d6a770ef8b5ebb8eeb",
+  "src": "/audio/voices/keita/N3-145-1.mp3",
+  "srt": "/audio/voices/keita/N3-145-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "780a4a16ec70fc78191ec501f86b57e41c562e3c5995f4484ef1e863188a1364",
+  "peakPcm": 24771,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

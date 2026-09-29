@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-093",
+  "exampleIndex": 0,
+  "text": "こちらこそ、ありがとうございます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 167,
+  "signature": "41e20b8dc2841fa12f556710723c11d2c08473c599e8a985d70c717a72f9d748",
+  "src": "/audio/voices/nanami/N3-093-1.mp3",
+  "srt": "/audio/voices/nanami/N3-093-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "924ebf91cf1ed3bdc80ff684e00a0e749e7a8cc4880f154e06b70a15a4c4a56b",
+  "peakPcm": 21456,
+  "rmsDbfs": -17.98,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-021",
+  "exampleIndex": 1,
+  "text": "住民の要望に応えて、公園を作りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 224,
+  "signature": "1bb73e695ee4a601f98a2f72d36cf9a81bbcc88cf408de9123caa394499532f2",
+  "src": "/audio/voices/nanami/N2-021-2.mp3",
+  "srt": "/audio/voices/nanami/N2-021-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "afe09fa08126f6802c3b9f0a59e5fcfe35c4af37f10b7b821e7d8ddcfff6f1ad",
+  "peakPcm": 20057,
+  "rmsDbfs": -16.87,
+  "rate": "+0%",
+  "listened": false
+}

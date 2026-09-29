@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-076",
+  "exampleIndex": 0,
+  "text": "買い物に行くついでに、手紙を出します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 158,
+  "signature": "6d41fe0cd341d953ff6ffffcdf2f0c3af366135ebf378aa0b264857458d9f68d",
+  "src": "/audio/voices/keita/N3-076-1.mp3",
+  "srt": "/audio/voices/keita/N3-076-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "b1284db2ead038506c652253b6cd7f54741fcd9bfbfaf86d140d59477b96af63",
+  "peakPcm": 24240,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

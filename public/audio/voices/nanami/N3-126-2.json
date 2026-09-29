@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-126",
+  "exampleIndex": 1,
+  "text": "何も対策をしなければ、状況は悪くなるばかりです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 183,
+  "signature": "db59fc2b91ed747338ea6cd8abda2f028352b88d89a2c30d7877ed12bd473558",
+  "src": "/audio/voices/nanami/N3-126-2.mp3",
+  "srt": "/audio/voices/nanami/N3-126-2.srt",
+  "durationSeconds": 5.04,
+  "bytes": 30240,
+  "sha256": "86d84b37d401abe0d3764ea525894468a876a05432fb44322d889f5225593c81",
+  "peakPcm": 22118,
+  "rmsDbfs": -16.85,
+  "rate": "+0%",
+  "listened": false
+}

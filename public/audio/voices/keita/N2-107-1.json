@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-107",
+  "exampleIndex": 0,
+  "text": "借金してまで買いたくはありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 267,
+  "signature": "00b0ec624c5c7aa6e4a86289cef9bd9afea2d2bef440e84ca3c777ea1349bec5",
+  "src": "/audio/voices/keita/N2-107-1.mp3",
+  "srt": "/audio/voices/keita/N2-107-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "03ab693207a244ae8856fd4e03f7f6cc3fc048bff59ac617e57ae5702228fa01",
+  "peakPcm": 22218,
+  "rmsDbfs": -22.23,
+  "rate": "+0%",
+  "listened": false
+}

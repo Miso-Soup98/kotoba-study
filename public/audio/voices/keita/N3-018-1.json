@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-018",
+  "exampleIndex": 0,
+  "text": "こんな量を一人で食べられるわけがありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 129,
+  "signature": "8f798d2ab8363abd0030d819e16277c9c2530353c598f010e165230fa13e0a26",
+  "src": "/audio/voices/keita/N3-018-1.mp3",
+  "srt": "/audio/voices/keita/N3-018-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "b73f2018596b534573ad7d8ac10abc47e34b57a1a83ca6fc2b94801b2a95733c",
+  "peakPcm": 21987,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

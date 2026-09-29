@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-060",
+  "exampleIndex": 0,
+  "text": "この作文は間違いだらけです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 150,
+  "signature": "bf852d836cadb9db2f5dae42262aea86edd7c8e2a260552c9c12850ef9e6e41a",
+  "src": "/audio/voices/keita/N3-060-1.mp3",
+  "srt": "/audio/voices/keita/N3-060-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "93b5d786d6d69b488e83adaaa92c4a97f6b6a5e8c773a9f47cdbdf12fd26f01e",
+  "peakPcm": 19780,
+  "rmsDbfs": -20.68,
+  "rate": "+0%",
+  "listened": false
+}

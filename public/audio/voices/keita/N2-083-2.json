@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-083",
+  "exampleIndex": 1,
+  "text": "一人につき、二枚まで申し込めます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 255,
+  "signature": "72bd971a3a27aeb9c9d8f5acb69e1bc5c6c44e69054877840f46c2df3693c61c",
+  "src": "/audio/voices/keita/N2-083-2.mp3",
+  "srt": "/audio/voices/keita/N2-083-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "228c296cdb43970784b124ab261d324705ac059e9b9737d7c09908cf396546e6",
+  "peakPcm": 24286,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-056",
+  "exampleIndex": 0,
+  "text": "雨がやんだかと思ったら、また降り出しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 241,
+  "signature": "6b676e741664aa0c5ffe1581b7b24392d3ce6a44c2fcf0870c4f11aab351638f",
+  "src": "/audio/voices/keita/N2-056-1.mp3",
+  "srt": "/audio/voices/keita/N2-056-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "551c79040ce5ab616534eb7acceabea0db9578c475cc7e31a4ea2be6904dc812",
+  "peakPcm": 24574,
+  "rmsDbfs": -21.57,
+  "rate": "+0%",
+  "listened": false
+}

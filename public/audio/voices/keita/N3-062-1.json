@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-062",
+  "exampleIndex": 0,
+  "text": "机に読みかけの本があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 151,
+  "signature": "09030929404d58688eacae964ec441e4d01ef7ac83f53a03007603265d9a4408",
+  "src": "/audio/voices/keita/N3-062-1.mp3",
+  "srt": "/audio/voices/keita/N3-062-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "643ddb6b3c1c367142929ef288d4279c8fc0fe2ba4215aa47f2391b1d957a4c6",
+  "peakPcm": 19445,
+  "rmsDbfs": -19.9,
+  "rate": "+0%",
+  "listened": false
+}

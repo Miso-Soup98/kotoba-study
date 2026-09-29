@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-088",
+  "exampleIndex": 0,
+  "text": "この教材は初心者向きです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 164,
+  "signature": "7c29e29d5532089a328269cc34d34e7c39c3390bb770489c44ec79ac1c939ecb",
+  "src": "/audio/voices/nanami/N3-088-1.mp3",
+  "srt": "/audio/voices/nanami/N3-088-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "8997022be3877d75bb54ae1bece9f3dbc050d2b1ba63c829f1c78f2a6654b1d0",
+  "peakPcm": 21184,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

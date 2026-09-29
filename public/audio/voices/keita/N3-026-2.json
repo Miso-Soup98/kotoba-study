@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-026",
+  "exampleIndex": 1,
+  "text": "本を読んでいるうちに、眠くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 133,
+  "signature": "17f3677c865a27db6be9aa91741673fd3ba38ccfc0a2cbd744493d7bd84d60f6",
+  "src": "/audio/voices/keita/N3-026-2.mp3",
+  "srt": "/audio/voices/keita/N3-026-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "2ff127a825b5a8b9d65eec3ff7053b4c3608fe031bff7176c2f4e75a420dddd3",
+  "peakPcm": 20469,
+  "rmsDbfs": -19.95,
+  "rate": "+0%",
+  "listened": false
+}

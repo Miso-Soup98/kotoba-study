@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-156",
+  "exampleIndex": 1,
+  "text": "なかなかいい考えですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 198,
+  "signature": "8a42c03d9c6a499276e78a9f26008d4bb1986e204a869c56991d0db292a604b4",
+  "src": "/audio/voices/nanami/N3-156-2.mp3",
+  "srt": "/audio/voices/nanami/N3-156-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "42e18219f97f0cea5bba1f660f90e84009cba56a32532d02c63443da7f55b581",
+  "peakPcm": 21567,
+  "rmsDbfs": -18.09,
+  "rate": "+0%",
+  "listened": false
+}

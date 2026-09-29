@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-037",
+  "exampleIndex": 0,
+  "text": "あの人は医者に違いありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 139,
+  "signature": "cdea4971c0f7309dc0fd9e51c272e85572cc956af3a4f2c5cad2fc2eb5a19818",
+  "src": "/audio/voices/keita/N3-037-1.mp3",
+  "srt": "/audio/voices/keita/N3-037-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "83a8ac48c3e00b1a29c64e7d62d207211fbfffa96e432d6ae0bf86d89275d70f",
+  "peakPcm": 23658,
+  "rmsDbfs": -20.35,
+  "rate": "+0%",
+  "listened": false
+}

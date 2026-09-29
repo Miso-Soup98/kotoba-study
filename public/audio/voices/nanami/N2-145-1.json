@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-145",
+  "exampleIndex": 0,
+  "text": "受付は九時より開始します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 286,
+  "signature": "ec58d9ef819575195273f5d2a30cf5fdf614d22835be54dcc278a22b2bd3037f",
+  "src": "/audio/voices/nanami/N2-145-1.mp3",
+  "srt": "/audio/voices/nanami/N2-145-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "969ac24fdc22ae4fac3dcc9903067eb5a2dbf21e3df548f9091e24c9fc3e9e80",
+  "peakPcm": 21889,
+  "rmsDbfs": -17.88,
+  "rate": "+0%",
+  "listened": false
+}

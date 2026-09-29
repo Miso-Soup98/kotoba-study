@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-135",
+  "exampleIndex": 0,
+  "text": "会議は何時からだっけ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 188,
+  "signature": "1dc05c095011764bd74f876943237885abc63a11cd716857ba432cddb45e5b84",
+  "src": "/audio/voices/nanami/N3-135-1.mp3",
+  "srt": "/audio/voices/nanami/N3-135-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "0714e27369b8df864ba1a06ebe425e0cec4ca6e21378f4317062d2a524f9b155",
+  "peakPcm": 20993,
+  "rmsDbfs": -18.92,
+  "rate": "+0%",
+  "listened": false
+}

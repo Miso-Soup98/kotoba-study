@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-145",
+  "exampleIndex": 1,
+  "text": "彼は少し疲れているのではないだろうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 193,
+  "signature": "bfcd54bcef4f1f9729dbcb545ba6c3055bbadbf3ae2783937c6ba02a7a4a1461",
+  "src": "/audio/voices/keita/N3-145-2.mp3",
+  "srt": "/audio/voices/keita/N3-145-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "b22962970f6f3c03ab23c5f8e0145bd2e01b3c6c1a2e494b4e72a3c4ccb6729c",
+  "peakPcm": 23503,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-055",
+  "exampleIndex": 0,
+  "text": "電気がついているところを見ると、まだ誰かいるようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 241,
+  "signature": "07bcf3faca53011e93f8c858dbe9399d7861ef450e068f4bb8fc1335f0baceaf",
+  "src": "/audio/voices/nanami/N2-055-1.mp3",
+  "srt": "/audio/voices/nanami/N2-055-1.srt",
+  "durationSeconds": 4.944,
+  "bytes": 29664,
+  "sha256": "7b9c8d592bb1fa9ab5d5cea1ea844e1fc8572f537de82be0568d737940d45ba0",
+  "peakPcm": 21381,
+  "rmsDbfs": -17.0,
+  "rate": "+0%",
+  "listened": false
+}

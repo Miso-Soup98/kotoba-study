@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-015",
+  "exampleIndex": 0,
+  "text": "実際の出来事をもとに、小説を書きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 221,
+  "signature": "3b9d25afb726002dc5d3e722f91f3f6c0a6f7edfba56f55550e2e8943a258957",
+  "src": "/audio/voices/keita/N2-015-1.mp3",
+  "srt": "/audio/voices/keita/N2-015-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "8b36ac3c1ad9386e6680af12df808f7562596927ee5b2198e84cd0cdf4e0712e",
+  "peakPcm": 21122,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

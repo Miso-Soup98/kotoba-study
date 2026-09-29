@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-018",
+  "exampleIndex": 1,
+  "text": "全国にわたって調査を行いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 222,
+  "signature": "43e5ef7c3ced3cd58389548785e90fbb3102fd56ffe46ff7c8d7ca75406db646",
+  "src": "/audio/voices/nanami/N2-018-2.mp3",
+  "srt": "/audio/voices/nanami/N2-018-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "e29d9a2a2e38cbd5f166ce8a0aa84c33b703e0183be61d0a224ff46fbce962d9",
+  "peakPcm": 23297,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-108",
+  "exampleIndex": 0,
+  "text": "値段は別として、この服は気に入っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 174,
+  "signature": "a5f248997886432327ee4d347585f6aec0bdb4ff148a8cfd2c9b6464c62a6901",
+  "src": "/audio/voices/keita/N3-108-1.mp3",
+  "srt": "/audio/voices/keita/N3-108-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "f9e6db579fb4be1b3be600e9a0301e8aeedc0027294be8c3bbcced1f70305538",
+  "peakPcm": 26931,
+  "rmsDbfs": -20.35,
+  "rate": "+0%",
+  "listened": false
+}

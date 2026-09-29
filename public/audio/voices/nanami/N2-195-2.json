@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-195",
+  "exampleIndex": 1,
+  "text": "この店は安いです。おまけに量も多いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 312,
+  "signature": "ef08c48acb32984debbfa6bd7e42fef321691bc998d4beffe4a15f4f7d17664e",
+  "src": "/audio/voices/nanami/N2-195-2.mp3",
+  "srt": "/audio/voices/nanami/N2-195-2.srt",
+  "durationSeconds": 5.088,
+  "bytes": 30528,
+  "sha256": "81f75fe7900cd3f168e47922de38e923a6bfe3186e01928a24940c8169e2e209",
+  "peakPcm": 21407,
+  "rmsDbfs": -17.28,
+  "rate": "+0%",
+  "listened": false
+}

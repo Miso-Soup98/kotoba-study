@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-183",
+  "exampleIndex": 1,
+  "text": "この店は、量が多いことで有名です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 212,
+  "signature": "3fb9f39edf988463a36730e57c485938b60ebd2ecfecedc2402543693d6ab648",
+  "src": "/audio/voices/keita/N3-183-2.mp3",
+  "srt": "/audio/voices/keita/N3-183-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "a30d2c200fbedf4bba8e7d4b3947a44fc5c2945588f48eb43636ea51b07a7d09",
+  "peakPcm": 21837,
+  "rmsDbfs": -19.95,
+  "rate": "+0%",
+  "listened": false
+}

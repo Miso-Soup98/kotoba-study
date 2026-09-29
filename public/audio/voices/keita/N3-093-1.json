@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-093",
+  "exampleIndex": 0,
+  "text": "こちらこそ、ありがとうございます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 167,
+  "signature": "95211be2206d0cd4dcdc60bc517f872405b6242c703b14fb28fce40d2597975f",
+  "src": "/audio/voices/keita/N3-093-1.mp3",
+  "srt": "/audio/voices/keita/N3-093-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "a14fdd2edf628ca2cd6c29a98169ad5915e66f741e96a02ee7db5abe28fe87f2",
+  "peakPcm": 24021,
+  "rmsDbfs": -21.62,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-189",
+  "exampleIndex": 0,
+  "text": "三年後、再びこの町を訪ねました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 309,
+  "signature": "3f9b880c4d039d5b5da4ed060517e1512edd1f4077797ce46beb2eb525bbe0d5",
+  "src": "/audio/voices/keita/N2-189-1.mp3",
+  "srt": "/audio/voices/keita/N2-189-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "1ad985595af2b57e39a106342b086187bf243af6dc7da65bc2e6f55b13af51a0",
+  "peakPcm": 25117,
+  "rmsDbfs": -20.21,
+  "rate": "+0%",
+  "listened": false
+}

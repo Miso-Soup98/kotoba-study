@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-183",
+  "exampleIndex": 0,
+  "text": "異常があれば、直ちに連絡してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 306,
+  "signature": "f5b0ad89f2b311467690e2be26287ca8af6380ceaebd07569932a5abd421704d",
+  "src": "/audio/voices/nanami/N2-183-1.mp3",
+  "srt": "/audio/voices/nanami/N2-183-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "fa38c9ba9fb446f5d6bb2c2b29a63f812130c5eb8c868d14aacf52a6afa2db2b",
+  "peakPcm": 20812,
+  "rmsDbfs": -17.36,
+  "rate": "+0%",
+  "listened": false
+}

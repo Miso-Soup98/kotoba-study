@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-155",
+  "exampleIndex": 0,
+  "text": "軽いという点では、この靴が一番です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 291,
+  "signature": "14f2c64fbf1123aa538af64b9bc8fc05a36163ebadae392a001676a70504e943",
+  "src": "/audio/voices/nanami/N2-155-1.mp3",
+  "srt": "/audio/voices/nanami/N2-155-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "5dd6e2df37694fe81f58acf6943ddb477be1940984d161c6911e280e859d3f9b",
+  "peakPcm": 19591,
+  "rmsDbfs": -17.3,
+  "rate": "+0%",
+  "listened": false
+}

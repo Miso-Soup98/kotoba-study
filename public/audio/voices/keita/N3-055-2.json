@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-055",
+  "exampleIndex": 1,
+  "text": "この家は小さいながらも、住みやすいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 148,
+  "signature": "e4771b0fbc4b05ab05dec0d673a5abb188092f3e54c7535a009c35bb80fe6527",
+  "src": "/audio/voices/keita/N3-055-2.mp3",
+  "srt": "/audio/voices/keita/N3-055-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "8b254eb271dcd8172ff4c62102955d9c7b70bc89665e27ff1f278e7709c37933",
+  "peakPcm": 21127,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

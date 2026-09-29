@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-095",
+  "exampleIndex": 0,
+  "text": "国内はもとより、海外でも知られています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 261,
+  "signature": "8eac8132aa4ad4d58ee535d5311ef3f97299e30e796183056af8d6e01fdb278e",
+  "src": "/audio/voices/nanami/N2-095-1.mp3",
+  "srt": "/audio/voices/nanami/N2-095-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "05a2799c50147542960d1907c544024ff0a834344b94b1b8aa1e4030a023b631",
+  "peakPcm": 21656,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

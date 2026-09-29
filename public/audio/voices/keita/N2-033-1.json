@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-033",
+  "exampleIndex": 0,
+  "text": "実物を見ないことには、決められません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 230,
+  "signature": "faacff8b8900fd18284ca81e71303b390a01e692ce016522e6b5fa4d1c7a62aa",
+  "src": "/audio/voices/keita/N2-033-1.mp3",
+  "srt": "/audio/voices/keita/N2-033-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "a29fa4c1b4ef42128853d847788c961dcd2ba34e8613d168c83d638c423c3994",
+  "peakPcm": 23648,
+  "rmsDbfs": -20.17,
+  "rate": "+0%",
+  "listened": false
+}

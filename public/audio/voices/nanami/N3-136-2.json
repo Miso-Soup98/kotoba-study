@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-136",
+  "exampleIndex": 1,
+  "text": "明日は休みなんだって。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 188,
+  "signature": "ad828a124c0f90584b7a2ef27a909f059b3ab8e9208c99c8da153d79fbdeddd5",
+  "src": "/audio/voices/nanami/N3-136-2.mp3",
+  "srt": "/audio/voices/nanami/N3-136-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "d5b5633b7e47518a7a8352c7281dc026f7e6176b1e4803ebffeac0195a1d9980",
+  "peakPcm": 21385,
+  "rmsDbfs": -18.69,
+  "rate": "+0%",
+  "listened": false
+}

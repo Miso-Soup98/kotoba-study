@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-109",
+  "exampleIndex": 1,
+  "text": "強い雨の中を歩いて帰りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 268,
+  "signature": "ce23b8c92384a96181559a7158ad12f0ff50b4850ef077c344cbf1a9d0b502b4",
+  "src": "/audio/voices/keita/N2-109-2.mp3",
+  "srt": "/audio/voices/keita/N2-109-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "2be27d5a89ffe26e9dcaaf2a1f6273d9c0d181a718430ed8641016f08b22a55e",
+  "peakPcm": 21267,
+  "rmsDbfs": -19.92,
+  "rate": "+0%",
+  "listened": false
+}

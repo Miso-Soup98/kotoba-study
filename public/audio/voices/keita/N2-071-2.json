@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-071",
+  "exampleIndex": 1,
+  "text": "同じ失敗をする気がしてなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 249,
+  "signature": "e3b0f6ee7d39f01630c0e8a5dfd5dbee5f6a55e5a7887e3434a2058ce8dc3223",
+  "src": "/audio/voices/keita/N2-071-2.mp3",
+  "srt": "/audio/voices/keita/N2-071-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "87c95b94eb73a48c05d818383e82e1023f1649d89df24b59f3e662532dbd726a",
+  "peakPcm": 25850,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

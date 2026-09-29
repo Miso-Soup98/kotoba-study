@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-012",
+  "exampleIndex": 0,
+  "text": "できる限り手伝います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 219,
+  "signature": "65ccc789f35cc4461adfec3dc2b49e15238137a90c31c33521f4f85187e07c9c",
+  "src": "/audio/voices/nanami/N2-012-1.mp3",
+  "srt": "/audio/voices/nanami/N2-012-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "ecf40d7a65d5c00317b55ce7ad041f829aa396e1240cda33ad63c2705fbd3fef",
+  "peakPcm": 19868,
+  "rmsDbfs": -18.84,
+  "rate": "+0%",
+  "listened": false
+}

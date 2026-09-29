@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-137",
+  "exampleIndex": 0,
+  "text": "今から急いだって、間に合いません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 189,
+  "signature": "ef77dbf18868bba96fd3aeed126b6674697de53cbbe313b6662484aae5f3778f",
+  "src": "/audio/voices/keita/N3-137-1.mp3",
+  "srt": "/audio/voices/keita/N3-137-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "0d8de5fd2e1ccaa64feba82705e9364100c454b4206e055ae0687aa3d0d57b96",
+  "peakPcm": 20770,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

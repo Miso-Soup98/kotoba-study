@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-169",
+  "exampleIndex": 1,
+  "text": "今度は逆に、私が質問します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 299,
+  "signature": "9ceefdb55618b2c4706d2c829b25e1358dbc0ca398f1a22f0e5d4575afd7d72c",
+  "src": "/audio/voices/nanami/N2-169-2.mp3",
+  "srt": "/audio/voices/nanami/N2-169-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "c36da4099a898e1665cddf456b4084fd56354c564cb4e521147a8e2d9e45af31",
+  "peakPcm": 20993,
+  "rmsDbfs": -17.74,
+  "rate": "+0%",
+  "listened": false
+}

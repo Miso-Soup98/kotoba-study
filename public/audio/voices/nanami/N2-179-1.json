@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-179",
+  "exampleIndex": 0,
+  "text": "彼は少しも慌てませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 304,
+  "signature": "ad98e36af0d06c56301b106272e08e12354ad4ff74a7eb692a541122cba8da3d",
+  "src": "/audio/voices/nanami/N2-179-1.mp3",
+  "srt": "/audio/voices/nanami/N2-179-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "e9dc973d4c8217c011710049a123979c8b90553d46b95f4ee28fd806dbd24813",
+  "peakPcm": 20864,
+  "rmsDbfs": -18.3,
+  "rate": "+0%",
+  "listened": false
+}

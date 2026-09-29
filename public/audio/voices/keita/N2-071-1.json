@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-071",
+  "exampleIndex": 0,
+  "text": "家族のことが心配でなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 249,
+  "signature": "d49606d64760205cebe34d0c225e363014e841015c8da3160bd7db0f22ef47d7",
+  "src": "/audio/voices/keita/N2-071-1.mp3",
+  "srt": "/audio/voices/keita/N2-071-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "c266ed068d099915eabbd34f9a6940614572d1d3bd6bad278bd92e65b9942c31",
+  "peakPcm": 20296,
+  "rmsDbfs": -21.73,
+  "rate": "+0%",
+  "listened": false
+}

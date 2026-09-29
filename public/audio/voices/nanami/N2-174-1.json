@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-174",
+  "exampleIndex": 0,
+  "text": "少なくとも三日は必要です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 301,
+  "signature": "59ac4fbe4b7be0e0a5c24801b573c2a766c711be2a60e67b2efd1fc986ea5b8b",
+  "src": "/audio/voices/nanami/N2-174-1.mp3",
+  "srt": "/audio/voices/nanami/N2-174-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "2d05c6771946bb176e7025df8485428ecb4d23b20672ecd7b975b6b4b3452a83",
+  "peakPcm": 22703,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}
