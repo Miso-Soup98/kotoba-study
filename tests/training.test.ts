@@ -263,6 +263,30 @@ test("a new wrong answer returns a previously corrected question to the mistake 
   );
 });
 
+test("late offline uploads cannot replace a more recent mistake status", () => {
+  const oldWrong = record({ id: "older-wrong", at: at - 1000, correct: false });
+  const newRight = record({ id: "newer-right", at, correct: true });
+  assert.equal(latestAnswers([newRight, oldWrong]).get(newRight.questionId)?.id, newRight.id);
+  assert.equal(trainingSummary([newRight, oldWrong]).mistakes.length, 0);
+  const oldRight = { ...oldWrong, id: "older-right", correct: true };
+  const newWrong = { ...newRight, id: "newer-wrong", correct: false };
+  assert.equal(trainingSummary([newWrong, oldRight]).mistakes[0].id, newWrong.id);
+  const tied = [record({ id: "b", at, correct: false }), record({ id: "a", at, correct: true })];
+  assert.equal(latestAnswers(tied).get(tied[0].questionId)?.id, "b");
+  assert.equal(latestAnswers([...tied].reverse()).get(tied[0].questionId)?.id, "b");
+});
+
+test("recent accuracy follows answer time instead of upload order without changing replay order", () => {
+  const recent = Array.from({ length: 60 }, (_, index) => record({ at: at + index, correct: true }));
+  const lateUploads = Array.from({ length: 10 }, (_, index) => record({ at: at - 100 + index, category: "reading", correct: false }));
+  const history = [...recent, ...lateUploads];
+  const before = structuredClone(history);
+  const summary = trainingSummary(history);
+  assert.equal(summary.categories.find(item => item.category === "reading")?.total, 0);
+  assert.equal(summary.categories.find(item => item.category === "grammar")?.correct, 60);
+  assert.deepEqual(history, before);
+});
+
 test("question selection puts mistakes before unseen and solved items, and respects categories", () => {
   const fixture = [
     questions[0],

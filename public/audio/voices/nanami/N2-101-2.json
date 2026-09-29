@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-101",
+  "exampleIndex": 1,
+  "text": "一日として忘れたことはありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 264,
+  "signature": "cbee501f8d85984fcfe2e93a927243c5fd29cabfa11c2fc516f0e331b08313dc",
+  "src": "/audio/voices/nanami/N2-101-2.mp3",
+  "srt": "/audio/voices/nanami/N2-101-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "3f6a851382c33fae1f1fc141f87defbf1f28dcea49c2e5cfa6ea85183836b248",
+  "peakPcm": 21169,
+  "rmsDbfs": -18.45,
+  "rate": "+0%",
+  "listened": false
+}

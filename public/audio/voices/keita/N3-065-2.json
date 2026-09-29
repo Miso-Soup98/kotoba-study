@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-065",
+  "exampleIndex": 1,
+  "text": "家族で将来について話し合いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 153,
+  "signature": "e42eeae9b5abb03a095bfa9824fa5c7e24668a39ab51146b9a0fe34267dc81b3",
+  "src": "/audio/voices/keita/N3-065-2.mp3",
+  "srt": "/audio/voices/keita/N3-065-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "86bd30774458338638898eda4e4bad7b9381bcda856c79b7ce025ac774793af8",
+  "peakPcm": 24118,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

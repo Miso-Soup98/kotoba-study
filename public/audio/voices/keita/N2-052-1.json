@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-052",
+  "exampleIndex": 0,
+  "text": "旅行をきっかけに、日本語を勉強し始めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 239,
+  "signature": "339d78b73be2099b2219ccac1fc3ece893184cc5735338f335bd83371fff8da0",
+  "src": "/audio/voices/keita/N2-052-1.mp3",
+  "srt": "/audio/voices/keita/N2-052-1.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "af42c98e0a7370a55ee1ee87bd5472b23d9b4f9a73c997f9228b53489370684b",
+  "peakPcm": 21972,
+  "rmsDbfs": -19.85,
+  "rate": "+0%",
+  "listened": false
+}

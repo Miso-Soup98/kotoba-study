@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-106",
+  "exampleIndex": 0,
+  "text": "休みを取ってでも、家族に会いに行きたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 267,
+  "signature": "9327cf9f941acceb1870f33a7e0dd8857c64d8198a0e412721d2f647af62c068",
+  "src": "/audio/voices/nanami/N2-106-1.mp3",
+  "srt": "/audio/voices/nanami/N2-106-1.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "774bf9987c24916401c0130aba79f28f9caf526a1ebefc32b036b4b22c1de2ca",
+  "peakPcm": 23393,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

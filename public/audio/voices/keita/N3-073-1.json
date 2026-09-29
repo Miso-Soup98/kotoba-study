@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-073",
+  "exampleIndex": 0,
+  "text": "父は今、電話中です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 157,
+  "signature": "b86864e46efe3162276093f459719f9f8f89cd8854a39d5b6fbc8d4d63281635",
+  "src": "/audio/voices/keita/N3-073-1.mp3",
+  "srt": "/audio/voices/keita/N3-073-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "4c83ba6cb3a67a0cb57aa71aff72c0791b06f7a911b6989b0e202c6b288775c6",
+  "peakPcm": 21879,
+  "rmsDbfs": -21.23,
+  "rate": "+0%",
+  "listened": false
+}

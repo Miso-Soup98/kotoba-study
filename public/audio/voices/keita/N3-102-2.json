@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-102",
+  "exampleIndex": 1,
+  "text": "この仕事は今日中に終わりそうもありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 171,
+  "signature": "94bdb2df45088b529c9559604cbae3b68ac05c47f1eb7274c03bf13cec860121",
+  "src": "/audio/voices/keita/N3-102-2.mp3",
+  "srt": "/audio/voices/keita/N3-102-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "995f1984703693df49bcdff3c58ba0f2d0da3e2d98cfcfa751e3e1e8f50abfae",
+  "peakPcm": 22998,
+  "rmsDbfs": -19.35,
+  "rate": "+0%",
+  "listened": false
+}

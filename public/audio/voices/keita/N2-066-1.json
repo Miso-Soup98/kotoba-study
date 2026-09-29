@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-066",
+  "exampleIndex": 0,
+  "text": "一言言ったばかりに、けんかになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 246,
+  "signature": "30b9c526971ddeec3e258d48dd22b48dbf52348a99f00b9237b300694bead22f",
+  "src": "/audio/voices/keita/N2-066-1.mp3",
+  "srt": "/audio/voices/keita/N2-066-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "6ad61fabe7ca46fb62e36f8aca3d2ff87f820947cd6fa6e81188485138726b7c",
+  "peakPcm": 24058,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-026",
+  "exampleIndex": 0,
+  "text": "毎日話しているうちに、友達になりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 133,
+  "signature": "6a6aac5488aa60b8aca7314f9c2948675b90bf6151e3a702846e354bf911c8c3",
+  "src": "/audio/voices/keita/N3-026-1.mp3",
+  "srt": "/audio/voices/keita/N3-026-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "3c67b145b1760ecb0fd99919e382ea1bf170504fbbdee43e9b1096da85b67ece",
+  "peakPcm": 26291,
+  "rmsDbfs": -20.45,
+  "rate": "+0%",
+  "listened": false
+}

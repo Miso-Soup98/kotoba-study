@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-028",
+  "exampleIndex": 0,
+  "text": "会議の最中に電話が鳴りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 134,
+  "signature": "10eeb84acf2c56593d646ebf5fcd174dc2d28ed7cd2e11b4efa41ac08d4a4099",
+  "src": "/audio/voices/nanami/N3-028-1.mp3",
+  "srt": "/audio/voices/nanami/N3-028-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "9d838de802633d99c2d836df0338d268ff8e356abac4996df1d9994a808f0774",
+  "peakPcm": 19586,
+  "rmsDbfs": -18.12,
+  "rate": "+0%",
+  "listened": false
+}

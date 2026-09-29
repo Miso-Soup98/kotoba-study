@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-067",
+  "exampleIndex": 0,
+  "text": "静かなどころか、とてもにぎやかでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 247,
+  "signature": "d854f9a36449aa97676bc0014a270201e6cb8a42db13b9a3e165bafe42b762a8",
+  "src": "/audio/voices/nanami/N2-067-1.mp3",
+  "srt": "/audio/voices/nanami/N2-067-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "ff6b919ac5c069565115a1e91fb315eee02f7a3c005c1ec3560a0f8fc7c5d8a9",
+  "peakPcm": 19992,
+  "rmsDbfs": -17.99,
+  "rate": "+0%",
+  "listened": false
+}

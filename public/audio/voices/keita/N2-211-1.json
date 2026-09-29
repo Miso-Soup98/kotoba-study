@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-211",
+  "exampleIndex": 0,
+  "text": "いつの間にか、雨がやんでいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 320,
+  "signature": "14f98aaaa24ce7be2a7d64c65949d68181a6f4a0565c8be9968481f7ec9d6ebb",
+  "src": "/audio/voices/keita/N2-211-1.mp3",
+  "srt": "/audio/voices/keita/N2-211-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "2c829872cca04c875129d0528b72eacb570f326eb8392bbbb29da72ef9c28cc1",
+  "peakPcm": 24655,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

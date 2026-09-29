@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-143",
+  "exampleIndex": 0,
+  "text": "試験の結果が気になります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 192,
+  "signature": "29676578875932bf41a0e94bfd2e3fe5a8c605bcd71831c61e8066f751f35df4",
+  "src": "/audio/voices/keita/N3-143-1.mp3",
+  "srt": "/audio/voices/keita/N3-143-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "9efbdff6bd0e8f5c70a52c5b7128522546d1a22b683e960b85c1afdfea5d44ca",
+  "peakPcm": 22285,
+  "rmsDbfs": -21.44,
+  "rate": "+0%",
+  "listened": false
+}

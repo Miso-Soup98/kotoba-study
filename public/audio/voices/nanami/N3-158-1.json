@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-158",
+  "exampleIndex": 0,
+  "text": "この景色は、まるで絵のようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 199,
+  "signature": "5c0aaefec7c4ca6715b30993de1ad50fdba652b1b2edae31485f723b5509f30f",
+  "src": "/audio/voices/nanami/N3-158-1.mp3",
+  "srt": "/audio/voices/nanami/N3-158-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "b33677bacbc2d0d96209d5e3ec31fc08b1d4ab9628d621100428c7a44a112f78",
+  "peakPcm": 21972,
+  "rmsDbfs": -16.92,
+  "rate": "+0%",
+  "listened": false
+}

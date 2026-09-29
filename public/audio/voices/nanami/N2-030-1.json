@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-030",
+  "exampleIndex": 0,
+  "text": "大雨で川の水があふれる恐れがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 228,
+  "signature": "fcf413e5a456d0ea815f578e8bc62ba4980f27e20926a4306b1725df12a4556b",
+  "src": "/audio/voices/nanami/N2-030-1.mp3",
+  "srt": "/audio/voices/nanami/N2-030-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "a8c71b629846b6a295cef3baac70ff4758978375754930324d04334e49c435ee",
+  "peakPcm": 21253,
+  "rmsDbfs": -17.1,
+  "rate": "+0%",
+  "listened": false
+}

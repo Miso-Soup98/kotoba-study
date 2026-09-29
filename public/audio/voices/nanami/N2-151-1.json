@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-151",
+  "exampleIndex": 0,
+  "text": "忙しくて、友達に会えずじまいでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 289,
+  "signature": "574709c6fc0740f2f12f620b4dc46a9ddb10e1cc107692fcc0eec7a1cf90e90b",
+  "src": "/audio/voices/nanami/N2-151-1.mp3",
+  "srt": "/audio/voices/nanami/N2-151-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "6c4fa604772176214f38ce366e013bc3d545d6bf4e405b4cb3f3aea11bbd2124",
+  "peakPcm": 21906,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

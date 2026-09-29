@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-188",
+  "exampleIndex": 0,
+  "text": "もう少しで準備が終わります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 308,
+  "signature": "1407df93c6420cbcf09d5a6013e91aaa566e61cf0b1ea5d75519d9878ff390e9",
+  "src": "/audio/voices/keita/N2-188-1.mp3",
+  "srt": "/audio/voices/keita/N2-188-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "ab3cc5781e92da0b236bce5be0f546aaccfcb8ca0150de99ba0b8bec93e19899",
+  "peakPcm": 20934,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

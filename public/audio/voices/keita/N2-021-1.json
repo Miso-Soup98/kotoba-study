@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-021",
+  "exampleIndex": 0,
+  "text": "皆の期待に応えたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 224,
+  "signature": "2de815326213f6bb6f130ccca23c5c20cc1dc49e880bbf881179a163a586730c",
+  "src": "/audio/voices/keita/N2-021-1.mp3",
+  "srt": "/audio/voices/keita/N2-021-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "a7c4fd4dfd4bd633a9b859d7b4473655e6c831effa68480e0434bdc92656b640",
+  "peakPcm": 23549,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

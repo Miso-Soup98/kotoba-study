@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-070",
+  "exampleIndex": 1,
+  "text": "この本は章ごとに問題があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 155,
+  "signature": "a74d1b44a66b8f5fd56ae49e5aae46a604ae0de6df7dab1a6971b2c9202892df",
+  "src": "/audio/voices/nanami/N3-070-2.mp3",
+  "srt": "/audio/voices/nanami/N3-070-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "9e1714ac2b80fb27785a4256ae24e9ec77098ecc297118d3cb026c587c69d995",
+  "peakPcm": 21587,
+  "rmsDbfs": -16.95,
+  "rate": "+0%",
+  "listened": false
+}

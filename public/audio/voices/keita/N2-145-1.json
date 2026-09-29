@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-145",
+  "exampleIndex": 0,
+  "text": "受付は九時より開始します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 286,
+  "signature": "1c327a0c0307a6af6debb566ff7776b35dea377d5684d039bff23974cc172480",
+  "src": "/audio/voices/keita/N2-145-1.mp3",
+  "srt": "/audio/voices/keita/N2-145-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "71e96803137951889eaa00e2e4462c2749165eb6a068d64ee4e17019a611c749",
+  "peakPcm": 23221,
+  "rmsDbfs": -20.95,
+  "rate": "+0%",
+  "listened": false
+}

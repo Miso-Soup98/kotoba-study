@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-183",
+  "exampleIndex": 0,
+  "text": "この町は温泉で有名です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 212,
+  "signature": "2ac4a362b8373d19defe13deffe6f671bdbaa1c3371e35c86dc2493caa06f772",
+  "src": "/audio/voices/keita/N3-183-1.mp3",
+  "srt": "/audio/voices/keita/N3-183-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "21c556afe3e95b6a653f078183c59c86b60de5cf1f49dba5952c3f9833619bc0",
+  "peakPcm": 21625,
+  "rmsDbfs": -19.55,
+  "rate": "+0%",
+  "listened": false
+}

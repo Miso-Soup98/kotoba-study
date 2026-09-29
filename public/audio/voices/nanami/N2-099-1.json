@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-099",
+  "exampleIndex": 0,
+  "text": "参加者のみ、入場できます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 263,
+  "signature": "d5b647b76d872596bef6d9cd7aeacb941d2f8f256a1e54567442d0b0796fdf72",
+  "src": "/audio/voices/nanami/N2-099-1.mp3",
+  "srt": "/audio/voices/nanami/N2-099-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "eec456962825173ba6b3ff36385b9932dee1924c63eb35d3a41a6773c7db40dd",
+  "peakPcm": 21948,
+  "rmsDbfs": -18.03,
+  "rate": "+0%",
+  "listened": false
+}

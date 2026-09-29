@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-037",
+  "exampleIndex": 1,
+  "text": "これだけ練習したのだから、上達したに違いない。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 139,
+  "signature": "d629d84e4610ee18ed1027fbdbe3db2d110ef4763fa912d0d836af3922c8eb40",
+  "src": "/audio/voices/keita/N3-037-2.mp3",
+  "srt": "/audio/voices/keita/N3-037-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "796d7976344a452d329de8beedaabfefbc9e38beee598b4029f44470a6cd631c",
+  "peakPcm": 23355,
+  "rmsDbfs": -20.34,
+  "rate": "+0%",
+  "listened": false
+}

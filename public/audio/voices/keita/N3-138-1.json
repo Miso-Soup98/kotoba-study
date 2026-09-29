@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-138",
+  "exampleIndex": 0,
+  "text": "紙か何かありますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 189,
+  "signature": "41f95cec4c6aadbbe013324c73d7a5ef7d6fe11d15c822e87b4f91ce3d2352d4",
+  "src": "/audio/voices/keita/N3-138-1.mp3",
+  "srt": "/audio/voices/keita/N3-138-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "a0c07e2477a9a5bcd29e78027688e6fcc0874390e4ad29fcfc2f718c860018dd",
+  "peakPcm": 20968,
+  "rmsDbfs": -22.51,
+  "rate": "+0%",
+  "listened": false
+}

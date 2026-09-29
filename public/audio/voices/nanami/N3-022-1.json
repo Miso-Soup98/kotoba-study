@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-022",
+  "exampleIndex": 0,
+  "text": "そんなに心配することはありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 131,
+  "signature": "ff106b20e3087914c517fb53382639b015f12c45849b833165bd855109b5a742",
+  "src": "/audio/voices/nanami/N3-022-1.mp3",
+  "srt": "/audio/voices/nanami/N3-022-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "7bc3e18722194cd30f89858dd27908914f400969e3f95a3c190fe7785bbba586",
+  "peakPcm": 21625,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-177",
+  "exampleIndex": 1,
+  "text": "彼は父の弟です。つまり、私のおじです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 209,
+  "signature": "d79b040efa5650c4ffa2997a18fb54a08a311da5dcf52c6c455ffcac6986c6c7",
+  "src": "/audio/voices/keita/N3-177-2.mp3",
+  "srt": "/audio/voices/keita/N3-177-2.srt",
+  "durationSeconds": 5.112,
+  "bytes": 30672,
+  "sha256": "d46be25b3f64631f2825f73c89a666fbc21eed4518fd00c946be9b1a5c0c6811",
+  "peakPcm": 24911,
+  "rmsDbfs": -21.49,
+  "rate": "+0%",
+  "listened": false
+}

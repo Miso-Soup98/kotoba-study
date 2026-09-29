@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-074",
+  "exampleIndex": 0,
+  "text": "申し込む際に、身分証を見せてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 157,
+  "signature": "fd2c49b709f5443daf684d2cb68a3471b7e52af63f5cd6a51a81abf610cf6014",
+  "src": "/audio/voices/nanami/N3-074-1.mp3",
+  "srt": "/audio/voices/nanami/N3-074-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "aeeb588d94e4ee0029c7581466356d487ed4ca88730d9770da4fb610782ebddc",
+  "peakPcm": 19615,
+  "rmsDbfs": -18.41,
+  "rate": "+0%",
+  "listened": false
+}

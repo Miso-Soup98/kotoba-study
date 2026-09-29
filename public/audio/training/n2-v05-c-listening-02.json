@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-c-listening-02",
+  "exampleIndex": 0,
+  "text": "明日の打ち合わせには、先週渡した白い用紙だけを持ってきてください。青い用紙は内容が古くなったので使いません。新しい説明書は会場で配ります。パソコンも必要ありません。白い用紙にまだ名前を書いていない人は、会議が始まるまでに書いておいてください。筆記用具は会場で貸し出します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "5b0a2c83d780ac01270af742fcaad1adc64cf3659f46d4661dec7f7663c0ec48",
+  "src": "/audio/training/n2-v05-c-listening-02.mp3",
+  "srt": "/audio/training/n2-v05-c-listening-02.srt",
+  "durationSeconds": 26.736,
+  "bytes": 160416,
+  "sha256": "af599b5ad3f681ec9684f98847acf29c2bd78dd14311ef0905131cf46c720c4f",
+  "peakPcm": 23015,
+  "rmsDbfs": -17.15,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

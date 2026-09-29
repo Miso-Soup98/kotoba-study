@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-129",
+  "exampleIndex": 0,
+  "text": "書いては消し、何度も直しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 278,
+  "signature": "a7d7ae55d0729aeb95b2e859cf5a4d48bd5a1a564036a674e9a68bc0130e0faf",
+  "src": "/audio/voices/nanami/N2-129-1.mp3",
+  "srt": "/audio/voices/nanami/N2-129-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "2a6ed5c7b08f9fc481b9444a1098d446bf9daaf72c7df75ddd1b579ab72acb68",
+  "peakPcm": 21921,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

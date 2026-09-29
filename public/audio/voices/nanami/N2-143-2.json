@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-143",
+  "exampleIndex": 1,
+  "text": "内容をご確認願います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 285,
+  "signature": "82b00e26c8f15eaf65e5f7c5ce252eb53764509fe7b7b8d755415ce52c0fa957",
+  "src": "/audio/voices/nanami/N2-143-2.mp3",
+  "srt": "/audio/voices/nanami/N2-143-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "70aa107805a0ecbfe07f873b642a0a37241b6eee133cbe09b2de7011f9a3b377",
+  "peakPcm": 21137,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

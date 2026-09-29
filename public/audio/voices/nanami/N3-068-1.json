@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-068",
+  "exampleIndex": 0,
+  "text": "最後まで自分の考えを言い通しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 154,
+  "signature": "34aeb674f4f2c983178005adeab6e66b9c38676c6e9d8e4ebe3253830c392f9e",
+  "src": "/audio/voices/nanami/N3-068-1.mp3",
+  "srt": "/audio/voices/nanami/N3-068-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "f18a9ef201cc6e9631a5edc5e4db6d6b197e088e4b757d708fda6eaf3917245b",
+  "peakPcm": 21291,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

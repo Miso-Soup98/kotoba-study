@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-042",
+  "exampleIndex": 0,
+  "text": "戻れるものなら、学生時代に戻りたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 234,
+  "signature": "03d318513a952e987efd232e846ca1ae93dd1402c0b4578506ce001b3890e2fd",
+  "src": "/audio/voices/keita/N2-042-1.mp3",
+  "srt": "/audio/voices/keita/N2-042-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "cdb7b331ac8f14f98c5849bd7d4de9209f3beacade8c10d8afc49ee2e753f272",
+  "peakPcm": 23228,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

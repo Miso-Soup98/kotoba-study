@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-184",
+  "exampleIndex": 1,
+  "text": "日本語の会話に、次第に慣れてきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 306,
+  "signature": "18b12dad67906c09a5fc9bb8a45386188f023802278dd02d299a89cad7332435",
+  "src": "/audio/voices/keita/N2-184-2.mp3",
+  "srt": "/audio/voices/keita/N2-184-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "82d7dd0d9fcd72735befc91ab679b12b8c39e15c440df0696be3d3b13f9b66b1",
+  "peakPcm": 26175,
+  "rmsDbfs": -20.21,
+  "rate": "+0%",
+  "listened": false
+}

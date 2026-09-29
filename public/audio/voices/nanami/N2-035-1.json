@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-035",
+  "exampleIndex": 0,
+  "text": "約束した以上は、守らなければなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 231,
+  "signature": "9bec30d45b40b68f546b9a86477cbda65aca2023a0f5362c854efc4a332522ad",
+  "src": "/audio/voices/nanami/N2-035-1.mp3",
+  "srt": "/audio/voices/nanami/N2-035-1.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "a4058917cb90523f55fc352ce615fad16c3ecf002bfc33cbf9a0a77f1aed4009",
+  "peakPcm": 22627,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

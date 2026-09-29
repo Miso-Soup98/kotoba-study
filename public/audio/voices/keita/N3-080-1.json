@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-080",
+  "exampleIndex": 0,
+  "text": "先生をはじめ、多くの方に助けていただきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 160,
+  "signature": "89a0c4ef92b285e2ec7696a7f9b8d827c02ab032979cb7a0e10c3bbfb6d44619",
+  "src": "/audio/voices/keita/N3-080-1.mp3",
+  "srt": "/audio/voices/keita/N3-080-1.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "29b1ebde4c912a0dfb2baf8e745883ce68f394881472b21190b8aee595f77adb",
+  "peakPcm": 21575,
+  "rmsDbfs": -21.27,
+  "rate": "+0%",
+  "listened": false
+}

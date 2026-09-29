@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-015",
+  "exampleIndex": 0,
+  "text": "雪が降ったために、道路が混んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 128,
+  "signature": "b68a3b1ee1965996960be8f7c6be73bd9d9e8a79f06e313522d041aa8d2eccad",
+  "src": "/audio/voices/keita/N3-015-1.mp3",
+  "srt": "/audio/voices/keita/N3-015-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "7e57f934ccf8e96a3edd866b1a777dfb46e399c559e91b400e8293a1a7460e1f",
+  "peakPcm": 23278,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

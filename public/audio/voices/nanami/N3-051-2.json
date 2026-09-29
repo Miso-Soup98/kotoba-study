@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-051",
+  "exampleIndex": 1,
+  "text": "少し遅れても構いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 146,
+  "signature": "d659dd43d54deb2d68b43f0993fab888ae7becfb7b0c53c85fdac41b443f2797",
+  "src": "/audio/voices/nanami/N3-051-2.mp3",
+  "srt": "/audio/voices/nanami/N3-051-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "94bcbc5a4fccbf37982aac7e1c7f6cc88eed5b02f6d34f0615956bb8a5daa90e",
+  "peakPcm": 20101,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

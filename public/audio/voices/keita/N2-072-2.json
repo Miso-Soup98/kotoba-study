@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-072",
+  "exampleIndex": 1,
+  "text": "故郷の料理が食べたくてたまりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 249,
+  "signature": "d80d1aa0c6556194ddf585aa1644b060757a8464909a21d8be4858c8b77632c5",
+  "src": "/audio/voices/keita/N2-072-2.mp3",
+  "srt": "/audio/voices/keita/N2-072-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "f1b572d9cb152e255da83af9cd3fa754865092e2e53a69214a1576fd5fea2faf",
+  "peakPcm": 20419,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

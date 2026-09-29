@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-110",
+  "exampleIndex": 1,
+  "text": "心配するばかりで、相談しませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 175,
+  "signature": "012525884e78a736084f009605047e253c34ad2f9f403416878f5f66b0c3f4b2",
+  "src": "/audio/voices/keita/N3-110-2.mp3",
+  "srt": "/audio/voices/keita/N3-110-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "1681988c07165f3c1b19998811de8b330a1d266ffe2973229f8c98c15657bf67",
+  "peakPcm": 23814,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

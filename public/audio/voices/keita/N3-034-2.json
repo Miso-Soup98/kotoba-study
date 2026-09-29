@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-034",
+  "exampleIndex": 1,
+  "text": "気温が上がるにつれて、雪が溶けていきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 137,
+  "signature": "daf92902169e7ed5036fd3ad608b471d0af1da17505957b62355008d1d159b6c",
+  "src": "/audio/voices/keita/N3-034-2.mp3",
+  "srt": "/audio/voices/keita/N3-034-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "194bdc5fa19fa80ea3315de8f6643cb3740857c5df281b77c68210032ca4efc6",
+  "peakPcm": 22942,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

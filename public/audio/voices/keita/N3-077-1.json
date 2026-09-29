@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-077",
+  "exampleIndex": 0,
+  "text": "今夜から明日にかけて、雨が降るそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 159,
+  "signature": "f11d94387f03c2cf804bffde71db12eb6b9c2b92b2460976224ffd84a8636075",
+  "src": "/audio/voices/keita/N3-077-1.mp3",
+  "srt": "/audio/voices/keita/N3-077-1.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "e326e4daa81ae251fc02dc3e52673d7565591e8e2b2414f37858a22a25c86d50",
+  "peakPcm": 23832,
+  "rmsDbfs": -21.57,
+  "rate": "+0%",
+  "listened": false
+}

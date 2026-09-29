@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-202",
+  "exampleIndex": 0,
+  "text": "電話、あるいは書面でお知らせください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 315,
+  "signature": "2591b728e1fe4d5b6c6cddc8f7d9e0b0826f3ebe4445dc86af92f31c510c592d",
+  "src": "/audio/voices/nanami/N2-202-1.mp3",
+  "srt": "/audio/voices/nanami/N2-202-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "2fd3927cc44b4a5cefc3b44c45e766ea299af71463fc09870512969dfac73cd8",
+  "peakPcm": 20846,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

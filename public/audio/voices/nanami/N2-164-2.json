@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-164",
+  "exampleIndex": 1,
+  "text": "緊張しているせいか、声が小さいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 296,
+  "signature": "c034f73713d5d0a20bc97952de43c20346dd410176004f859895656388b4ac16",
+  "src": "/audio/voices/nanami/N2-164-2.mp3",
+  "srt": "/audio/voices/nanami/N2-164-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "c7a469c753cc95f6463b45c238e74bfe030133c3e948b0cae5b2bad110d9147d",
+  "peakPcm": 19948,
+  "rmsDbfs": -18.14,
+  "rate": "+0%",
+  "listened": false
+}

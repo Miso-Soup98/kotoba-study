@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-027",
+  "exampleIndex": 1,
+  "text": "旅行のたびに、お土産を買います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 134,
+  "signature": "0674a5bfe5ea92229b647f5221bf76e37cd6601bacd93a350364646d200f86fa",
+  "src": "/audio/voices/nanami/N3-027-2.mp3",
+  "srt": "/audio/voices/nanami/N3-027-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "5da6739f5fdbe3d349b0cb42eb69e9429e5c7566319174ab254307bf91d11aff",
+  "peakPcm": 21678,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

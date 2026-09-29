@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-080",
+  "exampleIndex": 0,
+  "text": "先生をはじめ、多くの方に助けていただきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 160,
+  "signature": "cde3d1eddb85153b4955d29e3c5c7a958c561667a5ea47a28595f83821e7d1cb",
+  "src": "/audio/voices/nanami/N3-080-1.mp3",
+  "srt": "/audio/voices/nanami/N3-080-1.srt",
+  "durationSeconds": 4.728,
+  "bytes": 28368,
+  "sha256": "02db13600552644be89b5ad952a6844dd52108e7c2626e3bbbcbd2ef5e9405f6",
+  "peakPcm": 20570,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

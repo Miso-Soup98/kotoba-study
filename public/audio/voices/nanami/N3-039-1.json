@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-039",
+  "exampleIndex": 0,
+  "text": "「無料」というのは、お金が要らないという意味です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 140,
+  "signature": "b54c67c6b34fc93e02fea4a818eedcc1d0fb111c3578e0b5baa179f51df708ae",
+  "src": "/audio/voices/nanami/N3-039-1.mp3",
+  "srt": "/audio/voices/nanami/N3-039-1.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "099cc36b007d04708af3e0a5c51b4868f035b4095c696ffaa1b6fd1badb98ee6",
+  "peakPcm": 20973,
+  "rmsDbfs": -16.63,
+  "rate": "+0%",
+  "listened": false
+}

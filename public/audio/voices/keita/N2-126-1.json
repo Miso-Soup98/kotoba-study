@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-126",
+  "exampleIndex": 0,
+  "text": "思わぬところで、友達に会いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 277,
+  "signature": "2e995e28f2a70dc31239a2b26041c4649bfb6eb3e4f12e2e8b0308eb90102e37",
+  "src": "/audio/voices/keita/N2-126-1.mp3",
+  "srt": "/audio/voices/keita/N2-126-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "590b63ebe03604cc2393fcf6f6f577a052c173bd72dd2ec85baff641ef01cd58",
+  "peakPcm": 22276,
+  "rmsDbfs": -20.02,
+  "rate": "+0%",
+  "listened": false
+}

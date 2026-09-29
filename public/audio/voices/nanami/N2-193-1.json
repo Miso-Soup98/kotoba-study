@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-193",
+  "exampleIndex": 0,
+  "text": "この部屋は広いです。しかも、家賃が安いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 311,
+  "signature": "b8ef119429152c3b19722dc2f32aa40fef2255d79b4d0fd7f833c8fecf65d475",
+  "src": "/audio/voices/nanami/N2-193-1.mp3",
+  "srt": "/audio/voices/nanami/N2-193-1.srt",
+  "durationSeconds": 5.568,
+  "bytes": 33408,
+  "sha256": "44f6071b0f70b0afc21b5a5a1bebfc86e44e4120cb92d66c0c55742e053e5638",
+  "peakPcm": 22536,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

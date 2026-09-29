@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-159",
+  "exampleIndex": 1,
+  "text": "失敗もまた、大切な経験です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 293,
+  "signature": "8947da089a15856042768ba31378259995b7a567d43816c181d4b39ba393d38e",
+  "src": "/audio/voices/nanami/N2-159-2.mp3",
+  "srt": "/audio/voices/nanami/N2-159-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "7df9199fbfd912da85886dca0b84b46b3fc4ef5ccf07292b61a3781cea7fc706",
+  "peakPcm": 20922,
+  "rmsDbfs": -17.58,
+  "rate": "+0%",
+  "listened": false
+}

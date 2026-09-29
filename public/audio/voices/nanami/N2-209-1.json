@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-209",
+  "exampleIndex": 0,
+  "text": "隣の部屋から、何やら音が聞こえます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 319,
+  "signature": "355908a9556e6917cffd4a27b9f93e5ef222c8e066f0254ced821a3094b054b0",
+  "src": "/audio/voices/nanami/N2-209-1.mp3",
+  "srt": "/audio/voices/nanami/N2-209-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "9ad7ce2e04aeb718dfe34f077f765cf6bf7fd7a69ab0c33388e9b1a0fa89d38b",
+  "peakPcm": 22005,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

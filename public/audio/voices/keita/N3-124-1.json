@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-124",
+  "exampleIndex": 0,
+  "text": "子供のころ、この川で遊んだものです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 182,
+  "signature": "5e3801a0c433ae8fa00f4a92a6c1ae7bdf2406422038a9b44238d15487ffae8c",
+  "src": "/audio/voices/keita/N3-124-1.mp3",
+  "srt": "/audio/voices/keita/N3-124-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "9a4378bb441bbf9d3a9ca96192041bfb04501da9d64ef54740beb207ae623c7e",
+  "peakPcm": 25212,
+  "rmsDbfs": -19.94,
+  "rate": "+0%",
+  "listened": false
+}

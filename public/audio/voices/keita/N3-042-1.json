@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-042",
+  "exampleIndex": 0,
+  "text": "引っ越すとしたら、駅の近くがいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 141,
+  "signature": "2389a6c59b9800219b1b6459fd6dcbd87b2765e1e4f44e8371bac4224e3acb5e",
+  "src": "/audio/voices/keita/N3-042-1.mp3",
+  "srt": "/audio/voices/keita/N3-042-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "3a24436db5c84c06316bdad4329af8de3c78b77c8e8bb6af917d9cae3285bf44",
+  "peakPcm": 23027,
+  "rmsDbfs": -22.55,
+  "rate": "+0%",
+  "listened": false
+}

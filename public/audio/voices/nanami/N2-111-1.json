@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-111",
+  "exampleIndex": 0,
+  "text": "理論の上では可能ですが、実際は難しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 269,
+  "signature": "0e83afa86f1f7ea03764bd34d3d19b0bef7c594d0a37ad35a069ef4a77cd22fd",
+  "src": "/audio/voices/nanami/N2-111-1.mp3",
+  "srt": "/audio/voices/nanami/N2-111-1.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "68b3f95c0ef9a0003f1b7aeb3e7119a684e83a25c1f87be9a040fa8a7a234a5a",
+  "peakPcm": 21236,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

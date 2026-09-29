@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-068",
+  "exampleIndex": 1,
+  "text": "彼は三時間走り通しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 154,
+  "signature": "2adf1b56e98d6d2f080391b46940df74c48f0c6989800fd35028d8f2866e283b",
+  "src": "/audio/voices/keita/N3-068-2.mp3",
+  "srt": "/audio/voices/keita/N3-068-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "9b62ca97197a176342c54a8e6b9e5dd088b4e2f5ae727e7a405b5ff321a7b198",
+  "peakPcm": 22358,
+  "rmsDbfs": -21.43,
+  "rate": "+0%",
+  "listened": false
+}

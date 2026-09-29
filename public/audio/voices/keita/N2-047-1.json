@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-047",
+  "exampleIndex": 0,
+  "text": "明日は休みだということは、今日出す必要がありますね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 237,
+  "signature": "5cf88d1c2ee6bda9a452dce066acc5b5feb687bc48e57257d5cfebd11770fc99",
+  "src": "/audio/voices/keita/N2-047-1.mp3",
+  "srt": "/audio/voices/keita/N2-047-1.srt",
+  "durationSeconds": 4.584,
+  "bytes": 27504,
+  "sha256": "80d8b1281db1ef17d451cd77933737b91717f258b3ddb6fe6e31b5ad4617dbb6",
+  "peakPcm": 23636,
+  "rmsDbfs": -20.3,
+  "rate": "+0%",
+  "listened": false
+}

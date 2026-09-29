@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-116",
+  "exampleIndex": 1,
+  "text": "道がぬれていることから、雨が降ったと分かります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 178,
+  "signature": "425a3a6e893ec87ca5b94de1ddefef676df71a931032001ec13d7dc2423c9262",
+  "src": "/audio/voices/keita/N3-116-2.mp3",
+  "srt": "/audio/voices/keita/N3-116-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "a8c234871c137e796d83abe9f55d4f77dddc2b0d7e11694b47e002c30f885684",
+  "peakPcm": 24346,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

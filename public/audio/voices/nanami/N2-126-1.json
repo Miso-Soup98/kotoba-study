@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-126",
+  "exampleIndex": 0,
+  "text": "思わぬところで、友達に会いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 277,
+  "signature": "86e8ed37146a794e786588e27d5f0a17109925370b002976c366c3dca54d1e5a",
+  "src": "/audio/voices/nanami/N2-126-1.mp3",
+  "srt": "/audio/voices/nanami/N2-126-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "854bcc43a91a0304def4e151bdd19b009c7bff4d5d953400b3f756c2a8bf4bae",
+  "peakPcm": 21988,
+  "rmsDbfs": -17.06,
+  "rate": "+0%",
+  "listened": false
+}

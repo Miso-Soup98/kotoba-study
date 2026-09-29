@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-122",
+  "exampleIndex": 0,
+  "text": "昨日行くつもりでしたが、雨でやめました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 181,
+  "signature": "a026f24b6ea8bea539be85dd5c5f2fde7cc9ff9e8db24c2ca93e0dc03981f1b2",
+  "src": "/audio/voices/keita/N3-122-1.mp3",
+  "srt": "/audio/voices/keita/N3-122-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "9afdfb56a6214bfe19dbb386b55367a67e17ccc1e841317f97fe7d929068bdff",
+  "peakPcm": 24365,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

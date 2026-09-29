@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-097",
+  "exampleIndex": 0,
+  "text": "砂糖抜きでお願いします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 262,
+  "signature": "13fd3b376ff75db1b68f000e6c6b795207cfd3cfff796fd0152205d306f0f0eb",
+  "src": "/audio/voices/keita/N2-097-1.mp3",
+  "srt": "/audio/voices/keita/N2-097-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "d93c0554e8ef501d33b100cdcc1e52e359f9a11b701174164fd5c6bdd76001f1",
+  "peakPcm": 19161,
+  "rmsDbfs": -21.26,
+  "rate": "+0%",
+  "listened": false
+}

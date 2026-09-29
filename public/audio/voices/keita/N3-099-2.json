@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-099",
+  "exampleIndex": 1,
+  "text": "説明のしようがないほど、複雑です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 170,
+  "signature": "bf9431783c127b88f99f99576d778eeb2697fd84bd9df05b7b16283cb11011c9",
+  "src": "/audio/voices/keita/N3-099-2.mp3",
+  "srt": "/audio/voices/keita/N3-099-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "0632490a6582d148f615e5d2c72be5fe1ee3b8476c6b636d0aef0bc1f88671a7",
+  "peakPcm": 23137,
+  "rmsDbfs": -20.31,
+  "rate": "+0%",
+  "listened": false
+}

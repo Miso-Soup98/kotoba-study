@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-021",
+  "exampleIndex": 0,
+  "text": "皆の期待に応えたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 224,
+  "signature": "63a47d05dd0d1a939b6e48618341f00030bbb29278886065cccf1cfc30cdca31",
+  "src": "/audio/voices/nanami/N2-021-1.mp3",
+  "srt": "/audio/voices/nanami/N2-021-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "6424292428d3132c2b1d4c78ffffb7c169255280300247efdd491f51061aea42",
+  "peakPcm": 21178,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

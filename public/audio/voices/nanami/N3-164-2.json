@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-164",
+  "exampleIndex": 1,
+  "text": "質問を一度にしないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 202,
+  "signature": "d13fb0f21310fc5060300e4cb6da53f85966e3de401cb0882955e167204ac739",
+  "src": "/audio/voices/nanami/N3-164-2.mp3",
+  "srt": "/audio/voices/nanami/N3-164-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "2baa71dd99764434e92479a8ed4200098d95c0a899d0876a6ca722504c62c363",
+  "peakPcm": 20571,
+  "rmsDbfs": -18.69,
+  "rate": "+0%",
+  "listened": false
+}

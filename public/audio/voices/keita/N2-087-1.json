@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-087",
+  "exampleIndex": 0,
+  "text": "この店は入口からして、おしゃれです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 257,
+  "signature": "637a8b8f94e33e87dd0619ae60c3a4e2a410db10fa8551cdb0785dba9022bcfb",
+  "src": "/audio/voices/keita/N2-087-1.mp3",
+  "srt": "/audio/voices/keita/N2-087-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "dc6429f1c057698fa99170ed42b1679596ba680f4acb5af7220d41371e361367",
+  "peakPcm": 23889,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-145",
+  "exampleIndex": 1,
+  "text": "ここより先は、入れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 286,
+  "signature": "ea9d6fd5b330ca6f5ff85ec278573d2dc790984f22eeb760f299308703098c9c",
+  "src": "/audio/voices/nanami/N2-145-2.mp3",
+  "srt": "/audio/voices/nanami/N2-145-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "05eeae6031a72e273ce1e10ba591d1ebb1a98803b202e2a8943638eab5d77bdf",
+  "peakPcm": 21837,
+  "rmsDbfs": -18.22,
+  "rate": "+0%",
+  "listened": false
+}

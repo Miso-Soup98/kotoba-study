@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-132",
+  "exampleIndex": 1,
+  "text": "この問題を自分で解いてごらん。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 186,
+  "signature": "807347a4b7ba0e096af374d7d307646d8063a6bf581462de6c52114d8bf57185",
+  "src": "/audio/voices/nanami/N3-132-2.mp3",
+  "srt": "/audio/voices/nanami/N3-132-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "014e3780728eb3de057ebaafcbea19dacb6d80479b6f65b8bd02cd8f06f4c714",
+  "peakPcm": 22411,
+  "rmsDbfs": -17.27,
+  "rate": "+0%",
+  "listened": false
+}

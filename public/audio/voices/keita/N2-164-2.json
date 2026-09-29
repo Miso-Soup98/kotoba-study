@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-164",
+  "exampleIndex": 1,
+  "text": "緊張しているせいか、声が小さいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 296,
+  "signature": "73cffaab3d283a9ec54271752f2e41a96bb42b386a8c965fde4e9b74be2af35d",
+  "src": "/audio/voices/keita/N2-164-2.mp3",
+  "srt": "/audio/voices/keita/N2-164-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "3cab1fb259e4865cdfb0480d0bfe6317ff43becc51ddb62d857294f70c5fb1a8",
+  "peakPcm": 23771,
+  "rmsDbfs": -20.03,
+  "rate": "+0%",
+  "listened": false
+}

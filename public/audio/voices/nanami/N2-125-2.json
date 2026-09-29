@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-125",
+  "exampleIndex": 1,
+  "text": "原因を確認せねばなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 276,
+  "signature": "7ad5308632677bc6de515bc000af1a5f4ea4c2b624ff43a268351a9fdd369255",
+  "src": "/audio/voices/nanami/N2-125-2.mp3",
+  "srt": "/audio/voices/nanami/N2-125-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "2946848b6e2f20afef6f06f92f4627821a12008bf081cd2e818549ade3185b96",
+  "peakPcm": 20482,
+  "rmsDbfs": -18.18,
+  "rate": "+0%",
+  "listened": false
+}

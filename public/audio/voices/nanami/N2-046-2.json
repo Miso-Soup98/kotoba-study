@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-046",
+  "exampleIndex": 1,
+  "text": "高ければ安心というものではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 236,
+  "signature": "5bdc641880ff3626838c814a91d6e429b7f29567d1fffdf80167e7e9929fe4b5",
+  "src": "/audio/voices/nanami/N2-046-2.mp3",
+  "srt": "/audio/voices/nanami/N2-046-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "320ffeab60e181615026bcb0b3cb9b672d517b3d6f6fcf30ed5041c16edc07ab",
+  "peakPcm": 20550,
+  "rmsDbfs": -17.58,
+  "rate": "+0%",
+  "listened": false
+}

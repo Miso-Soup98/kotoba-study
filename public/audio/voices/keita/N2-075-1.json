@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-075",
+  "exampleIndex": 0,
+  "text": "迷っていては、間に合いません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 251,
+  "signature": "5e90c564e88a2b36ed7e0d497e81ce937433417aba7d4435a3672f3d66074683",
+  "src": "/audio/voices/keita/N2-075-1.mp3",
+  "srt": "/audio/voices/keita/N2-075-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "4b61772dca7c70e5e7d2715663bdf9d81cb088277c60fdb61349e630401b9c13",
+  "peakPcm": 23205,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

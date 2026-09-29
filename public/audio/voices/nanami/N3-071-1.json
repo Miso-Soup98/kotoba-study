@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-071",
+  "exampleIndex": 0,
+  "text": "一人に二枚ずつ配ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 156,
+  "signature": "da07f4367202f35ae5ef8e98bea98a227edbbca38feebb9de3579970db877f82",
+  "src": "/audio/voices/nanami/N3-071-1.mp3",
+  "srt": "/audio/voices/nanami/N3-071-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "fc51137e7f102044ca0eb16c1f2cf884b1f4123b7f96865bd6ac9b4e95b58a4f",
+  "peakPcm": 19156,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

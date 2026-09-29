@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-100",
+  "exampleIndex": 1,
+  "text": "その話は、まだうわさでしかありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 264,
+  "signature": "3c50fa518faad04dc3fd22e33206584c5bfc095006973e6a1fe83f9cab92a7f0",
+  "src": "/audio/voices/keita/N2-100-2.mp3",
+  "srt": "/audio/voices/keita/N2-100-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "ad841ae767b634e36feec2eab8964933aa106485fba7a768fed31d1d89da3a83",
+  "peakPcm": 25678,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

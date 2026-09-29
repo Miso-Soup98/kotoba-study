@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-218",
+  "exampleIndex": 1,
+  "text": "無事に着いて、何よりです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 323,
+  "signature": "3b0c848e7b3b8c56bf291db9bd9c2f25efb7365c028f7e8df64ebd4debd7966b",
+  "src": "/audio/voices/nanami/N2-218-2.mp3",
+  "srt": "/audio/voices/nanami/N2-218-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "169d58d9aab5e436c4c1462fca344d30f934cc999e3359a03d089fd3a28fc356",
+  "peakPcm": 20648,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

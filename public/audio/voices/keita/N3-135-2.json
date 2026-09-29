@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-135",
+  "exampleIndex": 1,
+  "text": "前に会ったことがありましたっけ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 188,
+  "signature": "5d3a172b9ed2539c66c2cf8f1767ab69b724a716e4baf3971f37d38bd2c0bd96",
+  "src": "/audio/voices/keita/N3-135-2.mp3",
+  "srt": "/audio/voices/keita/N3-135-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "1ad7f14ff70b180a89ecae9e3db29b35fbaefa79888a8ecf654fc1cb1e29c48d",
+  "peakPcm": 25264,
+  "rmsDbfs": -21.92,
+  "rate": "+0%",
+  "listened": false
+}

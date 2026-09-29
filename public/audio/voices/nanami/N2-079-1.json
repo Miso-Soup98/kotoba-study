@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-079",
+  "exampleIndex": 0,
+  "text": "申請に際して、必要な書類を確認してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 253,
+  "signature": "ce2ca4dfe6ba91c1a4895f4acee7db8547b3b8bb2949e6d58dad334f9b66d218",
+  "src": "/audio/voices/nanami/N2-079-1.mp3",
+  "srt": "/audio/voices/nanami/N2-079-1.srt",
+  "durationSeconds": 4.968,
+  "bytes": 29808,
+  "sha256": "a19d8d71a61ead582f2ac61ec84e6b7c0eeb307240a9617c2cb00ccbba467096",
+  "peakPcm": 22117,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

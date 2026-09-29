@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-147",
+  "exampleIndex": 0,
+  "text": "本日に限り、入場は無料です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 287,
+  "signature": "551849f7ebd28019d30723eb0960a518bf9c91affda672f35923b18fe25e0f98",
+  "src": "/audio/voices/keita/N2-147-1.mp3",
+  "srt": "/audio/voices/keita/N2-147-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "b3b45cd787eda18db0841f2426a1f4ddfca62ced8102f1f023e1b0fb6628814f",
+  "peakPcm": 19969,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

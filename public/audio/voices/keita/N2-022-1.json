@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-022",
+  "exampleIndex": 0,
+  "text": "家賃に加えて、光熱費も必要です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 224,
+  "signature": "9704fba474419163deda2d132d2c2e900ce2ac03dc3ca539171fb0575cd8f5a0",
+  "src": "/audio/voices/keita/N2-022-1.mp3",
+  "srt": "/audio/voices/keita/N2-022-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "01a942e38a38aa1c8e398125fdc1856fd2eedb2d629c74e654d0140eeaefdefc",
+  "peakPcm": 25252,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-152",
+  "exampleIndex": 1,
+  "text": "一日ならともかく、一週間は待てません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 290,
+  "signature": "6a742d7474d4a9539f1e1bf2ff6c63916f2f11a9138711bc781e09e42eadbb27",
+  "src": "/audio/voices/keita/N2-152-2.mp3",
+  "srt": "/audio/voices/keita/N2-152-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "1ddfcd3f0638871ef0124834637c9352e694305067c7e3407efa21b0e7c3943b",
+  "peakPcm": 22594,
+  "rmsDbfs": -21.58,
+  "rate": "+0%",
+  "listened": false
+}

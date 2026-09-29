@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-156",
+  "exampleIndex": 0,
+  "text": "来年、もう一度会えればと思います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 292,
+  "signature": "8ce609c6f3d3615959dd240addb8c5563bf8e8632e7a97e5361cc41808f087bf",
+  "src": "/audio/voices/keita/N2-156-1.mp3",
+  "srt": "/audio/voices/keita/N2-156-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "764d1fd9cb7ad05ca040ecd13b92e7431a186adee6e034f8b72aebb79448f1b6",
+  "peakPcm": 24635,
+  "rmsDbfs": -20.89,
+  "rate": "+0%",
+  "listened": false
+}

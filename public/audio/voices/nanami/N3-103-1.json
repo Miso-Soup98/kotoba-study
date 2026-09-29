@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-103",
+  "exampleIndex": 0,
+  "text": "その話を聞いて、笑わずにはいられませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 172,
+  "signature": "d5691ac13264c97e9327c8630657eee1f9f983f57d44819b98bb41ad8df3037b",
+  "src": "/audio/voices/nanami/N3-103-1.mp3",
+  "srt": "/audio/voices/nanami/N3-103-1.srt",
+  "durationSeconds": 4.512,
+  "bytes": 27072,
+  "sha256": "e651d457c1804544d4296a4cbbd3ce0862bdbcc7e78467632115fd8159815c6e",
+  "peakPcm": 21117,
+  "rmsDbfs": -18.12,
+  "rate": "+0%",
+  "listened": false
+}

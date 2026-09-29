@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-197",
+  "exampleIndex": 1,
+  "text": "駅へ行くんですか。それなら、一緒に行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 313,
+  "signature": "711aa22821b55bd64b8c57df2ecfc78488d175d6546072d1536619fa9866b408",
+  "src": "/audio/voices/nanami/N2-197-2.mp3",
+  "srt": "/audio/voices/nanami/N2-197-2.srt",
+  "durationSeconds": 5.184,
+  "bytes": 31104,
+  "sha256": "3ec15d17cc35b93a9be7b0bd86b95381d3c8e5b3ad1287189704ce68587143f2",
+  "peakPcm": 21007,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

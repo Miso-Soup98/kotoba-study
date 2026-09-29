@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-185",
+  "exampleIndex": 0,
+  "text": "雨はやがてやみました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 307,
+  "signature": "8969997dd696e51cd13d1ae8427a78304bc1dab2e65c90e5b0bd929a4a33f19c",
+  "src": "/audio/voices/nanami/N2-185-1.mp3",
+  "srt": "/audio/voices/nanami/N2-185-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "aec12af882219047e679896630b8462454a8ce128b6aad86849af9e13c45ca24",
+  "peakPcm": 19424,
+  "rmsDbfs": -18.03,
+  "rate": "+0%",
+  "listened": false
+}

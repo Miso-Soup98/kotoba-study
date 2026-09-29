@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-040",
+  "exampleIndex": 0,
+  "text": "料理ができるといっても、簡単な物だけです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 140,
+  "signature": "0c7882e11a2d9b9de38059f75cc35d27a2d19f4f38a54f317e8e55472eab813e",
+  "src": "/audio/voices/keita/N3-040-1.mp3",
+  "srt": "/audio/voices/keita/N3-040-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "a39b56e101abdd1911bee63f0baccae037781f9d69d8151e95376f13024648f9",
+  "peakPcm": 22624,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

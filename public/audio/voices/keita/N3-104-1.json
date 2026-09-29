@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-104",
+  "exampleIndex": 0,
+  "text": "前にここへ来たような気がします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 172,
+  "signature": "71c9abdcc02a5f963933ff8530ed6badebc1968451addf4eca8faa40300d928f",
+  "src": "/audio/voices/keita/N3-104-1.mp3",
+  "srt": "/audio/voices/keita/N3-104-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "a736513d6db2caada848fcef6b679e4f95d0dff6fd63565c7705637ac4112ce9",
+  "peakPcm": 25826,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

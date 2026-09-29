@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-163",
+  "exampleIndex": 1,
+  "text": "ふと窓の外を見ると、雪が降っていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 202,
+  "signature": "e8fa815082647213717894a9b1c92df6154e4f50336f696052ba797d523f8180",
+  "src": "/audio/voices/nanami/N3-163-2.mp3",
+  "srt": "/audio/voices/nanami/N3-163-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "ed733c6e296255139ad44e72385421d9bb3fdba0dbe14da70d4fef57bb7eeb08",
+  "peakPcm": 20659,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

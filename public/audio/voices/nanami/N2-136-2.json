@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-136",
+  "exampleIndex": 1,
+  "text": "本人に確かめるよりほかないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 282,
+  "signature": "21c2d0fcffab28a91c57fb81e03d54563b6ef25533bac57aa3466f48b4f98550",
+  "src": "/audio/voices/nanami/N2-136-2.mp3",
+  "srt": "/audio/voices/nanami/N2-136-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "d80ae47d94b3531f399b5b47f65698cad2163d3cfab8be0d47d21119962843cb",
+  "peakPcm": 20588,
+  "rmsDbfs": -17.74,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-081",
+  "exampleIndex": 0,
+  "text": "入学を契機に、一人暮らしを始めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 254,
+  "signature": "af6c793124e2d478c29823d313bcb182bd27befe7b38bce803d523e4be12c1c6",
+  "src": "/audio/voices/keita/N2-081-1.mp3",
+  "srt": "/audio/voices/keita/N2-081-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "5b4667bee2c49f13f34b3a97698fdbf1501999df975919f5d9197d8a0162d183",
+  "peakPcm": 23454,
+  "rmsDbfs": -19.4,
+  "rate": "+0%",
+  "listened": false
+}

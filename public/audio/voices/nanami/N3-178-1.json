@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-178",
+  "exampleIndex": 0,
+  "text": "参加費は不要です。すなわち、無料です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 209,
+  "signature": "28643b03e9456a39d2d513b4b0163d5852af8fe0903953652f36619b6dec9da0",
+  "src": "/audio/voices/nanami/N3-178-1.mp3",
+  "srt": "/audio/voices/nanami/N3-178-1.srt",
+  "durationSeconds": 5.04,
+  "bytes": 30240,
+  "sha256": "ff482527d6b6d6dc654591d02327989f5e4d6fc45371d2a6bac8820c3cf9a033",
+  "peakPcm": 21811,
+  "rmsDbfs": -18.47,
+  "rate": "+0%",
+  "listened": false
+}

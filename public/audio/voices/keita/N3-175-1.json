@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-175",
+  "exampleIndex": 0,
+  "text": "早く出ました。ところが、電車が止まっていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 208,
+  "signature": "3b0634b050d6e8a7fe390b41dff2c2bec0eefc402c27522090f9104c227bace8",
+  "src": "/audio/voices/keita/N3-175-1.mp3",
+  "srt": "/audio/voices/keita/N3-175-1.srt",
+  "durationSeconds": 4.872,
+  "bytes": 29232,
+  "sha256": "917bb1802a0a523e7794e73a90be786d13da767f2686a99687ffb0d1c99a3e06",
+  "peakPcm": 24304,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

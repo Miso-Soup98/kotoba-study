@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-157",
+  "exampleIndex": 0,
+  "text": "道が混んでいたものですから、遅れました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 292,
+  "signature": "ca01f2ce5c1f727c339336ea356aaa327a8672733e63d79ea7f829be8333a19a",
+  "src": "/audio/voices/nanami/N2-157-1.mp3",
+  "srt": "/audio/voices/nanami/N2-157-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "4d59a16e3ca45c2c1e2158f41e6f5812b319baf7bf03042ec2b603b09c909bbe",
+  "peakPcm": 22275,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

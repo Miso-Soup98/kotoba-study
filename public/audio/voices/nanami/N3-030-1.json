@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-030",
+  "exampleIndex": 0,
+  "text": "予約してからでないと、入れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 135,
+  "signature": "909c7c7dbf4deb5a6cbd92a763fd8f0d93cadd0401bb5b83363415ccbdc1d872",
+  "src": "/audio/voices/nanami/N3-030-1.mp3",
+  "srt": "/audio/voices/nanami/N3-030-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "e57afe5b2061115631fe187aa505261373359163899139cfa731a2954f2e7e79",
+  "peakPcm": 19479,
+  "rmsDbfs": -17.57,
+  "rate": "+0%",
+  "listened": false
+}

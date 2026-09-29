@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-096",
+  "exampleIndex": 1,
+  "text": "勝つかどうかはともかく、参加したいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 262,
+  "signature": "edc43df6470fac67c8b6665fe57651d846bdb9cdcbd54bfac62af3b00d2ab09d",
+  "src": "/audio/voices/keita/N2-096-2.mp3",
+  "srt": "/audio/voices/keita/N2-096-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "fd5b20d30318cfcaee4ece2467667cdc1b57eb20c97cf0331e9ac1229e29ccd8",
+  "peakPcm": 25225,
+  "rmsDbfs": -21.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-118",
+  "exampleIndex": 0,
+  "text": "合格して、どれほどうれしかったことか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 273,
+  "signature": "b47b02d58e07545aac26ad21e9bb610bb59ab740bac0119bc694846e83c8f5ea",
+  "src": "/audio/voices/keita/N2-118-1.mp3",
+  "srt": "/audio/voices/keita/N2-118-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "3af1edca65e1467906343ac9012468bff633ee2442858170ab422aa7240f0ca7",
+  "peakPcm": 24038,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

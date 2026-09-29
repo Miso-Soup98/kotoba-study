@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-156",
+  "exampleIndex": 0,
+  "text": "来年、もう一度会えればと思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 292,
+  "signature": "5ef6fed9d02db5306e9c81f59a1132e7f78c7d559e2d0a8ecf8bff9c08079607",
+  "src": "/audio/voices/nanami/N2-156-1.mp3",
+  "srt": "/audio/voices/nanami/N2-156-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "a2a03e33ba32f16e42f381607ba2c2655a459e2b09ddf4d6f15dfd0ec2304d51",
+  "peakPcm": 22154,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

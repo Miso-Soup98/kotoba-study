@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-038",
+  "exampleIndex": 1,
+  "text": "見た目だけで判断するものではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 232,
+  "signature": "0dcc6b5299dbbc602c952d90933d465aa3541104daae8c043bd61749f771a300",
+  "src": "/audio/voices/keita/N2-038-2.mp3",
+  "srt": "/audio/voices/keita/N2-038-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "e200decea46127f00b5aa84ff28da6734091ffc4622e00f7d661f753c63db301",
+  "peakPcm": 23675,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-057",
+  "exampleIndex": 0,
+  "text": "忙しいと、朝御飯を抜きがちです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 149,
+  "signature": "94ba429a906347513521ab789704afb6f2f5ffb26afa31992167bcc874d036a4",
+  "src": "/audio/voices/keita/N3-057-1.mp3",
+  "srt": "/audio/voices/keita/N3-057-1.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "081d1c2c340da8cbc48fde1db5edbef40132e0d6a1535ed7b91e2d0acee42f1b",
+  "peakPcm": 24062,
+  "rmsDbfs": -21.27,
+  "rate": "+0%",
+  "listened": false
+}

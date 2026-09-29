@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-201",
+  "exampleIndex": 1,
+  "text": "要するに、今日中にはできないということですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 315,
+  "signature": "33365ce99c77922f6cdf2021bd0968441eb179a89965ff2c207fc872c102526a",
+  "src": "/audio/voices/nanami/N2-201-2.mp3",
+  "srt": "/audio/voices/nanami/N2-201-2.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "74622f3caa431561c1dd0d46528ec83c09fc3523a7ec30202829e9e1a836dd5a",
+  "peakPcm": 21779,
+  "rmsDbfs": -17.17,
+  "rate": "+0%",
+  "listened": false
+}

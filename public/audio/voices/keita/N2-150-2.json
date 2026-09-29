@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-150",
+  "exampleIndex": 1,
+  "text": "何とか費用を減らせないものか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 289,
+  "signature": "cdb6dd10b5064d635e85defbbb6089264e3360c53458da56f0f884901631673a",
+  "src": "/audio/voices/keita/N2-150-2.mp3",
+  "srt": "/audio/voices/keita/N2-150-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "fdcaaa0eab24cd4eafa58e41c11d7bfcb954d41cea65807a14fd89f378329b7e",
+  "peakPcm": 25481,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-082",
+  "exampleIndex": 0,
+  "text": "この写真を見るにつけ、昔を思い出します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 255,
+  "signature": "3de87cbcb43d0ebb3841010a4f2e97da8094ee45fa3a218608c79d092742690b",
+  "src": "/audio/voices/keita/N2-082-1.mp3",
+  "srt": "/audio/voices/keita/N2-082-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "be4817cf4b909ef5cd2524f13b3d9c5d1111f7737001f04bf7ad37c9165a07a5",
+  "peakPcm": 23828,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

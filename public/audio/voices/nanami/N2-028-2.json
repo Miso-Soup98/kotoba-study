@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-028",
+  "exampleIndex": 1,
+  "text": "今すぐには判断しかねます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 227,
+  "signature": "6b23f63fa84188e677e912abcf60a30ed5bceeb75f09a51cc895ca69027bf7da",
+  "src": "/audio/voices/nanami/N2-028-2.mp3",
+  "srt": "/audio/voices/nanami/N2-028-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "3d7e8ebb605e756ce72495a9eadd2d53713cb585554feea8187e2a0e194611f7",
+  "peakPcm": 21310,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

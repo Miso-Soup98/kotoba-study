@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-103",
+  "exampleIndex": 1,
+  "text": "やるだけはやったので、後悔はありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 265,
+  "signature": "df908a37837f05989ad3b0ed3a24e882aced1e28ad1dc3b2fd851434508f648f",
+  "src": "/audio/voices/nanami/N2-103-2.mp3",
+  "srt": "/audio/voices/nanami/N2-103-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "a63feeb7fbb3e9fc6b5090ab9d70acb01348131db5c03519b641ac3ee215681c",
+  "peakPcm": 21447,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

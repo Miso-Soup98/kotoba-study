@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-10",
+  "exampleIndex": 0,
+  "text": "私は絵を習い始めたころ、ほかの人と比べては落ち込んでいました。先生は、上手な作品だけを見るのではなく、自分の先月の絵と今日の絵を並べてみるように言いました。そうすると、小さな変化が見えてきたんです。今でも思うように描けないことはありますが、小さな上達を実感できることが、続ける気持ちにつながっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "5a3a86a79ad1b37999610b7334de2cb7a06719bdaa70354176739e251602ec5b",
+  "src": "/audio/training/n2-v05-p-listening-10.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-10.srt",
+  "durationSeconds": 27.528,
+  "bytes": 165168,
+  "sha256": "ae13b5161365a5c753c29957bddb7271399042d64c1cb471fc223f9a9a2ba1fe",
+  "peakPcm": 22386,
+  "rmsDbfs": -17.0,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

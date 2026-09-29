@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-121",
+  "exampleIndex": 1,
+  "text": "知らないふりをしないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 181,
+  "signature": "ca8baf5a674982d9f88cf82d9288b05d440446bdf955f515eda6e59e517a77a2",
+  "src": "/audio/voices/nanami/N3-121-2.mp3",
+  "srt": "/audio/voices/nanami/N3-121-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "ac28fc1985ba1cac5badee4e1329197920da1048bbad8018dd6f85e1ead94c09",
+  "peakPcm": 19698,
+  "rmsDbfs": -18.69,
+  "rate": "+0%",
+  "listened": false
+}

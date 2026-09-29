@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-111",
+  "exampleIndex": 0,
+  "text": "弟は遊んでばかりいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 176,
+  "signature": "ac40f20acdfff25b4373f7cfa38100333597fb43d8aa67fef72c5ea9859f7c5e",
+  "src": "/audio/voices/nanami/N3-111-1.mp3",
+  "srt": "/audio/voices/nanami/N3-111-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "91ba3ddf825b16fc9595819c1b8d8af72e045a5d2c7c52dc0677dbc39f803d66",
+  "peakPcm": 22251,
+  "rmsDbfs": -17.61,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-125",
+  "exampleIndex": 0,
+  "text": "今日は二人きりで話したいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 183,
+  "signature": "be10be64639b9ce057bb0a6a35d69ef10918dbbe9ded9791f134aaddf292bb26",
+  "src": "/audio/voices/nanami/N3-125-1.mp3",
+  "srt": "/audio/voices/nanami/N3-125-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "09d698de85acac27564736fbd1b73b811c633d9cf926bba857a4dd5240062632",
+  "peakPcm": 20934,
+  "rmsDbfs": -17.38,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-045",
+  "exampleIndex": 1,
+  "text": "何も説明しないのは、不親切というものです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 236,
+  "signature": "5421fbcaacb2fe1006d46f34d8adf9b7ea914385f786334e5dfe9b28f6ec94b0",
+  "src": "/audio/voices/nanami/N2-045-2.mp3",
+  "srt": "/audio/voices/nanami/N2-045-2.srt",
+  "durationSeconds": 4.584,
+  "bytes": 27504,
+  "sha256": "1c30b02a8438c046f721e0779d437f518f068031f2e9ce6780235744d9b915ce",
+  "peakPcm": 20529,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

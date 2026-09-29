@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-052",
+  "exampleIndex": 0,
+  "text": "この店は値段が安いわりに、おいしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 146,
+  "signature": "837c9f533befdc1c89c21c9138a600014d5a67b465ab2cc1e93c15dcc93af4bf",
+  "src": "/audio/voices/nanami/N3-052-1.mp3",
+  "srt": "/audio/voices/nanami/N3-052-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "f2117e323475556bb8df9c07d17cf6228c84d201843aca4fb4bea6764b453ad3",
+  "peakPcm": 21878,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

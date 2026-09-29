@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-047",
+  "exampleIndex": 0,
+  "text": "朝御飯を食べずに出かけました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 144,
+  "signature": "c3eb210ef985100ab553bf8fc20eb08541335ca0bbc56fe43d6b81f1f8c30c4f",
+  "src": "/audio/voices/nanami/N3-047-1.mp3",
+  "srt": "/audio/voices/nanami/N3-047-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "ddd35470a81abc6e0f39c9b8b01108ad069b2a980eef3ce308c23241b4e07884",
+  "peakPcm": 22069,
+  "rmsDbfs": -17.61,
+  "rate": "+0%",
+  "listened": false
+}

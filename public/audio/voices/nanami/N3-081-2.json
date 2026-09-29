@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-081",
+  "exampleIndex": 1,
+  "text": "一年を通して、この町は暖かいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 161,
+  "signature": "43d5adabd8ee5b3203e7883a69e3e8723cc9ca5dee34c9f22a3028bf411021af",
+  "src": "/audio/voices/nanami/N3-081-2.mp3",
+  "srt": "/audio/voices/nanami/N3-081-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "a675af3658e81db3676d84570c00baed950ff3a94bf45b3aa9677a42172c76a4",
+  "peakPcm": 20833,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-134",
+  "exampleIndex": 0,
+  "text": "知っているくせして、何も言いませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 281,
+  "signature": "580a9d30270c7d651782367f240d0930b2e4bf9127196803b84cb5ea16f49453",
+  "src": "/audio/voices/keita/N2-134-1.mp3",
+  "srt": "/audio/voices/keita/N2-134-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "9e0d20d70de38c457074c4aa35cab4a5687719c0395d0ae7c9a06c75c44c474c",
+  "peakPcm": 26140,
+  "rmsDbfs": -20.34,
+  "rate": "+0%",
+  "listened": false
+}

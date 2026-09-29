@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-067",
+  "exampleIndex": 1,
+  "text": "彼は一人で考え込んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 154,
+  "signature": "5c7424bf57f2350a35f221fdb0001b6d82dc60efb8894608a0bf026e435df080",
+  "src": "/audio/voices/nanami/N3-067-2.mp3",
+  "srt": "/audio/voices/nanami/N3-067-2.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "71ba69f045c41f35545929860a9d5ac5ab73743270103ede8647d1011f7affdb",
+  "peakPcm": 20738,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

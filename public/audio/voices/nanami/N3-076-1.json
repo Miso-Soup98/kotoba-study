@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-076",
+  "exampleIndex": 0,
+  "text": "買い物に行くついでに、手紙を出します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 158,
+  "signature": "7edc0b8571d09e3eb0b45fbc0ab0357f36060321eefcabe1bab5a3d2cfd21e39",
+  "src": "/audio/voices/nanami/N3-076-1.mp3",
+  "srt": "/audio/voices/nanami/N3-076-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "fe0fdd243d7b1aa8bad9f20ec65d169392d82fffc09afd76dd0960430a76a096",
+  "peakPcm": 21561,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

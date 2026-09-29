@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-031",
+  "exampleIndex": 0,
+  "text": "電車が止まり、歩かざるを得ませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 229,
+  "signature": "f01b450a9d580830555b017625cf1a21d8b6c78f867d294c7219e65a726fe1ca",
+  "src": "/audio/voices/nanami/N2-031-1.mp3",
+  "srt": "/audio/voices/nanami/N2-031-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "78e110bc320203f6e66c35f1889477a57fcb7b55120fe94684079bdecf1677ab",
+  "peakPcm": 20763,
+  "rmsDbfs": -17.61,
+  "rate": "+0%",
+  "listened": false
+}

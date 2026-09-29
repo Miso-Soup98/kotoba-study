@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-130",
+  "exampleIndex": 1,
+  "text": "案内されるままに、部屋へ入りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 279,
+  "signature": "2200113948e46e01e0135b53a8d32cb17d38419b8dde6bbbcbb38a262428f16c",
+  "src": "/audio/voices/keita/N2-130-2.mp3",
+  "srt": "/audio/voices/keita/N2-130-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "840c17bd279fc7b3474e645b9e826be93d34d946818e95d3c99b7ab6b8022a97",
+  "peakPcm": 24257,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

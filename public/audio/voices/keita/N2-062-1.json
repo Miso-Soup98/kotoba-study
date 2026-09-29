@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-062",
+  "exampleIndex": 0,
+  "text": "何度も話し合った末に、計画を決めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 244,
+  "signature": "183d96017c06e5fff8f5c334ae9157c4218f5edf4be8592816131394f0726d13",
+  "src": "/audio/voices/keita/N2-062-1.mp3",
+  "srt": "/audio/voices/keita/N2-062-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "87a4f0eb33cef264b0080b11056227120cf6b6a82a14f62c700494c71a1433bd",
+  "peakPcm": 24487,
+  "rmsDbfs": -20.53,
+  "rate": "+0%",
+  "listened": false
+}

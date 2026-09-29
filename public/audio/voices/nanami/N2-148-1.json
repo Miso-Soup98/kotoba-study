@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-148",
+  "exampleIndex": 0,
+  "text": "先生に聞いたところ、明日は休講だそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 288,
+  "signature": "3f54ff9133345b4e2dea7274046b6bd5e47686e3fcbd42754402f46b3774455e",
+  "src": "/audio/voices/nanami/N2-148-1.mp3",
+  "srt": "/audio/voices/nanami/N2-148-1.srt",
+  "durationSeconds": 4.584,
+  "bytes": 27504,
+  "sha256": "4568f0a46e1fce7417330c14c7d6e56164ee743bddcc08d8e671972304ad07fa",
+  "peakPcm": 22361,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-074",
+  "exampleIndex": 1,
+  "text": "帰国の際に、先生に挨拶しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 157,
+  "signature": "1f1900bade7849e5bc8640345d0fd8e22c3339e56555985c739627fff3353b57",
+  "src": "/audio/voices/nanami/N3-074-2.mp3",
+  "srt": "/audio/voices/nanami/N3-074-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "325fb84284e8800c7ae7d143b6af9d6077619abb33941c3e56f4e7199f77fbd5",
+  "peakPcm": 22703,
+  "rmsDbfs": -17.88,
+  "rate": "+0%",
+  "listened": false
+}

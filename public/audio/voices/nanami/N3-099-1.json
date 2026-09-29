@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-099",
+  "exampleIndex": 0,
+  "text": "住所が分からないので、送りようがありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 170,
+  "signature": "28a81a178b722e325c40b465acd7b7fadb046839f81bde031d14785ed0e2dc98",
+  "src": "/audio/voices/nanami/N3-099-1.mp3",
+  "srt": "/audio/voices/nanami/N3-099-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "e3804f928681b0fdffc6bbc7f5c585e63f05112a692ccc26318bed9df06cca49",
+  "peakPcm": 21354,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false
+}

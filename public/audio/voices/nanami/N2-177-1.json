@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-177",
+  "exampleIndex": 0,
+  "text": "その話は全く知りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 303,
+  "signature": "62318d530ebdee9989b1aef543d7d2eec6b5f9bdf305cd47a7f404ada903233e",
+  "src": "/audio/voices/nanami/N2-177-1.mp3",
+  "srt": "/audio/voices/nanami/N2-177-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "55f198251d102b92f740f8da036ae4b6fe750f51d9a72586ae08a92025c90e11",
+  "peakPcm": 20117,
+  "rmsDbfs": -18.83,
+  "rate": "+0%",
+  "listened": false
+}

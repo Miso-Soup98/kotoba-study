@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-054",
+  "exampleIndex": 1,
+  "text": "約束したくせに、来ませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 147,
+  "signature": "160e04a692aaa7d4220a400872f5299f9c0e1a76ad5465c0d8dbf9bf14a9327f",
+  "src": "/audio/voices/nanami/N3-054-2.mp3",
+  "srt": "/audio/voices/nanami/N3-054-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "bccd3d1d0766671d0aad3a282ccf80ecee706f0d50f1c0383f4e1f1496601ee2",
+  "peakPcm": 21106,
+  "rmsDbfs": -18.5,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-093",
+  "exampleIndex": 1,
+  "text": "雨ばかりか、風まで強くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 260,
+  "signature": "b0a5b9fab711575a1bca1be99844766b9740d883f9ec67d967872e84fa1f52aa",
+  "src": "/audio/voices/nanami/N2-093-2.mp3",
+  "srt": "/audio/voices/nanami/N2-093-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "0d583745f0cfa3274752e8b50261562d389d575a6d13e08fbf9ffad4c45c85dd",
+  "peakPcm": 20235,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

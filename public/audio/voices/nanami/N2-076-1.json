@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-076",
+  "exampleIndex": 0,
+  "text": "こんな簡単な問題で間違えるようでは、困ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 251,
+  "signature": "18ebc72124c9547c567dfd9b4108d254056bb789f9159fefe7dc150bee061a4e",
+  "src": "/audio/voices/nanami/N2-076-1.mp3",
+  "srt": "/audio/voices/nanami/N2-076-1.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "13bbfa96d809716aedfa0dead38244e7459727355eff7b461811f166c62e85a3",
+  "peakPcm": 21427,
+  "rmsDbfs": -16.83,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-175",
+  "exampleIndex": 1,
+  "text": "店へ行きました。ところが、休みでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 208,
+  "signature": "ad190b02b3f5ff2fbda7156c436da16c2b5841e389a92d1a24386d4afd79d540",
+  "src": "/audio/voices/nanami/N3-175-2.mp3",
+  "srt": "/audio/voices/nanami/N3-175-2.srt",
+  "durationSeconds": 4.872,
+  "bytes": 29232,
+  "sha256": "326b8a35889aea8fcff2242b89ed057da8f5a82accf6b0ac0ef4b52e7ceb9353",
+  "peakPcm": 20606,
+  "rmsDbfs": -19.0,
+  "rate": "+0%",
+  "listened": false
+}

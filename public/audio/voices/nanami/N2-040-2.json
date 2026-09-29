@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-040",
+  "exampleIndex": 1,
+  "text": "仕方がないよ。知らなかったんだもん。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 233,
+  "signature": "072baf39c9430a07cc914abe381681f8a192d6122256ae3531cdf6d07d0da130",
+  "src": "/audio/voices/nanami/N2-040-2.mp3",
+  "srt": "/audio/voices/nanami/N2-040-2.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "9f2c3b4da35df9f7679cb840b28b882baac4a7351c3bd1f623caf23d9db361f4",
+  "peakPcm": 20868,
+  "rmsDbfs": -18.73,
+  "rate": "+0%",
+  "listened": false
+}

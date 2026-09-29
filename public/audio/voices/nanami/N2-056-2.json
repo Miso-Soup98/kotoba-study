@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-056",
+  "exampleIndex": 1,
+  "text": "子供は帰ってきたかと思うと、すぐ外へ走っていきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 241,
+  "signature": "cc56930917e1b5d39a80a541a6e2cbc6c3408f276a37c4fadb4ced4e09550291",
+  "src": "/audio/voices/nanami/N2-056-2.mp3",
+  "srt": "/audio/voices/nanami/N2-056-2.srt",
+  "durationSeconds": 5.304,
+  "bytes": 31824,
+  "sha256": "18e8c85cfaea27f03bb2413e410d165768e6070452151aa772f21609d6b65e0a",
+  "peakPcm": 22297,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

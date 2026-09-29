@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-074",
+  "exampleIndex": 1,
+  "text": "親に頼ってばかりはいられません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 250,
+  "signature": "1939b32a9fd86fd8065ad834d0591250c1de727ea226f3d20d5a32efa504e2cb",
+  "src": "/audio/voices/keita/N2-074-2.mp3",
+  "srt": "/audio/voices/keita/N2-074-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "4e3c53e67a5d76d274d5cc106ad27f49d118d79592712a56ced75d15e7eb4d26",
+  "peakPcm": 23874,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

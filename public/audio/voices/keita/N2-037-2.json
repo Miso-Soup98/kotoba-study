@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-037",
+  "exampleIndex": 1,
+  "text": "時間がたつのは早いものですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 232,
+  "signature": "f1dc8408b8500f7b331d9b39bb6ac446addf025ec2028dc712ed9df6746d53c6",
+  "src": "/audio/voices/keita/N2-037-2.mp3",
+  "srt": "/audio/voices/keita/N2-037-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "974a5a8dfbc1d3f4e3482fe21560dab70cea12f31ebe1fa5fc6d746576dbdca6",
+  "peakPcm": 24560,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

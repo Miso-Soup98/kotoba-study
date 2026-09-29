@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-221",
+  "exampleIndex": 1,
+  "text": "全員が賛成しました。したがって、計画は実行されます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 325,
+  "signature": "5c5ecdae3ee8946840b3dd515be933059002c5516532f61dcec8018ca24b9989",
+  "src": "/audio/voices/nanami/N2-221-2.mp3",
+  "srt": "/audio/voices/nanami/N2-221-2.srt",
+  "durationSeconds": 6.456,
+  "bytes": 38736,
+  "sha256": "3bba5526245174fe7ae779e9be074fd0427c51d62e5279c74fe2bf88aa5d9117",
+  "peakPcm": 20758,
+  "rmsDbfs": -18.74,
+  "rate": "+0%",
+  "listened": false
+}

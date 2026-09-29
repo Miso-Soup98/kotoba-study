@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-075",
+  "exampleIndex": 0,
+  "text": "学校へ行く途中で、財布を拾いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 158,
+  "signature": "7fb87cafdead8a14308a183a63a310b39ab17efb11b66bacd1d32e2df93b86ce",
+  "src": "/audio/voices/keita/N3-075-1.mp3",
+  "srt": "/audio/voices/keita/N3-075-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "3ac0e05a9a9ef5d16bc4c31fab925a728b7a7a0bafbb0892349455a7319aa36d",
+  "peakPcm": 26516,
+  "rmsDbfs": -20.77,
+  "rate": "+0%",
+  "listened": false
+}

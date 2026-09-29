@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-135",
+  "exampleIndex": 1,
+  "text": "一日で全部覚えられっこないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 281,
+  "signature": "3d212bdffd4a598ab3bc9a6f31b0d7bd1d1c91cff810c5241faaf7cd281f20f5",
+  "src": "/audio/voices/keita/N2-135-2.mp3",
+  "srt": "/audio/voices/keita/N2-135-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "4c8fb858c0ffa9d98f5754cb179e5d7c6458f83cac8cb4d2a9f3e8c578e4a542",
+  "peakPcm": 24284,
+  "rmsDbfs": -20.08,
+  "rate": "+0%",
+  "listened": false
+}

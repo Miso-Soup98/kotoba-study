@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-158",
+  "exampleIndex": 1,
+  "text": "大きな声を出さないでちょうだい。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 293,
+  "signature": "a9ee9584edefc4366131ad7def0447ba3407469bf9b1057973df242e2a735f03",
+  "src": "/audio/voices/nanami/N2-158-2.mp3",
+  "srt": "/audio/voices/nanami/N2-158-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "8eac0141ed48c1003ec1688be06f6408d6a4899547509a2a0561f84ee69d514c",
+  "peakPcm": 19994,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

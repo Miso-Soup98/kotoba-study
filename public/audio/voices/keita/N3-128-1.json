@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-128",
+  "exampleIndex": 0,
+  "text": "上手になるには、練習が必要です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 184,
+  "signature": "bc4416b79ebd0e130d15ba26c9cfa5d5f35a0ef0e7f54cbeb66cfb1460edab56",
+  "src": "/audio/voices/keita/N3-128-1.mp3",
+  "srt": "/audio/voices/keita/N3-128-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "2da724f0e7d600f272d7fa9107894d78e8fc928aa3ed4615fdd784cb7bd5fc47",
+  "peakPcm": 21655,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

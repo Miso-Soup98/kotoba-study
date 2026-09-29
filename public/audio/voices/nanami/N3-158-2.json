@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-158",
+  "exampleIndex": 1,
+  "text": "難しくて、まるで分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 199,
+  "signature": "1aa515ee2df2fcfccd8b85a8399a27ea7b68b52c40ca604c8002fc6a1d75644d",
+  "src": "/audio/voices/nanami/N3-158-2.mp3",
+  "srt": "/audio/voices/nanami/N3-158-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "0ba23a6047298c8b14b1617a4148656bbf9657c35625ee97b9d274e8ee75b6db",
+  "peakPcm": 21380,
+  "rmsDbfs": -18.54,
+  "rate": "+0%",
+  "listened": false
+}

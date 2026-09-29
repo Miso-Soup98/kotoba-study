@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-091",
+  "exampleIndex": 0,
+  "text": "忙しくて、昼御飯を食べる時間さえありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 166,
+  "signature": "b25fa684da9f8a354a0b61e5c2d4e252f40c8d0a91f1916b9713c1426370580a",
+  "src": "/audio/voices/keita/N3-091-1.mp3",
+  "srt": "/audio/voices/keita/N3-091-1.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "0fbb758d3b15defc4cac826ae7ce7883e73e472a325f482d9c30e78628a2dc18",
+  "peakPcm": 21431,
+  "rmsDbfs": -21.26,
+  "rate": "+0%",
+  "listened": false
+}

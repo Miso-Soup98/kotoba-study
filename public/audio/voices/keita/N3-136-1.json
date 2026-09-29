@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-136",
+  "exampleIndex": 0,
+  "text": "田中さんは来月結婚するんだって。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 188,
+  "signature": "53f383d0a23b1b3ba67b032261026636087580967e642b5a86f33ab9fca9a86d",
+  "src": "/audio/voices/keita/N3-136-1.mp3",
+  "srt": "/audio/voices/keita/N3-136-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "e58097f5f566734512d5dcf1b0879705fbe4b4d15b1f58921464b603dd05363a",
+  "peakPcm": 23835,
+  "rmsDbfs": -22.07,
+  "rate": "+0%",
+  "listened": false
+}

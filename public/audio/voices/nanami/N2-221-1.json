@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-221",
+  "exampleIndex": 0,
+  "text": "必要な書類がありません。したがって、申請はできません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 325,
+  "signature": "a540b3806a698ffc17c1d28575af812fdafcc6a0145feb4f0bc8e1bcd79c51b6",
+  "src": "/audio/voices/nanami/N2-221-1.mp3",
+  "srt": "/audio/voices/nanami/N2-221-1.srt",
+  "durationSeconds": 6.096,
+  "bytes": 36576,
+  "sha256": "0343bd60eb352e102fa60980142685d0e59c0b158d464ccc88176c9df2be2c57",
+  "peakPcm": 22007,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

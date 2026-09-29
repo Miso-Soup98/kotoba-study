@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-083",
+  "exampleIndex": 0,
+  "text": "工事中につき、通行できません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 255,
+  "signature": "b46d1c21083ae64fab4afb7e2b3cb147a00c4bd7014aa612db6f74ef6d47d5b5",
+  "src": "/audio/voices/nanami/N2-083-1.mp3",
+  "srt": "/audio/voices/nanami/N2-083-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "7123a6c1b754990b1ad2d8dadf1126976dd20d0651e856bfc2233f3b7df6172b",
+  "peakPcm": 22926,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-223",
+  "exampleIndex": 1,
+  "text": "休みの日は、思うように時間を使えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 326,
+  "signature": "9f51d293ea741e3eee6ec36dfd656fc3165d71c262f5e878271f98f83a65166f",
+  "src": "/audio/voices/keita/N2-223-2.mp3",
+  "srt": "/audio/voices/keita/N2-223-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "82c2e38b94445cade70154f1de18018f04c75d68a55ead86cb8e899240aeb6eb",
+  "peakPcm": 23680,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

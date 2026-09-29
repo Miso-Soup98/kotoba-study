@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-108",
+  "exampleIndex": 0,
+  "text": "雨もかまわず、子供たちは遊んでいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 268,
+  "signature": "b5accbe3be3cea5268b2814484087161c2159f83ea6d5e8df11a0470e9147939",
+  "src": "/audio/voices/nanami/N2-108-1.mp3",
+  "srt": "/audio/voices/nanami/N2-108-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "406ad02d79694958dd179baf684a07636d9c753b22f636103dc97c9e61f314d3",
+  "peakPcm": 19786,
+  "rmsDbfs": -18.19,
+  "rate": "+0%",
+  "listened": false
+}

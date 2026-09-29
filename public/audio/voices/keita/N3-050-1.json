@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-050",
+  "exampleIndex": 0,
+  "text": "終わったことを悔やんでも仕方がありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 145,
+  "signature": "b220784af6ef12959ceba7ca9a773dd4fc5ba137b96598d09d05148ccf94ccb5",
+  "src": "/audio/voices/keita/N3-050-1.mp3",
+  "srt": "/audio/voices/keita/N3-050-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "8f9d25f6de96bb2ad056e7d3384f737cb724bdee3813c832a443630a88a10b48",
+  "peakPcm": 25165,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

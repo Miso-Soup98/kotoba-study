@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-152",
+  "exampleIndex": 0,
+  "text": "子供ならともかく、大人がそんなことをしてはいけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 290,
+  "signature": "6f2eb986a42162822dc4b2b09b4ac81aa8f6ae084265ac8e8cdfc548eef17653",
+  "src": "/audio/voices/nanami/N2-152-1.mp3",
+  "srt": "/audio/voices/nanami/N2-152-1.srt",
+  "durationSeconds": 4.872,
+  "bytes": 29232,
+  "sha256": "7cbcbe93078cecad10cd5a29d5a22771240ac2a79d18b6f404e04dbb8f74f8cb",
+  "peakPcm": 20683,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

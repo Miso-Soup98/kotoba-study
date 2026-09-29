@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-193",
+  "exampleIndex": 1,
+  "text": "雨が降っています。しかも、風まで強いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 311,
+  "signature": "a7efdb5d0264edae47053cc53eae0f94b1136bbef5435c38c4b88c6df5e8b599",
+  "src": "/audio/voices/keita/N2-193-2.mp3",
+  "srt": "/audio/voices/keita/N2-193-2.srt",
+  "durationSeconds": 5.016,
+  "bytes": 30096,
+  "sha256": "7fe74c3e77797aaa9184dfd093410b85d09888845cfae3fd84c5132db56f56e9",
+  "peakPcm": 26677,
+  "rmsDbfs": -21.59,
+  "rate": "+0%",
+  "listened": false
+}

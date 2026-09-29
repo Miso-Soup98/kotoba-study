@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-146",
+  "exampleIndex": 0,
+  "text": "駅に向かって歩いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 287,
+  "signature": "5df9a942cc8201ae642009abbfcb454d2a3b3d3fd11b2281211a206a62ad4e68",
+  "src": "/audio/voices/keita/N2-146-1.mp3",
+  "srt": "/audio/voices/keita/N2-146-1.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "24ca34001ee8020b4e5dc90b61118b383e3d9f6181cd502be01ee9e61e98f517",
+  "peakPcm": 20200,
+  "rmsDbfs": -21.81,
+  "rate": "+0%",
+  "listened": false
+}

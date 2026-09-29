@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-070",
+  "exampleIndex": 0,
+  "text": "都市は便利な一方で、生活費が高いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 248,
+  "signature": "00dd6082b35eefda1d844f3f89a50ca1e6cb4f7aed437109f281632ea95708f4",
+  "src": "/audio/voices/keita/N2-070-1.mp3",
+  "srt": "/audio/voices/keita/N2-070-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "574bc6948aecd229529584480f4464306c23e12846c4e5145830cc4ccdff6b6e",
+  "peakPcm": 23637,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

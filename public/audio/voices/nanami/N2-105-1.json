@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-105",
+  "exampleIndex": 0,
+  "text": "最後まで走り抜きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 266,
+  "signature": "48324dfdc853e9494a1e2df06e6e12c286888b1cd8c2596c695b53ce8b3539ca",
+  "src": "/audio/voices/nanami/N2-105-1.mp3",
+  "srt": "/audio/voices/nanami/N2-105-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "24293d97e3f11c28290ee41bf36ea595e15cd6292b185726cb1970e43c5f262b",
+  "peakPcm": 20673,
+  "rmsDbfs": -18.7,
+  "rate": "+0%",
+  "listened": false
+}

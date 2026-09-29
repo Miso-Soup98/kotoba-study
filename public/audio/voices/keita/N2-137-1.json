@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-137",
+  "exampleIndex": 0,
+  "text": "京都や奈良といった町を訪ねました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 282,
+  "signature": "0ae2a4d31922f7e47f6125bdf18c8cfdaa3e6981ed0b8b0f4c4798755c2678a4",
+  "src": "/audio/voices/keita/N2-137-1.mp3",
+  "srt": "/audio/voices/keita/N2-137-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "40e4adf2c670642269bc023abc2da2b9be8e4a8c27238ee170022c64a0b124fa",
+  "peakPcm": 22538,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

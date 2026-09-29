@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-017",
+  "exampleIndex": 0,
+  "text": "人口の増加に伴って、家が増えています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 222,
+  "signature": "a2f1b02da5d88a7c910bdb90c8865542edf25926c844944804e58b645d5eced5",
+  "src": "/audio/voices/keita/N2-017-1.mp3",
+  "srt": "/audio/voices/keita/N2-017-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "4b05e6468d5f04114cc5f3b54bbafd4696dc972c80f188a0c3e5823af4f47294",
+  "peakPcm": 22677,
+  "rmsDbfs": -20.09,
+  "rate": "+0%",
+  "listened": false
+}

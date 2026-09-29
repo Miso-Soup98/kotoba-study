@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-118",
+  "exampleIndex": 1,
+  "text": "何度同じ説明をしたことか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 273,
+  "signature": "70307deb26f3fce6ea83a457097d8f516eebeec75eb15a792de38b450e80c611",
+  "src": "/audio/voices/keita/N2-118-2.mp3",
+  "srt": "/audio/voices/keita/N2-118-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "60e2e2101749c53ba550b70115cf59523dfc1b95fc66d037ec274dca75c2bbd3",
+  "peakPcm": 24157,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

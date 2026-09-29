@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-041",
+  "exampleIndex": 0,
+  "text": "あんな店に二度と行くものか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 234,
+  "signature": "fb4f15b5588eaafb9a7a0a811d37594a81e5a8e53d4ff03f87378008070a3396",
+  "src": "/audio/voices/keita/N2-041-1.mp3",
+  "srt": "/audio/voices/keita/N2-041-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "c5b9f6c17b9d0586c3d6889971c8bdc525b261648afd33f7674383f0a5a7e270",
+  "peakPcm": 21580,
+  "rmsDbfs": -20.11,
+  "rate": "+0%",
+  "listened": false
+}

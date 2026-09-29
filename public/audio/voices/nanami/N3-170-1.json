@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-170",
+  "exampleIndex": 0,
+  "text": "いろいろ考えましたが、結局買いませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 205,
+  "signature": "74cf5d9ca50a7bf3bc65adbfd8fadc8ec8346b1a4aa21d54d9f9edb6d6949acb",
+  "src": "/audio/voices/nanami/N3-170-1.mp3",
+  "srt": "/audio/voices/nanami/N3-170-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "a5df61c2fe10aab874822d7f551847ac60e3d4bb3d0f85a6091c6554cbe7a16c",
+  "peakPcm": 22646,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

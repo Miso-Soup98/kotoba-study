@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-095",
+  "exampleIndex": 1,
+  "text": "文法はもとより、発音も練習します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 261,
+  "signature": "d5006a5a8a918d217b2cffa9a14785c6a378cc53bb4d78e30826054e5d9a9b8e",
+  "src": "/audio/voices/nanami/N2-095-2.mp3",
+  "srt": "/audio/voices/nanami/N2-095-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "f29d9dd6659d9c1064f9d7d5d609857837d28ba767e927274390edd7d9ec91e2",
+  "peakPcm": 22676,
+  "rmsDbfs": -16.89,
+  "rate": "+0%",
+  "listened": false
+}

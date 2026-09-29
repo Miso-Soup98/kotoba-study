@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-162",
+  "exampleIndex": 0,
+  "text": "一人のほうが、むしろ集中できます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 201,
+  "signature": "520dc74e0310d92a9e973a3a82d310cd6b6c04672f8f740892f93e3c891348cc",
+  "src": "/audio/voices/nanami/N3-162-1.mp3",
+  "srt": "/audio/voices/nanami/N3-162-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "33f174d0b907fac032234af019ff7905742557744fc0d3d4f030b911bd0f0ef7",
+  "peakPcm": 19897,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-115",
+  "exampleIndex": 0,
+  "text": "ここで怒っても始まりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 178,
+  "signature": "f42319b2829c1d98a6f97e22bbf7c3c76054c295742a4e52295100cc8f6b81a3",
+  "src": "/audio/voices/nanami/N3-115-1.mp3",
+  "srt": "/audio/voices/nanami/N3-115-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "6483c671a3a34eb159217ee30095964a06e43b93283196c86a8ce3a88f171047",
+  "peakPcm": 21256,
+  "rmsDbfs": -16.9,
+  "rate": "+0%",
+  "listened": false
+}

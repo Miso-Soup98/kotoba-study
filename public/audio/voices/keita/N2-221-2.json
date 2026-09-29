@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-221",
+  "exampleIndex": 1,
+  "text": "全員が賛成しました。したがって、計画は実行されます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 325,
+  "signature": "ea5359a08fe1b8bf6a3e1efd6e18c3d9b5532376b55a672e9bbdadc01588599d",
+  "src": "/audio/voices/keita/N2-221-2.mp3",
+  "srt": "/audio/voices/keita/N2-221-2.srt",
+  "durationSeconds": 5.976,
+  "bytes": 35856,
+  "sha256": "c6ea36cc4565516dede7872fcab8f79ae4360374085fd17b23b06b7193fa6535",
+  "peakPcm": 26531,
+  "rmsDbfs": -20.65,
+  "rate": "+0%",
+  "listened": false
+}

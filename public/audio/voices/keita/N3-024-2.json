@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-024",
+  "exampleIndex": 1,
+  "text": "忘れないように、紙に書きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 132,
+  "signature": "89c2b6f2f54793ac6df74093bb7d5a678b7740f99205cba58973fa88aa9077a9",
+  "src": "/audio/voices/keita/N3-024-2.mp3",
+  "srt": "/audio/voices/keita/N3-024-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "dc8b94f4e652844015444d89c160d03322d867a2ff6c4cba0d2c070c58a93fde",
+  "peakPcm": 21042,
+  "rmsDbfs": -20.39,
+  "rate": "+0%",
+  "listened": false
+}

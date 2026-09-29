@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-143",
+  "exampleIndex": 1,
+  "text": "内容をご確認願います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 285,
+  "signature": "165ec1cf8d05c15581c997c2c2ada6144d2961c2be9a08955717e12ac5e915ab",
+  "src": "/audio/voices/keita/N2-143-2.mp3",
+  "srt": "/audio/voices/keita/N2-143-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "33c8dacc93cac719181e11e36107fd1bcc7e676bcdbf3b4ef7224d57ad66719b",
+  "peakPcm": 24562,
+  "rmsDbfs": -20.07,
+  "rate": "+0%",
+  "listened": false
+}

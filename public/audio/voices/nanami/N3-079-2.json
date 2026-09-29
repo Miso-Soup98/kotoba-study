@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-079",
+  "exampleIndex": 1,
+  "text": "文法を中心に復習しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 160,
+  "signature": "1b2607ca729035e741fd278f353f4bf7a44898f0d2b7bcc25a7b49179480bb8d",
+  "src": "/audio/voices/nanami/N3-079-2.mp3",
+  "srt": "/audio/voices/nanami/N3-079-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "ef96c631196320f9e112ca937e0ef71703bd6d6e297fd9db411a6a116003044c",
+  "peakPcm": 22765,
+  "rmsDbfs": -18.62,
+  "rate": "+0%",
+  "listened": false
+}

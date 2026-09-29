@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-082",
+  "exampleIndex": 1,
+  "text": "よいにつけ悪いにつけ、経験は役に立ちます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 255,
+  "signature": "221eda9f369f19f1202ea29054065b8c3a878c8d819cb2a9f726ef1abdcfd9e5",
+  "src": "/audio/voices/keita/N2-082-2.mp3",
+  "srt": "/audio/voices/keita/N2-082-2.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "b367600f44f5d176963d1ab64e792f48f7224c23c8d129a7602c546f83bb525d",
+  "peakPcm": 24249,
+  "rmsDbfs": -20.28,
+  "rate": "+0%",
+  "listened": false
+}

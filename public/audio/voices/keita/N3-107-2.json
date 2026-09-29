@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-107",
+  "exampleIndex": 1,
+  "text": "買わないにしても、見てみたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 174,
+  "signature": "41ec46ae9c95b5654ffc6d3ef91ce50c78cb8e72d2ad71d5bf6b8c0a66866c12",
+  "src": "/audio/voices/keita/N3-107-2.mp3",
+  "srt": "/audio/voices/keita/N3-107-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "f31f2d7df0bbede1e80a1ee19d7dc51210065240ed6ea584d516a11ad52db3a7",
+  "peakPcm": 22756,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-032",
+  "exampleIndex": 1,
+  "text": "家族と相談した上で、決めます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 136,
+  "signature": "ee9d2845831b0304d5e9cd7911936598a9bceb74c099a99cef492c67edf419b5",
+  "src": "/audio/voices/keita/N3-032-2.mp3",
+  "srt": "/audio/voices/keita/N3-032-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "f6f960d84f4e63106b4182516d1f7968cd041ab9f146159df51357c06100f6f7",
+  "peakPcm": 20950,
+  "rmsDbfs": -21.67,
+  "rate": "+0%",
+  "listened": false
+}

@@ -7,6 +7,7 @@ const [command, ...args] = process.argv.slice(2);
 if (!["dev", "build"].includes(command)) throw new Error("Expected dev or build.");
 const managedLinux = readExecutionProfile() === "managed-linux";
 if (await runBounded({ mode: command })) process.exit(process.exitCode ?? 0);
+await import("./prepare-voice-index.mjs");
 
 if (managedLinux && command === "build") {
   const result = spawnSync("bash", [

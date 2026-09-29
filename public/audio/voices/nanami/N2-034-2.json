@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-034",
+  "exampleIndex": 1,
+  "text": "事故は起きないに越したことはありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 230,
+  "signature": "9ecf98759333fe4403397de9e5755b61f9beb95065dd52368c9e68db722f2c62",
+  "src": "/audio/voices/nanami/N2-034-2.mp3",
+  "srt": "/audio/voices/nanami/N2-034-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "72817d943f5f003bb4897f4e0153f556298a7c624173eced9679352786313fb5",
+  "peakPcm": 21030,
+  "rmsDbfs": -17.55,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-153",
+  "exampleIndex": 0,
+  "text": "外ではめったに食べません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 197,
+  "signature": "5edc71101c7438058cc2a02f777a3f95e336c56ec34a5d0f10b87f24be981130",
+  "src": "/audio/voices/keita/N3-153-1.mp3",
+  "srt": "/audio/voices/keita/N3-153-1.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "52e7c21f9efddfa40e8f8505e8da8371630fad42cd43cd693d0ee4ff6e9801d5",
+  "peakPcm": 22906,
+  "rmsDbfs": -21.32,
+  "rate": "+0%",
+  "listened": false
+}

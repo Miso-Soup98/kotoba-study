@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-137",
+  "exampleIndex": 0,
+  "text": "今から急いだって、間に合いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 189,
+  "signature": "d3096fc6ee55b1d1767e7bb8a3ffd0e1bc7e7aa7690f7665deff01fe739720b0",
+  "src": "/audio/voices/nanami/N3-137-1.mp3",
+  "srt": "/audio/voices/nanami/N3-137-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "b7719410c95e9b4d7949aa082a77c91638df1a193d8c0c26ded048a73695b1d1",
+  "peakPcm": 19795,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

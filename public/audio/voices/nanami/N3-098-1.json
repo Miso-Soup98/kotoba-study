@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-098",
+  "exampleIndex": 0,
+  "text": "弟は野菜を食べようとしません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 169,
+  "signature": "25577525d24f08e1657091ea2f54b96581a4a5dc084a11042882bbc2025afb82",
+  "src": "/audio/voices/nanami/N3-098-1.mp3",
+  "srt": "/audio/voices/nanami/N3-098-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "ca321aa7ab1d4ea8e07e6be01094ac834e632eaf592260069a2e2eba4f77948b",
+  "peakPcm": 21705,
+  "rmsDbfs": -16.91,
+  "rate": "+0%",
+  "listened": false
+}

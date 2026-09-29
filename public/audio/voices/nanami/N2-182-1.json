@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-182",
+  "exampleIndex": 0,
+  "text": "短い小説を一気に読みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 305,
+  "signature": "9e509e82ebea78fe5910b5342d60fcf8a1eed8e72549142eccf6db75e0fa9a53",
+  "src": "/audio/voices/nanami/N2-182-1.mp3",
+  "srt": "/audio/voices/nanami/N2-182-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "e05441764bafde594b1a00b747601836d728779f524a67122dc7b3b59e3ddf96",
+  "peakPcm": 21438,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

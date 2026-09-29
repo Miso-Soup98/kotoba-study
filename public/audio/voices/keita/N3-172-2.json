@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-172",
+  "exampleIndex": 1,
+  "text": "電車で行きます。なぜなら、そのほうが速いからです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 206,
+  "signature": "369bf972d4d2b2b3d19f890e9309d9ca91cd58e2e7aba6cd7ef15fd0bbcd0829",
+  "src": "/audio/voices/keita/N3-172-2.mp3",
+  "srt": "/audio/voices/keita/N3-172-2.srt",
+  "durationSeconds": 5.304,
+  "bytes": 31824,
+  "sha256": "c80cb19d671a851affdd5d7932efb858fb0dcb2d467a8db08080dd2a9fa55519",
+  "peakPcm": 24754,
+  "rmsDbfs": -21.33,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-065",
+  "exampleIndex": 1,
+  "text": "家族で将来について話し合いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 153,
+  "signature": "4a80ff1562d2b67e9cfefa03094291a60d891ccb076d119016b58b8a3bbc70c1",
+  "src": "/audio/voices/nanami/N3-065-2.mp3",
+  "srt": "/audio/voices/nanami/N3-065-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "1f01f563190d9077423fd5e1b9f5ca5eb59b9375e1366304f063b4d234753415",
+  "peakPcm": 20786,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

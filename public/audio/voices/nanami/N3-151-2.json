@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-151",
+  "exampleIndex": 1,
+  "text": "なるべく毎日歩くようにしています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 196,
+  "signature": "50e49c5b3d3451144d37b037e7406eb0ac70ee195c08d6b4c4ca7cb0f9be3897",
+  "src": "/audio/voices/nanami/N3-151-2.mp3",
+  "srt": "/audio/voices/nanami/N3-151-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "ad87341067f1aae9c4865c665515f3ef6c172ed554b1b29478f5c2954764ebb0",
+  "peakPcm": 21353,
+  "rmsDbfs": -16.91,
+  "rate": "+0%",
+  "listened": false
+}

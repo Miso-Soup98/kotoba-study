@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-104",
+  "exampleIndex": 1,
+  "text": "練習の甲斐があって、うまく話せました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 266,
+  "signature": "ca467c32ebaa22aa3c3bf5be93b9ba2d1434aa231d511762159893ac0fb849d8",
+  "src": "/audio/voices/keita/N2-104-2.mp3",
+  "srt": "/audio/voices/keita/N2-104-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "324fec544b28ddebdf8c411a37edc8ebe079c0f45c3e3f96540652fcf325890b",
+  "peakPcm": 23711,
+  "rmsDbfs": -21.01,
+  "rate": "+0%",
+  "listened": false
+}

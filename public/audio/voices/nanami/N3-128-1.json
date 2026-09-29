@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-128",
+  "exampleIndex": 0,
+  "text": "上手になるには、練習が必要です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 184,
+  "signature": "b5fec6ab5770ab425be86e97d2e2377524a11d05c2f71480d5752202f9e015af",
+  "src": "/audio/voices/nanami/N3-128-1.mp3",
+  "srt": "/audio/voices/nanami/N3-128-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "c89d1a3458a2ea610252824f60238fe3995aee478267bcf13a64f2cc7a13dd4b",
+  "peakPcm": 20457,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

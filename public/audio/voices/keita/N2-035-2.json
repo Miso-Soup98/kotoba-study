@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-035",
+  "exampleIndex": 1,
+  "text": "引き受けたからには、最後までやります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 231,
+  "signature": "d60eb95aaae4740347eca2ec4fb4eeea65977fa7cf986aee68f61d20f56ad28e",
+  "src": "/audio/voices/keita/N2-035-2.mp3",
+  "srt": "/audio/voices/keita/N2-035-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "a32f61afa34366362d19f00ae08c92c55357bc44e9d78a9aa8a529d23e4ac519",
+  "peakPcm": 23536,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

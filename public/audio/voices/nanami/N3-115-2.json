@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-115",
+  "exampleIndex": 1,
+  "text": "後悔していても始まらないので、次を考えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 178,
+  "signature": "d68b3a9d119d4d711bff2aaf7bacc8873ea3df950bfc06cade7b0c1708316fb3",
+  "src": "/audio/voices/nanami/N3-115-2.mp3",
+  "srt": "/audio/voices/nanami/N3-115-2.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "2ebc9abf69caee02453bda372a104e7ac14c8ebdf6670a9a48134e944053d40a",
+  "peakPcm": 21790,
+  "rmsDbfs": -16.92,
+  "rate": "+0%",
+  "listened": false
+}

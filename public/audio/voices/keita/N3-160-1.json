@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-160",
+  "exampleIndex": 0,
+  "text": "もしかしたら、道を間違えたかもしれません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 200,
+  "signature": "c3546e643b86b79e82a6897be776865b2d09ea0fbd36f9e5a81a7406b38884ff",
+  "src": "/audio/voices/keita/N3-160-1.mp3",
+  "srt": "/audio/voices/keita/N3-160-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "ec383e34544f45be41f49d6926f79796ec7efcba9883c001e61b0f2110c651dc",
+  "peakPcm": 22957,
+  "rmsDbfs": -21.16,
+  "rate": "+0%",
+  "listened": false
+}

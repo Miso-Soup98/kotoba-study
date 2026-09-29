@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-075",
+  "exampleIndex": 1,
+  "text": "駅へ向かう途中に、大きな公園があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 158,
+  "signature": "0da58a4e12894d665bb73cc4224903a8349c06fbc4e9c323c831f5f971238f55",
+  "src": "/audio/voices/keita/N3-075-2.mp3",
+  "srt": "/audio/voices/keita/N3-075-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "592f03cb33c31973eaf09bfa21442adef66b530c9fba9e0c644fb5a17644ee63",
+  "peakPcm": 22351,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

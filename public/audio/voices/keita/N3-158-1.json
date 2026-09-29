@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-158",
+  "exampleIndex": 0,
+  "text": "この景色は、まるで絵のようです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 199,
+  "signature": "560c2a10218ef06b777f800ab6f745c4b79814161b3fa39a55133014cb58fcfb",
+  "src": "/audio/voices/keita/N3-158-1.mp3",
+  "srt": "/audio/voices/keita/N3-158-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "5267ae79632c48caced6a2305d00da28c23ace4492bb5b3c7ea8353cc0dac0a0",
+  "peakPcm": 24743,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

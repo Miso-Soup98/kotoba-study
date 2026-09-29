@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-149",
+  "exampleIndex": 0,
+  "text": "春とはいえ、朝はまだ寒いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 288,
+  "signature": "ebf5fc5375f892659b6ecb72185ca5761fc6580d744a8a327bd0fb2e5be2adfb",
+  "src": "/audio/voices/keita/N2-149-1.mp3",
+  "srt": "/audio/voices/keita/N2-149-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "30d2ae61c099f5f65cf2976a65156e2d84f02d4d532f5968f45710be31a686ed",
+  "peakPcm": 23000,
+  "rmsDbfs": -21.47,
+  "rate": "+0%",
+  "listened": false
+}

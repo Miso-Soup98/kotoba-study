@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-074",
+  "exampleIndex": 1,
+  "text": "親に頼ってばかりはいられません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 250,
+  "signature": "b1b24c0c7836e46f8dd3676ae7df0c5ed56cf8e67ad663d2ed4b5f41314c0e56",
+  "src": "/audio/voices/nanami/N2-074-2.mp3",
+  "srt": "/audio/voices/nanami/N2-074-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "ce74d8701ee732054585847310d7e121e606ed46801f44580c362ce0a7cdfbcd",
+  "peakPcm": 21764,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

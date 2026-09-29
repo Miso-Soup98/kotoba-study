@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-133",
+  "exampleIndex": 0,
+  "text": "何が原因なのでしょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 187,
+  "signature": "1958ec44d3b806e0d300b97653ff35e410bd685f66043d7c37c7e9f8fafc96fc",
+  "src": "/audio/voices/nanami/N3-133-1.mp3",
+  "srt": "/audio/voices/nanami/N3-133-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "e66a6745d00f47cb56ea47ca5f3b25375b79fce4a7d15cf16e78defdeb150e66",
+  "peakPcm": 19826,
+  "rmsDbfs": -18.54,
+  "rate": "+0%",
+  "listened": false
+}

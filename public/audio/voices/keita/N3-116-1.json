@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-116",
+  "exampleIndex": 0,
+  "text": "形が星に似ていることから、この名前が付きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 178,
+  "signature": "984cd9c0fb14dfcf95e099bb453c12b894fb61b602f6e8ea128aea3bbfc182a5",
+  "src": "/audio/voices/keita/N3-116-1.mp3",
+  "srt": "/audio/voices/keita/N3-116-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "cc7f53ddc3e68d3738ee611bf6f0823d064fad0019b9891fd66148484e1d583b",
+  "peakPcm": 22803,
+  "rmsDbfs": -20.83,
+  "rate": "+0%",
+  "listened": false
+}

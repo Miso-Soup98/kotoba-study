@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-068",
+  "exampleIndex": 1,
+  "text": "熱があって、勉強するどころではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 247,
+  "signature": "9042e134a34d73cb101695f60e4e99b6c89e5197ef2c3f00bcc1da0e3b219aec",
+  "src": "/audio/voices/keita/N2-068-2.mp3",
+  "srt": "/audio/voices/keita/N2-068-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "1c6321ea9961172938666ad7167652b849fb87f485c356c33130b49bf320b66e",
+  "peakPcm": 24346,
+  "rmsDbfs": -21.25,
+  "rate": "+0%",
+  "listened": false
+}

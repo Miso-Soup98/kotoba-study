@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-096",
+  "exampleIndex": 1,
+  "text": "勝つかどうかはともかく、参加したいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 262,
+  "signature": "1a357c3f09043c453c36b60c032643c4bbe87249696d075ac100d090520a0226",
+  "src": "/audio/voices/nanami/N2-096-2.mp3",
+  "srt": "/audio/voices/nanami/N2-096-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "83cb5d344d4e575aa250e734268903faae8727f3f9c177f46597f579424d3271",
+  "peakPcm": 21385,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-084",
+  "exampleIndex": 0,
+  "text": "値段から言うと、こちらのほうがいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 256,
+  "signature": "d3fab94b5d08ff6e46d6c0c631d77da68c1144afd07f8e22196b18d7051c05e2",
+  "src": "/audio/voices/nanami/N2-084-1.mp3",
+  "srt": "/audio/voices/nanami/N2-084-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "edcd3f901facf4b9f67cb7abedf1697e3b1235dfb801216a0ec995a069691c4e",
+  "peakPcm": 21363,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-166",
+  "exampleIndex": 0,
+  "text": "恐らく、明日には結果が出るでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 297,
+  "signature": "2707d2746cdf22bfb619f7f2a90419cb5ca6f3fd8f9ba39d4e962da4baec0b69",
+  "src": "/audio/voices/nanami/N2-166-1.mp3",
+  "srt": "/audio/voices/nanami/N2-166-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "27987646da2bbf6fce6aefdd9b2f220dd6ef3d597224294a356e2c8e3d9fbbc7",
+  "peakPcm": 20637,
+  "rmsDbfs": -18.52,
+  "rate": "+0%",
+  "listened": false
+}

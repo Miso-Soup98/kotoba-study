@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-077",
+  "exampleIndex": 1,
+  "text": "互いを尊重してこそ、協力できます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 252,
+  "signature": "93b76d4e0b683c0bd3accab863ca7e8a729274e3cc1bb0e11a24f6f828ec0182",
+  "src": "/audio/voices/nanami/N2-077-2.mp3",
+  "srt": "/audio/voices/nanami/N2-077-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "f055bdc6f547dbaedccbb6faa2d6dcd8af935a3f8ce03fecee256b6ad5151348",
+  "peakPcm": 21621,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

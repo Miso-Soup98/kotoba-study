@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-044",
+  "exampleIndex": 1,
+  "text": "一人で全部するのは、厳しいものがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 235,
+  "signature": "a546807bea0fa7ae4d65646ea100d5e027638bae421f306a75ba80a23ea03b39",
+  "src": "/audio/voices/nanami/N2-044-2.mp3",
+  "srt": "/audio/voices/nanami/N2-044-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "08c18fb88aff7d601b6c2164d178b688a490cf88895f11893026fa8c043bd5f0",
+  "peakPcm": 21368,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-141",
+  "exampleIndex": 0,
+  "text": "彼は来月帰国するとか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 284,
+  "signature": "468a8b894d8ee386596bcc68d3f56e3d15333ee0c046bee2083cac15f2a21f34",
+  "src": "/audio/voices/nanami/N2-141-1.mp3",
+  "srt": "/audio/voices/nanami/N2-141-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "043ad46b283f2e72d557ffc26180cf8dc8677f287c193816572549d24c52bd09",
+  "peakPcm": 22120,
+  "rmsDbfs": -18.57,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-110",
+  "exampleIndex": 0,
+  "text": "先生の指導の下で、研究しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 269,
+  "signature": "d192f9c551322058bd449872d5d352a60628035131edd51d2a8888bd8e112a10",
+  "src": "/audio/voices/keita/N2-110-1.mp3",
+  "srt": "/audio/voices/keita/N2-110-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "be4835989ec503b6728d14dbb72aa5c38391cd73b52ed77657a621a2e358aee1",
+  "peakPcm": 21112,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

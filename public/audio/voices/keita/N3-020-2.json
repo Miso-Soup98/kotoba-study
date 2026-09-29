@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-020",
+  "exampleIndex": 1,
+  "text": "先生でも、何でも知っているとは限りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 130,
+  "signature": "bc58f39b0c0201445e9f9c86ecb8e5f6a3d23835014c6d9c12851a31423681f3",
+  "src": "/audio/voices/keita/N3-020-2.mp3",
+  "srt": "/audio/voices/keita/N3-020-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "156953629d7ed3662ddea8ecd179e5676f35efebb95211fd110577840daa13c4",
+  "peakPcm": 25439,
+  "rmsDbfs": -20.65,
+  "rate": "+0%",
+  "listened": false
+}

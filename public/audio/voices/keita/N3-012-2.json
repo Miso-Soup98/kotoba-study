@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-012",
+  "exampleIndex": 1,
+  "text": "前の部屋に比べると、ここは広いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 126,
+  "signature": "e1a81bf17eae294fbed9f2510443d307135b35a90f5f9aa6c29e54d5503b20a3",
+  "src": "/audio/voices/keita/N3-012-2.mp3",
+  "srt": "/audio/voices/keita/N3-012-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "322f3829328877b0dc1894e7b5020ace26e54c8c4598c84f913409e686d1c346",
+  "peakPcm": 25131,
+  "rmsDbfs": -20.9,
+  "rate": "+0%",
+  "listened": false
+}

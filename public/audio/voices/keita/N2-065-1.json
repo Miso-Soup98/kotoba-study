@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-065",
+  "exampleIndex": 0,
+  "text": "毎日練習しただけのことはありますね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 246,
+  "signature": "a92ae090a80288238cee70ee5466e52f6c2e3caf2795b314877b9ebab7f0d251",
+  "src": "/audio/voices/keita/N2-065-1.mp3",
+  "srt": "/audio/voices/keita/N2-065-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "1584ba9fb728613d1356478adaa2a9ef312818e41733789d5f6416a1162c8809",
+  "peakPcm": 26719,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

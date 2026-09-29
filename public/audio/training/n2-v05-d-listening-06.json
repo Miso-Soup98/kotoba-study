@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-d-listening-06",
+  "exampleIndex": 0,
+  "text": "新しい道具を使うのは好きですが、機能が多ければよいとは思いません。以前、多機能の手帳アプリを入れたものの、設定ばかりして予定を書き忘れました。今は、入力が簡単なものを使っています。もちろん、必要な機能は人によって違います。評判だけで選ばず、自分が何をしたいのかを先に考えるのが大事だと思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "84320b5cf8cfd539cb4b50d6125cf12f57352c5809cd669c38c8e2cafb225414",
+  "src": "/audio/training/n2-v05-d-listening-06.mp3",
+  "srt": "/audio/training/n2-v05-d-listening-06.srt",
+  "durationSeconds": 28.248,
+  "bytes": 169488,
+  "sha256": "e97a0431772c531b84622a22c73822bb2a34d5be214bbb139179afd12b60eac2",
+  "peakPcm": 22734,
+  "rmsDbfs": -17.13,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

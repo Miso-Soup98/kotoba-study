@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-03",
+  "exampleIndex": 0,
+  "text": "旅行の写真を共有するときは、撮った日ごとにフォルダーを分けてください。場所の名前だけで分けると、同じ場所に二度行ったときに順番が分からなくなるからです。写真の名前は変えなくてかまいません。ぼけている写真も、こちらで確認するので、今は消さずに入れておいてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "9db8c7bc5f085a5599e5f6302cae592292fe9d7651fffe26773a0a004a6f0395",
+  "src": "/audio/training/n2-v05-p-listening-03.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-03.srt",
+  "durationSeconds": 22.944,
+  "bytes": 137664,
+  "sha256": "998cfb0a714fc3aa63edb51f76437d39415c7137ec946ab8d0f30e2536b892a2",
+  "peakPcm": 21972,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

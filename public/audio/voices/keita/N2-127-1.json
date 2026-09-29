@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-127",
+  "exampleIndex": 0,
+  "text": "個人情報を外に漏らしてはなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 277,
+  "signature": "7a059520ee00d9047ca43f63c353507892984905e9479ad86bfd8ac6abd0f6cc",
+  "src": "/audio/voices/keita/N2-127-1.mp3",
+  "srt": "/audio/voices/keita/N2-127-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "5a033747dd6e692aa6819608aec5b35896bab7dc49835f9dccb4aff0eac53981",
+  "peakPcm": 18679,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

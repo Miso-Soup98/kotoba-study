@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-033",
+  "exampleIndex": 0,
+  "text": "外国で暮らす上で、言葉は大切です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 137,
+  "signature": "6d44f5f3ebba8882d64ee59cd115608b9677e3390702c004bed264881ff21180",
+  "src": "/audio/voices/keita/N3-033-1.mp3",
+  "srt": "/audio/voices/keita/N3-033-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "fc7be058e182527a582b06bef87fdcbf3c6f1a68743c957e4a37f12ffdc0e25f",
+  "peakPcm": 27893,
+  "rmsDbfs": -20.86,
+  "rate": "+0%",
+  "listened": false
+}

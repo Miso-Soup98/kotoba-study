@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-012",
+  "exampleIndex": 1,
+  "text": "声の限り叫びました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 219,
+  "signature": "c6def5511cda2fba7b798510bfce496a5a75ad42e203d17f78e4d8829cf64a95",
+  "src": "/audio/voices/keita/N2-012-2.mp3",
+  "srt": "/audio/voices/keita/N2-012-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "7e1809bd54a24b135ea0012ffefba144e7d4062a5b2a29e4a104a2d676bc65f4",
+  "peakPcm": 17987,
+  "rmsDbfs": -21.96,
+  "rate": "+0%",
+  "listened": false
+}

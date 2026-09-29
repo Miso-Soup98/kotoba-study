@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-031",
+  "exampleIndex": 0,
+  "text": "一人で暮らして初めて、家事の大変さが分かりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 136,
+  "signature": "cd9f95bb71ddbfe62c21c7cf8033f03fc3e871430cc39b111237062d56d0d537",
+  "src": "/audio/voices/keita/N3-031-1.mp3",
+  "srt": "/audio/voices/keita/N3-031-1.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "a58011eb487444c227ae3cec31452091a7b64774483e25abc10831936d55bad1",
+  "peakPcm": 23649,
+  "rmsDbfs": -21.77,
+  "rate": "+0%",
+  "listened": false
+}

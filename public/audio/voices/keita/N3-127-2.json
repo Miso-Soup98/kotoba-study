@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-127",
+  "exampleIndex": 1,
+  "text": "彼は歌も上手なら、料理も上手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 184,
+  "signature": "51089497fbb9ab08bdb309aa1530cf9cc9a9607da7dd8434db5fe1f60c4e38b3",
+  "src": "/audio/voices/keita/N3-127-2.mp3",
+  "srt": "/audio/voices/keita/N3-127-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "f6d8a059c7cecc249aff1863eac90b57304c003b31e39b3efb9421307227fe65",
+  "peakPcm": 21296,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

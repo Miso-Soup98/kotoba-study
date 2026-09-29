@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-020",
+  "exampleIndex": 0,
+  "text": "高い物が必ずしもよいとは限りません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 130,
+  "signature": "15e9c67a2441d917cfc545f7a1c7aac52d518fdec789e0bd0906d7ba345934a2",
+  "src": "/audio/voices/keita/N3-020-1.mp3",
+  "srt": "/audio/voices/keita/N3-020-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "1a4f465a9a750633da43d3431e0558ee7ae404729e2231e121302d1a02af44aa",
+  "peakPcm": 20828,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

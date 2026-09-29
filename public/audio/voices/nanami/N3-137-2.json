@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-137",
+  "exampleIndex": 1,
+  "text": "安くたって、要らない物は買いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 189,
+  "signature": "6d3439cbadcd778a0033ca5c90b9c46b6c34d30bd78b88f68681c84e0dcee5a9",
+  "src": "/audio/voices/nanami/N3-137-2.mp3",
+  "srt": "/audio/voices/nanami/N3-137-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "a8c9ca1c9f6ab1dc825797f62e8e69654860d854a54aec78d031e096537dbb7d",
+  "peakPcm": 22175,
+  "rmsDbfs": -18.1,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-121",
+  "exampleIndex": 0,
+  "text": "寝たふりをしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 181,
+  "signature": "6920d2ebb6e7be9cfeb598090cb87b3b9db1d87bb69b8de015f253f98a0a20cd",
+  "src": "/audio/voices/keita/N3-121-1.mp3",
+  "srt": "/audio/voices/keita/N3-121-1.srt",
+  "durationSeconds": 2.04,
+  "bytes": 12240,
+  "sha256": "bb77c8baf6d332384c3b07162a8e13c390a4a0f3c289cfa662af957d1e9c74f6",
+  "peakPcm": 25941,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

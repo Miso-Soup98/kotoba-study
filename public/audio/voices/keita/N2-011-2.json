@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-011",
+  "exampleIndex": 1,
+  "text": "調べた限りでは、問題は見つかりませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 219,
+  "signature": "afc097f03871efbd2bb6da6b8714a6e070790e374de052b5342952a5165065ad",
+  "src": "/audio/voices/keita/N2-011-2.mp3",
+  "srt": "/audio/voices/keita/N2-011-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "3fab5c23a97c79387f5ae567a60d9bacf27a17e26d8de5a9829b4d3c550310d6",
+  "peakPcm": 25355,
+  "rmsDbfs": -20.35,
+  "rate": "+0%",
+  "listened": false
+}

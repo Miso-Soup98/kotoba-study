@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-082",
+  "exampleIndex": 0,
+  "text": "この写真を見るにつけ、昔を思い出します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 255,
+  "signature": "98475fe7af21529e4a02df14f776d03225c20af3f74b222457cbbe2c1f95fcb8",
+  "src": "/audio/voices/nanami/N2-082-1.mp3",
+  "srt": "/audio/voices/nanami/N2-082-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "afce0db4437371a78940b261ad4b83f9d2458a6a9ad9dc1737cd771890194a97",
+  "peakPcm": 20709,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

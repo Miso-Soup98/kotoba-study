@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-019",
+  "exampleIndex": 1,
+  "text": "土地をめぐる問題が起きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 223,
+  "signature": "8c0cac1e00bc115f1dd22737bb2baee74d19ed9e5b71f34fc9717f52a07a5cde",
+  "src": "/audio/voices/keita/N2-019-2.mp3",
+  "srt": "/audio/voices/keita/N2-019-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "826f26871206805cf135c213d59915d7f470841ade48bbc9e940409a6d3b5123",
+  "peakPcm": 19929,
+  "rmsDbfs": -19.59,
+  "rate": "+0%",
+  "listened": false
+}

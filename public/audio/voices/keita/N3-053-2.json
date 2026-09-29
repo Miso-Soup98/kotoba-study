@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-053",
+  "exampleIndex": 1,
+  "text": "冬にしては、今日は暖かいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 147,
+  "signature": "85bc5cf5e6ded04d27fa5a41e8ea8c70fab8ba7f0657cc724e43a7e000474272",
+  "src": "/audio/voices/keita/N3-053-2.mp3",
+  "srt": "/audio/voices/keita/N3-053-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "522c2af594103479e95274bffe32878d76430332f64a50730775ef184bd8d9bc",
+  "peakPcm": 21730,
+  "rmsDbfs": -20.27,
+  "rate": "+0%",
+  "listened": false
+}

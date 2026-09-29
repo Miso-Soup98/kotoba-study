@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-208",
+  "exampleIndex": 0,
+  "text": "万が一遅れる場合は、連絡してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 318,
+  "signature": "050726c49fdca638b5d19b35de7cafd14d24fcb38ad67462696d5e04067e67ed",
+  "src": "/audio/voices/keita/N2-208-1.mp3",
+  "srt": "/audio/voices/keita/N2-208-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "5e3785e5355cbd036a90dd36998e0644fa07bda7eb6021cbef61fc82ceb4e5dc",
+  "peakPcm": 24592,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

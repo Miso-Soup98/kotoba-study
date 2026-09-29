@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-138",
+  "exampleIndex": 0,
+  "text": "「まず確認する」というふうに、順番を決めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 283,
+  "signature": "0601fb5ad1e0b996051ed5ad9acc2f2df98934ec8aa318d5a7e6d3ea4dfe0e46",
+  "src": "/audio/voices/keita/N2-138-1.mp3",
+  "srt": "/audio/voices/keita/N2-138-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "53d7ea6940c1637e18d51d2e3df02bc8ec53f964397a3c7bf56a644ea4cee14f",
+  "peakPcm": 24608,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-056",
+  "exampleIndex": 0,
+  "text": "雨がやんだかと思ったら、また降り出しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 241,
+  "signature": "e4803db1b6548205492e07c0bd0fbea115b277861f52236ea44214366e834ceb",
+  "src": "/audio/voices/nanami/N2-056-1.mp3",
+  "srt": "/audio/voices/nanami/N2-056-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "7eaa7aed918e578c431be27466268feb13629e81b26c714a75fcf4cebba4bb4b",
+  "peakPcm": 20953,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

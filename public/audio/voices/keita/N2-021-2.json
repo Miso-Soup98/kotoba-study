@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-021",
+  "exampleIndex": 1,
+  "text": "住民の要望に応えて、公園を作りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 224,
+  "signature": "7da473cb043667464153a62d7bc10e3f6b96ba77c6c00140af5008ad2548be6d",
+  "src": "/audio/voices/keita/N2-021-2.mp3",
+  "srt": "/audio/voices/keita/N2-021-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "1218ca9626ac071b71d4423fbf6daffded74e9a0f0709502133541eac4f83c0d",
+  "peakPcm": 21155,
+  "rmsDbfs": -18.74,
+  "rate": "+0%",
+  "listened": false
+}

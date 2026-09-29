@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-044",
+  "exampleIndex": 1,
+  "text": "一人で全部するのは、厳しいものがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 235,
+  "signature": "335785b4b8928d90cbad75c2921a3bf6140f138c5395285b867c34969233b375",
+  "src": "/audio/voices/keita/N2-044-2.mp3",
+  "srt": "/audio/voices/keita/N2-044-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "f9f9fe30edb5afc46bca141b4ba25394974a255031cab5338e0e77526b8ebec0",
+  "peakPcm": 23164,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

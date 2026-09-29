@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-117",
+  "exampleIndex": 0,
+  "text": "真面目な彼のことだから、もう準備しているでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 272,
+  "signature": "81513ccb87528ac350d06cbe71649347c07c276db9a0c849989f7a778f5481d9",
+  "src": "/audio/voices/nanami/N2-117-1.mp3",
+  "srt": "/audio/voices/nanami/N2-117-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "70028de878754649e9b6e160e868748a6e9c63040fa81c3e26ba5f7af18272ef",
+  "peakPcm": 19504,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

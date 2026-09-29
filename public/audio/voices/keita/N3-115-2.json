@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-115",
+  "exampleIndex": 1,
+  "text": "後悔していても始まらないので、次を考えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 178,
+  "signature": "602853a40d072e2c8bbfff4cd7362e45aa5f399331c19746ab5286c0484e7b02",
+  "src": "/audio/voices/keita/N3-115-2.mp3",
+  "srt": "/audio/voices/keita/N3-115-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "e1dad7c8deefe7f60b44a52bc5574dcd7420a68d2f9a9b0e013e78131da9bd69",
+  "peakPcm": 22267,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

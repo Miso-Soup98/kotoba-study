@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-035",
+  "exampleIndex": 0,
+  "text": "練習を重ねるにしたがって、自信がついてきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 138,
+  "signature": "16e8adf2453db063492a332378a5256d4cd362ea221450054908687aa6404745",
+  "src": "/audio/voices/keita/N3-035-1.mp3",
+  "srt": "/audio/voices/keita/N3-035-1.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "ecc0f992e52cc77060163c95de517aba1103d0802bbc7dcb3d98b46ffcaefa5d",
+  "peakPcm": 24200,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

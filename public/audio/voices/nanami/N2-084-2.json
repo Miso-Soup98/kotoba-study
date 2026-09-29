@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-084",
+  "exampleIndex": 1,
+  "text": "使いやすさから言えば、この道具がおすすめです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 256,
+  "signature": "f66d23022591c11309309bf4a34b4cbe1b488b325e8a8086baca49b03b2e6dc6",
+  "src": "/audio/voices/nanami/N2-084-2.mp3",
+  "srt": "/audio/voices/nanami/N2-084-2.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "f0f9fc31657b4f2d46f0ad0d8fc2e8d68ce5e8e3524d197331adffdbe1e905d4",
+  "peakPcm": 21605,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

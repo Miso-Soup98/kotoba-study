@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-103",
+  "exampleIndex": 1,
+  "text": "やるだけはやったので、後悔はありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 265,
+  "signature": "4b29be1076fe278dfc0c94a0e104958bef700d8ec403413a2a19c10535fc5501",
+  "src": "/audio/voices/keita/N2-103-2.mp3",
+  "srt": "/audio/voices/keita/N2-103-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "abc24af5bc988fafe3afd323f76829f1b29e72169464010c43dc5ee12a1a26fa",
+  "peakPcm": 23910,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

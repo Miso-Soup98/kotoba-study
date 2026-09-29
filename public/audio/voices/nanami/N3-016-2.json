@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-016",
+  "exampleIndex": 1,
+  "text": "一日二枚なら、五日で十枚になるわけです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 128,
+  "signature": "d0a81ccc26b8fa0f1e1bcb88ead5909652d3f3bef40159a207faecf692c3bd6c",
+  "src": "/audio/voices/nanami/N3-016-2.mp3",
+  "srt": "/audio/voices/nanami/N3-016-2.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "634e1f630b43136dd77b13e3cf819756065b7a2391280f0e5099e8b17c95fbea",
+  "peakPcm": 19247,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-076",
+  "exampleIndex": 1,
+  "text": "掃除のついでに、机の位置も変えました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 158,
+  "signature": "8762f19f1e2d6e1b4ba802277f7067b97aac6a1f8f2464e36d6d2b9a5107a9b8",
+  "src": "/audio/voices/keita/N3-076-2.mp3",
+  "srt": "/audio/voices/keita/N3-076-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "0ec551261536bbb00c9130eea46f80c0a3b68f6b0df42a93d4f0c396d3f96a7e",
+  "peakPcm": 21468,
+  "rmsDbfs": -19.8,
+  "rate": "+0%",
+  "listened": false
+}

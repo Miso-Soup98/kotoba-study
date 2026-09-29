@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-218",
+  "exampleIndex": 1,
+  "text": "無事に着いて、何よりです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 323,
+  "signature": "054ecc95eadb08f153e6fac4c52c3c274ed5f7d34ced76ff4dd39e30be9f3663",
+  "src": "/audio/voices/keita/N2-218-2.mp3",
+  "srt": "/audio/voices/keita/N2-218-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "5c39259bd10d998a0b17d39506955c9ba24fd9c20355378580b2d00892b4cfde",
+  "peakPcm": 25331,
+  "rmsDbfs": -20.77,
+  "rate": "+0%",
+  "listened": false
+}

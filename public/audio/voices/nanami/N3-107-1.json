@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-107",
+  "exampleIndex": 0,
+  "text": "忙しいにしても、連絡くらいできます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 174,
+  "signature": "e2084462741d3c6503ce6cf472f184846a07d7945ee489161690bb9229153e92",
+  "src": "/audio/voices/nanami/N3-107-1.mp3",
+  "srt": "/audio/voices/nanami/N3-107-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "7e7e8f4d612d981ba85888700ed8d0284e34ae1af2e4c95b892f6c5ac51525f9",
+  "peakPcm": 23783,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

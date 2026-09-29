@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-061",
+  "exampleIndex": 1,
+  "text": "迷ったあげく、何も買いませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 244,
+  "signature": "9c89ffd640b9e7f2a904f9838d96c4a2aa6aaae3f53c358d6ba9b7b36f721630",
+  "src": "/audio/voices/keita/N2-061-2.mp3",
+  "srt": "/audio/voices/keita/N2-061-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "a12402d35037be94cab0c9be4b970ef7e68af4adf22634d0c6abf5e1718dd977",
+  "peakPcm": 25287,
+  "rmsDbfs": -20.95,
+  "rate": "+0%",
+  "listened": false
+}

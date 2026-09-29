@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-212",
+  "exampleIndex": 1,
+  "text": "一旦決めたら、簡単には変えません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 320,
+  "signature": "cedfece295694ee72dc24e0779e7142b808cb4f04dc0734ddcdc605c54a267f4",
+  "src": "/audio/voices/keita/N2-212-2.mp3",
+  "srt": "/audio/voices/keita/N2-212-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "6eabebfb5bed662804f551c5db1791cf7ee62803cbd4502965892e472c3e622f",
+  "peakPcm": 24807,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-051",
+  "exampleIndex": 1,
+  "text": "卒業して以来、先生に会っていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 239,
+  "signature": "9a51b114b48a84f0ff3184e760098e3a95bf6c83858411f980ad19c6c1264635",
+  "src": "/audio/voices/keita/N2-051-2.mp3",
+  "srt": "/audio/voices/keita/N2-051-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "7a483dbc06dd204d46e8ff49a815a77afb9f0345241699cf5c76f06fd873ddb1",
+  "peakPcm": 20408,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

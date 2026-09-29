@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-022",
+  "exampleIndex": 1,
+  "text": "急ぐことはないので、ゆっくり来てください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 131,
+  "signature": "286a41811305604163f91c104e90fd83f2bb37e28a53f53e4eefa25b3d20b83b",
+  "src": "/audio/voices/nanami/N3-022-2.mp3",
+  "srt": "/audio/voices/nanami/N3-022-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "4c831de7c724b3881d6c2323104df1fdc81ffee220b30c19ae9f34ae8e67a758",
+  "peakPcm": 20577,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

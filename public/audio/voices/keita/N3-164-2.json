@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-164",
+  "exampleIndex": 1,
+  "text": "質問を一度にしないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 202,
+  "signature": "bc11febd420d68b5966a30bda228b6ca3cdcaa1331d1fa2e1c3d5745759e4d11",
+  "src": "/audio/voices/keita/N3-164-2.mp3",
+  "srt": "/audio/voices/keita/N3-164-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "46d7a1844072c0c8737b55a2da6e0876d4b8ccf33c0d55f57f2ea6fdf2787630",
+  "peakPcm": 20385,
+  "rmsDbfs": -19.99,
+  "rate": "+0%",
+  "listened": false
+}

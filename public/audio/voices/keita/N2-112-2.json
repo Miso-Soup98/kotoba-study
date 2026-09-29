@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-112",
+  "exampleIndex": 1,
+  "text": "制度上、変更はできません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 270,
+  "signature": "10822d3d9db9dec3c95be7306f6d723a7672fc639ee3c6b213f9a434b5af3cef",
+  "src": "/audio/voices/keita/N2-112-2.mp3",
+  "srt": "/audio/voices/keita/N2-112-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "f71cf11f5d5a26f4d7f84c4a9bbc47ab8b09768d288945a23ef40946a690098a",
+  "peakPcm": 22365,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

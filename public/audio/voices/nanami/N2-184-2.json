@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-184",
+  "exampleIndex": 1,
+  "text": "日本語の会話に、次第に慣れてきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 306,
+  "signature": "881be72f79347e717f1704821d654de49f21ec3b38226ced32552c3ce674a724",
+  "src": "/audio/voices/nanami/N2-184-2.mp3",
+  "srt": "/audio/voices/nanami/N2-184-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "895fa47a882e9dc87ea0bf95868b4c9cdd678b6175052df3e10c2d3282db614c",
+  "peakPcm": 20680,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

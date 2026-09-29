@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-070",
+  "exampleIndex": 0,
+  "text": "都市は便利な一方で、生活費が高いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 248,
+  "signature": "fae178389f6400d445dbd08cff7316c91ea5b52b1c1c444f1513772d316aa1c8",
+  "src": "/audio/voices/nanami/N2-070-1.mp3",
+  "srt": "/audio/voices/nanami/N2-070-1.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "67ddc1ac4bb1d1723a70c680bfb27dbe42e61f8d16642c9aa6393588f460c421",
+  "peakPcm": 21936,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-194",
+  "exampleIndex": 1,
+  "text": "駅から近いです。その上、静かな場所です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 311,
+  "signature": "5ab14ab658a4605054407cc09306e678621f4021570e50eb269e87dbde76b282",
+  "src": "/audio/voices/keita/N2-194-2.mp3",
+  "srt": "/audio/voices/keita/N2-194-2.srt",
+  "durationSeconds": 5.136,
+  "bytes": 30816,
+  "sha256": "cc1eb28278c978409dae932972893e730bf3736e951af37840cabae076a657aa",
+  "peakPcm": 23835,
+  "rmsDbfs": -22.48,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-147",
+  "exampleIndex": 1,
+  "text": "学生に限り、この部屋を使えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 287,
+  "signature": "b9be17b62f99e2b54c0c788eb771b6beb50e44015f0035a59bb3f8b60a8d9fc6",
+  "src": "/audio/voices/keita/N2-147-2.mp3",
+  "srt": "/audio/voices/keita/N2-147-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "649ed4ad521c0a059e31a46029c404cf830daf4bb238c676f7dd29ddd7d11828",
+  "peakPcm": 22238,
+  "rmsDbfs": -21.12,
+  "rate": "+0%",
+  "listened": false
+}

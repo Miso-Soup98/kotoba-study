@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-176",
+  "exampleIndex": 0,
+  "text": "十分ばかり待ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 302,
+  "signature": "a5b292c7598ed21c1a8f0f1155ee2efa455c023559ca07ea0c7b2356e3849e14",
+  "src": "/audio/voices/keita/N2-176-1.mp3",
+  "srt": "/audio/voices/keita/N2-176-1.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "107980b811de3917b739b759cb8a3646652d68afb11d3f4313f89f363142f1b4",
+  "peakPcm": 23143,
+  "rmsDbfs": -20.83,
+  "rate": "+0%",
+  "listened": false
+}

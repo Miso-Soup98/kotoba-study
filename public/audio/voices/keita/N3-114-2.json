@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-114",
+  "exampleIndex": 1,
+  "text": "少し修理して済んだので、安心しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 177,
+  "signature": "e679ee2492fc69be0a2622a87c0189761a2b4fdd2a958ca81ed2ee2f20518cea",
+  "src": "/audio/voices/keita/N3-114-2.mp3",
+  "srt": "/audio/voices/keita/N3-114-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "9ed650574a000addce6ae5dd65c820e0c46582c3f3b92932c19e8d759fc4714f",
+  "peakPcm": 23439,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

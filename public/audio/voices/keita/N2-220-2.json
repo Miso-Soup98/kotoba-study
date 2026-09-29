@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-220",
+  "exampleIndex": 1,
+  "text": "何しろ人数が多くて、準備が大変です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 324,
+  "signature": "4c242a5a161e47cbc42d7b417e31549493adf8c58083b4ebb050a579dcaba548",
+  "src": "/audio/voices/keita/N2-220-2.mp3",
+  "srt": "/audio/voices/keita/N2-220-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "35f9a984e91341960c5d9c24bed27e4007f6d0d068f4a82d11ed6cf53c7e7bb4",
+  "peakPcm": 25970,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

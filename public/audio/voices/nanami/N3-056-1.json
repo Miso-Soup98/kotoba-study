@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-056",
+  "exampleIndex": 0,
+  "text": "食べられないことはありませんが、あまり好きではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 148,
+  "signature": "a7b16d9a004f77323e88eff1f4cda408cbe0c0d37351a3fa06488b43b93e8c4e",
+  "src": "/audio/voices/nanami/N3-056-1.mp3",
+  "srt": "/audio/voices/nanami/N3-056-1.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "25ec526ce4f4c7b08699c637f64537afc48359ef2e5df0890879c79beec4e33f",
+  "peakPcm": 20866,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-020",
+  "exampleIndex": 1,
+  "text": "先生でも、何でも知っているとは限りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 130,
+  "signature": "31775f80fa648dc7efa5818232f7b90432ce4755798671bc456637a311e51a69",
+  "src": "/audio/voices/nanami/N3-020-2.mp3",
+  "srt": "/audio/voices/nanami/N3-020-2.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "85cb47cd38f2e8b13d812b24af6e99c2ea036f154cc0af493901d566f4ffc7b9",
+  "peakPcm": 20437,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

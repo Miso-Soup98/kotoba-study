@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-202",
+  "exampleIndex": 0,
+  "text": "電話、あるいは書面でお知らせください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 315,
+  "signature": "a26a40f89068fb7286cdcfb6dfc3e8309c677076861373141e85631368c21d3f",
+  "src": "/audio/voices/keita/N2-202-1.mp3",
+  "srt": "/audio/voices/keita/N2-202-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "e3ccb7a2933af1a7353280fd8cf3bad63fc7ba5a17bce24db1f311d0b6e058cf",
+  "peakPcm": 22296,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-106",
+  "exampleIndex": 1,
+  "text": "誰もいないところを見ると、会議は終わったとみえます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 173,
+  "signature": "20c8fd606c5695acd149a481d515bf5dffe62d8e0cd1c93b53d8009d162e2e51",
+  "src": "/audio/voices/keita/N3-106-2.mp3",
+  "srt": "/audio/voices/keita/N3-106-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "de37df92c9b90deb6977376b843d7fefd94460f01e853aef85271b88cbede432",
+  "peakPcm": 25797,
+  "rmsDbfs": -20.53,
+  "rate": "+0%",
+  "listened": false
+}

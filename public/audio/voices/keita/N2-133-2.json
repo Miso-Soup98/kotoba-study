@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-133",
+  "exampleIndex": 1,
+  "text": "子供ならまだしも、大人がそんなことをしてはいけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 280,
+  "signature": "f9ab063219e247ca11a8e37a00290999223cbc4cab9ff411e3401c888ab45fc8",
+  "src": "/audio/voices/keita/N2-133-2.mp3",
+  "srt": "/audio/voices/keita/N2-133-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "29a20b3b44c07f042c79a7b799beefe49a77c74a39e90c4ce8c2569856f26707",
+  "peakPcm": 24976,
+  "rmsDbfs": -19.79,
+  "rate": "+0%",
+  "listened": false
+}

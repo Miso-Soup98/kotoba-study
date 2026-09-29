@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-074",
+  "exampleIndex": 0,
+  "text": "休んでばかりはいられません。仕事を始めましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 250,
+  "signature": "0c6cbd9d35664aea264205a0b1eeda182d380c11991d1b9bd1e4901060eef280",
+  "src": "/audio/voices/nanami/N2-074-1.mp3",
+  "srt": "/audio/voices/nanami/N2-074-1.srt",
+  "durationSeconds": 5.304,
+  "bytes": 31824,
+  "sha256": "a77cda7f2ad5a636d4fdab701f8ce335e5b5b6bfbdf91eda0c10559ae2197836",
+  "peakPcm": 20876,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

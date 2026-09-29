@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-085",
+  "exampleIndex": 1,
+  "text": "父に代わり、長男が挨拶しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 163,
+  "signature": "7a09565bce526646730d39c0d4a8b2b63e19b68265e93d99f7539e6338bf5d15",
+  "src": "/audio/voices/nanami/N3-085-2.mp3",
+  "srt": "/audio/voices/nanami/N3-085-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "6d3b43962486d8713b1515906ea8f10e195a7badfaed7dc31ee6ed31d82ba466",
+  "peakPcm": 21726,
+  "rmsDbfs": -18.74,
+  "rate": "+0%",
+  "listened": false
+}

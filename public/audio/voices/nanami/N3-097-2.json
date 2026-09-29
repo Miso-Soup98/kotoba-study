@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-097",
+  "exampleIndex": 1,
+  "text": "出かけようとしたとき、電話が鳴りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 169,
+  "signature": "6877b00f5b3e5ff6fedbeb1aaedc7e0bf08e4188b8068e313bc13b0f942b6924",
+  "src": "/audio/voices/nanami/N3-097-2.mp3",
+  "srt": "/audio/voices/nanami/N3-097-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "69e1e2962e0d1b6251093ad35e498737eba0451f979a60163990cb1ca028873f",
+  "peakPcm": 20764,
+  "rmsDbfs": -18.36,
+  "rate": "+0%",
+  "listened": false
+}

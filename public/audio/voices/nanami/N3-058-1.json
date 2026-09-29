@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-058",
+  "exampleIndex": 0,
+  "text": "今日は少し疲れ気味です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 149,
+  "signature": "561b9e520e6bf55fc058d1594642b461a784769c4c5e61a85d4921ff79435d99",
+  "src": "/audio/voices/nanami/N3-058-1.mp3",
+  "srt": "/audio/voices/nanami/N3-058-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "d2800aace3e7bda4e96279e6c75a43d1f3034dad2fb81d30d393fe89c1da61f8",
+  "peakPcm": 21984,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

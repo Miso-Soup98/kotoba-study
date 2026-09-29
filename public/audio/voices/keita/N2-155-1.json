@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-155",
+  "exampleIndex": 0,
+  "text": "軽いという点では、この靴が一番です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 291,
+  "signature": "0364b0d02c03080f5b9ea61484bf5b942afd891b4bb9e3a57db6efd07ab8f00f",
+  "src": "/audio/voices/keita/N2-155-1.mp3",
+  "srt": "/audio/voices/keita/N2-155-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "630558da27763bf483dfc05da24bc5eb9806240dd98096b2ba3fd5099e523b7a",
+  "peakPcm": 23514,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

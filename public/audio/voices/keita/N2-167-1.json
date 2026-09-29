@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-167",
+  "exampleIndex": 0,
+  "text": "どうせ待つなら、本を読みましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 298,
+  "signature": "de3f9cb31fb903e04130badd014c28c9e7fecddc60f70874163370a92732593f",
+  "src": "/audio/voices/keita/N2-167-1.mp3",
+  "srt": "/audio/voices/keita/N2-167-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "55f137a1d373f5e99e17dcd2a75d8e9f794adbb44f7998a80393e08e97a3eb26",
+  "peakPcm": 21785,
+  "rmsDbfs": -20.02,
+  "rate": "+0%",
+  "listened": false
+}

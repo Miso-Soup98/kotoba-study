@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-057",
+  "exampleIndex": 1,
+  "text": "寝るか寝ないかのうちに、電話が鳴りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 242,
+  "signature": "27052816cda3369cc5b4c310f0dbc65fbe718359f5b6234f675596c835c5bce9",
+  "src": "/audio/voices/nanami/N2-057-2.mp3",
+  "srt": "/audio/voices/nanami/N2-057-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "f61db4061f7e60dc5f64d128ba7d286a699532dee9a5734198e9c2ee52db70ef",
+  "peakPcm": 21563,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-045",
+  "exampleIndex": 0,
+  "text": "この部屋は広い上に、明るいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 143,
+  "signature": "e7031a5e4772f1b6cc9eb67d6cdde081b6f8ab20f48e1b15c91889fb5081822d",
+  "src": "/audio/voices/keita/N3-045-1.mp3",
+  "srt": "/audio/voices/keita/N3-045-1.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "7b4618fcaceb181beede74a4c29c6d4959f78303f75d7e01449a6b7eba44006d",
+  "peakPcm": 23075,
+  "rmsDbfs": -20.31,
+  "rate": "+0%",
+  "listened": false
+}

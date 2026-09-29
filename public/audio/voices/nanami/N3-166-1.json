@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-166",
+  "exampleIndex": 0,
+  "text": "駅まで三十分はかかります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 203,
+  "signature": "16aef691202b92ce052b53d32b95e50e7c6af418b8b93e213f52e85996af669a",
+  "src": "/audio/voices/nanami/N3-166-1.mp3",
+  "srt": "/audio/voices/nanami/N3-166-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "aba0150e6bf72c8f0c24ecc1ed0080b3a49ed4cbe6f3dbcf772efde2423cb37f",
+  "peakPcm": 20356,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

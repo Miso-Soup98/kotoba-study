@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-187",
+  "exampleIndex": 1,
+  "text": "彼はとっくに帰りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 308,
+  "signature": "8174e687efccba98fce5bdd15a8e9aaedf0d699cf6faac11472fd200abaf92c5",
+  "src": "/audio/voices/keita/N2-187-2.mp3",
+  "srt": "/audio/voices/keita/N2-187-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "3a4dc0cf48ee70e17f45a39cd6c01094d76b33929bd3e46a929dd4f45a18e3f1",
+  "peakPcm": 21797,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

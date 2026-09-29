@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-204",
+  "exampleIndex": 0,
+  "text": "日曜日以外は、毎日働いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 316,
+  "signature": "9be3f04a646adbd1afabc8389d06d11a92af803af4b3ede1fddb4d5a801d5f18",
+  "src": "/audio/voices/keita/N2-204-1.mp3",
+  "srt": "/audio/voices/keita/N2-204-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "b1e9dd65690ad90117bc4cf90a7711bca0579ec6e7a8687876e3533c3f47fceb",
+  "peakPcm": 25687,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-159",
+  "exampleIndex": 0,
+  "text": "私もまた、同じ問題に悩んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 293,
+  "signature": "5fdb3402af949c9c2f19359e5e805a2666376fade451c81a58709c4bbb07c297",
+  "src": "/audio/voices/nanami/N2-159-1.mp3",
+  "srt": "/audio/voices/nanami/N2-159-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "616ead6e0f24b2d1a798b923aedb127882fac8c0b676cd2f20e49a6f3f2926a5",
+  "peakPcm": 23823,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

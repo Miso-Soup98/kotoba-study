@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-124",
+  "exampleIndex": 1,
+  "text": "学生時代は、夜遅くまで話したものです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 182,
+  "signature": "937b85547d92ecc6d1c916bf35e5f6deaef088bcb135d47cacbc88af7944bb4f",
+  "src": "/audio/voices/nanami/N3-124-2.mp3",
+  "srt": "/audio/voices/nanami/N3-124-2.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "611f4699d0082c50ccf2499757e36f5b6c0d1633b299a5c4258c3c0f3f6506e5",
+  "peakPcm": 20713,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

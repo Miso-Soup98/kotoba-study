@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-017",
+  "exampleIndex": 0,
+  "text": "人口の増加に伴って、家が増えています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 222,
+  "signature": "8e10b8b0d64af924ee09b27ab4ebc088cec6ec254e62a46518658d7e4f32420a",
+  "src": "/audio/voices/nanami/N2-017-1.mp3",
+  "srt": "/audio/voices/nanami/N2-017-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "f4d4911220ba81cdb4dd970227c08011880b9779669f79da6281810a5eb76c38",
+  "peakPcm": 21410,
+  "rmsDbfs": -16.94,
+  "rate": "+0%",
+  "listened": false
+}

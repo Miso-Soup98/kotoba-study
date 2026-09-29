@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-118",
+  "exampleIndex": 0,
+  "text": "緊張のあまり、名前を忘れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 179,
+  "signature": "d1659b7ccdacd3c5e0d0d9078b8f321a70cd94025ea261efd2117577f3a35a3b",
+  "src": "/audio/voices/keita/N3-118-1.mp3",
+  "srt": "/audio/voices/keita/N3-118-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "e7754ca6478b98cbc72a5f54348adc374c72f24cc8a2383e7026a4fc5bdb772f",
+  "peakPcm": 21865,
+  "rmsDbfs": -20.11,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-163",
+  "exampleIndex": 1,
+  "text": "ふと窓の外を見ると、雪が降っていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 202,
+  "signature": "8f728b98fca81ed5c8d69a1893c4e2b1700ef3373219716a31bc2cb5185f9ecb",
+  "src": "/audio/voices/keita/N3-163-2.mp3",
+  "srt": "/audio/voices/keita/N3-163-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "74f10d47f6224ba0759508810b509ecc4cd9fffe2b2c80176857a36f01b88827",
+  "peakPcm": 25229,
+  "rmsDbfs": -20.21,
+  "rate": "+0%",
+  "listened": false
+}

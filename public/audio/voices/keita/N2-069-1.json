@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-069",
+  "exampleIndex": 0,
+  "text": "この仕事は楽しい反面、責任も重いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 248,
+  "signature": "f39ed4e61847cc60a641e87856b1f41550b91661886b724ccfb63db6ed3c629c",
+  "src": "/audio/voices/keita/N2-069-1.mp3",
+  "srt": "/audio/voices/keita/N2-069-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "71902be2f49ab8cf36b3071a5b8b2e75822fb4c242d2de5a854eea51c03a7c28",
+  "peakPcm": 22462,
+  "rmsDbfs": -19.81,
+  "rate": "+0%",
+  "listened": false
+}

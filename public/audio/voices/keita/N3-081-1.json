@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-081",
+  "exampleIndex": 0,
+  "text": "友達を通じて、彼と知り合いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 161,
+  "signature": "69abdae81fe511f0aafc4fb76d5f7e9e80458d74603937d3b32082ee76b23e91",
+  "src": "/audio/voices/keita/N3-081-1.mp3",
+  "srt": "/audio/voices/keita/N3-081-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "1f51d151591b4a3418a42ec38a6e28e1f01acd3980125d81ed75b24576620691",
+  "peakPcm": 22566,
+  "rmsDbfs": -20.42,
+  "rate": "+0%",
+  "listened": false
+}

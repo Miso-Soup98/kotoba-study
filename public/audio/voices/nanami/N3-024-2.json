@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-024",
+  "exampleIndex": 1,
+  "text": "忘れないように、紙に書きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 132,
+  "signature": "db82256d56c073f0b8f9fc844c13a97751c07b92f6550b3defef78973fafc583",
+  "src": "/audio/voices/nanami/N3-024-2.mp3",
+  "srt": "/audio/voices/nanami/N3-024-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "bb9985f349790b90697a43fdf2f19f7da97170844a7212ef0ec4471aff0d036d",
+  "peakPcm": 21017,
+  "rmsDbfs": -18.03,
+  "rate": "+0%",
+  "listened": false
+}

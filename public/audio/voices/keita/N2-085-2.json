@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-085",
+  "exampleIndex": 1,
+  "text": "この結果から見て、方法を変える必要があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 256,
+  "signature": "0ecacc070a913ba29f254f2f1009e9dec8e71bbb0b779bfcf93a4efab98971f0",
+  "src": "/audio/voices/keita/N2-085-2.mp3",
+  "srt": "/audio/voices/keita/N2-085-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "beafa9350b2bc807d203633cf9e6125736ba6f9978aa4668809953e32314e116",
+  "peakPcm": 21427,
+  "rmsDbfs": -20.46,
+  "rate": "+0%",
+  "listened": false
+}

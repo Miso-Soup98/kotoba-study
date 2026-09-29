@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-051",
+  "exampleIndex": 0,
+  "text": "日本に来て以来、毎日日本語を使っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 239,
+  "signature": "72e34590501f3e645d82cad629220562682b2c9d6e4a22890c0b99b6bab91ff2",
+  "src": "/audio/voices/nanami/N2-051-1.mp3",
+  "srt": "/audio/voices/nanami/N2-051-1.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "aafe4a1c70fa29b315330aff57b6467ae43c71ca2e8d4bc63bcf9e89811cd93e",
+  "peakPcm": 21320,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

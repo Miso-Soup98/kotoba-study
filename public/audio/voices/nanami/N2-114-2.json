@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-114",
+  "exampleIndex": 1,
+  "text": "行けなくもないですが、少し遅れます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 271,
+  "signature": "1ecd92bbeccd2d36c67529715369ea1f6d494aef8c2976538d93e413bfeb5d96",
+  "src": "/audio/voices/nanami/N2-114-2.mp3",
+  "srt": "/audio/voices/nanami/N2-114-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "5515d2cfea3b84089a64a5cacfc099a68616dbaab8d694e6a0707afab15d8b07",
+  "peakPcm": 19998,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-079",
+  "exampleIndex": 0,
+  "text": "駅を中心に町が広がっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 160,
+  "signature": "153b72b213c62b7e29d9aa93b7793e6fd38771ed50e26d4fea899d13cb4cf6ae",
+  "src": "/audio/voices/nanami/N3-079-1.mp3",
+  "srt": "/audio/voices/nanami/N3-079-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "176be1d2b9853f5a2f01912b6dae9c6dd7e1671c0fae89d7397feea115b5befc",
+  "peakPcm": 21738,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

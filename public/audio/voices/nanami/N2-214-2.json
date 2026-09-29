@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-214",
+  "exampleIndex": 1,
+  "text": "説明を聞いて、事情がおおよそ分かりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 321,
+  "signature": "02c65e24face9f86281622621261988d8674f7d07dfaf13b552c2d2b76ef09e5",
+  "src": "/audio/voices/nanami/N2-214-2.mp3",
+  "srt": "/audio/voices/nanami/N2-214-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "a874a2dedeb82c1411ada2d3f72b02b7ddba3df9986400034f5f84f9c37e6958",
+  "peakPcm": 22190,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

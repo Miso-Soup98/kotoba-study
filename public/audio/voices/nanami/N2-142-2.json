@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-142",
+  "exampleIndex": 1,
+  "text": "引っ越しの準備やら仕事やらで、忙しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 285,
+  "signature": "715dde63ff4fdbee8c29a78630c465205ac67811bf4d8e34ab34a79e28c1188a",
+  "src": "/audio/voices/nanami/N2-142-2.mp3",
+  "srt": "/audio/voices/nanami/N2-142-2.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "cb3e7a88a40227a4977ebb9450ee871ea6a855591c61f814e5d702faa233b907",
+  "peakPcm": 20843,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

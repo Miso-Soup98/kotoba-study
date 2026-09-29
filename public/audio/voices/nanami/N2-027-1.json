@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-027",
+  "exampleIndex": 0,
+  "text": "誰にでも起こり得ることです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 227,
+  "signature": "31f132c2a11addfa62e7886ef14bb7cb84bb551e3ee6755510d5a42f6eb43742",
+  "src": "/audio/voices/nanami/N2-027-1.mp3",
+  "srt": "/audio/voices/nanami/N2-027-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "d35d93538ab29ffa5fe58b9bc5f134a65b9326f31ae03e03c36bf4c7ec32e3ac",
+  "peakPcm": 22368,
+  "rmsDbfs": -16.86,
+  "rate": "+0%",
+  "listened": false
+}

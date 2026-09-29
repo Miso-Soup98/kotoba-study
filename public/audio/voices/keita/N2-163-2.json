@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-163",
+  "exampleIndex": 1,
+  "text": "せっかくの休みなので、ゆっくりします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 296,
+  "signature": "c3a252cc920370ce4d87718f7c1cf725b0753472b9d319275222d902f522c64a",
+  "src": "/audio/voices/keita/N2-163-2.mp3",
+  "srt": "/audio/voices/keita/N2-163-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "4633118b1984391c23a12e4743eebbdc667d359a55631cd199364b5a4fd43b73",
+  "peakPcm": 22118,
+  "rmsDbfs": -21.1,
+  "rate": "+0%",
+  "listened": false
+}

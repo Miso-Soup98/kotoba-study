@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-073",
+  "exampleIndex": 1,
+  "text": "いつまでも落ち込んではいられません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 250,
+  "signature": "b7d8901197083f97c7e5d6dee4928736fac6b7b9224ff7de5d54abd739fa7d75",
+  "src": "/audio/voices/nanami/N2-073-2.mp3",
+  "srt": "/audio/voices/nanami/N2-073-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "9510c121a868a7e57f4fb73dad5ef718179110cc7a03ef4348ddadfdb4fccf5d",
+  "peakPcm": 20994,
+  "rmsDbfs": -17.61,
+  "rate": "+0%",
+  "listened": false
+}

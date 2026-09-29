@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-181",
+  "exampleIndex": 0,
+  "text": "果物、例えば、りんごを毎日食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 211,
+  "signature": "0d11cc7a16b32355e8455e03cbedcad87b250bf36a9058e46ddf410380766cdb",
+  "src": "/audio/voices/keita/N3-181-1.mp3",
+  "srt": "/audio/voices/keita/N3-181-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "24ba8457ee12657032446b9b72960a03777bd1e9974c83a8c3d6bda9e554912a",
+  "peakPcm": 25595,
+  "rmsDbfs": -20.02,
+  "rate": "+0%",
+  "listened": false
+}

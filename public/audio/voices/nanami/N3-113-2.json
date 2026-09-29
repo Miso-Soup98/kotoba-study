@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-113",
+  "exampleIndex": 1,
+  "text": "忘れてはいけないので、手帳に書きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 177,
+  "signature": "63b323aac1ef95e04109dc270a22b27c12db4b2d5d57dcaf4e50930e371a95ab",
+  "src": "/audio/voices/nanami/N3-113-2.mp3",
+  "srt": "/audio/voices/nanami/N3-113-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "04eb08812953315bd169e7c4e0d5b1b05fe30c75158514f4b80f4cbc51741710",
+  "peakPcm": 21342,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

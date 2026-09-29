@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-013",
+  "exampleIndex": 0,
+  "text": "経験に応じて、仕事を分けます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 220,
+  "signature": "f202fab573965c865a806a079fbc299b3cc102462054ae2e2010a2d97472a4a6",
+  "src": "/audio/voices/nanami/N2-013-1.mp3",
+  "srt": "/audio/voices/nanami/N2-013-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "40ce6a9107f07fdc922bfc66704ed2f54233df7e60b5909fce8ac73545ca6e28",
+  "peakPcm": 21544,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

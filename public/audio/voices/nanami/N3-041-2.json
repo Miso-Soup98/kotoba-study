@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-041",
+  "exampleIndex": 1,
+  "text": "これは仕事というより、趣味に近いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 141,
+  "signature": "3a4c2a822975e7960e24612b2b7ad4d46a1680f4c55a8281c9bd5ded2e41a23b",
+  "src": "/audio/voices/nanami/N3-041-2.mp3",
+  "srt": "/audio/voices/nanami/N3-041-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "f5e56ef2422e87dd4f79a0b3c35e52228bf4c6af4249d8bf95c0b4eca327e9c1",
+  "peakPcm": 21574,
+  "rmsDbfs": -17.79,
+  "rate": "+0%",
+  "listened": false
+}

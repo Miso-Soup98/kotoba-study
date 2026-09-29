@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-140",
+  "exampleIndex": 1,
+  "text": "今後も利用者が増えると考えられます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 284,
+  "signature": "9f7af35b0cf07e8f3b42194b2523932a4890d953143527e752619b05a4f2122b",
+  "src": "/audio/voices/keita/N2-140-2.mp3",
+  "srt": "/audio/voices/keita/N2-140-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "2cf4e6f68a8709ff3a84471b5400fb9dc7d804d5f8acca3529ed1e6ec0b2349c",
+  "peakPcm": 22716,
+  "rmsDbfs": -19.59,
+  "rate": "+0%",
+  "listened": false
+}

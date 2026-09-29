@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-093",
+  "exampleIndex": 1,
+  "text": "雨ばかりか、風まで強くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 260,
+  "signature": "ca489c2351b647c20974b0c5901341740e3c9c3454e31d9faa5e09133e4e0ce0",
+  "src": "/audio/voices/keita/N2-093-2.mp3",
+  "srt": "/audio/voices/keita/N2-093-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "d1ca4ea1b054ef7b760d2eca5e76a903667ca3c7706b503f74cdf2f00447b1c7",
+  "peakPcm": 23736,
+  "rmsDbfs": -21.15,
+  "rate": "+0%",
+  "listened": false
+}

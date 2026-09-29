@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-126",
+  "exampleIndex": 1,
+  "text": "知らぬ間に、季節が変わっていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 277,
+  "signature": "d43dbf0e553172c08a88865ed8def2ad709208a5dc583f972e8819e3c8b843f1",
+  "src": "/audio/voices/nanami/N2-126-2.mp3",
+  "srt": "/audio/voices/nanami/N2-126-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "0f3398253ef370720c1ac38a79be8d62b87036926a0a3d6aa8a10446841ff6cd",
+  "peakPcm": 21875,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

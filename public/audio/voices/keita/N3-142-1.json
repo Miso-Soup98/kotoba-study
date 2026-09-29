@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-142",
+  "exampleIndex": 0,
+  "text": "御厚意に甘えて、一晩泊まらせていただきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 191,
+  "signature": "744b5fb92fc86a1d6e615176822594d7df2a6df378fd79516ec41cbd6fec9429",
+  "src": "/audio/voices/keita/N3-142-1.mp3",
+  "srt": "/audio/voices/keita/N3-142-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "dcbda38af4d9b3fc89c7ac16c12c5f917c4b03610ef47731acf0a4cf52db9224",
+  "peakPcm": 23182,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

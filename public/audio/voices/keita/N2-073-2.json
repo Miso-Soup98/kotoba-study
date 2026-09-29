@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-073",
+  "exampleIndex": 1,
+  "text": "いつまでも落ち込んではいられません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 250,
+  "signature": "e9dbce9de6470e7e4aaa5af8b911dad8c0f3e0cc8362c38faa43c955c5a76d57",
+  "src": "/audio/voices/keita/N2-073-2.mp3",
+  "srt": "/audio/voices/keita/N2-073-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "73dc2e3d3c15c67fdd65aefa2024205fd9313c72aa24a936d394ab0dff4a3432",
+  "peakPcm": 24301,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

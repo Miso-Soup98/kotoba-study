@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-114",
+  "exampleIndex": 0,
+  "text": "電話で説明して済みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 177,
+  "signature": "18318c4ddcf4e5a0a8bfae0599bf047286cbba49c3bd0e4517ea2d275fd3d3d5",
+  "src": "/audio/voices/nanami/N3-114-1.mp3",
+  "srt": "/audio/voices/nanami/N3-114-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "c449d466e48f22bc75b09838613c7ac6c045f92dc7f805721e409ac8ee51abdb",
+  "peakPcm": 24502,
+  "rmsDbfs": -18.38,
+  "rate": "+0%",
+  "listened": false
+}

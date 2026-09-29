@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-063",
+  "exampleIndex": 0,
+  "text": "長く住んでいるだけあって、この町に詳しいですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 245,
+  "signature": "30f34e803990c3108962fe70eb7b573853e73ae3b41597e15e0946798dc6167e",
+  "src": "/audio/voices/keita/N2-063-1.mp3",
+  "srt": "/audio/voices/keita/N2-063-1.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "8fe8feef4b654560a72737febeafc3afb7d2c82988f788fd7b66060111195704",
+  "peakPcm": 25308,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

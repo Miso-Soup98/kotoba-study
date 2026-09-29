@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-182",
+  "exampleIndex": 0,
+  "text": "短い小説を一気に読みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 305,
+  "signature": "550dd8e8fc92b9e07a08864c9d0059220c082805d1ec99c0c9e04972b143a647",
+  "src": "/audio/voices/keita/N2-182-1.mp3",
+  "srt": "/audio/voices/keita/N2-182-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "dcb61a36e82f50f3790159116e26e15b7e99e928369a1bb5532cb8bd0fbc6775",
+  "peakPcm": 18886,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

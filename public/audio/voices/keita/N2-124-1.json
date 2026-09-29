@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-124",
+  "exampleIndex": 0,
+  "text": "皆で協力しようではありませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 276,
+  "signature": "b5762ced84184afcfe9f1a00c5416464734d2a250b8e9f0f79483f4c6cc559b0",
+  "src": "/audio/voices/keita/N2-124-1.mp3",
+  "srt": "/audio/voices/keita/N2-124-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "b4d5a3fe8d64c21a99299f80ed27d3004d325f55589bff0bc4c5a54bae730705",
+  "peakPcm": 22997,
+  "rmsDbfs": -19.39,
+  "rate": "+0%",
+  "listened": false
+}

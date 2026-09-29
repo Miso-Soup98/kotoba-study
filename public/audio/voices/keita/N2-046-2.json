@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-046",
+  "exampleIndex": 1,
+  "text": "高ければ安心というものではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 236,
+  "signature": "b6d566ab7076df29452e28669c2e77e2c68676ac8960e4c121446212ee3517d3",
+  "src": "/audio/voices/keita/N2-046-2.mp3",
+  "srt": "/audio/voices/keita/N2-046-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "cf355d46ab4184280a5669b5f7fefd54aab79a20b02089626c0ffeb910167c5a",
+  "peakPcm": 22566,
+  "rmsDbfs": -21.04,
+  "rate": "+0%",
+  "listened": false
+}

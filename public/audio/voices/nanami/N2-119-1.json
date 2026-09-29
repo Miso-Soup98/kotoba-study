@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-119",
+  "exampleIndex": 0,
+  "text": "彼は休むことなく働きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 273,
+  "signature": "b0ac3cb2655cbc51e18ed2fe81ee453c849694e2ec82f84252c44b0977194150",
+  "src": "/audio/voices/nanami/N2-119-1.mp3",
+  "srt": "/audio/voices/nanami/N2-119-1.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "4078405aaba84ea2dfeb559716c9b784cf5aea69aa1d7e4a923d3273052419c2",
+  "peakPcm": 21400,
+  "rmsDbfs": -18.41,
+  "rate": "+0%",
+  "listened": false
+}

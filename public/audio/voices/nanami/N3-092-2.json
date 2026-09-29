@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-092",
+  "exampleIndex": 1,
+  "text": "薬を飲みさえすれば、必ず治るとは限りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 166,
+  "signature": "44d9b3b4bf4f6a457f73ea1171f320e0aa8de812a4bf0404caa01e91e4aacb71",
+  "src": "/audio/voices/nanami/N3-092-2.mp3",
+  "srt": "/audio/voices/nanami/N3-092-2.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "c84dd0a4b5e02f56e70d2b09ce7bb52e236cd234db149c1bd8245cc5acebe72f",
+  "peakPcm": 21526,
+  "rmsDbfs": -17.53,
+  "rate": "+0%",
+  "listened": false
+}

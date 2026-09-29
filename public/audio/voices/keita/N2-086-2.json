@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-086",
+  "exampleIndex": 1,
+  "text": "私の経験からすれば、まだ改善できます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 257,
+  "signature": "b9fc98c4f3825b8060a86a30d1d9b415858e7b8e5c3b2ea8976f8a5ffd579414",
+  "src": "/audio/voices/keita/N2-086-2.mp3",
+  "srt": "/audio/voices/keita/N2-086-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "79cb00ac6d56d2be56b63859703bd778464371570d5caa72c7fc01f4ce2e4bc6",
+  "peakPcm": 25046,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

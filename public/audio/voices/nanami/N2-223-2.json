@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-223",
+  "exampleIndex": 1,
+  "text": "休みの日は、思うように時間を使えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 326,
+  "signature": "eff459526a84a0edfc99c070bbe7f32875fcbb03ef8e8c08c73c1e82878cf22d",
+  "src": "/audio/voices/nanami/N2-223-2.mp3",
+  "srt": "/audio/voices/nanami/N2-223-2.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "bb062cf88fe1a46c6d4610b3c5691d3de7278a1282b7b6dd5b3132314567ff67",
+  "peakPcm": 21950,
+  "rmsDbfs": -17.16,
+  "rate": "+0%",
+  "listened": false
+}

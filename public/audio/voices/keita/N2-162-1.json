@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-162",
+  "exampleIndex": 0,
+  "text": "彼は計画を変える気がありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 295,
+  "signature": "eb4a6302218c1ac3bb7643ecb6a7871327d3cad5a0d714872e972316ce09c55e",
+  "src": "/audio/voices/keita/N2-162-1.mp3",
+  "srt": "/audio/voices/keita/N2-162-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "0109ee4f00d56bab7f2810f703cb81f9e6791af9cd3631b1201dff2edb7dcd9e",
+  "peakPcm": 21970,
+  "rmsDbfs": -20.87,
+  "rate": "+0%",
+  "listened": false
+}

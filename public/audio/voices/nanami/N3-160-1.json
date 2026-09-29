@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-160",
+  "exampleIndex": 0,
+  "text": "もしかしたら、道を間違えたかもしれません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 200,
+  "signature": "5509ccb38273a10b40aaeebb5db3ee8f1a77cbfe0e4b227775b7394c67bab32d",
+  "src": "/audio/voices/nanami/N3-160-1.mp3",
+  "srt": "/audio/voices/nanami/N3-160-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "45fd17286af42666acef147fcd36d4d794e368b68641653823e36410c4eda88b",
+  "peakPcm": 21441,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

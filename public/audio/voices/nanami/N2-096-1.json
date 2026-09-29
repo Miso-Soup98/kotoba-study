@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-096",
+  "exampleIndex": 0,
+  "text": "値段はともかく、使いやすさを重視します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 262,
+  "signature": "efdecb0050db309494f7de5f18feba24437d6ccd6f5874962a761a1605bcdc72",
+  "src": "/audio/voices/nanami/N2-096-1.mp3",
+  "srt": "/audio/voices/nanami/N2-096-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "01e69d91241498d0bdda3770f6e7049b5280a1f9f645084d31e02a4d30a23b29",
+  "peakPcm": 22379,
+  "rmsDbfs": -18.1,
+  "rate": "+0%",
+  "listened": false
+}

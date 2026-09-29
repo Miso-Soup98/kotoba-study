@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-026",
+  "exampleIndex": 0,
+  "text": "この署名は本人のものに相違ありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 226,
+  "signature": "7be9025f0e2cf48bffa1f4d4ebfa6614a154bbfa5a86bac2ed46df47d99f701f",
+  "src": "/audio/voices/nanami/N2-026-1.mp3",
+  "srt": "/audio/voices/nanami/N2-026-1.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "0d68c0b8a2f224a1b6c4f2f8e5f19fa22c8ec09bf37c8abef0483c34fcc0f05b",
+  "peakPcm": 19980,
+  "rmsDbfs": -17.27,
+  "rate": "+0%",
+  "listened": false
+}

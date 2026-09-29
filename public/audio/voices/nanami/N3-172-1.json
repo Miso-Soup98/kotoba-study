@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-172",
+  "exampleIndex": 0,
+  "text": "この町が好きです。なぜなら、静かだからです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 206,
+  "signature": "c1a5505141e5112f158ec24f73941986ebeddc6cd7779889c567f621a046f2b6",
+  "src": "/audio/voices/nanami/N3-172-1.mp3",
+  "srt": "/audio/voices/nanami/N3-172-1.srt",
+  "durationSeconds": 5.112,
+  "bytes": 30672,
+  "sha256": "09bdd43814e0eed92c266443755b6299e4e1354d375ac12778e4d2d422da835a",
+  "peakPcm": 21642,
+  "rmsDbfs": -18.83,
+  "rate": "+0%",
+  "listened": false
+}

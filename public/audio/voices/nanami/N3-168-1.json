@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-168",
+  "exampleIndex": 0,
+  "text": "しばらくここで待ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 204,
+  "signature": "6a3bb28952149396cea96a3cde9628e9523e38da64312ab04c5019cc06d89c25",
+  "src": "/audio/voices/nanami/N3-168-1.mp3",
+  "srt": "/audio/voices/nanami/N3-168-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "7d656d56d961c6566ba1a4d84705664dd87076ea4054b3e40c0199c8000a79ea",
+  "peakPcm": 22208,
+  "rmsDbfs": -18.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-020",
+  "exampleIndex": 1,
+  "text": "会社の信用にかかわるので、慎重に対応します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 223,
+  "signature": "206e69dee9d3337bae2c32c8883e12af022c4b43094dce989c09e6fb9ab54658",
+  "src": "/audio/voices/keita/N2-020-2.mp3",
+  "srt": "/audio/voices/keita/N2-020-2.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "1748b1304dc7b2a617f9a49dea30697d0076cb2b4937ac86bab69dbe20a22bb4",
+  "peakPcm": 23225,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

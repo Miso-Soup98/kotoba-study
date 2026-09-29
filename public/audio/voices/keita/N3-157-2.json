@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-157",
+  "exampleIndex": 1,
+  "text": "その知らせは、あまりに突然でした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 199,
+  "signature": "451cf459db6f3e0f76b2b69202fe4f5e5d8f7a297abfe6aa5f752b09e9c0d506",
+  "src": "/audio/voices/keita/N3-157-2.mp3",
+  "srt": "/audio/voices/keita/N3-157-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "6445e9102fd2a79c92fea1ad6194b046df0c5ae5fe50bd6a45917c41a14d7e78",
+  "peakPcm": 26409,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

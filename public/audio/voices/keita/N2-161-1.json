@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-161",
+  "exampleIndex": 0,
+  "text": "準備は私に任せてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 294,
+  "signature": "138f10a87237b0268c53c1294cd7e274a9e5967e82ac0a43aadc8363ef657ab1",
+  "src": "/audio/voices/keita/N2-161-1.mp3",
+  "srt": "/audio/voices/keita/N2-161-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "4d9ee9799b1f6ea0ac7aee06d4ba0d68fb5affda230ffdb9ebf45456da5fe2b1",
+  "peakPcm": 21825,
+  "rmsDbfs": -21.31,
+  "rate": "+0%",
+  "listened": false
+}

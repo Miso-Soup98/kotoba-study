@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-050",
+  "exampleIndex": 1,
+  "text": "準備ができ次第、出発します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 238,
+  "signature": "abc4ce53eb3e2b1473f546b5ef97a35928569e9b39d9fbfa710cb1618e56ac23",
+  "src": "/audio/voices/keita/N2-050-2.mp3",
+  "srt": "/audio/voices/keita/N2-050-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "6c4b007fc7230dddcab41af1986908a29d5536a63f20116a6d2a2779d52ad860",
+  "peakPcm": 23623,
+  "rmsDbfs": -22.51,
+  "rate": "+0%",
+  "listened": false
+}

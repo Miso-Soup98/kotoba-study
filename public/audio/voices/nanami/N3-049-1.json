@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-049",
+  "exampleIndex": 0,
+  "text": "明日の結果が気になって仕方がありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 145,
+  "signature": "54c5bce7fe666a8e1cb596e3221b3477754d4b532c779751dc361467e47903ae",
+  "src": "/audio/voices/nanami/N3-049-1.mp3",
+  "srt": "/audio/voices/nanami/N3-049-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "4400b151117798acdd1a89923b3c5de01626b37f82b8c5fbe658541de33b2ff0",
+  "peakPcm": 20567,
+  "rmsDbfs": -18.01,
+  "rate": "+0%",
+  "listened": false
+}

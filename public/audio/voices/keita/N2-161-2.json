@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-161",
+  "exampleIndex": 1,
+  "text": "最後の判断は本人に任せます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 294,
+  "signature": "d005a30f8511a0a4198b8020364a3856944fa1179663284a82f207c68c98e9c0",
+  "src": "/audio/voices/keita/N2-161-2.mp3",
+  "srt": "/audio/voices/keita/N2-161-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "fa13da5bfc0ed9b57c2ef90670bd9437c9dd12472822ca9cb6faaeb3f840d763",
+  "peakPcm": 21868,
+  "rmsDbfs": -20.81,
+  "rate": "+0%",
+  "listened": false
+}

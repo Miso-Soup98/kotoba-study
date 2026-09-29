@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-088",
+  "exampleIndex": 1,
+  "text": "南向きの部屋に住んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 164,
+  "signature": "870c266cf572998ad664b43e99d955968e3fffd916431da93dc0d17a1a897313",
+  "src": "/audio/voices/nanami/N3-088-2.mp3",
+  "srt": "/audio/voices/nanami/N3-088-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "ab72903e31f21964316d8109190c1f474bebc40932521c9f45dd5e1e9e1d8746",
+  "peakPcm": 20210,
+  "rmsDbfs": -19.0,
+  "rate": "+0%",
+  "listened": false
+}

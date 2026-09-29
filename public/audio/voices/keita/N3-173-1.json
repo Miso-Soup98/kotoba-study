@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-173",
+  "exampleIndex": 0,
+  "text": "道が混んでいました。そのため、遅れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 207,
+  "signature": "959d9277826c397fd037f7580ca4c3dfcbacbdf75e416edb42a15fb1c237fb0d",
+  "src": "/audio/voices/keita/N3-173-1.mp3",
+  "srt": "/audio/voices/keita/N3-173-1.srt",
+  "durationSeconds": 4.656,
+  "bytes": 27936,
+  "sha256": "db4feb78c05a07aeafc91b504c19b34b2f7c634f568a26b197459be0554941d8",
+  "peakPcm": 22705,
+  "rmsDbfs": -21.05,
+  "rate": "+0%",
+  "listened": false
+}

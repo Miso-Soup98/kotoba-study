@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-141",
+  "exampleIndex": 1,
+  "text": "明日は雨が降りませんように。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 191,
+  "signature": "fb1af1145857572bf9098bd62630f4c268145b5207b1ba7e488c9ece5b047687",
+  "src": "/audio/voices/keita/N3-141-2.mp3",
+  "srt": "/audio/voices/keita/N3-141-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "07afa57e031373f6448e92220bced5f866a701a7a2d4068f50df20593ba585b2",
+  "peakPcm": 22240,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

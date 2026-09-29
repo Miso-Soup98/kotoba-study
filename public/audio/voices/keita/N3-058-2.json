@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-058",
+  "exampleIndex": 1,
+  "text": "最近、運動不足気味です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 149,
+  "signature": "ab37d7545555e1aa2955c29804b695e2eb257e4fe7e6ec00b2b583e8ddcaa1dd",
+  "src": "/audio/voices/keita/N3-058-2.mp3",
+  "srt": "/audio/voices/keita/N3-058-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "5964a4e0dc01573ab86184ca0abb251adc8e6dfa8cba227ed79900dfb0696577",
+  "peakPcm": 24831,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

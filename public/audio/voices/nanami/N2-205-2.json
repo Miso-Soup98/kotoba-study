@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-205",
+  "exampleIndex": 1,
+  "text": "先生だって、間違えることがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 317,
+  "signature": "a3b528fc00621edafaa53808427b86e71e3fde22180bcf64570de0412c47e448",
+  "src": "/audio/voices/nanami/N2-205-2.mp3",
+  "srt": "/audio/voices/nanami/N2-205-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "102780f2654ed846a93040f5eef40428b14ab138a66ff52918e9fb1311083d9f",
+  "peakPcm": 21206,
+  "rmsDbfs": -18.19,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-048",
+  "exampleIndex": 0,
+  "text": "電車がないので、歩くしかありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 144,
+  "signature": "b045916d2033fcd6bc02f95ac29130ce42ab3ffb996592d1eca82580ccb42cd8",
+  "src": "/audio/voices/keita/N3-048-1.mp3",
+  "srt": "/audio/voices/keita/N3-048-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "cb32f616d76a6bc430a2ff7636cc58ba8f679032ccc1d2d3724ab30ac7ce3d86",
+  "peakPcm": 25240,
+  "rmsDbfs": -21.17,
+  "rate": "+0%",
+  "listened": false
+}

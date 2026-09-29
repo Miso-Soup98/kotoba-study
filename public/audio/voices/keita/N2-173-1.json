@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-173",
+  "exampleIndex": 0,
+  "text": "せめて名前だけでも教えてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 301,
+  "signature": "29ab76d2e919fb6f969a3aa3d1f697b4b0906fcc8e8e4d50472f3d9d9438d5c4",
+  "src": "/audio/voices/keita/N2-173-1.mp3",
+  "srt": "/audio/voices/keita/N2-173-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "242514c71c82496591aa3b7b313a80466da59fceb7a6c0e3d08ae8028988cc24",
+  "peakPcm": 24153,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

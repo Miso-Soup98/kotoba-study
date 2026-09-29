@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-080",
+  "exampleIndex": 0,
+  "text": "会議に先立って、資料を配りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 254,
+  "signature": "b3f50d6ad1d055ef5ebea0cf8fa1aa3ce254f3c3aa3948a0d04a67b4f497b709",
+  "src": "/audio/voices/keita/N2-080-1.mp3",
+  "srt": "/audio/voices/keita/N2-080-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "5a488fe6749db68696a3682459f28f7af7f287664793865294f9fa8a9375b8dc",
+  "peakPcm": 22669,
+  "rmsDbfs": -20.95,
+  "rate": "+0%",
+  "listened": false
+}

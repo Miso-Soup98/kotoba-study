@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-148",
+  "exampleIndex": 0,
+  "text": "長い工事がついに終わりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 194,
+  "signature": "d1e53e26cbefcc7028d2209415a0506b2afe198fe071e4a862761a4e42457429",
+  "src": "/audio/voices/keita/N3-148-1.mp3",
+  "srt": "/audio/voices/keita/N3-148-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "b9efedcd7787cf678c4c0d1195f3f857a67b292fb02e4ed1b408cc616b2d47af",
+  "peakPcm": 23517,
+  "rmsDbfs": -20.7,
+  "rate": "+0%",
+  "listened": false
+}

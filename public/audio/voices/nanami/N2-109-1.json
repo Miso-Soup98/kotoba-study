@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-109",
+  "exampleIndex": 0,
+  "text": "お忙しい中を来てくださり、ありがとうございます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 268,
+  "signature": "6aad7923bb4631bd50e92330be2219b05454e90af3d62a1fd9a00767b1615433",
+  "src": "/audio/voices/nanami/N2-109-1.mp3",
+  "srt": "/audio/voices/nanami/N2-109-1.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "0060d71f4272e816ed81b536d13eb5f6c1799a8726cee44e12c2059e1c69682d",
+  "peakPcm": 21310,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

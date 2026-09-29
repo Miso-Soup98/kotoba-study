@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-042",
+  "exampleIndex": 1,
+  "text": "代われるものなら、私が代わってあげたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 234,
+  "signature": "0e650ec85a9de29e1ae42d60b03d147cbb805f4653fcb22995f247a4aed14e87",
+  "src": "/audio/voices/nanami/N2-042-2.mp3",
+  "srt": "/audio/voices/nanami/N2-042-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "47ee6c7a518fed9f79c75e65bb6b34a306fcab944dd600331e07943bba6a648b",
+  "peakPcm": 21708,
+  "rmsDbfs": -17.04,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-182",
+  "exampleIndex": 1,
+  "text": "計画的に勉強しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 211,
+  "signature": "a4d601adb56df85544894627f22575a21b0317f1be531b7401424f1dd1d63a07",
+  "src": "/audio/voices/nanami/N3-182-2.mp3",
+  "srt": "/audio/voices/nanami/N3-182-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "4e9978ccd635730dc7ada9c7211303f91b1c54ed7dba88427acd458178f3b19b",
+  "peakPcm": 20699,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

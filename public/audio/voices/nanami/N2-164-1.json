@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-164",
+  "exampleIndex": 0,
+  "text": "寝不足のせいか、頭が重いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 296,
+  "signature": "db15bb27c2a5a75c63557ab394a43fe6f1815dc77f789e13cbec6a30097337f0",
+  "src": "/audio/voices/nanami/N2-164-1.mp3",
+  "srt": "/audio/voices/nanami/N2-164-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "c331d08800ecab13c62125b1197ed6dd3cd7d9497f93b146b392e5f2c7b74877",
+  "peakPcm": 21614,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

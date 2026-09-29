@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-188",
+  "exampleIndex": 1,
+  "text": "もう少しで財布を忘れるところでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 308,
+  "signature": "aa87e9e1c6bea61046e68f73bce49785c839d5e5f4ac2069173443af00a7d580",
+  "src": "/audio/voices/keita/N2-188-2.mp3",
+  "srt": "/audio/voices/keita/N2-188-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "8cd91917d43b0490ac87e3dd25bc0fd50306a0715d3b203309ad6887ef0d17eb",
+  "peakPcm": 20637,
+  "rmsDbfs": -21.17,
+  "rate": "+0%",
+  "listened": false
+}

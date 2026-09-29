@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-163",
+  "exampleIndex": 0,
+  "text": "せっかく来たのに、店は休みでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 296,
+  "signature": "147a97c4b5eda04e1c6870e5082b18d510961fff6e670413f3b2173bd0e76900",
+  "src": "/audio/voices/keita/N2-163-1.mp3",
+  "srt": "/audio/voices/keita/N2-163-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "2f6625ddbb2d7cc9eba41f8a393167ea3f7caaba7aa9a06938fa5244d56647a1",
+  "peakPcm": 23865,
+  "rmsDbfs": -21.66,
+  "rate": "+0%",
+  "listened": false
+}

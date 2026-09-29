@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-089",
+  "exampleIndex": 0,
+  "text": "声が出ないほど笑いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 165,
+  "signature": "504e2c45f48b6d96d32afd09145e18b8ea83715a4a97e4ecbbc56f5db5ac61f9",
+  "src": "/audio/voices/keita/N3-089-1.mp3",
+  "srt": "/audio/voices/keita/N3-089-1.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "6d2a262d891411806f4db0e4a8a188df500537d2defed57f51883e7ceba00921",
+  "peakPcm": 21706,
+  "rmsDbfs": -21.04,
+  "rate": "+0%",
+  "listened": false
+}

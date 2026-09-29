@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-139",
+  "exampleIndex": 0,
+  "text": "こんなふうに書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 283,
+  "signature": "c3ac6a72df870c3f7a7b27b0851c0a74ffce2c4bc030bbf56aa3f8f43a6b269c",
+  "src": "/audio/voices/nanami/N2-139-1.mp3",
+  "srt": "/audio/voices/nanami/N2-139-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "6d8a2b69dd77d0ded435dfc1c34cfe99cd939dcf570cf79b1fa87aa713d0b43d",
+  "peakPcm": 22639,
+  "rmsDbfs": -18.67,
+  "rate": "+0%",
+  "listened": false
+}

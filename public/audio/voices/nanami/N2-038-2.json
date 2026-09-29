@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-038",
+  "exampleIndex": 1,
+  "text": "見た目だけで判断するものではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 232,
+  "signature": "1f7fa0bd5fd12fbacf665ee22fdff734d0b4b81f68d348eaffff393c095e936c",
+  "src": "/audio/voices/nanami/N2-038-2.mp3",
+  "srt": "/audio/voices/nanami/N2-038-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "d90d05b10c8e275483550660b2697d479e67212cf1d0e2a756bb7b85d4845282",
+  "peakPcm": 21441,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

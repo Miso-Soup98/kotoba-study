@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-019",
+  "exampleIndex": 1,
+  "text": "約束したので、行かないわけにはいきません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 130,
+  "signature": "6716e2984ac55c6ae808aa6b654b7555f573e96e1e41f2f1ebb0c455750112b0",
+  "src": "/audio/voices/nanami/N3-019-2.mp3",
+  "srt": "/audio/voices/nanami/N3-019-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "4b5f73aca30cf9d160e393e5bdae33cd5324a5432786b4a8c21debaeb98ec9e0",
+  "peakPcm": 23029,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

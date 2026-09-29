@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-105",
+  "exampleIndex": 1,
+  "text": "この石は宝石のように見えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 173,
+  "signature": "0eafc29a4d8503a05cfa8708b2dad7680973f25e6c86c8a7ba737a9dfe7a97ff",
+  "src": "/audio/voices/keita/N3-105-2.mp3",
+  "srt": "/audio/voices/keita/N3-105-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "717a18678f6f6e18c6440615c89d39bfa400330e8af643812cac97b004c8d807",
+  "peakPcm": 23046,
+  "rmsDbfs": -19.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-084",
+  "exampleIndex": 1,
+  "text": "使いやすさから言えば、この道具がおすすめです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 256,
+  "signature": "53a6aae1a11273c07ae2dc9179edc2ccb92195c9d7661dd49d9a2dd7053580ee",
+  "src": "/audio/voices/keita/N2-084-2.mp3",
+  "srt": "/audio/voices/keita/N2-084-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "2543c76bd17ff648db06489cc51ce0c7b0debb5a20bc25c107b448d733b9a70f",
+  "peakPcm": 24121,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

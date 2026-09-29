@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-157",
+  "exampleIndex": 0,
+  "text": "説明があまりにも速くて、分かりませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 199,
+  "signature": "b3fea3764d02d7e98a1d4c62b5675307762397e10b72bd5b91314c02776d4780",
+  "src": "/audio/voices/keita/N3-157-1.mp3",
+  "srt": "/audio/voices/keita/N3-157-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "f4e7de48b45d6bc807e2c5a7aaf2eb6e77ec38b20bb55c07b3e1987721dcfa4f",
+  "peakPcm": 22729,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-077",
+  "exampleIndex": 0,
+  "text": "実際に使ってこそ、言葉は身につきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 252,
+  "signature": "2ed263cc830a5106c6615c7fa6115aea68f4a112752766821cb90c3602251a5f",
+  "src": "/audio/voices/keita/N2-077-1.mp3",
+  "srt": "/audio/voices/keita/N2-077-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "841c5453c5e04ae48ca065880836217b0f579ade0f2eacb3442051740da9d36b",
+  "peakPcm": 24754,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

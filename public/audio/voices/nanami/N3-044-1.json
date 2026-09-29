@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-044",
+  "exampleIndex": 0,
+  "text": "この店は安いだけでなく、味もいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 142,
+  "signature": "f9cb8c1a9fd3143e50fc3efff36256825f44ef150c2a679250fb6938e50d2f44",
+  "src": "/audio/voices/nanami/N3-044-1.mp3",
+  "srt": "/audio/voices/nanami/N3-044-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "8f3b69bacdf92fb8aee36e47d38f03b6d9183a4c1d4c295f760a36663e1c3656",
+  "peakPcm": 22679,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

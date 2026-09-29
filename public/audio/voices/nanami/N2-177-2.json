@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-177",
+  "exampleIndex": 1,
+  "text": "二つの結果は全く違いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 303,
+  "signature": "fb73d3ecadba550e9a8b596a75003380eac98e3f4a57f13aad5980e49847bab8",
+  "src": "/audio/voices/nanami/N2-177-2.mp3",
+  "srt": "/audio/voices/nanami/N2-177-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "a1b36ef82c440065d3bec66e3ca8fb8984097caa877db0f2544a1028a2ee49c0",
+  "peakPcm": 23093,
+  "rmsDbfs": -18.3,
+  "rate": "+0%",
+  "listened": false
+}

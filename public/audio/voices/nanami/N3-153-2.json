@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-153",
+  "exampleIndex": 1,
+  "text": "この町では雪がめったに降りません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 197,
+  "signature": "1355606e049c174e82c306cd8413d98eb7a17b682ee804fa3c31812a85be8618",
+  "src": "/audio/voices/nanami/N3-153-2.mp3",
+  "srt": "/audio/voices/nanami/N3-153-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "a223c900b733438e2481ab9e9d5098346c8562e3dec45375b4fc69617e26489b",
+  "peakPcm": 21067,
+  "rmsDbfs": -16.96,
+  "rate": "+0%",
+  "listened": false
+}

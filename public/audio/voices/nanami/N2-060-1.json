@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-060",
+  "exampleIndex": 0,
+  "text": "少しずつ状況が変わりつつあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 243,
+  "signature": "c5448cfe7494baf254b548404e2e49c6dd5e3d5cdbc9b2ee0e9cb9804b2a0b32",
+  "src": "/audio/voices/nanami/N2-060-1.mp3",
+  "srt": "/audio/voices/nanami/N2-060-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "fb5d396f60ad75656090db636537be5c5fcd2fda1c331dbf2f9a1e0ec4562202",
+  "peakPcm": 21627,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

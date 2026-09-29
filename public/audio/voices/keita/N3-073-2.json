@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-073",
+  "exampleIndex": 1,
+  "text": "昨日は一日中、雨でした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 157,
+  "signature": "e2a74e00db75339cfc7de20b8d296306173943fe3aeffb12087608550c2fc3db",
+  "src": "/audio/voices/keita/N3-073-2.mp3",
+  "srt": "/audio/voices/keita/N3-073-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "9f1c908595c163c59d6a6faeddca334578fc1d2b3ba40d94c9b840fde8e44145",
+  "peakPcm": 23339,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

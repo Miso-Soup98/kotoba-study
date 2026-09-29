@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-156",
+  "exampleIndex": 0,
+  "text": "この料理はなかなかおいしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 198,
+  "signature": "205343ad28f7353709c9ed4be134f7c38c7269c9340e3e5e52a5390ee7b4a849",
+  "src": "/audio/voices/nanami/N3-156-1.mp3",
+  "srt": "/audio/voices/nanami/N3-156-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "00c3fd48be45cbac65cd2861da6f99ef8e9fd13946609580203b5a31d5ecef90",
+  "peakPcm": 21283,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

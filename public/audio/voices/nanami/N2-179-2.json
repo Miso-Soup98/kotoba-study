@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-179",
+  "exampleIndex": 1,
+  "text": "その意見には少しも賛成できません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 304,
+  "signature": "1a111945d0f04f21066058aef48343b1863d84ad26a7e5df7c6636c12019f57a",
+  "src": "/audio/voices/nanami/N2-179-2.mp3",
+  "srt": "/audio/voices/nanami/N2-179-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "c23f9f0eb21e5a53bd8b15ceaa101c534558905b5bf61d946644b3a2350f7ded",
+  "peakPcm": 20975,
+  "rmsDbfs": -17.37,
+  "rate": "+0%",
+  "listened": false
+}

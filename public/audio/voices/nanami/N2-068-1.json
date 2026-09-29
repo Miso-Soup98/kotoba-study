@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-068",
+  "exampleIndex": 0,
+  "text": "仕事が忙しくて、旅行どころではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 247,
+  "signature": "3fada78fa103d97549fc75bc22931b3e6ca7c6642120216bc7f21c4cbbf373a5",
+  "src": "/audio/voices/nanami/N2-068-1.mp3",
+  "srt": "/audio/voices/nanami/N2-068-1.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "aca2b379d535d57ab8a73595fa4ac7e86384c7762eecf14c6982ea231d46ad98",
+  "peakPcm": 21021,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

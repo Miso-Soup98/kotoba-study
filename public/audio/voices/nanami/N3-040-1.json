@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-040",
+  "exampleIndex": 0,
+  "text": "料理ができるといっても、簡単な物だけです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 140,
+  "signature": "6d549f896404c573ef473593c92a8feb5143fdbc56ccd127b3ae53d4036614ad",
+  "src": "/audio/voices/nanami/N3-040-1.mp3",
+  "srt": "/audio/voices/nanami/N3-040-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "7cd9ed06db42047060e9b2d3fde2fd9fe8c083b457f4ec0576504c87114dfe58",
+  "peakPcm": 19714,
+  "rmsDbfs": -17.5,
+  "rate": "+0%",
+  "listened": false
+}

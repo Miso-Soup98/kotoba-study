@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-120",
+  "exampleIndex": 0,
+  "text": "驚いたことに、全員が合格しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 274,
+  "signature": "0cf12180ad28d58a1a25a0e2396c2f31f7f5e6e67f7f0ee4b8ff8f8301c5e4c7",
+  "src": "/audio/voices/nanami/N2-120-1.mp3",
+  "srt": "/audio/voices/nanami/N2-120-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "84e2060c19ee390285a6e4addf948b8547a7e886fef1374fbaa59c54e16a2ee0",
+  "peakPcm": 21628,
+  "rmsDbfs": -17.5,
+  "rate": "+0%",
+  "listened": false
+}

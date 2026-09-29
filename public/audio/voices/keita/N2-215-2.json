@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-215",
+  "exampleIndex": 1,
+  "text": "たった一度の失敗で、やめないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 322,
+  "signature": "a39d69c962c165d2aa21b5fd0ce26643af29d7d5c107977865b7b8f1702fa3d9",
+  "src": "/audio/voices/keita/N2-215-2.mp3",
+  "srt": "/audio/voices/keita/N2-215-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "39d75ff03601816f5d482ee199041a490c0eb2b3ce678dc1c13d2df39542b06e",
+  "peakPcm": 22234,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

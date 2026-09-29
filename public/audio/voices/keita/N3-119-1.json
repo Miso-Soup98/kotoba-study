@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-119",
+  "exampleIndex": 0,
+  "text": "家族とともに、新しい町へ移りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 180,
+  "signature": "683d69db73073a962c20a1f8c3d3a7dd5185d37d479dbc5fd59ea579a2e8ae3b",
+  "src": "/audio/voices/keita/N3-119-1.mp3",
+  "srt": "/audio/voices/keita/N3-119-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "2c936726eb3e5c62bdb9d50d09c7084ef2f07f27ff73ce404287779e5ab2e804",
+  "peakPcm": 25999,
+  "rmsDbfs": -21.06,
+  "rate": "+0%",
+  "listened": false
+}

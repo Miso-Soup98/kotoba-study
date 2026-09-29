@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-058",
+  "exampleIndex": 1,
+  "text": "最近、運動不足気味です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 149,
+  "signature": "67a32c320dde7ba7d2a3877069f5827887397bcd23a817ff6489c998020cda61",
+  "src": "/audio/voices/nanami/N3-058-2.mp3",
+  "srt": "/audio/voices/nanami/N3-058-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "5bc5be9aada2ddfbc8e140492e9e416a0a3c7771210d197b681e9494e356c82d",
+  "peakPcm": 22080,
+  "rmsDbfs": -17.89,
+  "rate": "+0%",
+  "listened": false
+}

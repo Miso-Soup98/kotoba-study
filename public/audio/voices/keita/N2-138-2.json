@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-138",
+  "exampleIndex": 1,
+  "text": "皆が参加できるというふうに考えていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 283,
+  "signature": "1a233abdc531d3b3ee57f2864dfb366847edd5804c65efe3bda54f039f492375",
+  "src": "/audio/voices/keita/N2-138-2.mp3",
+  "srt": "/audio/voices/keita/N2-138-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "9dda9629a4b79ebdb427c5c09d55cb356b9b32a1ab6ac35b2b065a05d2e5504f",
+  "peakPcm": 21307,
+  "rmsDbfs": -20.34,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-191",
+  "exampleIndex": 0,
+  "text": "受付は九時からです。なお、予約は必要ありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 310,
+  "signature": "112db3240b831d228746bf425c54440e1d4af4224c2b8f375db95d01088054f8",
+  "src": "/audio/voices/nanami/N2-191-1.mp3",
+  "srt": "/audio/voices/nanami/N2-191-1.srt",
+  "durationSeconds": 6.024,
+  "bytes": 36144,
+  "sha256": "73717b3feb9883565e70467caf8ccc008359192ed180012eb458b889fe82a8d7",
+  "peakPcm": 20851,
+  "rmsDbfs": -17.78,
+  "rate": "+0%",
+  "listened": false
+}

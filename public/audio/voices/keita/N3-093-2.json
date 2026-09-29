@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-093",
+  "exampleIndex": 1,
+  "text": "今度こそ、最後まで読みます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 167,
+  "signature": "c7da9c696452066a07488a6ce6a1c099b655e1e68fd7f2ce85516785a5f21039",
+  "src": "/audio/voices/keita/N3-093-2.mp3",
+  "srt": "/audio/voices/keita/N3-093-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "206e8462ecc14d635d5f1879bdafc6365da092b2baa861dd0bbb30b520070abd",
+  "peakPcm": 22865,
+  "rmsDbfs": -20.82,
+  "rate": "+0%",
+  "listened": false
+}

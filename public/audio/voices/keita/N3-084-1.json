@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-084",
+  "exampleIndex": 0,
+  "text": "予想に反して、試験は簡単でした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 162,
+  "signature": "f6bcd9e7a19b7ef2f8fc815adfe39a1e13e0933309c3e4896a2633f5ddc79507",
+  "src": "/audio/voices/keita/N3-084-1.mp3",
+  "srt": "/audio/voices/keita/N3-084-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "fc6e135301232c6b8f238061d700f1fc2805221424e9a55c4e2fb062021c13ce",
+  "peakPcm": 24848,
+  "rmsDbfs": -20.0,
+  "rate": "+0%",
+  "listened": false
+}

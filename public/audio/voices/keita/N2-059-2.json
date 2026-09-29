@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-059",
+  "exampleIndex": 1,
+  "text": "悪いと知りつつも、約束を破ってしまいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 243,
+  "signature": "dfa54e182ca5b935adf4991fed38b29e40e69c3d94fe542c9f70dc821273d23f",
+  "src": "/audio/voices/keita/N2-059-2.mp3",
+  "srt": "/audio/voices/keita/N2-059-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "9e47be150193f4680a92fbd81c5dd742948959840d8ff490c729f64966848be8",
+  "peakPcm": 24213,
+  "rmsDbfs": -21.29,
+  "rate": "+0%",
+  "listened": false
+}

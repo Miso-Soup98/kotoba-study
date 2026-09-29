@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-105",
+  "exampleIndex": 0,
+  "text": "最後まで走り抜きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 266,
+  "signature": "44726f1f6252d212944bf07eaa28bb78a960844cf33b05f7b7204424b86585b2",
+  "src": "/audio/voices/keita/N2-105-1.mp3",
+  "srt": "/audio/voices/keita/N2-105-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "3234a960d0248291f7d220bcff60ed361542bea4db9069ffdc692a8393696b43",
+  "peakPcm": 22072,
+  "rmsDbfs": -21.16,
+  "rate": "+0%",
+  "listened": false
+}

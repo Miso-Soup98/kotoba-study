@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-165",
+  "exampleIndex": 1,
+  "text": "彼は一体どこへ行ったのでしょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 203,
+  "signature": "8ace07883252d92c711aca612849f54ee44c5e1a41d7b10aafac40393e0b9c11",
+  "src": "/audio/voices/nanami/N3-165-2.mp3",
+  "srt": "/audio/voices/nanami/N3-165-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "e0f11c83f16d1323824b6c8c3367f5034f5a7390fe71e3f5460ae8a43ef4af21",
+  "peakPcm": 20580,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

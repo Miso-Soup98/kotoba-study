@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-185",
+  "exampleIndex": 1,
+  "text": "小さな変化が、やがて大きな差になります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 307,
+  "signature": "d012c569254d2bd7c627dc464a78f6e68eec767f75ced8d5dd81e0aac728e5ec",
+  "src": "/audio/voices/nanami/N2-185-2.mp3",
+  "srt": "/audio/voices/nanami/N2-185-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "e4a65bda6cd541d15c48a2f155c7875e1e3bd220fcf0a5b5d56f9226057cc629",
+  "peakPcm": 21024,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

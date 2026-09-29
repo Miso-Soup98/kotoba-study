@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-202",
+  "exampleIndex": 1,
+  "text": "あるいは、彼はもう帰ったのかもしれません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 315,
+  "signature": "104b313776536760aaa984750b3de3dc9dae5f7c593457e929d8bc6dfd5e31c2",
+  "src": "/audio/voices/keita/N2-202-2.mp3",
+  "srt": "/audio/voices/keita/N2-202-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "7d436a2f9674de1b67e569c2374b62e395d5fc8b776bd2adbeff54eb3246146a",
+  "peakPcm": 25643,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

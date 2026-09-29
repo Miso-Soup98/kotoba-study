@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-090",
+  "exampleIndex": 1,
+  "text": "買うにしても借りるにしても、お金が必要です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 259,
+  "signature": "7fc953f4932b2a28b0d11d8de3104479073d713a7529068a8bc85ca699d39b13",
+  "src": "/audio/voices/nanami/N2-090-2.mp3",
+  "srt": "/audio/voices/nanami/N2-090-2.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "15fa86138283bae55e5600c85d1a008357472f05fee020c0f2518c7ddfb13d0f",
+  "peakPcm": 20291,
+  "rmsDbfs": -17.69,
+  "rate": "+0%",
+  "listened": false
+}

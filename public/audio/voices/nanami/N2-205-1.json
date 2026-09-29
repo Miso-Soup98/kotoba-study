@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-205",
+  "exampleIndex": 0,
+  "text": "だって、誰も教えてくれなかったんです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 317,
+  "signature": "27d2d0db9d89c6e2595137d9b8d1e937b9487cf7ce90bee64593987a535979ea",
+  "src": "/audio/voices/nanami/N2-205-1.mp3",
+  "srt": "/audio/voices/nanami/N2-205-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "51737d927d364fec49605b9e194695e767e91e37ee83d8d31e5745f7df3a3fa9",
+  "peakPcm": 21741,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

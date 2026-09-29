@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-180",
+  "exampleIndex": 1,
+  "text": "説明をろくに読まずに、始めてしまいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 304,
+  "signature": "baef5f8c9913bd8ebe29707e47204228ca8cc1c553b40ecf99a85af2de69c716",
+  "src": "/audio/voices/nanami/N2-180-2.mp3",
+  "srt": "/audio/voices/nanami/N2-180-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "2fffa72d3fb376efd1e24aa25afdf35fb4bec914b454a76a6d410145e6b5c717",
+  "peakPcm": 21786,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

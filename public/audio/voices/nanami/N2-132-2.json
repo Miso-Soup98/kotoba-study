@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-132",
+  "exampleIndex": 1,
+  "text": "子供は楽しげに話していました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 280,
+  "signature": "42355cf99f6ceea442b188990f4dab160c4fe42545ae45097538c909f530965c",
+  "src": "/audio/voices/nanami/N2-132-2.mp3",
+  "srt": "/audio/voices/nanami/N2-132-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "7271f481980387dc465ff95355247c9a31f6ce725ee719ce467eb373ef31a70e",
+  "peakPcm": 20686,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-037",
+  "exampleIndex": 1,
+  "text": "これだけ練習したのだから、上達したに違いない。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 139,
+  "signature": "961bd63139e893cf3630622767ed94e15185598feda57e117313c432680e7780",
+  "src": "/audio/voices/nanami/N3-037-2.mp3",
+  "srt": "/audio/voices/nanami/N3-037-2.srt",
+  "durationSeconds": 4.584,
+  "bytes": 27504,
+  "sha256": "196177a1b0a2def63249ccceaf3e77566891650c29489a4bc6b9dcacd0ae77ed",
+  "peakPcm": 21236,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

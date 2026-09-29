@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-146",
+  "exampleIndex": 1,
+  "text": "試験に向けて、毎日復習しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 287,
+  "signature": "fc3ff21afd8441006a1f99cf6033e01aba3b7d21bc60b32f0e4a3a352ffd3447",
+  "src": "/audio/voices/nanami/N2-146-2.mp3",
+  "srt": "/audio/voices/nanami/N2-146-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "3b16058b96a134ee8643e59679e8558e126529fa729c69ec3e0b092203634894",
+  "peakPcm": 19924,
+  "rmsDbfs": -17.88,
+  "rate": "+0%",
+  "listened": false
+}

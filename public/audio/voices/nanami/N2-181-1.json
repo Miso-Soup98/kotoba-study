@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-181",
+  "exampleIndex": 0,
+  "text": "いきなり難しい質問をされました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 305,
+  "signature": "aa78a7fe156431f729a6268deeef49305ed2ca4bd197d0c7c37fb64efdbfdea8",
+  "src": "/audio/voices/nanami/N2-181-1.mp3",
+  "srt": "/audio/voices/nanami/N2-181-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "4ad6ad87987d9a2e32aaadb58f683681200561e4d15bcf20fdf94a5ca9adfd6d",
+  "peakPcm": 21054,
+  "rmsDbfs": -18.55,
+  "rate": "+0%",
+  "listened": false
+}

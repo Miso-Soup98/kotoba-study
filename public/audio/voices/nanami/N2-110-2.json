@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-110",
+  "exampleIndex": 1,
+  "text": "同じ条件の下で、比較しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 269,
+  "signature": "0d6d0ece862c58da96f0e0a7e18a3e443fb5b8b3ae76829a3e68c71f26d8006f",
+  "src": "/audio/voices/nanami/N2-110-2.mp3",
+  "srt": "/audio/voices/nanami/N2-110-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "17bace0688e0d89eb630805ff979022793d6df8f6502f0819d91b022bc3fdfde",
+  "peakPcm": 20769,
+  "rmsDbfs": -18.88,
+  "rate": "+0%",
+  "listened": false
+}

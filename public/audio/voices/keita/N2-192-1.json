@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-192",
+  "exampleIndex": 0,
+  "text": "参加は自由です。もっとも、予約は必要ですが。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 310,
+  "signature": "50d9c774fba0ac3b9cb78f4efea6e9f939dda8fbf8c54dc26e7184784c5fe22d",
+  "src": "/audio/voices/keita/N2-192-1.mp3",
+  "srt": "/audio/voices/keita/N2-192-1.srt",
+  "durationSeconds": 5.232,
+  "bytes": 31392,
+  "sha256": "1c57def5cfe674014e42ed45aca81df90bccb220f3c00dc094f00c86049b5996",
+  "peakPcm": 24863,
+  "rmsDbfs": -21.09,
+  "rate": "+0%",
+  "listened": false
+}

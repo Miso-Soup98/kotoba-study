@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-120",
+  "exampleIndex": 0,
+  "text": "驚いたことに、全員が合格しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 274,
+  "signature": "d9c2531eeba671bb5d98608c3859cd032642e626fbb0770e85d74f46b3060734",
+  "src": "/audio/voices/keita/N2-120-1.mp3",
+  "srt": "/audio/voices/keita/N2-120-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "e7faf73e9fd4496327cb0d16cdc12be39a00396bd25fc76de2ec3decec74d1c7",
+  "peakPcm": 24088,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

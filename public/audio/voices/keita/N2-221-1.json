@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-221",
+  "exampleIndex": 0,
+  "text": "必要な書類がありません。したがって、申請はできません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 325,
+  "signature": "a917aa341fbf09cf9822650f692b55b971fc482c701e8641011efe075c225da6",
+  "src": "/audio/voices/keita/N2-221-1.mp3",
+  "srt": "/audio/voices/keita/N2-221-1.srt",
+  "durationSeconds": 5.736,
+  "bytes": 34416,
+  "sha256": "2093af40986d29fc0d8ec237f37a3f4c9dd242aac30f5d74952f639aeafb12bb",
+  "peakPcm": 26045,
+  "rmsDbfs": -20.56,
+  "rate": "+0%",
+  "listened": false
+}

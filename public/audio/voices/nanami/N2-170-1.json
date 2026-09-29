@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-170",
+  "exampleIndex": 0,
+  "text": "一応、予約を確認しておきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 299,
+  "signature": "65093f137e8ec481d38c8fb89c8875ee66a9028e7740b0125cf5aa4798c018a6",
+  "src": "/audio/voices/nanami/N2-170-1.mp3",
+  "srt": "/audio/voices/nanami/N2-170-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "7effea8b5615a1b716dc0257a574b95feb9e8c64f9bcfd0a60d9f1efdce5785b",
+  "peakPcm": 21330,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

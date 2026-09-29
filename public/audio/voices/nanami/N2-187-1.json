@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-187",
+  "exampleIndex": 0,
+  "text": "宿題はとっくに終わっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 308,
+  "signature": "3f81bebcbd1d7a2a1f994d18a529c84dc4a330b81d97b212d8d3dddc1a97b377",
+  "src": "/audio/voices/nanami/N2-187-1.mp3",
+  "srt": "/audio/voices/nanami/N2-187-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "b167877695c4fb81172d41dd578ace9a3728b5429f6e1ccc323d672d928ebcd8",
+  "peakPcm": 22594,
+  "rmsDbfs": -17.3,
+  "rate": "+0%",
+  "listened": false
+}

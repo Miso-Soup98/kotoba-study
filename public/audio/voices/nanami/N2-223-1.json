@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-223",
+  "exampleIndex": 0,
+  "text": "仕事が思うように進みません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 326,
+  "signature": "7c8434126cedc3d77a487cd72c3f6126f414b410c1fb633a64d169f828ed8de7",
+  "src": "/audio/voices/nanami/N2-223-1.mp3",
+  "srt": "/audio/voices/nanami/N2-223-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "1f7d3bc0d91178e169cb07dd9d867586a55f5f159fb96b83a6c3c8388b2a3fcb",
+  "peakPcm": 22696,
+  "rmsDbfs": -16.97,
+  "rate": "+0%",
+  "listened": false
+}

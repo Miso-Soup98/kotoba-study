@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-024",
+  "exampleIndex": 1,
+  "text": "続けているのは、この仕事が好きだからにほかなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 225,
+  "signature": "b94eb237b5a4208cde61644a71e5a75bb0ac2043008bfbfc712531e86cd80fe3",
+  "src": "/audio/voices/nanami/N2-024-2.mp3",
+  "srt": "/audio/voices/nanami/N2-024-2.srt",
+  "durationSeconds": 4.824,
+  "bytes": 28944,
+  "sha256": "19909aa5504f4861761551286d1a80b2b77e8137d9a357efff9d55129575145e",
+  "peakPcm": 21580,
+  "rmsDbfs": -17.36,
+  "rate": "+0%",
+  "listened": false
+}

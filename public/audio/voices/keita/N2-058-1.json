@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-058",
+  "exampleIndex": 0,
+  "text": "家を出ると同時に、雨が降り始めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 242,
+  "signature": "0ad56f5993776ecbad9f1922152092056c2b5a437c63beb7326b9da5b60683e6",
+  "src": "/audio/voices/keita/N2-058-1.mp3",
+  "srt": "/audio/voices/keita/N2-058-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "569777647c5357e23f06728a41792c05a1cae63f2c9b7c75a162b0cdb0b2e308",
+  "peakPcm": 24385,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

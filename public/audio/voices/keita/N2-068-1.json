@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-068",
+  "exampleIndex": 0,
+  "text": "仕事が忙しくて、旅行どころではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 247,
+  "signature": "d1a011ab8adb9896cca5dadcaed74f717e9c9afbe4a15f8c082cc0b0631bd933",
+  "src": "/audio/voices/keita/N2-068-1.mp3",
+  "srt": "/audio/voices/keita/N2-068-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "4f2bcad3547be126a1706cc957ba6916f53a18ee7954ccd9f3dcd7b35045f37c",
+  "peakPcm": 24103,
+  "rmsDbfs": -19.99,
+  "rate": "+0%",
+  "listened": false
+}

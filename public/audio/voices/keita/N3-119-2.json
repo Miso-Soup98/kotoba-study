@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-119",
+  "exampleIndex": 1,
+  "text": "気温が下がるとともに、風も強くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 180,
+  "signature": "794f1b232621a9bc9911d72ee143efa50d7e3a276bddf122767d432892acd806",
+  "src": "/audio/voices/keita/N3-119-2.mp3",
+  "srt": "/audio/voices/keita/N3-119-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "b4c636bf07b97d24765da1ce61f24cb6cb91bed08ed868040a9ac54996f41d75",
+  "peakPcm": 23674,
+  "rmsDbfs": -19.67,
+  "rate": "+0%",
+  "listened": false
+}

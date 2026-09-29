@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-079",
+  "exampleIndex": 1,
+  "text": "文法を中心に復習しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 160,
+  "signature": "fa5f7546f46c3bf240cef8bbbdde93dbfbb02e1e7aa10773506ad97979f1aed2",
+  "src": "/audio/voices/keita/N3-079-2.mp3",
+  "srt": "/audio/voices/keita/N3-079-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "ba44989eeea17cca4a58c75788468c443b8f7da70e998ce218d582a7cbca2d61",
+  "peakPcm": 18904,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

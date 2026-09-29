@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-107",
+  "exampleIndex": 1,
+  "text": "徹夜までして、準備してくれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 267,
+  "signature": "246bdc4ecd163851f2c3b860797679710bab63307efe18acdf7a409dcad9916d",
+  "src": "/audio/voices/nanami/N2-107-2.mp3",
+  "srt": "/audio/voices/nanami/N2-107-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "de4141058ad355bf51a6a45027f4bf7257f91d9ce2072fb139f0e14e3d533662",
+  "peakPcm": 20745,
+  "rmsDbfs": -18.62,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-032",
+  "exampleIndex": 1,
+  "text": "修理できたので、買い直さなくて済みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 229,
+  "signature": "9ac5aeba686220413214ffbeb7ef5946926042aad6124886c8d1b02158dfd43a",
+  "src": "/audio/voices/nanami/N2-032-2.mp3",
+  "srt": "/audio/voices/nanami/N2-032-2.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "277b0ad126989a3ff19196c0663ef100b4320fb3c91e6180b22d4c7db1264cd5",
+  "peakPcm": 20806,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

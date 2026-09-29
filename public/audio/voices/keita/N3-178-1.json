@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-178",
+  "exampleIndex": 0,
+  "text": "参加費は不要です。すなわち、無料です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 209,
+  "signature": "df34559dac68ad4f50fba36ed1bf80447ecd2130e73c3683c206e889c07cb07c",
+  "src": "/audio/voices/keita/N3-178-1.mp3",
+  "srt": "/audio/voices/keita/N3-178-1.srt",
+  "durationSeconds": 4.872,
+  "bytes": 29232,
+  "sha256": "fcf7951e864f994d8d2e115671f995fcb44e49acfec0275a71c51b8b338bbf20",
+  "peakPcm": 24225,
+  "rmsDbfs": -21.67,
+  "rate": "+0%",
+  "listened": false
+}

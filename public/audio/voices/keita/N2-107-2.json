@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-107",
+  "exampleIndex": 1,
+  "text": "徹夜までして、準備してくれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 267,
+  "signature": "a1e6c2bce9ffe8367d8cfbf50089d07b9cb8e8e21620782f704ee262be176b21",
+  "src": "/audio/voices/keita/N2-107-2.mp3",
+  "srt": "/audio/voices/keita/N2-107-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "456cd48232e1168ada734a8fd36cff9c96863718d634d5770ee165c59e83b4fb",
+  "peakPcm": 21072,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

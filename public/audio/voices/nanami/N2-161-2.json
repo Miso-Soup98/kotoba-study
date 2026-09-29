@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-161",
+  "exampleIndex": 1,
+  "text": "最後の判断は本人に任せます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 294,
+  "signature": "ca0b58725d5d67ed0ae196f01774c98c97b32f84b4ff5985c85d0725337a4e0f",
+  "src": "/audio/voices/nanami/N2-161-2.mp3",
+  "srt": "/audio/voices/nanami/N2-161-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "1dd3c2b0f33df1acb03c1a9b58e241b2bec85e09f0f8b50e69e9ae9224a73683",
+  "peakPcm": 20580,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

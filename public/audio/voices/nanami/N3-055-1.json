@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-055",
+  "exampleIndex": 0,
+  "text": "悪いと知りながらも、うそをついてしまいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 148,
+  "signature": "45c0c8fe1d43ea9a50d61abd6c97600cbf406f08ffeda8bd33898ed0bfdaee2f",
+  "src": "/audio/voices/nanami/N3-055-1.mp3",
+  "srt": "/audio/voices/nanami/N3-055-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "c3839902dea0dbf67b37264e6032d7317a4fe2a0e5a529eafeec7863672aa764",
+  "peakPcm": 21149,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

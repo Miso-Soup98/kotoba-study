@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-140",
+  "exampleIndex": 0,
+  "text": "この変化は気温の影響だと考えられます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 284,
+  "signature": "3f5013a2b4ecf1f342d3eda26f8170f1a8cb43f1f6994d7b0fac0a5e1007e20c",
+  "src": "/audio/voices/nanami/N2-140-1.mp3",
+  "srt": "/audio/voices/nanami/N2-140-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "fc596a227eb36f8b3a42bea999719b2a7822a194b29516b240c9357fb0666094",
+  "peakPcm": 20840,
+  "rmsDbfs": -17.02,
+  "rate": "+0%",
+  "listened": false
+}

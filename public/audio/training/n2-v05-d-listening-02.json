@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-d-listening-02",
+  "exampleIndex": 0,
+  "text": "いつもは昼にパンを食べますが、今日は温かいものが食べたいです。食堂に来たら、カレーはもうありませんでした。うどんとラーメンはまだあるそうです。昨日ラーメンを食べたので、今日はうどんにします。食べた後で、売店で明日の朝のパンを買うつもりです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "d29ee8463e3ac689b638e32d67a8a6b0e4b91fe0ce37a22259296bbfdc34d385",
+  "src": "/audio/training/n2-v05-d-listening-02.mp3",
+  "srt": "/audio/training/n2-v05-d-listening-02.srt",
+  "durationSeconds": 22.464,
+  "bytes": 134784,
+  "sha256": "dae238bacda1a8f8ab7ab374c71201dcbb2d342a752c0847774ccbea64a78a01",
+  "peakPcm": 22550,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

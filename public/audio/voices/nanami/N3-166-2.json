@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-166",
+  "exampleIndex": 1,
+  "text": "参加者は百人はいると思います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 203,
+  "signature": "a5c54304e25a90648fe56ce413841a838455c77519b2273a345319ce0d75ac11",
+  "src": "/audio/voices/nanami/N3-166-2.mp3",
+  "srt": "/audio/voices/nanami/N3-166-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "fa7693dfaeee27299edfa2e51122a58ecdb76fe503fd0d25d9e53e0bbd2cc1c2",
+  "peakPcm": 22390,
+  "rmsDbfs": -17.57,
+  "rate": "+0%",
+  "listened": false
+}

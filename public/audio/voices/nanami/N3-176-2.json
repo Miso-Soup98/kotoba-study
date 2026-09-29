@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-176",
+  "exampleIndex": 1,
+  "text": "今日出しますか、それとも明日にしますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 208,
+  "signature": "66dfe3a6ee2db9a2d070a124a6a3baf2605106f5d8f3ef68e540ea9daa27c635",
+  "src": "/audio/voices/nanami/N3-176-2.mp3",
+  "srt": "/audio/voices/nanami/N3-176-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "e637d4d343a35385913b0d7332530ca9e1ab74c63b7b4d3ddf972e7e79bcb9cc",
+  "peakPcm": 21203,
+  "rmsDbfs": -18.25,
+  "rate": "+0%",
+  "listened": false
+}

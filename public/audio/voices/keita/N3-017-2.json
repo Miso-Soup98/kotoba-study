@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-017",
+  "exampleIndex": 1,
+  "text": "行きたくないわけではありません。時間がないんです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 129,
+  "signature": "c041012d23ad84c91d1f6337e55d06aca3dc8960d98470ced0d502d876a23044",
+  "src": "/audio/voices/keita/N3-017-2.mp3",
+  "srt": "/audio/voices/keita/N3-017-2.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "4f7b9b6693cc7d1f9a896e1f1c1625a6d3aa888fe12068aeb4aecde623c8eebf",
+  "peakPcm": 25194,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

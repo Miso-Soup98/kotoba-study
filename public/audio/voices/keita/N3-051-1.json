@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-051",
+  "exampleIndex": 0,
+  "text": "ここに座っても構いませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 146,
+  "signature": "32e302a9b4dc1af854a5bd1cdfc01311741612042b58f2dc6cc3faa1d3b72229",
+  "src": "/audio/voices/keita/N3-051-1.mp3",
+  "srt": "/audio/voices/keita/N3-051-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "2fe39152ebf8f30dd841bd3553bd12d34e5eb6e51602364d89a990ef6548aefe",
+  "peakPcm": 23161,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

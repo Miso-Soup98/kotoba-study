@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-210",
+  "exampleIndex": 0,
+  "text": "あの言葉の意味が未だに分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 319,
+  "signature": "270c5771e7afd1d3a71ac2eb2b24134936e306a54b06398f95a620b802169f4d",
+  "src": "/audio/voices/keita/N2-210-1.mp3",
+  "srt": "/audio/voices/keita/N2-210-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "d68af45c4139ab2b1b75aeb973247e5043d2adf5b3ccf3f122e12c4108d47e71",
+  "peakPcm": 20264,
+  "rmsDbfs": -20.76,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-162",
+  "exampleIndex": 1,
+  "text": "最後まで続ける気でいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 295,
+  "signature": "003d47cc8940f5f2b0a63e968e5e8eec0432ca7bdf9d03254ab11100167fa465",
+  "src": "/audio/voices/keita/N2-162-2.mp3",
+  "srt": "/audio/voices/keita/N2-162-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "36ddc1aac6fba39172c4228aef3676582b2554d36ab909a58d350a5422249535",
+  "peakPcm": 23287,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

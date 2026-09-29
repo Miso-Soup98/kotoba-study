@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-160",
+  "exampleIndex": 0,
+  "text": "帰りがけに、本を返しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 294,
+  "signature": "1de0682805d6d2cd948f32e895500507ccde63e6f13563dfaaf855408011b3df",
+  "src": "/audio/voices/nanami/N2-160-1.mp3",
+  "srt": "/audio/voices/nanami/N2-160-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "9c25e05539d9d2fe17b46cf4d62f886c3f0aa708abdcc6fad6993dd4237b443d",
+  "peakPcm": 21492,
+  "rmsDbfs": -18.18,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-087",
+  "exampleIndex": 0,
+  "text": "この店は入口からして、おしゃれです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 257,
+  "signature": "5fb6eb059331269623f4188e5200f79468f3ea6f37a935a55eb4257286256977",
+  "src": "/audio/voices/nanami/N2-087-1.mp3",
+  "srt": "/audio/voices/nanami/N2-087-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "f69b5b1150746c6ff3b0d6ae63442abbe75dbeb7072f9eb871f2e055da45e701",
+  "peakPcm": 21140,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

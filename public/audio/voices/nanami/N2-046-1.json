@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-046",
+  "exampleIndex": 0,
+  "text": "長く勉強すればよいというものではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 236,
+  "signature": "dfd871051477dcc0c9dd924b8094d8bfd1de33c113e8c1274dedbd5c3d6bf1bb",
+  "src": "/audio/voices/nanami/N2-046-1.mp3",
+  "srt": "/audio/voices/nanami/N2-046-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "9d50459fd2bbf20639fa1141d0d78bd213d83e9102a2ae1f90dc802678aec3ff",
+  "peakPcm": 20978,
+  "rmsDbfs": -16.77,
+  "rate": "+0%",
+  "listened": false
+}

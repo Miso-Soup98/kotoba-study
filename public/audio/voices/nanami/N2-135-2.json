@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-135",
+  "exampleIndex": 1,
+  "text": "一日で全部覚えられっこないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 281,
+  "signature": "37c345f54a20ab87ba9c462953f983508549430269597f7d127e03361fa0a6a4",
+  "src": "/audio/voices/nanami/N2-135-2.mp3",
+  "srt": "/audio/voices/nanami/N2-135-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "5dfa26be9495401c78e1e45cb7d08257ba18d28a04169c080e711650ac98ad7f",
+  "peakPcm": 21819,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

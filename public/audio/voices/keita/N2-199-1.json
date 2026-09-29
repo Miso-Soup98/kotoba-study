@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-199",
+  "exampleIndex": 0,
+  "text": "そう言えば、昨日田中さんに会いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 314,
+  "signature": "c94ba2fc248c8929915c4b2c41a3054b21e5b1a2cddfb63c700502e1d237aea8",
+  "src": "/audio/voices/keita/N2-199-1.mp3",
+  "srt": "/audio/voices/keita/N2-199-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "ae525025c0f4b483e59f7bb752b9902b34b073d31e06206f2f397dd494ff576d",
+  "peakPcm": 22852,
+  "rmsDbfs": -19.81,
+  "rate": "+0%",
+  "listened": false
+}

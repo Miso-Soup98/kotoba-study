@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-091",
+  "exampleIndex": 1,
+  "text": "親にさえ話していません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 166,
+  "signature": "62cbb632d901683b406dda64a8fcd022e692e2a332b3356a646234cdf229b03a",
+  "src": "/audio/voices/nanami/N3-091-2.mp3",
+  "srt": "/audio/voices/nanami/N3-091-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "41f54b7872a05421978a568a2a223c4ab4c28fcfd32695b8765609965990ba5a",
+  "peakPcm": 21560,
+  "rmsDbfs": -18.22,
+  "rate": "+0%",
+  "listened": false
+}

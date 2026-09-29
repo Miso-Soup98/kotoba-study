@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-204",
+  "exampleIndex": 0,
+  "text": "日曜日以外は、毎日働いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 316,
+  "signature": "93d3b7badf3d2a8f0c52ae693b226dbb8abf3c438fe0d39d25786548a05bb9a6",
+  "src": "/audio/voices/nanami/N2-204-1.mp3",
+  "srt": "/audio/voices/nanami/N2-204-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "8797f6f2f8ce197cb46352778baf9b457d94ca536a61a7d098b6f4a8ac959383",
+  "peakPcm": 20893,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

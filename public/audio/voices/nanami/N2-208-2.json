@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-208",
+  "exampleIndex": 1,
+  "text": "万が一に備えて、水を置いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 318,
+  "signature": "c7e8953de9606180dbda555329cfe0c68b3139f5ebc0cf73bd6b51ea2a1bb105",
+  "src": "/audio/voices/nanami/N2-208-2.mp3",
+  "srt": "/audio/voices/nanami/N2-208-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "a457c00f127eef80dbe2677f974aab0e191e63e6bd31c9b1b8eaa45e44fcaed7",
+  "peakPcm": 21593,
+  "rmsDbfs": -16.59,
+  "rate": "+0%",
+  "listened": false
+}

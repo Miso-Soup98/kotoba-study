@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-108",
+  "exampleIndex": 1,
+  "text": "成功するかどうかは別として、やってみます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 174,
+  "signature": "e72e06d1afb68fbe7a9afe761780f060d50d7849b652a215e15f4df97fb82344",
+  "src": "/audio/voices/keita/N3-108-2.mp3",
+  "srt": "/audio/voices/keita/N3-108-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "0568335c1b6d9a04ceae978d2a6830bdf9c13493e9a69cb12f306c9b714f0a4a",
+  "peakPcm": 23716,
+  "rmsDbfs": -20.77,
+  "rate": "+0%",
+  "listened": false
+}

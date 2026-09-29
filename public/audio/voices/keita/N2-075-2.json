@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-075",
+  "exampleIndex": 1,
+  "text": "人を待っていては、何も始まりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 251,
+  "signature": "7cb4b1c853b9270888865cbe1b8d8ddfe406e0d827650831f872c0ccf8023c22",
+  "src": "/audio/voices/keita/N2-075-2.mp3",
+  "srt": "/audio/voices/keita/N2-075-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "0d2b9236b262e91168ba14a96ddb143cf676aa851b0e8cf2042c6539f9b7c5f0",
+  "peakPcm": 26070,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

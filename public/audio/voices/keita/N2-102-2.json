@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-102",
+  "exampleIndex": 1,
+  "text": "負けましたが、けがをしなかっただけましでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 265,
+  "signature": "0b41694978a35bbb34a66a1b731c4e7c9c52a2de6ec6067ff8f4b7835b87071e",
+  "src": "/audio/voices/keita/N2-102-2.mp3",
+  "srt": "/audio/voices/keita/N2-102-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "9d4339538ae67bb695c4b2546eeeb00315e6d19e654772ccd82afbe96c4609d3",
+  "peakPcm": 25697,
+  "rmsDbfs": -21.34,
+  "rate": "+0%",
+  "listened": false
+}

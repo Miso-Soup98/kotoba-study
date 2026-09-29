@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-072",
+  "exampleIndex": 0,
+  "text": "暑くてたまりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 249,
+  "signature": "a89286631e7d23354bebe421e3f4f7bbdd9038452760df3ac63fbebf12568496",
+  "src": "/audio/voices/nanami/N2-072-1.mp3",
+  "srt": "/audio/voices/nanami/N2-072-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "427af216c42b21be8c990e6f5f5ecc40bbcf1c5b956685f4948c487274fac952",
+  "peakPcm": 21344,
+  "rmsDbfs": -19.1,
+  "rate": "+0%",
+  "listened": false
+}

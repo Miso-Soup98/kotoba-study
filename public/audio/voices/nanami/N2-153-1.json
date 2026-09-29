@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-153",
+  "exampleIndex": 0,
+  "text": "冬は運動が減る傾向があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 290,
+  "signature": "0a113410c23fd461f3baf6d3019020aa420e840ec6a88b711b1fc76b61f3e43e",
+  "src": "/audio/voices/nanami/N2-153-1.mp3",
+  "srt": "/audio/voices/nanami/N2-153-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "3f56cf5064bb320461ba85fade6a8d20c10962cede2dcbb3f1b7def4c9d03244",
+  "peakPcm": 21750,
+  "rmsDbfs": -16.98,
+  "rate": "+0%",
+  "listened": false
+}

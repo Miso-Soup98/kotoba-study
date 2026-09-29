@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-035",
+  "exampleIndex": 0,
+  "text": "約束した以上は、守らなければなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 231,
+  "signature": "8c9510ca5fef9b29026413c0b8e17d70df800c4fb53a6976ba6552345131a866",
+  "src": "/audio/voices/keita/N2-035-1.mp3",
+  "srt": "/audio/voices/keita/N2-035-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "47d74cf81bb6d91fc57f32805019007f36fb8275e411d17b88df350e0cde79a1",
+  "peakPcm": 21945,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -75,7 +75,7 @@ export function Training({ study, entries, onGrammar, onStartAudio }: {
   }, [session?.id, session?.deadline, ended]);
   const stats = useMemo(() => trainingSummary(study.model.practice), [study.model.practice]);
   const latestDiagnostic = sessions.find(s => s.contentVersion === QUESTION_SET_VERSION && s.mode === "diagnostic" && sessionAnswers(s, study.model.practice).length === 24);
-  const advice = latestDiagnostic ? diagnosticAdvice(questions, sessionAnswers(latestDiagnostic, study.model.practice)) : null;
+  const advice = latestDiagnostic && questions.length ? diagnosticAdvice(questions, sessionAnswers(latestDiagnostic, study.model.practice)) : null;
   async function start(mode: PracticeAttempt["mode"]) {
     if (saving.current) return;
     saving.current = true; setBusy(true);
@@ -124,13 +124,13 @@ export function Training({ study, entries, onGrammar, onStartAudio }: {
     if (index + 1 >= queue.length) { void finish("finished"); return; }
     setIndex(i => i + 1); setChoice(null); setShowText(false); startedAt.current = Date.now();
   }
-  if (error) return <section className="panel"><p role="alert">{error}</p>
-    <button className="primary" onClick={() => setRetry(x => x + 1)}>重新加载</button></section>;
   if (session && queue.length !== session.questionIds.length) return <section className="panel">
-    <p>{archiveError || "这组题目的内容还未完整加载。进度已保留。"}</p>
+    <p role="status">{(session.contentVersion === QUESTION_SET_VERSION ? error : archiveError) || "这组题目的内容还未完整加载。进度已保留。"}</p>
     <button className="secondary" onClick={() => setRetry(v => v + 1)}>重新加载题库</button>
     <button className="secondary" onClick={() => setActiveId(null)}>返回学习路线</button></section>;
   return <div className="training-workspace">
+    {error && <section className="panel"><p role="alert">{error} 每周课程和已保存的训练记录仍可查看。</p>
+      <button className="secondary" onClick={() => setRetry(x => x + 1)}>重新加载当前题库</button></section>}
     <div className="page-heading"><div><div className="eyebrow">N2 · 学习与训练</div>
       <h1>{session ? modeLabels[session.mode] : "从今天，学到 N2。"}</h1>
       <p>{session ? "提交的答案会保存，离开后可继续。" : "先找准起点，再按周学习，把薄弱项练明白。"}</p>

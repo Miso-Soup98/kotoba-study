@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-139",
+  "exampleIndex": 1,
+  "text": "一日で全部終わったなんて、すごいですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 190,
+  "signature": "ce90853e5dfe60692e61f073a95b154f03ea5297ac16fd154f108295c8f834ba",
+  "src": "/audio/voices/nanami/N3-139-2.mp3",
+  "srt": "/audio/voices/nanami/N3-139-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "7294257094bb9d551c485e90c5b4aa2170c8e52c63ac4af1cdc2a839a58c8f26",
+  "peakPcm": 21137,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

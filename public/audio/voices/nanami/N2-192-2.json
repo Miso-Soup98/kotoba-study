@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-192",
+  "exampleIndex": 1,
+  "text": "歩いて行けます。もっとも、少し遠いですが。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 310,
+  "signature": "f3e986951bed194bdd56891d8f94f97d4c38a1c0d14b6c0b2450df6ece1b2ff0",
+  "src": "/audio/voices/nanami/N2-192-2.mp3",
+  "srt": "/audio/voices/nanami/N2-192-2.srt",
+  "durationSeconds": 5.064,
+  "bytes": 30384,
+  "sha256": "30ccb0027d5a404b2cc9e1ae4ec802b913efa0abbd1e92454f36633a93e8d0bb",
+  "peakPcm": 21033,
+  "rmsDbfs": -17.79,
+  "rate": "+0%",
+  "listened": false
+}

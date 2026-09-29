@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-082",
+  "exampleIndex": 0,
+  "text": "感謝を込めて、手紙を書きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 161,
+  "signature": "1c6d02c2a4e92deb11d8e42b3f39b1ee990f7773bf38d1e720356f4fceec2f73",
+  "src": "/audio/voices/keita/N3-082-1.mp3",
+  "srt": "/audio/voices/keita/N3-082-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "52fd493ba0db909f0d75bdebb7b3185bf961d5067068bd7ae565cef7621ea6cf",
+  "peakPcm": 25717,
+  "rmsDbfs": -21.01,
+  "rate": "+0%",
+  "listened": false
+}

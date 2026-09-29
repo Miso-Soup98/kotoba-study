@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-157",
+  "exampleIndex": 0,
+  "text": "説明があまりにも速くて、分かりませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 199,
+  "signature": "f7f0bdea36f494c1cb36811c354114b0a3ab49f5a1d4c84c26d2a0065fdf32ee",
+  "src": "/audio/voices/nanami/N3-157-1.mp3",
+  "srt": "/audio/voices/nanami/N3-157-1.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "6fe72fc0c3b2d75e7ee9c26d212483c7633f0abbba94a60e213948cb05872c04",
+  "peakPcm": 19799,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

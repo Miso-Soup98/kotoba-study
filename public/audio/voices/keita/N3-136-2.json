@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-136",
+  "exampleIndex": 1,
+  "text": "明日は休みなんだって。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 188,
+  "signature": "e355b9336421705f427ef9f10a05c462ed53c6143627a8be1db39dc875632c0f",
+  "src": "/audio/voices/keita/N3-136-2.mp3",
+  "srt": "/audio/voices/keita/N3-136-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "7f61612d92764dc58e9bc907a44cd698e29304a9164c9c09e7761228615a34ac",
+  "peakPcm": 22724,
+  "rmsDbfs": -21.23,
+  "rate": "+0%",
+  "listened": false
+}

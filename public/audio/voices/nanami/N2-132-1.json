@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-132",
+  "exampleIndex": 0,
+  "text": "彼女は不安げな顔をしていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 280,
+  "signature": "e2ddc6f3abb4dcb2b69739f7b556d8e14e19683c8fbc4d320db948bbfd9f19d5",
+  "src": "/audio/voices/nanami/N2-132-1.mp3",
+  "srt": "/audio/voices/nanami/N2-132-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "6f96825b5f9f857d0a46002c0d1e9497f25c4132d21f5bddc3017543eb72cb6a",
+  "peakPcm": 21297,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-159",
+  "exampleIndex": 0,
+  "text": "まさか今日が締め切りだとは思いませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 200,
+  "signature": "fce18d858f1a0e5f9f7997600a49f87f6448b1ae83adef0c3bcfe388896dffa8",
+  "src": "/audio/voices/keita/N3-159-1.mp3",
+  "srt": "/audio/voices/keita/N3-159-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "436aeccd4146ef8b058a404e3eebb5618b3fdcb01112f738b876c0ed5e5ec492",
+  "peakPcm": 23137,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-023",
+  "exampleIndex": 0,
+  "text": "この建物では、たばこを吸わないことになっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 132,
+  "signature": "1ced52598bcf3542fa078e2aecbea4179c35ebd3368831ef56f2fdc56de4495c",
+  "src": "/audio/voices/nanami/N3-023-1.mp3",
+  "srt": "/audio/voices/nanami/N3-023-1.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "2d3590d1b38435f4af8e77de4ed71e6ab4745475ac8ad8f6a2ed6e964f186685",
+  "peakPcm": 20984,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

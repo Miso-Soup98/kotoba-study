@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-108",
+  "exampleIndex": 1,
+  "text": "人目もかまわず、泣きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 268,
+  "signature": "7b754be3d731928db5e957999f7c6e58ed47bae4026ed06e07595ea162aed321",
+  "src": "/audio/voices/keita/N2-108-2.mp3",
+  "srt": "/audio/voices/keita/N2-108-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "43a26ac053538a7a468043f4e306b1c951ec94fa565986bee4e2f19fbc726405",
+  "peakPcm": 22630,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

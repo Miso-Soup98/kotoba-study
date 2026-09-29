@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-168",
+  "exampleIndex": 1,
+  "text": "説明を足したら、かえって分かりにくくなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 298,
+  "signature": "eb9ae2257976dea437a3c4d84c008ec8a73a9d8f33d0603a3279de6257899b34",
+  "src": "/audio/voices/nanami/N2-168-2.mp3",
+  "srt": "/audio/voices/nanami/N2-168-2.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "408a5c10cb5dee93d6935b64b9a8a74a82cabb63a72f73cf69da01bf87faea05",
+  "peakPcm": 21753,
+  "rmsDbfs": -18.01,
+  "rate": "+0%",
+  "listened": false
+}

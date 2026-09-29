@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-031",
+  "exampleIndex": 1,
+  "text": "費用が高く、計画を変更せざるを得ません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 229,
+  "signature": "ed378c485b51f8d3d69f5d662f562a6571799720e7ece0485ee056eda0371a39",
+  "src": "/audio/voices/nanami/N2-031-2.mp3",
+  "srt": "/audio/voices/nanami/N2-031-2.srt",
+  "durationSeconds": 4.512,
+  "bytes": 27072,
+  "sha256": "0ffbcae78e254dfed4d9c390efe9cbcd99fda3df0b8c2648bb2f48c330348967",
+  "peakPcm": 21947,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

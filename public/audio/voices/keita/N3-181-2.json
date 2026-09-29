@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-181",
+  "exampleIndex": 1,
+  "text": "例えば、この文を読んでみてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 211,
+  "signature": "8bd6d2e1727ad7dfbaa520251fbadbbfaec47df4eb4f3d2ff8ccd45239dfd191",
+  "src": "/audio/voices/keita/N3-181-2.mp3",
+  "srt": "/audio/voices/keita/N3-181-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "a96d638f7a01658d64888089f82d1ecf6526f996aa5b7aeb085a9c26e99dfdac",
+  "peakPcm": 21154,
+  "rmsDbfs": -20.03,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-210",
+  "exampleIndex": 1,
+  "text": "彼とは未だに連絡を取っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 319,
+  "signature": "5ceebba23def7a3a7e10a6dc5e80662d19f40504651aedb8eb06d5531af6edf6",
+  "src": "/audio/voices/keita/N2-210-2.mp3",
+  "srt": "/audio/voices/keita/N2-210-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "a9c278143d9461daec2b5dee18e8fdf906c59de64d9718fac30a13ad986bc494",
+  "peakPcm": 21184,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

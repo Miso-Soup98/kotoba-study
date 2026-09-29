@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-057",
+  "exampleIndex": 1,
+  "text": "最近、父は病気がちです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 149,
+  "signature": "82d2e245f3b25f81cc6a583dda32a55935fe57f581bda5628576b0d1b1f10010",
+  "src": "/audio/voices/keita/N3-057-2.mp3",
+  "srt": "/audio/voices/keita/N3-057-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "73a1b6545ce68fcd9456189ac20086892a8a20791021b4eef33379f9af91b725",
+  "peakPcm": 24929,
+  "rmsDbfs": -21.64,
+  "rate": "+0%",
+  "listened": false
+}

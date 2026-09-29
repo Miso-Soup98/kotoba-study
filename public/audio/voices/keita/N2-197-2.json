@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-197",
+  "exampleIndex": 1,
+  "text": "駅へ行くんですか。それなら、一緒に行きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 313,
+  "signature": "362d35cddd063ad37b267beb28492c3b844169c9a1c8f2f3bda295d1db0a18df",
+  "src": "/audio/voices/keita/N2-197-2.mp3",
+  "srt": "/audio/voices/keita/N2-197-2.srt",
+  "durationSeconds": 4.752,
+  "bytes": 28512,
+  "sha256": "f0a74b16545ce2f6d536cbbee066ff07b0574d690b38243899b8b569672f015f",
+  "peakPcm": 23919,
+  "rmsDbfs": -21.19,
+  "rate": "+0%",
+  "listened": false
+}

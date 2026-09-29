@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-016",
+  "exampleIndex": 0,
+  "text": "川に沿って歩きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 221,
+  "signature": "8d56c1b27cde776157699e48ad04cdc084f8757dfc04a27ba87e730eb0888fcb",
+  "src": "/audio/voices/keita/N2-016-1.mp3",
+  "srt": "/audio/voices/keita/N2-016-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "681452a1db085b32d0af3e35d4ec16da616dbd27b42a034801aad4b44b8bd398",
+  "peakPcm": 22599,
+  "rmsDbfs": -21.72,
+  "rate": "+0%",
+  "listened": false
+}

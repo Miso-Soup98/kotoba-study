@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-060",
+  "exampleIndex": 1,
+  "text": "靴が泥だらけになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 150,
+  "signature": "8b4a32a2d7dc306d440a6acfc7719415b19982d55f44a468735e5754f8087672",
+  "src": "/audio/voices/nanami/N3-060-2.mp3",
+  "srt": "/audio/voices/nanami/N3-060-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "548076b3d44296dc5a1114115b1b7264932d828dccd4e2a4e13e03aab6a092dd",
+  "peakPcm": 21380,
+  "rmsDbfs": -18.31,
+  "rate": "+0%",
+  "listened": false
+}

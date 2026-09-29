@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-176",
+  "exampleIndex": 0,
+  "text": "十分ばかり待ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 302,
+  "signature": "37d1fd0e87edfed4deacc2a99c4077221841548efb565bd0deee2f55a7e43057",
+  "src": "/audio/voices/nanami/N2-176-1.mp3",
+  "srt": "/audio/voices/nanami/N2-176-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "699d861a57817b57b96f51ceaf8dce5f545904fa71c62a3c6df011385ca66de2",
+  "peakPcm": 20039,
+  "rmsDbfs": -18.72,
+  "rate": "+0%",
+  "listened": false
+}

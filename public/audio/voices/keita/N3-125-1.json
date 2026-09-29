@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-125",
+  "exampleIndex": 0,
+  "text": "今日は二人きりで話したいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 183,
+  "signature": "cde5b0630fb3bdc12702738de3b7ea2fe684683b6229f442564d146ab6ee2da1",
+  "src": "/audio/voices/keita/N3-125-1.mp3",
+  "srt": "/audio/voices/keita/N3-125-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "c79e6af84951b94eb3793277cdcd32a7a5b4ca566500597d47863cb1d268460e",
+  "peakPcm": 24790,
+  "rmsDbfs": -20.82,
+  "rate": "+0%",
+  "listened": false
+}

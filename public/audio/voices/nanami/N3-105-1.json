@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-105",
+  "exampleIndex": 0,
+  "text": "彼は疲れているように見えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 173,
+  "signature": "9c1aea1dbad58315d03dacefab9426a38b76709f344190ff92bbcf92493096cd",
+  "src": "/audio/voices/nanami/N3-105-1.mp3",
+  "srt": "/audio/voices/nanami/N3-105-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "08880d8269ee8c3615a5c5ec5cae68028682a6e906f4a2fc72305bae51559b5c",
+  "peakPcm": 22021,
+  "rmsDbfs": -17.48,
+  "rate": "+0%",
+  "listened": false
+}

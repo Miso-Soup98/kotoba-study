@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-171",
+  "exampleIndex": 0,
+  "text": "果たして、この計画は成功するでしょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 300,
+  "signature": "e664bc92b7f88ad7c123617a44d17433a66049965f2a12b61d0bbccf3e9bbcbb",
+  "src": "/audio/voices/nanami/N2-171-1.mp3",
+  "srt": "/audio/voices/nanami/N2-171-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "0c18f7e04edc7c7545ea70b7cbfd8a7ca5a2775e8cb582088eb033fe66fbecc8",
+  "peakPcm": 20729,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

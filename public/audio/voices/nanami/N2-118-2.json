@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-118",
+  "exampleIndex": 1,
+  "text": "何度同じ説明をしたことか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 273,
+  "signature": "8b8e9383fc7c8bc9fd21015a81037a46045597c599691fe1ca86f6ce495b0c95",
+  "src": "/audio/voices/nanami/N2-118-2.mp3",
+  "srt": "/audio/voices/nanami/N2-118-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "f32ed1fdab346fba68ca26c9a9b4eb016feda2eb3880d2632284eef195706d6b",
+  "peakPcm": 22080,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

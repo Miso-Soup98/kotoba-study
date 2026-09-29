@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-027",
+  "exampleIndex": 0,
+  "text": "この写真を見るたびに、家族を思い出します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 134,
+  "signature": "4f977193c5a8154a94c5540d37dbb47fd40116f20b3a30e284907450d21250db",
+  "src": "/audio/voices/keita/N3-027-1.mp3",
+  "srt": "/audio/voices/keita/N3-027-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "9ddfc3a177dcf55639709ce51a0212b83b0e6e777a9c5023937b3c7103b11236",
+  "peakPcm": 20012,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

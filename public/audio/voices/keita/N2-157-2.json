@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-157",
+  "exampleIndex": 1,
+  "text": "初めてなもので、よく分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 292,
+  "signature": "46aa7803f796ed8368adfe1a383eb6bd5297146b1c1c969ca0cc0f366dbbb791",
+  "src": "/audio/voices/keita/N2-157-2.mp3",
+  "srt": "/audio/voices/keita/N2-157-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "d832a80b5b46805b62392c8ad02fdf7e4555c00c5154417450a25774fd41a766",
+  "peakPcm": 21350,
+  "rmsDbfs": -21.69,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-212",
+  "exampleIndex": 1,
+  "text": "一旦決めたら、簡単には変えません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 320,
+  "signature": "269c5d33fb260a84d46e8531c96bcd5c67fa4587b7b74b882378fee07d62975c",
+  "src": "/audio/voices/nanami/N2-212-2.mp3",
+  "srt": "/audio/voices/nanami/N2-212-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "9d9a5974d3a8b2736d10d81afa3b5515a1e5ed10b00c13c9f9266a9a5bac9e47",
+  "peakPcm": 22756,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

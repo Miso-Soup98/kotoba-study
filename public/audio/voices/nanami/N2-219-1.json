@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-219",
+  "exampleIndex": 0,
+  "text": "この家は、何といっても駅に近いのが便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 324,
+  "signature": "078335c3f6884929a353006dd5b9f7b846ae3b8c8d308b57766b1a79c3c50984",
+  "src": "/audio/voices/nanami/N2-219-1.mp3",
+  "srt": "/audio/voices/nanami/N2-219-1.srt",
+  "durationSeconds": 4.8,
+  "bytes": 28800,
+  "sha256": "0c91dfd36581825176be381e059b991c218d47796d11b8497c460f1da16de142",
+  "peakPcm": 20860,
+  "rmsDbfs": -16.89,
+  "rate": "+0%",
+  "listened": false
+}

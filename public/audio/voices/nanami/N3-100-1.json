@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-100",
+  "exampleIndex": 0,
+  "text": "その話は信じがたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 170,
+  "signature": "1f9b290ce12ff2b64d9fa3603b0928fa3583c8e79fbdf36a6993e27f1fa5a6b2",
+  "src": "/audio/voices/nanami/N3-100-1.mp3",
+  "srt": "/audio/voices/nanami/N3-100-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "eb6e963afa7573aa55a59c12d468cc091aeb14ce4f640cc51126cded8ab6e66a",
+  "peakPcm": 22281,
+  "rmsDbfs": -17.93,
+  "rate": "+0%",
+  "listened": false
+}

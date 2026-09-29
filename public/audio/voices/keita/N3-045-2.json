@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-045",
+  "exampleIndex": 1,
+  "text": "道に迷った上に、雨にも降られました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 143,
+  "signature": "d6203408c539a86ff4edb9e19b66d8e99638f9b10a6500df2e1df7e6efbffa34",
+  "src": "/audio/voices/keita/N3-045-2.mp3",
+  "srt": "/audio/voices/keita/N3-045-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "730ed66b790dbe44e1f1048e6989771f4077da016fee41a964a0f1de342c53cd",
+  "peakPcm": 22813,
+  "rmsDbfs": -19.74,
+  "rate": "+0%",
+  "listened": false
+}

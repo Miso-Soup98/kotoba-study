@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-085",
+  "exampleIndex": 0,
+  "text": "子供から見ると、大人の世界は不思議です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 256,
+  "signature": "0fba7d8c8df8d08af8f823b2ecf00e930a24ba77335b60405047aeda6c0283b0",
+  "src": "/audio/voices/nanami/N2-085-1.mp3",
+  "srt": "/audio/voices/nanami/N2-085-1.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "7f2cd6ed0f1b03421227eeedb0b1d3c9d2f4d2eef81b4036e2ef0d2594f0f407",
+  "peakPcm": 20605,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

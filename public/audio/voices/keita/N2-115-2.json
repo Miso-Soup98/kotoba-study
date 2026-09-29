@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-115",
+  "exampleIndex": 1,
+  "text": "何もそんなに怒らなくてもいいでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 271,
+  "signature": "b3b725c085ff277614c91295d7eb631468308387c6d3923566cb1f31060ac1a3",
+  "src": "/audio/voices/keita/N2-115-2.mp3",
+  "srt": "/audio/voices/keita/N2-115-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "e8988ba522cbb1ceb90afda858d95c662c5ab05ba41fe48d4c6d515b59ebc092",
+  "peakPcm": 24619,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

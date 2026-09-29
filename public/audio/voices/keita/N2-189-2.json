@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-189",
+  "exampleIndex": 1,
+  "text": "雨が再び降り始めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 309,
+  "signature": "ca6072e8c0987141577636b513d0da336ad9db7aa00ba0e380bc31c1c846bb23",
+  "src": "/audio/voices/keita/N2-189-2.mp3",
+  "srt": "/audio/voices/keita/N2-189-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "173da3cd45542ec4b7b93d8775ebc2d2134cc74373a798a18c4cb0a9b70c2e38",
+  "peakPcm": 23835,
+  "rmsDbfs": -21.73,
+  "rate": "+0%",
+  "listened": false
+}

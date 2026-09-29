@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-045",
+  "exampleIndex": 0,
+  "text": "最後まで責任を持つのが、本当の協力というものです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 236,
+  "signature": "4f7bf04d7d55d048f1a4a7b54c3ad9001b0baa79b89d80d41050e5a8f0c2bc04",
+  "src": "/audio/voices/nanami/N2-045-1.mp3",
+  "srt": "/audio/voices/nanami/N2-045-1.srt",
+  "durationSeconds": 5.304,
+  "bytes": 31824,
+  "sha256": "582ecedb4c5ee3d55b10aa9fbc15dedbfe066c91631f4630b12a9eaaa185fa77",
+  "peakPcm": 22763,
+  "rmsDbfs": -16.32,
+  "rate": "+0%",
+  "listened": false
+}

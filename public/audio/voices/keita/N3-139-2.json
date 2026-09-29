@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-139",
+  "exampleIndex": 1,
+  "text": "一日で全部終わったなんて、すごいですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 190,
+  "signature": "f26429e65c7b3e5379c8c34053596a6b9d73b361988de325b8aa4cddafc49e49",
+  "src": "/audio/voices/keita/N3-139-2.mp3",
+  "srt": "/audio/voices/keita/N3-139-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "d7bbea2c447b44402eb3857446a7a525760fd14203ffa49ac1d6d071623e6e7b",
+  "peakPcm": 25426,
+  "rmsDbfs": -19.98,
+  "rate": "+0%",
+  "listened": false
+}

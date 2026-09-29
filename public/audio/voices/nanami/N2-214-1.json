@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-214",
+  "exampleIndex": 0,
+  "text": "費用はおおよそ三万円です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 321,
+  "signature": "ef368cb2b05f4565981c4497dacba1e1f772454a8db1c4c47dc1fbf3382fde7e",
+  "src": "/audio/voices/nanami/N2-214-1.mp3",
+  "srt": "/audio/voices/nanami/N2-214-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "aa378ea79c85453b88c42a49636363531625a4ce1a43eafe0733b7748c6f6fa1",
+  "peakPcm": 23267,
+  "rmsDbfs": -16.54,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-168",
+  "exampleIndex": 1,
+  "text": "しばらく彼に会っていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 204,
+  "signature": "ce298e6ece8ab9a9a44770c4f961a167ab2d819fef2e1004cab7b899f92fe518",
+  "src": "/audio/voices/keita/N3-168-2.mp3",
+  "srt": "/audio/voices/keita/N3-168-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "360f04a1305fae5957472ff5098eb9844d759115353f74dea94c9147361549f2",
+  "peakPcm": 25672,
+  "rmsDbfs": -21.07,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-033",
+  "exampleIndex": 1,
+  "text": "仕事を選ぶ上で、何を重視しますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 137,
+  "signature": "32e279d2e31adaa05271a64ff3c63211eb8df446baace81900ffb2086a75a342",
+  "src": "/audio/voices/nanami/N3-033-2.mp3",
+  "srt": "/audio/voices/nanami/N3-033-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "f6954a0b20a8a9db8bab8569cc75d99baf6975b0ab992b6edb78276b17a0f561",
+  "peakPcm": 20896,
+  "rmsDbfs": -17.27,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-035",
+  "exampleIndex": 1,
+  "text": "係員の指示にしたがって、並んでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 138,
+  "signature": "01ab79caab63909cdcf1127b77147a6776b56919d4bc18bcd415a6542add566a",
+  "src": "/audio/voices/nanami/N3-035-2.mp3",
+  "srt": "/audio/voices/nanami/N3-035-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "c52177a3c0a91eafa3c1a8e1b619d268a1c508bd4f2861fec30b3abf03b6cae4",
+  "peakPcm": 20148,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

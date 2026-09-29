@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-081",
+  "exampleIndex": 0,
+  "text": "友達を通じて、彼と知り合いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 161,
+  "signature": "3406c52ca96292e7a9a96be9cbd0fe899361fb3333aa0b57b8af5dbe7ea7a0f4",
+  "src": "/audio/voices/nanami/N3-081-1.mp3",
+  "srt": "/audio/voices/nanami/N3-081-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "f23e97734f51bc95403068a694741100dde56a3feadf235eedb69319255cf9a6",
+  "peakPcm": 21324,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

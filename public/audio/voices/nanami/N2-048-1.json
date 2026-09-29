@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-048",
+  "exampleIndex": 0,
+  "text": "本を買っただけでは、勉強したことにはなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 237,
+  "signature": "9a15ee4f5ad42f50a268a403720ef743caebe8dc9e65533dfd3b89b6b437dfe4",
+  "src": "/audio/voices/nanami/N2-048-1.mp3",
+  "srt": "/audio/voices/nanami/N2-048-1.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "9485be9dc60a63b58f25cf8a4e4fe65864e5e3d9bfd306e876d424f9f6dfaaf3",
+  "peakPcm": 21364,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

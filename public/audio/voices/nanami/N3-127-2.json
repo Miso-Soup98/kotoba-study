@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-127",
+  "exampleIndex": 1,
+  "text": "彼は歌も上手なら、料理も上手です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 184,
+  "signature": "ca28b33a780c97ac8e890d9aea6959a09fdc604f72dbf798a4f7d29fee040c4d",
+  "src": "/audio/voices/nanami/N3-127-2.mp3",
+  "srt": "/audio/voices/nanami/N3-127-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "4113d3a58ff12a1cba63b4fc1eab2a7f3b29fefec66687fe8387c1a6adfcfa98",
+  "peakPcm": 19988,
+  "rmsDbfs": -17.04,
+  "rate": "+0%",
+  "listened": false
+}

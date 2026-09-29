@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-166",
+  "exampleIndex": 1,
+  "text": "参加者は百人はいると思います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 203,
+  "signature": "d752253c0f20a5ffa64e62bed055e50ea303d07022bc84b0777732febbc853a1",
+  "src": "/audio/voices/keita/N3-166-2.mp3",
+  "srt": "/audio/voices/keita/N3-166-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "5b5f4eb76dac2592f61f847b34019bb65398ac399bdea8083e276e173ef83e32",
+  "peakPcm": 23288,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

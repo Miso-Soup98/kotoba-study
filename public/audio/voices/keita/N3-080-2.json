@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-080",
+  "exampleIndex": 1,
+  "text": "京都をはじめ、いろいろな町を訪ねました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 160,
+  "signature": "edf1e359f7b239fa5c2b9e5832ca6129dd4d989d308c895fe9c7a5bbcc7cf77f",
+  "src": "/audio/voices/keita/N3-080-2.mp3",
+  "srt": "/audio/voices/keita/N3-080-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "e876b19313534c790632f8cbf08a468bd75e5b9bc17cf89d0b854e347435144a",
+  "peakPcm": 23433,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

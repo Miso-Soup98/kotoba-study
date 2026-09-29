@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-066",
+  "exampleIndex": 0,
+  "text": "一言言ったばかりに、けんかになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 246,
+  "signature": "53adf0a95b2a5c025d56386dcfda7b6b407d4a6d3ed653fb34c745603d9b15dd",
+  "src": "/audio/voices/nanami/N2-066-1.mp3",
+  "srt": "/audio/voices/nanami/N2-066-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "7ffa509fc1125a7ca387610bd1b44ac235daf4ce88dc10802f656ec23f2e6c9a",
+  "peakPcm": 20696,
+  "rmsDbfs": -18.01,
+  "rate": "+0%",
+  "listened": false
+}

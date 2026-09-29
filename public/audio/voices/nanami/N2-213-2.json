@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-213",
+  "exampleIndex": 1,
+  "text": "その本はたちまち売り切れました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 321,
+  "signature": "73648992776d003e5bd5d6413774aff14858af030eac7dd9582003ebe4fb9a52",
+  "src": "/audio/voices/nanami/N2-213-2.mp3",
+  "srt": "/audio/voices/nanami/N2-213-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "aee63ad3dfc1351faa5773585638f7ec9ee5e5aaf16adf9ef4b5c01d1cd098e8",
+  "peakPcm": 19891,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

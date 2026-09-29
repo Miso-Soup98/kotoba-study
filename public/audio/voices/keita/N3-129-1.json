@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-129",
+  "exampleIndex": 0,
+  "text": "日本の生活に慣れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 185,
+  "signature": "de033f8cc4e69cccd1132f664c82e82c44c13819aa1e569b38e67594dba929c7",
+  "src": "/audio/voices/keita/N3-129-1.mp3",
+  "srt": "/audio/voices/keita/N3-129-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "a2227b460d8a54ef36e062d703903c2f8236f12cd2deda3a68cf17e00edd6106",
+  "peakPcm": 20868,
+  "rmsDbfs": -20.27,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-167",
+  "exampleIndex": 1,
+  "text": "待てるのは、せいぜい十分です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 204,
+  "signature": "cf88b8e7adf1fe058734631ed662139dbd3ce871a03cec393506b26b0098c57b",
+  "src": "/audio/voices/keita/N3-167-2.mp3",
+  "srt": "/audio/voices/keita/N3-167-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "02e47ca45fd803744478567d779d3ba286e13daec168eb4aa29caa6862e666c5",
+  "peakPcm": 22012,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-107",
+  "exampleIndex": 1,
+  "text": "買わないにしても、見てみたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 174,
+  "signature": "4c4aff92fed56b48747fea6adc55688097b74d435a0da75e24d005a9eccd9c92",
+  "src": "/audio/voices/nanami/N3-107-2.mp3",
+  "srt": "/audio/voices/nanami/N3-107-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "119bbee2d4dbb74e72aa532b3b1935cd9d47afbcd5d1578773ceb4dd7e9f8f1e",
+  "peakPcm": 21192,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

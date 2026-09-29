@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-190",
+  "exampleIndex": 0,
+  "text": "この店は駅前にあります。ちなみに、日曜日も開いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 309,
+  "signature": "caa1c0f990ea48244792491d472764584a16023dc52b7e0b8ab77c35aca7c8b1",
+  "src": "/audio/voices/keita/N2-190-1.mp3",
+  "srt": "/audio/voices/keita/N2-190-1.srt",
+  "durationSeconds": 5.976,
+  "bytes": 35856,
+  "sha256": "5b3dba4d4c0e94b527a9361a6e4b182b35ecf0785dccae3162b72202c6cc9f40",
+  "peakPcm": 26086,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

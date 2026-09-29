@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-089",
+  "exampleIndex": 1,
+  "text": "遅れるにしろ、連絡は必要です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 258,
+  "signature": "62aa4aa6640951704a9d2a0f1fed2fe78de931a3954b563891a754e68d6f2c41",
+  "src": "/audio/voices/keita/N2-089-2.mp3",
+  "srt": "/audio/voices/keita/N2-089-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "b25c7df2212e200d407a33e68c32bd0755f9b6cf0aea7d149123c777469b29d2",
+  "peakPcm": 21586,
+  "rmsDbfs": -20.07,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-045",
+  "exampleIndex": 0,
+  "text": "この部屋は広い上に、明るいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 143,
+  "signature": "6e65414f845469c74a9aca69683e4e70da955b367120259db0ba46854aa640b8",
+  "src": "/audio/voices/nanami/N3-045-1.mp3",
+  "srt": "/audio/voices/nanami/N3-045-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "90341efc836cf81b7967ec1ee15502e0e355f1638f4d9c1308027b138e65fae2",
+  "peakPcm": 20092,
+  "rmsDbfs": -16.88,
+  "rate": "+0%",
+  "listened": false
+}

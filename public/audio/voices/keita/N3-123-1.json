@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-123",
+  "exampleIndex": 0,
+  "text": "旅行したつもりで、そのお金を貯めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 182,
+  "signature": "ed99b8f4c045e94baa2b425950b076ab1ccf526b3b94acc90372efd238a6c987",
+  "src": "/audio/voices/keita/N3-123-1.mp3",
+  "srt": "/audio/voices/keita/N3-123-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "ad4f42616a85a9adb821f0c75d0a21f38f3e7085d0acaaf29ced952f50f2cd86",
+  "peakPcm": 19659,
+  "rmsDbfs": -20.72,
+  "rate": "+0%",
+  "listened": false
+}

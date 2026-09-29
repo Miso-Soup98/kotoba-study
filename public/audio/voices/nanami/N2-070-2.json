@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-070",
+  "exampleIndex": 1,
+  "text": "賛成する人がいる一方で、反対する人もいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 248,
+  "signature": "d48d8cfe93a4b89c45c3adad20e212593afb5825b07becfe0daaec5b5b7adf3c",
+  "src": "/audio/voices/nanami/N2-070-2.mp3",
+  "srt": "/audio/voices/nanami/N2-070-2.srt",
+  "durationSeconds": 4.824,
+  "bytes": 28944,
+  "sha256": "ad9f59b22e37a64a40ac9333b0b6525941ed5ccc069a5546e20e6dbd5d475127",
+  "peakPcm": 20383,
+  "rmsDbfs": -17.5,
+  "rate": "+0%",
+  "listened": false
+}

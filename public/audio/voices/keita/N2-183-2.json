@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-183",
+  "exampleIndex": 1,
+  "text": "結果が出ても、直ちに結論は出せません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 306,
+  "signature": "0c632012cb45b5e84f3ad8843e53619dcc700766d36f379308ce93f564a8e712",
+  "src": "/audio/voices/keita/N2-183-2.mp3",
+  "srt": "/audio/voices/keita/N2-183-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "99a0de3b8e671892ed24e9980f949a973976f61d6273f297b142c55567bc79a1",
+  "peakPcm": 22242,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

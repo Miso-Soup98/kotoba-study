@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-181",
+  "exampleIndex": 1,
+  "text": "説明もなく、いきなり作業が始まりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 305,
+  "signature": "9715c49bcf2b48622bae7105f518e9646facce17dad870911dff0c6fa455ddba",
+  "src": "/audio/voices/nanami/N2-181-2.mp3",
+  "srt": "/audio/voices/nanami/N2-181-2.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "c8da44496be8b0784a1b313750cbd46d1410abcedf50a9184d0eeb3f10cf53e9",
+  "peakPcm": 20780,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-126",
+  "exampleIndex": 0,
+  "text": "物価は上がる一方です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 183,
+  "signature": "d35f0e8fb5390f505a7bf795243757e4772e4a630d214fd8168ec5567c471776",
+  "src": "/audio/voices/nanami/N3-126-1.mp3",
+  "srt": "/audio/voices/nanami/N3-126-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "b5372b789aefbe9d80035bc7f3f655632b35f09674b3a3a435babf87bb171136",
+  "peakPcm": 22771,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

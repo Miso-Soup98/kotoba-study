@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-180",
+  "exampleIndex": 0,
+  "text": "さて、今日の授業を始めましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 210,
+  "signature": "db20b7ae3171177f0f1da75c1490d89d894a89625f1de4d191dbbbf7e76d6046",
+  "src": "/audio/voices/nanami/N3-180-1.mp3",
+  "srt": "/audio/voices/nanami/N3-180-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "218fda8bee83a1ea7f3e46bc3693967d9435c08254d72f3a004fdef9ffca9b56",
+  "peakPcm": 22084,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

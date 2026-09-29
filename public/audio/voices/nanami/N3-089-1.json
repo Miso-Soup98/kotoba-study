@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-089",
+  "exampleIndex": 0,
+  "text": "声が出ないほど笑いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 165,
+  "signature": "bcf933666acebefeec8a512a65060f9119f268c9f83961781d21ad4f820d04a4",
+  "src": "/audio/voices/nanami/N3-089-1.mp3",
+  "srt": "/audio/voices/nanami/N3-089-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "3144edd3a6864d4e4275f3530d8e9b6afb2419b0d8f08e8394cc402ff22af936",
+  "peakPcm": 19944,
+  "rmsDbfs": -18.56,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-066",
+  "exampleIndex": 0,
+  "text": "一週間で論文を書き上げました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 153,
+  "signature": "3c6fe628cb43644a1b097cc743d96cfa2cc2f00f3cef2c16c78210eb99f76c7d",
+  "src": "/audio/voices/nanami/N3-066-1.mp3",
+  "srt": "/audio/voices/nanami/N3-066-1.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "8272de9df9a6e50ce585e70d9af2e53ae6ca46ad031bea13f0cb14827f58e501",
+  "peakPcm": 22987,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

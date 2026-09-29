@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-046",
+  "exampleIndex": 0,
+  "text": "長く勉強すればよいというものではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 236,
+  "signature": "a42cef0517eb8f720268f92ca9cb270798cd8f298eeb6e7767fdb3d5a87d86f4",
+  "src": "/audio/voices/keita/N2-046-1.mp3",
+  "srt": "/audio/voices/keita/N2-046-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "c585e0155ad02d83cf0bcdcde82e40e0be0639f4f7ca334dd0c5097972ce7fb8",
+  "peakPcm": 25033,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

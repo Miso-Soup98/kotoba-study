@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-189",
+  "exampleIndex": 1,
+  "text": "雨が再び降り始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 309,
+  "signature": "fd013fe557e1f34845c004b955fbecfa3b7044a46942a791310363c0bb87d37f",
+  "src": "/audio/voices/nanami/N2-189-2.mp3",
+  "srt": "/audio/voices/nanami/N2-189-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "a5cdce262fa0ea838b60a95e83cc092302dcbd7814e96239e76c8dcabf56de9f",
+  "peakPcm": 19259,
+  "rmsDbfs": -19.21,
+  "rate": "+0%",
+  "listened": false
+}

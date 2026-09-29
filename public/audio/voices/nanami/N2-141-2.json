@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-141",
+  "exampleIndex": 1,
+  "text": "電車が遅れたとかで、まだ来ていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 284,
+  "signature": "0a144e8da419db1331bb99a0eef5802f1d3f4a939378153c700a3f918487d05b",
+  "src": "/audio/voices/nanami/N2-141-2.mp3",
+  "srt": "/audio/voices/nanami/N2-141-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "ced129c9eb8a357b1974cd4a837f735b559c3fdc69a567f6cb4b426b08075c5a",
+  "peakPcm": 21620,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

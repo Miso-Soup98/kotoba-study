@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-026",
+  "exampleIndex": 0,
+  "text": "この署名は本人のものに相違ありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 226,
+  "signature": "452a8358d63e5ac23b7f61dd9828938ce6a3d518c23cbc117068a6cb5e1a6baf",
+  "src": "/audio/voices/keita/N2-026-1.mp3",
+  "srt": "/audio/voices/keita/N2-026-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "9a47cbd3ba02c98bf9ac594d47cbfbbc2782c6b55502fe5c994ac5e71e9fa811",
+  "peakPcm": 22760,
+  "rmsDbfs": -19.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-033",
+  "exampleIndex": 0,
+  "text": "外国で暮らす上で、言葉は大切です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 137,
+  "signature": "87d04fa62d1d09909421b14903d5be545f367da023ee8cabe7d90a0a0b039464",
+  "src": "/audio/voices/nanami/N3-033-1.mp3",
+  "srt": "/audio/voices/nanami/N3-033-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "cc44d480100a995e96dbf0e64c5f0b84cdc09be1aee9980ef0fd502268fb9163",
+  "peakPcm": 23183,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

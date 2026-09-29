@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-170",
+  "exampleIndex": 1,
+  "text": "準備は一応終わりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 299,
+  "signature": "41642b1ef61285a0deff8387ba1b5a37d77c6f4e9d7d7250865666c9967b9cf7",
+  "src": "/audio/voices/nanami/N2-170-2.mp3",
+  "srt": "/audio/voices/nanami/N2-170-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "15a7db0c24a35e1ad878486f063788f684eea47a8044e0b71d90c263957c4755",
+  "peakPcm": 20812,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

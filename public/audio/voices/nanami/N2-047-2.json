@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-047",
+  "exampleIndex": 1,
+  "text": "全員合格したということは、誰も落ちなかったんですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 237,
+  "signature": "7e89417980ea34f3c94e97c667666ab97536312d9ce1c0c3c7c79c2d09d6270e",
+  "src": "/audio/voices/nanami/N2-047-2.mp3",
+  "srt": "/audio/voices/nanami/N2-047-2.srt",
+  "durationSeconds": 5.064,
+  "bytes": 30384,
+  "sha256": "a01b5d326f13c7117c4ec9eef8cf6d1ed30eb1929c4f7bde8785f8b42973deb5",
+  "peakPcm": 21942,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

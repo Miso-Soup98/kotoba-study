@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-071",
+  "exampleIndex": 1,
+  "text": "同じ失敗をする気がしてなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 249,
+  "signature": "c860da2dd279fe247953da563275a01dcac30067dc231dce55fe1848ef59d0d0",
+  "src": "/audio/voices/nanami/N2-071-2.mp3",
+  "srt": "/audio/voices/nanami/N2-071-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "85061bfc1c97e79e6b69c02a62f5112038b6312aa673c3e8e03073f117a359d0",
+  "peakPcm": 21333,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-152",
+  "exampleIndex": 1,
+  "text": "名前がどうしても思い出せません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 196,
+  "signature": "382f2dcd8b55229c19f03825b47dcd3e3b2f8aa3cd31b97c4fc4f353455b9f03",
+  "src": "/audio/voices/nanami/N3-152-2.mp3",
+  "srt": "/audio/voices/nanami/N3-152-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "13c934590bdae1808c71e0b6854bdde260d3497868cb830264765953c6bfe015",
+  "peakPcm": 20521,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false
+}

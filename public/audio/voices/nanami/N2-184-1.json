@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-184",
+  "exampleIndex": 0,
+  "text": "空が次第に暗くなってきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 306,
+  "signature": "e3b00490e09045ad74cdb6b39ee257c526b32164ffbe64ee6f9596178f364d25",
+  "src": "/audio/voices/nanami/N2-184-1.mp3",
+  "srt": "/audio/voices/nanami/N2-184-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "99a659be63067b32bdcaa89a5b5e24e5186591081f6d7507e626ee43f542ae89",
+  "peakPcm": 20924,
+  "rmsDbfs": -18.56,
+  "rate": "+0%",
+  "listened": false
+}

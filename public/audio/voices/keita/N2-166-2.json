@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-166",
+  "exampleIndex": 1,
+  "text": "彼は恐らく道に迷ったのだと思います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 297,
+  "signature": "eec5a5c16092791f44bd47741887aa085a126a2830f40e408398c197d2b6a8aa",
+  "src": "/audio/voices/keita/N2-166-2.mp3",
+  "srt": "/audio/voices/keita/N2-166-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "f410127f65da769d717dde3ca77bb8dede21e1cedc9bf6cce7413400df4f89e7",
+  "peakPcm": 21207,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

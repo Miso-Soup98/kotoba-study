@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-08",
+  "exampleIndex": 0,
+  "text": "来週の発表時間は10分なので、調査方法を細かく説明していると、結果を話す時間がなくなります。方法は要点だけにし、詳しい手順は配布資料で読めるようにしてください。一方、予想と違った結果については、時間をかけて説明したほうがいいと思います。聞き手が一番知りたいのは、そこから何を学んだかという点だからです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "c5c1642c347c3de67b9a5a24db933a6833e0e812bb11fb05ec0d981495bed84e",
+  "src": "/audio/training/n2-v05-p-listening-08.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-08.srt",
+  "durationSeconds": 28.848,
+  "bytes": 173088,
+  "sha256": "14bbfc5726bf98be4e9c5597e9996dcc29b45916b3114db2e1512e473216334b",
+  "peakPcm": 23405,
+  "rmsDbfs": -16.93,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

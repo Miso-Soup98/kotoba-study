@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-196",
+  "exampleIndex": 0,
+  "text": "何度も説明しました。それなのに、また同じ間違いをしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 312,
+  "signature": "70e5b2148ae4767ea7a477be7fb0e13c05600e550f86a4d1ced0e83ea7980634",
+  "src": "/audio/voices/keita/N2-196-1.mp3",
+  "srt": "/audio/voices/keita/N2-196-1.srt",
+  "durationSeconds": 5.928,
+  "bytes": 35568,
+  "sha256": "8c16cffbdabaf8729264708f5b23e0f298170c1a2920850177c46534f7a718b2",
+  "peakPcm": 25941,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

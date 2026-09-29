@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-059",
+  "exampleIndex": 1,
+  "text": "最近、忘れっぽくなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 150,
+  "signature": "680e8e53acb49317cfa751af33df10491d3d53e1482049e0f2abeaf117add314",
+  "src": "/audio/voices/nanami/N3-059-2.mp3",
+  "srt": "/audio/voices/nanami/N3-059-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "9fd96fb099c338c801511a0e927254d549058a7e219c846ef881741874025d52",
+  "peakPcm": 21869,
+  "rmsDbfs": -18.13,
+  "rate": "+0%",
+  "listened": false
+}

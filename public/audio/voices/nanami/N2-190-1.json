@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-190",
+  "exampleIndex": 0,
+  "text": "この店は駅前にあります。ちなみに、日曜日も開いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 309,
+  "signature": "7e8bdf059bae16aacd654783636cee462d929e8d3be471fc58cd01f6bcaa0cff",
+  "src": "/audio/voices/nanami/N2-190-1.mp3",
+  "srt": "/audio/voices/nanami/N2-190-1.srt",
+  "durationSeconds": 6.408,
+  "bytes": 38448,
+  "sha256": "4a4f70fd4edeeaa065c26751ba2abcac176e6254c727ec1ea456f31c5912ab4d",
+  "peakPcm": 21028,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

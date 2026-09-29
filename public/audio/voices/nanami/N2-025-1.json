@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-025",
+  "exampleIndex": 0,
+  "text": "こんなに練習したのだから、上手になるに決まっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 226,
+  "signature": "482540f4893bbd487933fef0828ed81d335f3649e1bb21593091d2f2bfa5559e",
+  "src": "/audio/voices/nanami/N2-025-1.mp3",
+  "srt": "/audio/voices/nanami/N2-025-1.srt",
+  "durationSeconds": 4.848,
+  "bytes": 29088,
+  "sha256": "c69f45047abdf096d7f64e9e50971831d0dd7e163787b0a7aab5c385049e4147",
+  "peakPcm": 20748,
+  "rmsDbfs": -17.37,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-013",
+  "exampleIndex": 0,
+  "text": "先生のおかげで、試験に合格しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 127,
+  "signature": "56c6dc9bfaf5c12fd3fd972e389073c8aaea666dee04d0223ffde11104f51551",
+  "src": "/audio/voices/keita/N3-013-1.mp3",
+  "srt": "/audio/voices/keita/N3-013-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "397213d663fecac6db10bd2926edea15f1977effddeaeb0eac1831547d24bf71",
+  "peakPcm": 23602,
+  "rmsDbfs": -20.65,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-147",
+  "exampleIndex": 1,
+  "text": "ついさっき、先生が帰りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 194,
+  "signature": "86bb50bbd9799251e357f2db106e3f796ce63f3a5a7118a37c283776740f2f76",
+  "src": "/audio/voices/keita/N3-147-2.mp3",
+  "srt": "/audio/voices/keita/N3-147-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "5ff21c7d6f959c88df761aa9f262adfe6d682ad8e63249ff7aa912577ff689a5",
+  "peakPcm": 20262,
+  "rmsDbfs": -21.92,
+  "rate": "+0%",
+  "listened": false
+}

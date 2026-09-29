@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-159",
+  "exampleIndex": 0,
+  "text": "まさか今日が締め切りだとは思いませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 200,
+  "signature": "60d9315d890f815684dc38507d58815f85ec156ac5efc32b1a175b055c4aaf93",
+  "src": "/audio/voices/nanami/N3-159-1.mp3",
+  "srt": "/audio/voices/nanami/N3-159-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "b504fa118be079c4c91818ffb156d3421deb7bcf8d136a49c08c57cf5b9474d3",
+  "peakPcm": 21706,
+  "rmsDbfs": -17.47,
+  "rate": "+0%",
+  "listened": false
+}

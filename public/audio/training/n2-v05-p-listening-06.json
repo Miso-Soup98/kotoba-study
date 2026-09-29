@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-p-listening-06",
+  "exampleIndex": 0,
+  "text": "新しい予約システムの試用期間を延ばします。使い方についての質問が多かったためです。ただし、延長するのは操作練習用の画面だけで、実際の予約受付は予定どおり月曜日から新しい画面に切り替えます。練習用の画面で予約しても、予約が確定したことにはなりません。画面上の表示をよく確認してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "a3ed15f0ef8f43900ca9ae94ea035a1e026cc7e91246d12acab99f54dbc76475",
+  "src": "/audio/training/n2-v05-p-listening-06.mp3",
+  "srt": "/audio/training/n2-v05-p-listening-06.srt",
+  "durationSeconds": 28.416,
+  "bytes": 170496,
+  "sha256": "fca94f33d451e8457c45c2a75d4d66a2ef63cdce28c6fb9069c09f59222969bc",
+  "peakPcm": 23088,
+  "rmsDbfs": -17.12,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

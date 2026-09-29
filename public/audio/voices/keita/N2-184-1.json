@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-184",
+  "exampleIndex": 0,
+  "text": "空が次第に暗くなってきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 306,
+  "signature": "1f7618a3e0464c610a4c19991eebda706d66314d47ff8457034ca21258357e59",
+  "src": "/audio/voices/keita/N2-184-1.mp3",
+  "srt": "/audio/voices/keita/N2-184-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "fc9f5f7224e903a1e638f9cd7074d9b96d143e1e33a941b34572f02607508c34",
+  "peakPcm": 25230,
+  "rmsDbfs": -21.31,
+  "rate": "+0%",
+  "listened": false
+}

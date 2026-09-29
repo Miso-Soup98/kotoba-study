@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-102",
+  "exampleIndex": 0,
+  "text": "小さくても、部屋があるだけましです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 265,
+  "signature": "08a96e30393e6b99ef36bcd4d7f07413a1e9aa43787a421e5c5ae0be7382ecff",
+  "src": "/audio/voices/nanami/N2-102-1.mp3",
+  "srt": "/audio/voices/nanami/N2-102-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "18ea9e7d3abc5ea1edbc470caaee62cd2c96ab17cb2df45f5107a219d276d782",
+  "peakPcm": 21890,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

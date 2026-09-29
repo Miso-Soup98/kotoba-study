@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-034",
+  "exampleIndex": 1,
+  "text": "気温が上がるにつれて、雪が溶けていきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 137,
+  "signature": "9c4c0b90972fa204070ad52207a8cadd7337bfabbc8d8db56983380d07079d60",
+  "src": "/audio/voices/nanami/N3-034-2.mp3",
+  "srt": "/audio/voices/nanami/N3-034-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "e332f6fd1cfc44f5c57825181702b20c18f8c609f0618d55ff96f972a04be538",
+  "peakPcm": 20226,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

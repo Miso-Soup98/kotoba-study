@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-097",
+  "exampleIndex": 1,
+  "text": "この問題は、歴史を抜きにしては考えられません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 262,
+  "signature": "27d2cd1edac006a0b8a37185ca9de658719bcb799411e663897bfa02464f9df1",
+  "src": "/audio/voices/keita/N2-097-2.mp3",
+  "srt": "/audio/voices/keita/N2-097-2.srt",
+  "durationSeconds": 4.248,
+  "bytes": 25488,
+  "sha256": "25287057612a7146207726146f69fce0b37b138d64d0ea1a1004a276599169ec",
+  "peakPcm": 24027,
+  "rmsDbfs": -19.65,
+  "rate": "+0%",
+  "listened": false
+}

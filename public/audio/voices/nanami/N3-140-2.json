@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-140",
+  "exampleIndex": 1,
+  "text": "友達に、窓を閉めるように頼みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 190,
+  "signature": "3710548cada6fbde0031611d379b4c305bcec02ee0f0903507e64f27e2ffbb32",
+  "src": "/audio/voices/nanami/N3-140-2.mp3",
+  "srt": "/audio/voices/nanami/N3-140-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "bea93d930971a57e7f1b9f0d9798e71306fad28487e94259524261e3dd9e573e",
+  "peakPcm": 21672,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

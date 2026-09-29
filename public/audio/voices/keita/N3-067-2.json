@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-067",
+  "exampleIndex": 1,
+  "text": "彼は一人で考え込んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 154,
+  "signature": "6fbc97d6f841684f886254338403b2ee6853c01b0038fe9369229d4b509f061c",
+  "src": "/audio/voices/keita/N3-067-2.mp3",
+  "srt": "/audio/voices/keita/N3-067-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "93444fbf42df52d5cc9242a288962335b076b6a6468109f464f67d9b74fed146",
+  "peakPcm": 21898,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

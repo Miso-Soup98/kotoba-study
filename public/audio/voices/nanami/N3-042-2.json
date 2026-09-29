@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-042",
+  "exampleIndex": 1,
+  "text": "彼が来ないとすると、誰が説明しますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 141,
+  "signature": "a12c25b830721e976ea6c533b098ed2c82326ba433e9d0dbf15c2c868358ae59",
+  "src": "/audio/voices/nanami/N3-042-2.mp3",
+  "srt": "/audio/voices/nanami/N3-042-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "c9950add0b85de407d43c395e36b04f9428b82e90dcc0425c72934e10bb1297c",
+  "peakPcm": 22242,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

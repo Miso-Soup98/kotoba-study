@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-087",
+  "exampleIndex": 0,
+  "text": "子供向けの本を探しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 164,
+  "signature": "a05e66838866a10210ef555887660df233f52dbc974e1e734c45fa99e4480214",
+  "src": "/audio/voices/keita/N3-087-1.mp3",
+  "srt": "/audio/voices/keita/N3-087-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "e76465de73728b65879db5777169fd8f4698397d8197b7a1d03cf23e14e656cb",
+  "peakPcm": 23842,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

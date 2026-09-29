@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-171",
+  "exampleIndex": 1,
+  "text": "確かに安いですが、必要ではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 206,
+  "signature": "3cde334bb627e04e115de001ecea1effa306052b52e37d25bd5ee13eae8a5fa1",
+  "src": "/audio/voices/keita/N3-171-2.mp3",
+  "srt": "/audio/voices/keita/N3-171-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "9914fca2512f8df47719fa43b7c1c1135d41243efbd0322bbcc8cfe39e3aa993",
+  "peakPcm": 23435,
+  "rmsDbfs": -20.42,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-159",
+  "exampleIndex": 0,
+  "text": "私もまた、同じ問題に悩んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 293,
+  "signature": "34ca0f9daac8b02548fd80ab73bb339782bfadedd244851ac02ea22c76a9ac0f",
+  "src": "/audio/voices/keita/N2-159-1.mp3",
+  "srt": "/audio/voices/keita/N2-159-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "cf0c966314abc8592af7d8ba4694b849c827441a116a7de7b8dfa92272784cb4",
+  "peakPcm": 24610,
+  "rmsDbfs": -20.34,
+  "rate": "+0%",
+  "listened": false
+}

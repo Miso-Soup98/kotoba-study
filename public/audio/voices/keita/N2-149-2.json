@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-149",
+  "exampleIndex": 1,
+  "text": "安いとはいっても、私には高すぎます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 288,
+  "signature": "e7db7a1990fd4f8cdf5c97112d5dd64538f9af4d8c4650c1f831c74fe35fa818",
+  "src": "/audio/voices/keita/N2-149-2.mp3",
+  "srt": "/audio/voices/keita/N2-149-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "5194fb71e639ade5108961772d7aea24c32cf726378032f9ebd3f7f176cacb69",
+  "peakPcm": 22974,
+  "rmsDbfs": -21.36,
+  "rate": "+0%",
+  "listened": false
+}

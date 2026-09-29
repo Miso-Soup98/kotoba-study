@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-056",
+  "exampleIndex": 1,
+  "text": "今日中にできないことはないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 148,
+  "signature": "fecc531fff4e680e0d84b4aa129ab3dafd876e0a48d4fa08acab8e232fe4f71d",
+  "src": "/audio/voices/keita/N3-056-2.mp3",
+  "srt": "/audio/voices/keita/N3-056-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "8a7966c860bed2e4991bb63a75f9311ec2c772f723a3d2e9eda6c2039ddcf0f8",
+  "peakPcm": 22015,
+  "rmsDbfs": -20.0,
+  "rate": "+0%",
+  "listened": false
+}

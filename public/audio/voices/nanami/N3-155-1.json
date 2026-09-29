@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-155",
+  "exampleIndex": 0,
+  "text": "別に怒っているわけではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 198,
+  "signature": "84bf70d15c450c2d05ef7867efb7be128589c938dfc695850217e497f02f7b9f",
+  "src": "/audio/voices/nanami/N3-155-1.mp3",
+  "srt": "/audio/voices/nanami/N3-155-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "ac0c8cdd79cc34e2408bacf032f9e6faaaa68f36f9e352124654da237b8bd524",
+  "peakPcm": 19877,
+  "rmsDbfs": -17.69,
+  "rate": "+0%",
+  "listened": false
+}

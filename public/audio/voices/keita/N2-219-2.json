@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-219",
+  "exampleIndex": 1,
+  "text": "何といっても、経験が大切です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 324,
+  "signature": "99293de8623faeedd90969b706ffef08cb4523ce0ecdec012773ec090dab0513",
+  "src": "/audio/voices/keita/N2-219-2.mp3",
+  "srt": "/audio/voices/keita/N2-219-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "4c657f2e6510b88191ee243f45745e66662a5c8f510c8ee1844c1806ba07f7bf",
+  "peakPcm": 24768,
+  "rmsDbfs": -21.19,
+  "rate": "+0%",
+  "listened": false
+}

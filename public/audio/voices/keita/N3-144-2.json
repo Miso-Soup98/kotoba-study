@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-144",
+  "exampleIndex": 1,
+  "text": "同じ間違いをしないように気をつけます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 192,
+  "signature": "f66df025d9c8cb9fd5f6eb6c9dfc4869efdf97651ced84ddf953ef9082fe3187",
+  "src": "/audio/voices/keita/N3-144-2.mp3",
+  "srt": "/audio/voices/keita/N3-144-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "4faf5533b68982cb24604c0d2a28361eea54219e8b23c586bb9210d90335ff8d",
+  "peakPcm": 26221,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-108",
+  "exampleIndex": 0,
+  "text": "雨もかまわず、子供たちは遊んでいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 268,
+  "signature": "c0ce8bce447848954e14466591970b71f843230023244f8921784d04efd3d57f",
+  "src": "/audio/voices/keita/N2-108-1.mp3",
+  "srt": "/audio/voices/keita/N2-108-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "40d5885506c764fda553bf523ce33070c9db263378a6e01b63eea1dc86b9089f",
+  "peakPcm": 24205,
+  "rmsDbfs": -20.67,
+  "rate": "+0%",
+  "listened": false
+}

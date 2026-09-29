@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-131",
+  "exampleIndex": 0,
+  "text": "試験中は話さないこと。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 186,
+  "signature": "70913d177e63e491034951f5a316e2554f545830585ce120e0f8a5521ff2ae13",
+  "src": "/audio/voices/nanami/N3-131-1.mp3",
+  "srt": "/audio/voices/nanami/N3-131-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "36817846519fbe7635b725039bee8ed83cdc21423260ef8ea2f5a04ee6e61f6a",
+  "peakPcm": 23923,
+  "rmsDbfs": -18.63,
+  "rate": "+0%",
+  "listened": false
+}

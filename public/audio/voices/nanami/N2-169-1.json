@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-169",
+  "exampleIndex": 0,
+  "text": "教えるつもりが、逆に教えてもらいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 299,
+  "signature": "a683a90fb87deb1d86384639d9fdfbef99e49d4a25612c7882d0453b0bb24d2c",
+  "src": "/audio/voices/nanami/N2-169-1.mp3",
+  "srt": "/audio/voices/nanami/N2-169-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "e27ce0b2525aa343786c97bce2b38ce34e51d75f6c0acf4d6363ec9ad7f522b2",
+  "peakPcm": 20256,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

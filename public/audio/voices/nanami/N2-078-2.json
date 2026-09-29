@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-078",
+  "exampleIndex": 1,
+  "text": "開店にあたり、ご挨拶申し上げます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 253,
+  "signature": "f28098f5556c8b48dc14f865b0af4cd20ec78ceb603386338f596f6b8caa3f41",
+  "src": "/audio/voices/nanami/N2-078-2.mp3",
+  "srt": "/audio/voices/nanami/N2-078-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "09e8cc5830d934ee217505ade74cefd82deebebf9ced4f0d3fc387fc98faa052",
+  "peakPcm": 21697,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

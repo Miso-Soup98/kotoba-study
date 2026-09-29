@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-044",
+  "exampleIndex": 1,
+  "text": "彼は英語ばかりでなく、日本語も話せます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 142,
+  "signature": "750cdea431c85c1435b4c4bd5a56107c822f2bc9d91d8627b82dfa7925bd8f0e",
+  "src": "/audio/voices/nanami/N3-044-2.mp3",
+  "srt": "/audio/voices/nanami/N3-044-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "8d7b312711768539f60814e96e8d4448183ce88dca5ee618974327921edbc6d3",
+  "peakPcm": 21377,
+  "rmsDbfs": -17.5,
+  "rate": "+0%",
+  "listened": false
+}

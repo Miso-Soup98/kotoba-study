@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-095",
+  "exampleIndex": 1,
+  "text": "文法はもとより、発音も練習します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 261,
+  "signature": "685b31ea3691c9cfc9cd72a5708ef7eacb05869d4c99b3f28d7e066d3aa3bee0",
+  "src": "/audio/voices/keita/N2-095-2.mp3",
+  "srt": "/audio/voices/keita/N2-095-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "5954d908b99e08f191d7c96aa45e0fc006ac06bf5db00c39403c9ce93fbdefeb",
+  "peakPcm": 21201,
+  "rmsDbfs": -19.69,
+  "rate": "+0%",
+  "listened": false
+}

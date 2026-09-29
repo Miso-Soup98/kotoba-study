@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-014",
+  "exampleIndex": 0,
+  "text": "資料に基づいて、説明します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 220,
+  "signature": "10e8e8f4e05529986f5f79e4b1bbabcc1e2fe76d214d89c721b5473fc3356db7",
+  "src": "/audio/voices/nanami/N2-014-1.mp3",
+  "srt": "/audio/voices/nanami/N2-014-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "f27ede1f776b684bfd920d02f7fb358e8c4a32fbf210d0a8347978a971760239",
+  "peakPcm": 20573,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

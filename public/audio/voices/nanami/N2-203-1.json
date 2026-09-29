@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-203",
+  "exampleIndex": 0,
+  "text": "氏名及び住所を記入してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 316,
+  "signature": "bd835b326093e004c416726cc5f44cb7f0fd2e4361ead345065a3039434657ff",
+  "src": "/audio/voices/nanami/N2-203-1.mp3",
+  "srt": "/audio/voices/nanami/N2-203-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "d65e87dad1b087926b7a6df14428e48e1f7efc3fc2f7416cccf14f6060e2aedb",
+  "peakPcm": 20643,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

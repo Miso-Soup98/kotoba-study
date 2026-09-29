@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-021",
+  "exampleIndex": 0,
+  "text": "間違えたら、謝るべきです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 131,
+  "signature": "e3b014fab0d3be6dd4ba4367275ceaa3639ba52dc15c837434ffa16b8abc0c4b",
+  "src": "/audio/voices/keita/N3-021-1.mp3",
+  "srt": "/audio/voices/keita/N3-021-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "beeb5ddeb64f5588001fc20d31bd2b602ed38257e340ebad2a9ced59a8097d9e",
+  "peakPcm": 25490,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-055",
+  "exampleIndex": 0,
+  "text": "悪いと知りながらも、うそをついてしまいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 148,
+  "signature": "ac0802a8d03c4e4f78a54933d74882f1fc398619204a96e8d3b2a1ea1ff6d02a",
+  "src": "/audio/voices/keita/N3-055-1.mp3",
+  "srt": "/audio/voices/keita/N3-055-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "0f4e0ca99f04c1edd9282ead9775144e44977899a9147d9d2eb3e47cf54484fe",
+  "peakPcm": 24288,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

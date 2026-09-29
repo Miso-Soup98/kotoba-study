@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-082",
+  "exampleIndex": 1,
+  "text": "心を込めて料理を作りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 161,
+  "signature": "3af30df93b3a0b3bd508e491220a6916b8fb78d51f987ba23b184c0ee6900438",
+  "src": "/audio/voices/keita/N3-082-2.mp3",
+  "srt": "/audio/voices/keita/N3-082-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "9e27ccb05dde5993f80cf18526febab844398b72dbc7c64a0e95614b55a890b7",
+  "peakPcm": 21220,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

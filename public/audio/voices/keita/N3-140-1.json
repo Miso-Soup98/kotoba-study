@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-140",
+  "exampleIndex": 0,
+  "text": "先生に、明日までに出すように言われました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 190,
+  "signature": "a3e5e7f72e76f417f6cb6ca6c0ef9528b920f8ac3ca12e9e2792674d1d955ecc",
+  "src": "/audio/voices/keita/N3-140-1.mp3",
+  "srt": "/audio/voices/keita/N3-140-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "96519dfcc2e009b7442018414439c3d8ad150bd3c13f389c822e1461a7479996",
+  "peakPcm": 22193,
+  "rmsDbfs": -20.68,
+  "rate": "+0%",
+  "listened": false
+}

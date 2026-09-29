@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-032",
+  "exampleIndex": 0,
+  "text": "友達が送ってくれたので、歩かずに済みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 229,
+  "signature": "b09173cfb587e084a4e8f7781e4ade11c85387dcc9b6f4ed2b82b3a89b7d53a5",
+  "src": "/audio/voices/nanami/N2-032-1.mp3",
+  "srt": "/audio/voices/nanami/N2-032-1.srt",
+  "durationSeconds": 4.464,
+  "bytes": 26784,
+  "sha256": "61c4881da1fa36bc6110dcbeac99f6b4dab5eadb2aa684d0426c381183862b47",
+  "peakPcm": 21699,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

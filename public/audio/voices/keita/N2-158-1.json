@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-158",
+  "exampleIndex": 0,
+  "text": "そこに名前を書いてちょうだい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 293,
+  "signature": "5e4e48a747e05b3539126ff27f51d8fdef982d054ea17d5a9113b044a8c27711",
+  "src": "/audio/voices/keita/N2-158-1.mp3",
+  "srt": "/audio/voices/keita/N2-158-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "86a88c9e6f4ca839b1cf5a770383aa1ebf10638783f17bce64a4b18cc5be75c6",
+  "peakPcm": 21679,
+  "rmsDbfs": -19.96,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-058",
+  "exampleIndex": 1,
+  "text": "彼は医者であると同時に、作家でもあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 242,
+  "signature": "b4c87b3ec29c61f6ca96c1e78afe7658b2bf4b0489b45e1ab3e3b2998d35192e",
+  "src": "/audio/voices/keita/N2-058-2.mp3",
+  "srt": "/audio/voices/keita/N2-058-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "8800cc5ecb30d6c181601f2b00f2f81dd925e8fe53b4ad9ae913496001363b13",
+  "peakPcm": 22721,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

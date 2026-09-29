@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-088",
+  "exampleIndex": 0,
+  "text": "親にしたら、子供の安全が一番です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 258,
+  "signature": "4c6f5c291997f59c8dc4bcada5a524e62717b5d02585f1a093417e0b5f18db64",
+  "src": "/audio/voices/nanami/N2-088-1.mp3",
+  "srt": "/audio/voices/nanami/N2-088-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "a9d9b54654c47c9d212f0ced6857bd45add127a0ca59c20a7d4c19c0300859ef",
+  "peakPcm": 21889,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false
+}

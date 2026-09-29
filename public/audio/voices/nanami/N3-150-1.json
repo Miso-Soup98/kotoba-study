@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-150",
+  "exampleIndex": 0,
+  "text": "わざと間違えたのですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 195,
+  "signature": "a5fe7911067f9229d37b48dee28126d1230efad2e3afb6e005647fc86b26c93f",
+  "src": "/audio/voices/nanami/N3-150-1.mp3",
+  "srt": "/audio/voices/nanami/N3-150-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "50ead08af91b7bf698d3670deb494e062ae78b7397a65ead1bbcbeabf4a34ceb",
+  "peakPcm": 22948,
+  "rmsDbfs": -18.72,
+  "rate": "+0%",
+  "listened": false
+}

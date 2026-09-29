@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-025",
+  "exampleIndex": 1,
+  "text": "忘れないうちに、連絡します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 133,
+  "signature": "0bc69d8ee3f58b044df3bf6cb85ee8986f03664781e1b1593e425aabe4e1fa37",
+  "src": "/audio/voices/keita/N3-025-2.mp3",
+  "srt": "/audio/voices/keita/N3-025-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "a50d56578c8f020159533370073ec1cfad1e6f63969b24945d19f93187341c94",
+  "peakPcm": 21915,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

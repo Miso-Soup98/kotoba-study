@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-134",
+  "exampleIndex": 1,
+  "text": "来週というと、月曜日ですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 187,
+  "signature": "c5ae8337bdaf2a758bebd24a8c328d018956d928948b2df901ca78f603fb8258",
+  "src": "/audio/voices/nanami/N3-134-2.mp3",
+  "srt": "/audio/voices/nanami/N3-134-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "6cd23b6f44ac3dbe8cb04fb04b811544a42502a9741b843d25c56db79f232886",
+  "peakPcm": 20932,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

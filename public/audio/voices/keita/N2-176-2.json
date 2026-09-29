@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-176",
+  "exampleIndex": 1,
+  "text": "百人ばかり集まりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 302,
+  "signature": "168a1ed38a46767b9722fed9ed79b7bd23cdc720fce076f8ad395c6d7a5879e2",
+  "src": "/audio/voices/keita/N2-176-2.mp3",
+  "srt": "/audio/voices/keita/N2-176-2.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "3a3288721043070255b659c29a8201a457f160c858121bf0e61ff55cdc62d206",
+  "peakPcm": 23091,
+  "rmsDbfs": -21.67,
+  "rate": "+0%",
+  "listened": false
+}

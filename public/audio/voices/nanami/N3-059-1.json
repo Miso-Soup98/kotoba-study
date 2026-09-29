@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-059",
+  "exampleIndex": 0,
+  "text": "この上着は少し子供っぽいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 150,
+  "signature": "ded748af8ea4a242a8bfa64d471e39bbbe0bf17fa9041525b0c45047001ae903",
+  "src": "/audio/voices/nanami/N3-059-1.mp3",
+  "srt": "/audio/voices/nanami/N3-059-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "b2336e4a242c20cd737390bfca326301f0b79af1fc81fe4e5455deab6fa92042",
+  "peakPcm": 21114,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

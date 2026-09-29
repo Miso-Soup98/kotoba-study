@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-079",
+  "exampleIndex": 0,
+  "text": "申請に際して、必要な書類を確認してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 253,
+  "signature": "4fff1894ac822f60ed630a63e57ae97d24fc6c8827094ba99d1cd1344c6b339c",
+  "src": "/audio/voices/keita/N2-079-1.mp3",
+  "srt": "/audio/voices/keita/N2-079-1.srt",
+  "durationSeconds": 4.56,
+  "bytes": 27360,
+  "sha256": "14542c7b4e3e198c2ecc444ada276871994e7e03fe0fd78d67d21f8562dc6e5d",
+  "peakPcm": 21478,
+  "rmsDbfs": -19.97,
+  "rate": "+0%",
+  "listened": false
+}

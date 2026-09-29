@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-155",
+  "exampleIndex": 1,
+  "text": "駅に近いという点から、この家を選びました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 291,
+  "signature": "1e8a8931a05a3db8cc106655db9fa978da0bc5e3d35c24df7bf18ab5a40dcca0",
+  "src": "/audio/voices/keita/N2-155-2.mp3",
+  "srt": "/audio/voices/keita/N2-155-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "57e5b133baa01ba89ed320ecbad5f2a1dd488dba66a55527d7385ca800930b0c",
+  "peakPcm": 22226,
+  "rmsDbfs": -20.21,
+  "rate": "+0%",
+  "listened": false
+}

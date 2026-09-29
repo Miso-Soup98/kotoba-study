@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-052",
+  "exampleIndex": 0,
+  "text": "旅行をきっかけに、日本語を勉強し始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 239,
+  "signature": "8520c8ce8e2de5a7454baf9469000f401bc78c4186b5534ef697443c4bb7f904",
+  "src": "/audio/voices/nanami/N2-052-1.mp3",
+  "srt": "/audio/voices/nanami/N2-052-1.srt",
+  "durationSeconds": 4.56,
+  "bytes": 27360,
+  "sha256": "22706a1b396f1f7162df09940b94c20e30706b3820140bde8f747f618bbf39e6",
+  "peakPcm": 19947,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

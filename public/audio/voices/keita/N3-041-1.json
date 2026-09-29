@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-041",
+  "exampleIndex": 0,
+  "text": "彼は静かというより、話すのが苦手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 141,
+  "signature": "a359761111973e4c719fbb67dd1e2bce0aa7288c25785acfd03b63071553ea49",
+  "src": "/audio/voices/keita/N3-041-1.mp3",
+  "srt": "/audio/voices/keita/N3-041-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "afa61545a833737d6d745eebe31c4749552ecf6fe4b4d0a3119d7752377e13c5",
+  "peakPcm": 23601,
+  "rmsDbfs": -21.46,
+  "rate": "+0%",
+  "listened": false
+}

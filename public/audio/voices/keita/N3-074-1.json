@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-074",
+  "exampleIndex": 0,
+  "text": "申し込む際に、身分証を見せてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 157,
+  "signature": "cb4726154ba5fa151f16c3d05fa34b6f6a91c87a0c53f0a45380dd289c3c2079",
+  "src": "/audio/voices/keita/N3-074-1.mp3",
+  "srt": "/audio/voices/keita/N3-074-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "f2de8fa1a95b83a110e5d3cfe1bf335c5a773d376e0ab0b879becc5681aa91bf",
+  "peakPcm": 21377,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

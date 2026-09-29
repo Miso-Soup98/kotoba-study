@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-165",
+  "exampleIndex": 1,
+  "text": "どうやら私の勘違いだったようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 297,
+  "signature": "eb3c4894a451b1d15bde257f52273087bb4a2432f43ab32bb76e09b84e33a820",
+  "src": "/audio/voices/nanami/N2-165-2.mp3",
+  "srt": "/audio/voices/nanami/N2-165-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "61be1ec28409490d38bd7fe898297792f1b61c57a16021ae90a55da4de56e8b8",
+  "peakPcm": 20847,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

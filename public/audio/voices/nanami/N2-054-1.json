@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-054",
+  "exampleIndex": 0,
+  "text": "出かけようとしていたところに、客が来ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 240,
+  "signature": "92b12303658c9d86b69651df667517e1210104e0fe70cd827873ab10844f867a",
+  "src": "/audio/voices/nanami/N2-054-1.mp3",
+  "srt": "/audio/voices/nanami/N2-054-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "f5448593f3d72008f21c1b7df3ef27c050c9b1c5f779374048f4a9ff6cce4776",
+  "peakPcm": 20797,
+  "rmsDbfs": -17.94,
+  "rate": "+0%",
+  "listened": false
+}

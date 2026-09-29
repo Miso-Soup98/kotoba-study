@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-157",
+  "exampleIndex": 0,
+  "text": "道が混んでいたものですから、遅れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 292,
+  "signature": "35a0dc33c4d4164529fe9c489f09404322d2758e201082d6cdaef433b8377ae9",
+  "src": "/audio/voices/keita/N2-157-1.mp3",
+  "srt": "/audio/voices/keita/N2-157-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "b25dac7a1031f1aaa0d309e1709e034887649c42a49da0166e68261f111b77dc",
+  "peakPcm": 21987,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

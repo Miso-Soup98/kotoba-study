@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-118",
+  "exampleIndex": 0,
+  "text": "合格して、どれほどうれしかったことか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 273,
+  "signature": "efdd59bc9ef2f9368ee672dae7a42c0c7b4ce66208e454df6d803b5a66dd55e8",
+  "src": "/audio/voices/nanami/N2-118-1.mp3",
+  "srt": "/audio/voices/nanami/N2-118-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "19d39d847f2ed83a67e299814e35e0d7b3d8428d319824e1b6b9a3f27b798df8",
+  "peakPcm": 20871,
+  "rmsDbfs": -18.12,
+  "rate": "+0%",
+  "listened": false
+}

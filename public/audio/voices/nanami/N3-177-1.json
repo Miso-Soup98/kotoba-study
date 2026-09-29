@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-177",
+  "exampleIndex": 0,
+  "text": "明日も店は開きません。つまり、二日間休みです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 209,
+  "signature": "d04370116847b9375a8aace429f3aa7b8e5535ed9253bf0688271982b4a9ebb8",
+  "src": "/audio/voices/nanami/N3-177-1.mp3",
+  "srt": "/audio/voices/nanami/N3-177-1.srt",
+  "durationSeconds": 5.928,
+  "bytes": 35568,
+  "sha256": "698eb5276e325fe20acfbb83c95aa6e3db2f8bea564b5b591363cc40644b8e38",
+  "peakPcm": 21342,
+  "rmsDbfs": -18.51,
+  "rate": "+0%",
+  "listened": false
+}

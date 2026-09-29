@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-066",
+  "exampleIndex": 1,
+  "text": "鍵を忘れたばかりに、一時間も待ちました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 246,
+  "signature": "f357a5d05694f10455db0c70461f2ee4aec3f5e087050004f342296261a99772",
+  "src": "/audio/voices/keita/N2-066-2.mp3",
+  "srt": "/audio/voices/keita/N2-066-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "15cd897d58a6e941893a33516c02ac32542f32bb2c0d4435ced3dba9fc379426",
+  "peakPcm": 21411,
+  "rmsDbfs": -21.09,
+  "rate": "+0%",
+  "listened": false
+}

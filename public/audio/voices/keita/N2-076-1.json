@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-076",
+  "exampleIndex": 0,
+  "text": "こんな簡単な問題で間違えるようでは、困ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 251,
+  "signature": "13c6ce612e70e4e03ff2f66917275125be99b63fd6c9905d5571e6f27f6e912f",
+  "src": "/audio/voices/keita/N2-076-1.mp3",
+  "srt": "/audio/voices/keita/N2-076-1.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "6ae4b841653031bfc56cab6530fba10d54c24f2720838cfbc8ffebfe98cb35a4",
+  "peakPcm": 22372,
+  "rmsDbfs": -19.71,
+  "rate": "+0%",
+  "listened": false
+}

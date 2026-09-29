@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-068",
+  "exampleIndex": 1,
+  "text": "熱があって、勉強するどころではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 247,
+  "signature": "0ef5734cd632051276bc6f928a16beabc18beebc51921330f6e5afc3110bc522",
+  "src": "/audio/voices/nanami/N2-068-2.mp3",
+  "srt": "/audio/voices/nanami/N2-068-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "41b53108c11f1d26fa84007f3a3c62364a3809f53ae197ddb23dbfb230859fac",
+  "peakPcm": 20974,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-086",
+  "exampleIndex": 0,
+  "text": "足跡からすると、大きな動物のようです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 257,
+  "signature": "7131d972bd2169e5ec0901b308e7ae4269e37eb1604cd76cd4d9a170a53f02e0",
+  "src": "/audio/voices/keita/N2-086-1.mp3",
+  "srt": "/audio/voices/keita/N2-086-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "f61e07aeec65eb17e6c44cf1d499bca4c62275f5884606b70ba2160d84ee8ab3",
+  "peakPcm": 22269,
+  "rmsDbfs": -20.99,
+  "rate": "+0%",
+  "listened": false
+}

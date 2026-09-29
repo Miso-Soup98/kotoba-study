@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-099",
+  "exampleIndex": 1,
+  "text": "必要な資料のみ持参してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 263,
+  "signature": "9617588f6422d9522ce0e18abd2998740cdd52b542e57f591287cbd2958a1cfb",
+  "src": "/audio/voices/nanami/N2-099-2.mp3",
+  "srt": "/audio/voices/nanami/N2-099-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "56885d28f9452a337286b4cc4a4efa9ea8373228e8c7735a0c1f12b776c95079",
+  "peakPcm": 20139,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-148",
+  "exampleIndex": 1,
+  "text": "待ちましたが、彼はついに来ませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 194,
+  "signature": "9862e63e01be37e449dfca5e66d24010a52eec6a1c09451d9a94eb481aa51ebc",
+  "src": "/audio/voices/nanami/N3-148-2.mp3",
+  "srt": "/audio/voices/nanami/N3-148-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "33c42ea29f9e37523088d96defb324a8469c6660ded447980b87a534cc705dfe",
+  "peakPcm": 21892,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

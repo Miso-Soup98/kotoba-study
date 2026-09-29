@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-069",
+  "exampleIndex": 1,
+  "text": "一人暮らしは自由な反面、寂しいこともあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 248,
+  "signature": "11e6c8c6d63e6331a3164087ad58ecfcb8b5585863fdba58ba315d70d3ab1ddb",
+  "src": "/audio/voices/keita/N2-069-2.mp3",
+  "srt": "/audio/voices/keita/N2-069-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "d2531c043aa12fe959b3795a184efbab9485420214e89348f51eec3619b0884f",
+  "peakPcm": 21399,
+  "rmsDbfs": -20.37,
+  "rate": "+0%",
+  "listened": false
+}

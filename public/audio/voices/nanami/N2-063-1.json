@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-063",
+  "exampleIndex": 0,
+  "text": "長く住んでいるだけあって、この町に詳しいですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 245,
+  "signature": "7a6c8b4d898a896a12b43be3aa01d2e326fe51bcf37866e3f36116c14cf40b13",
+  "src": "/audio/voices/nanami/N2-063-1.mp3",
+  "srt": "/audio/voices/nanami/N2-063-1.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "f92761a1f34bb6fc043de89f612d7b9144cbd189d860446b8c5446bb246bffd1",
+  "peakPcm": 21815,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

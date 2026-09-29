@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-104",
+  "exampleIndex": 0,
+  "text": "早起きした甲斐がありました。美しい朝日が見られました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 266,
+  "signature": "3b92c10efb24f58c023d5cb6e48b01a6b3b128f889a60a114c3abc0859da024d",
+  "src": "/audio/voices/nanami/N2-104-1.mp3",
+  "srt": "/audio/voices/nanami/N2-104-1.srt",
+  "durationSeconds": 5.736,
+  "bytes": 34416,
+  "sha256": "3e251169738720f6e74e6e2ea2dcd2aa8300656d1b06e9761e192eb84353182e",
+  "peakPcm": 22416,
+  "rmsDbfs": -18.6,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-090",
+  "exampleIndex": 0,
+  "text": "行くにしろ行かないにしろ、今日中に返事をください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 259,
+  "signature": "335e32365386121d823f2ccdef111441d8d4291c9f92c1a9b65048b868bc59cf",
+  "src": "/audio/voices/keita/N2-090-1.mp3",
+  "srt": "/audio/voices/keita/N2-090-1.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "9ad060d5c44c071641d5527a40e69a5bda76dbfd032b248736ab20660212bd93",
+  "peakPcm": 22094,
+  "rmsDbfs": -19.86,
+  "rate": "+0%",
+  "listened": false
+}

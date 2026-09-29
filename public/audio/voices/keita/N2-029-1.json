@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-029",
+  "exampleIndex": 0,
+  "text": "このままでは、大きな事故につながりかねません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 228,
+  "signature": "5e9956a8edef44e517d2c1daf90fdb07c704738600dd71aedd59658da579baf3",
+  "src": "/audio/voices/keita/N2-029-1.mp3",
+  "srt": "/audio/voices/keita/N2-029-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "6b6a08ee88d8e67392608876bb02ad6dfe9d3f00654748b2b48a280efcad1fbb",
+  "peakPcm": 22299,
+  "rmsDbfs": -20.19,
+  "rate": "+0%",
+  "listened": false
+}

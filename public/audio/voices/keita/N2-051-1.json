@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-051",
+  "exampleIndex": 0,
+  "text": "日本に来て以来、毎日日本語を使っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 239,
+  "signature": "d5ab178209d6fd3cdcb2ce2501d6bbd0803db1984301da99f81c69ef4091fcb3",
+  "src": "/audio/voices/keita/N2-051-1.mp3",
+  "srt": "/audio/voices/keita/N2-051-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "73eda2e7d3b5bb3f3f8503ad1b67fe495c236ece653a5238e8880fd5e34e6fcd",
+  "peakPcm": 25151,
+  "rmsDbfs": -19.99,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-046",
+  "exampleIndex": 1,
+  "text": "発音はもちろん、文法も大切です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 143,
+  "signature": "9ee88b58d9e7db3f9a4f6d7fc7c9f4f5b65838b83bc177c66384d32e70f42884",
+  "src": "/audio/voices/keita/N3-046-2.mp3",
+  "srt": "/audio/voices/keita/N3-046-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "73cbfa12fea62ad6ed949a00c1c0bb625f11178e27a49f0a59808349b272a749",
+  "peakPcm": 21057,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

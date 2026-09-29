@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-174",
+  "exampleIndex": 0,
+  "text": "ところで、明日は何時に来ますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 207,
+  "signature": "d35e3a364123378fb8b961429b1966ce1eb9e5fe926177f127c9009a322da341",
+  "src": "/audio/voices/nanami/N3-174-1.mp3",
+  "srt": "/audio/voices/nanami/N3-174-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "ce8c80239b8a5be881ea635e97e8098d48b1603703e665bfbd86ba7c6c7096fe",
+  "peakPcm": 20821,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-193",
+  "exampleIndex": 1,
+  "text": "雨が降っています。しかも、風まで強いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 311,
+  "signature": "3f7564e1b64ad86f7c8c20893cd6ba363294a7b288d346b64225e30dbeb7870f",
+  "src": "/audio/voices/nanami/N2-193-2.mp3",
+  "srt": "/audio/voices/nanami/N2-193-2.srt",
+  "durationSeconds": 5.328,
+  "bytes": 31968,
+  "sha256": "4f8322384ab7187ff717e9daeefb11e572afb94406be17bf2da149186828950e",
+  "peakPcm": 21376,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-089",
+  "exampleIndex": 1,
+  "text": "遅れるにしろ、連絡は必要です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 258,
+  "signature": "7308408450607fc4deb287da0356d955f06e105324b0cd1963f11520f55bcacc",
+  "src": "/audio/voices/nanami/N2-089-2.mp3",
+  "srt": "/audio/voices/nanami/N2-089-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "b0a24f39e897732993359e7194ba2ebdec384dea5f7fcbacbe44aa86547ba469",
+  "peakPcm": 20776,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

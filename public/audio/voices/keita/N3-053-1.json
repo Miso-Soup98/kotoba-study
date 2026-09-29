@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-053",
+  "exampleIndex": 0,
+  "text": "初めて作ったにしては、上手ですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 147,
+  "signature": "fcd2351fe9e9fb386003d6417fda1b79961777d363474ae7f5d09de3252476b3",
+  "src": "/audio/voices/keita/N3-053-1.mp3",
+  "srt": "/audio/voices/keita/N3-053-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "19e98147d49651d616cbe16db23e2f69db89bc89d8df43e1fb9126c6b8cd8728",
+  "peakPcm": 21915,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

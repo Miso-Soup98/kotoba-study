@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-050",
+  "exampleIndex": 1,
+  "text": "準備ができ次第、出発します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 238,
+  "signature": "8d0888df8f89de44dccebf0f284dad2434dd2b0273c7c4f6676f9822c995f0c1",
+  "src": "/audio/voices/nanami/N2-050-2.mp3",
+  "srt": "/audio/voices/nanami/N2-050-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "a8793646ebf7e8e35a7cd52e1e54d4f4acf4a51c7f527757b231a74849260383",
+  "peakPcm": 21167,
+  "rmsDbfs": -19.25,
+  "rate": "+0%",
+  "listened": false
+}

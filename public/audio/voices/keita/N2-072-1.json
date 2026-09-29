@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-072",
+  "exampleIndex": 0,
+  "text": "暑くてたまりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 249,
+  "signature": "c629734c6d1226515dcdabb0e03fc6a7128813ee02da4f81cffe5f82548f2c2a",
+  "src": "/audio/voices/keita/N2-072-1.mp3",
+  "srt": "/audio/voices/keita/N2-072-1.srt",
+  "durationSeconds": 2.136,
+  "bytes": 12816,
+  "sha256": "dd1617ba197167ebf7dba887eff647b7e25f4d20a553158b64c771151a54e6ab",
+  "peakPcm": 24446,
+  "rmsDbfs": -23.69,
+  "rate": "+0%",
+  "listened": false
+}

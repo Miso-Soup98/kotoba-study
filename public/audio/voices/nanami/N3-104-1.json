@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-104",
+  "exampleIndex": 0,
+  "text": "前にここへ来たような気がします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 172,
+  "signature": "81dbb6d36fb3de68a36610516290c6b15b25f4003861e1eb28e1f7a2a031ee16",
+  "src": "/audio/voices/nanami/N3-104-1.mp3",
+  "srt": "/audio/voices/nanami/N3-104-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "7736b90980542129b5ec8dcf81b626f29d3f7bb3da031e886a7f212279348fa6",
+  "peakPcm": 22648,
+  "rmsDbfs": -16.86,
+  "rate": "+0%",
+  "listened": false
+}

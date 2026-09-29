@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-102",
+  "exampleIndex": 1,
+  "text": "負けましたが、けがをしなかっただけましでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 265,
+  "signature": "27f34a02f5432aca47e1c63ccfd65dc5dc1dd536764689ec7aea0bda7f50d599",
+  "src": "/audio/voices/nanami/N2-102-2.mp3",
+  "srt": "/audio/voices/nanami/N2-102-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "d9c8d8e2de816b309da1b1a9c6f92a13d6d086c225ae8ea4374b87324df49132",
+  "peakPcm": 22307,
+  "rmsDbfs": -18.27,
+  "rate": "+0%",
+  "listened": false
+}

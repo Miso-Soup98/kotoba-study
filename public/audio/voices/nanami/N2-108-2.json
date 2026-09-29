@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-108",
+  "exampleIndex": 1,
+  "text": "人目もかまわず、泣きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 268,
+  "signature": "d3ac7103c407b2a08eeddbc82e94465460ccdc5252e14896e9d489cd588ffd44",
+  "src": "/audio/voices/nanami/N2-108-2.mp3",
+  "srt": "/audio/voices/nanami/N2-108-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "9b127002bf7ccb79c70b2e8e511b720896317853518c92c834a848657838ad9d",
+  "peakPcm": 22493,
+  "rmsDbfs": -18.43,
+  "rate": "+0%",
+  "listened": false
+}

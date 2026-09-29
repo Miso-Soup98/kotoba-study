@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-103",
+  "exampleIndex": 0,
+  "text": "言うだけは言いましたが、聞いてもらえませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 265,
+  "signature": "77bb440ce0c45fe28ecbd72638adc2016b642c50814f104406aa35651cfa91eb",
+  "src": "/audio/voices/nanami/N2-103-1.mp3",
+  "srt": "/audio/voices/nanami/N2-103-1.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "4b18eaa0457f863f7dd000f644a3a2c0945069d8936c9de9a900c454acd43490",
+  "peakPcm": 20857,
+  "rmsDbfs": -18.41,
+  "rate": "+0%",
+  "listened": false
+}

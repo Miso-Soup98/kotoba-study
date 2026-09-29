@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-063",
+  "exampleIndex": 1,
+  "text": "専門家だけあって、説明が分かりやすいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 245,
+  "signature": "25b3f4070a1b098583bbb7c4d1fae387dba8059d760a60f32056fa7cf9376c4b",
+  "src": "/audio/voices/keita/N2-063-2.mp3",
+  "srt": "/audio/voices/keita/N2-063-2.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "1ded68625d31d9b304f5a283a951ccd2986cb4511c57a93a89693e23b13982d6",
+  "peakPcm": 23136,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

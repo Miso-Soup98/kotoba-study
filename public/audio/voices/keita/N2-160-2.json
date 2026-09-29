@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-160",
+  "exampleIndex": 1,
+  "text": "出がけに電話が鳴りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 294,
+  "signature": "215cdfb66a8eec2ca7b7683c047f0b9ecdc57929aaa8f012266ee85a0d3bd223",
+  "src": "/audio/voices/keita/N2-160-2.mp3",
+  "srt": "/audio/voices/keita/N2-160-2.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "0367d5f4135cf466e1cb1cc33d874dbbf2c6a1e66b803cf3ec08b33060552181",
+  "peakPcm": 23416,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

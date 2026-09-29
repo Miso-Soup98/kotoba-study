@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-215",
+  "exampleIndex": 0,
+  "text": "駅までたった五分です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 322,
+  "signature": "764e5f591c67769c85cac8139ecafa73a07de00d6b59aeae755402b707ad7267",
+  "src": "/audio/voices/keita/N2-215-1.mp3",
+  "srt": "/audio/voices/keita/N2-215-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "c76931438f9672bd04dfe43924bc5603d5a78f75074e342939d98744c87a888b",
+  "peakPcm": 25641,
+  "rmsDbfs": -22.43,
+  "rate": "+0%",
+  "listened": false
+}

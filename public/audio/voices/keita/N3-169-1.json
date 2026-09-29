@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-169",
+  "exampleIndex": 0,
+  "text": "申し込みはすでに終わっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 205,
+  "signature": "01dccb697619c08438928d906e60a08c3d82a1fd8480ded5519e8a4cff3c5dc9",
+  "src": "/audio/voices/keita/N3-169-1.mp3",
+  "srt": "/audio/voices/keita/N3-169-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "3f2ecc5048c3469632a44baf68d3842259a155117c7536693dd2c4b9f4ed2a8a",
+  "peakPcm": 21837,
+  "rmsDbfs": -20.0,
+  "rate": "+0%",
+  "listened": false
+}

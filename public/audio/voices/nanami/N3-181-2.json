@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-181",
+  "exampleIndex": 1,
+  "text": "例えば、この文を読んでみてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 211,
+  "signature": "8d2ef1f14af42f0bc514b90ceca496519431047b02ccd9fb2873b750c1fd6928",
+  "src": "/audio/voices/nanami/N3-181-2.mp3",
+  "srt": "/audio/voices/nanami/N3-181-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "efe5b9b53ec17be190506cf5cbaaa30b6b7350134785f2bb4a5d1e56c945dc48",
+  "peakPcm": 20364,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

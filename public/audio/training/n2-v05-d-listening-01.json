@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-d-listening-01",
+  "exampleIndex": 0,
+  "text": "昨日、教室に青い本を忘れた方はいませんか。本は二階の事務室で預かっています。今日は午後七時まで受け取れます。明日は事務室が休みなので、来られない方は金曜日にお願いします。教室の先生ではなく、事務室の人に名前を伝えてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "c8e6b5ed4f068ac2853db5003644b06f6b768be4882e352f18d56d9597081918",
+  "src": "/audio/training/n2-v05-d-listening-01.mp3",
+  "srt": "/audio/training/n2-v05-d-listening-01.srt",
+  "durationSeconds": 23.136,
+  "bytes": 138816,
+  "sha256": "3229af9b0ef378562a6a0c60dc997e244d92ba81f90b01368543a5db518f1fd7",
+  "peakPcm": 22597,
+  "rmsDbfs": -17.31,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

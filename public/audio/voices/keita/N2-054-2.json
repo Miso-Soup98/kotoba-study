@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-054",
+  "exampleIndex": 1,
+  "text": "帰ろうとしているところを、先生に呼び止められました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 240,
+  "signature": "fb12fcb6b0536a5477f051d09dc8cc8859ba0a0d3f131b26b1c2dc28c8481376",
+  "src": "/audio/voices/keita/N2-054-2.mp3",
+  "srt": "/audio/voices/keita/N2-054-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "bd21efdfb2995054b028882a32809c3c03ac842b321f12f15cbe04df4d28d360",
+  "peakPcm": 22127,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

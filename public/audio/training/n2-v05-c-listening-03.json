@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-c-listening-03",
+  "exampleIndex": 0,
+  "text": "試作品を使った感想を集めています。よかった点だけでなく、使いにくかった場面も教えてください。ただ、改良の案まで考えていただく必要はありません。どの操作で困ったのかが分かれば、こちらで方法を検討できます。使った時間の長さは問いませんので、短時間しか使わなかった方の意見も歓迎します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "b235d1897f70256afc6cf92f8349a97f4f0efd8dafd06836edc08f71ce396165",
+  "src": "/audio/training/n2-v05-c-listening-03.mp3",
+  "srt": "/audio/training/n2-v05-c-listening-03.srt",
+  "durationSeconds": 26.784,
+  "bytes": 160704,
+  "sha256": "cfa5c77b5b11ca1063954b92226ce92b45102508619a4a720555322dfb20d067",
+  "peakPcm": 21497,
+  "rmsDbfs": -17.17,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

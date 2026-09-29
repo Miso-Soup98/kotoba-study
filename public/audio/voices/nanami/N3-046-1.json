@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-046",
+  "exampleIndex": 0,
+  "text": "平日はもちろん、土曜日も開いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 143,
+  "signature": "8374d1d53b57d05a75f496770f5333596b22d8a12384b724d3a22427b1776de9",
+  "src": "/audio/voices/nanami/N3-046-1.mp3",
+  "srt": "/audio/voices/nanami/N3-046-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "8ae5014d7be4f538b0bb7500188325a7ea52b53721b9c73527eb57fe88f643bf",
+  "peakPcm": 22698,
+  "rmsDbfs": -16.9,
+  "rate": "+0%",
+  "listened": false
+}

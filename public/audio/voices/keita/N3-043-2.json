@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-043",
+  "exampleIndex": 1,
+  "text": "どんなに忙しくても、朝御飯は食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 142,
+  "signature": "bd7c453c33b6d853e1e454b52a0b28c9094410a3af329094d24c12dc12c2118e",
+  "src": "/audio/voices/keita/N3-043-2.mp3",
+  "srt": "/audio/voices/keita/N3-043-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "75a3bb0120485a47c96a8d155d7ffb617215026d3b05d391aa0a62a258da8b62",
+  "peakPcm": 24159,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

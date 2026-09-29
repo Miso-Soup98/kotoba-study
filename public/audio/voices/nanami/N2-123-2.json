@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-123",
+  "exampleIndex": 1,
+  "text": "本を買おうか買うまいか、考えています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 275,
+  "signature": "e1d78b7c40062050bbc42fe7afdd4f525fdd8a25818ab3abd3afbaf1cc80c57f",
+  "src": "/audio/voices/nanami/N2-123-2.mp3",
+  "srt": "/audio/voices/nanami/N2-123-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "b29d49f3c0d0c4f2945f6bc8e072db6ee127ad925de2c3bf85502f22e7772405",
+  "peakPcm": 21159,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false
+}

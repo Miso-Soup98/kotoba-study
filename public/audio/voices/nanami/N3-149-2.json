@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-149",
+  "exampleIndex": 1,
+  "text": "近いので、わざわざ車で行く必要はありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 195,
+  "signature": "d36d7c28ae57c8901a1ad934a9f65dca19aaf94b55ab3a0e93f9b3427fd0808d",
+  "src": "/audio/voices/nanami/N3-149-2.mp3",
+  "srt": "/audio/voices/nanami/N3-149-2.srt",
+  "durationSeconds": 4.536,
+  "bytes": 27216,
+  "sha256": "3e61d91113825a3838973a233233fb7c500328a3dea39e8bbcaccab89ed3739d",
+  "peakPcm": 21599,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

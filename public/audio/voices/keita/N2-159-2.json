@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-159",
+  "exampleIndex": 1,
+  "text": "失敗もまた、大切な経験です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 293,
+  "signature": "c03b3af37c10ee820e2387da05a411a95c933c81345f631221f734ac85dbde43",
+  "src": "/audio/voices/keita/N2-159-2.mp3",
+  "srt": "/audio/voices/keita/N2-159-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "41d015d5aa5c23d66087eb3ecd40451c177a58e617cab8efebe9265a0e227e76",
+  "peakPcm": 25957,
+  "rmsDbfs": -21.0,
+  "rate": "+0%",
+  "listened": false
+}

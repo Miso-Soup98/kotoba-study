@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-015",
+  "exampleIndex": 1,
+  "text": "病気のため、今日は休みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 128,
+  "signature": "6f87f6c5ce44f98a66f0eb7810d2484934b2ec288bbb4dd0bbf24fc41b3367bc",
+  "src": "/audio/voices/nanami/N3-015-2.mp3",
+  "srt": "/audio/voices/nanami/N3-015-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "3dfb36dd14c0e2c86b6f32227200469591c8245f1906b0a3bbf679ad7925efc5",
+  "peakPcm": 22171,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

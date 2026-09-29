@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-030",
+  "exampleIndex": 1,
+  "text": "先生に聞いてからでなければ、決められません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 135,
+  "signature": "20ef3b17c160ac36f9aba2f90a7839dcc1c0212b4bbed5099f95511ebc6364a0",
+  "src": "/audio/voices/keita/N3-030-2.mp3",
+  "srt": "/audio/voices/keita/N3-030-2.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "99e3df37b35a3a85acea7f1d62c6b936793327cbf98c125fc94158b147675175",
+  "peakPcm": 24248,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

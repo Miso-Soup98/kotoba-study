@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-092",
+  "exampleIndex": 1,
+  "text": "何が起ころうとも、約束を守ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 260,
+  "signature": "635ea67d66fc1dcc142b3c88be40701a45fb82dc0ecaae65af20b6837763086c",
+  "src": "/audio/voices/keita/N2-092-2.mp3",
+  "srt": "/audio/voices/keita/N2-092-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "9a15ff29fd12316e81b58cac0c5cccf400cf8840833db64d1a1f7f0af78954ca",
+  "peakPcm": 24849,
+  "rmsDbfs": -20.37,
+  "rate": "+0%",
+  "listened": false
+}

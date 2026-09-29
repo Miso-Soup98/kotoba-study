@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-041",
+  "exampleIndex": 1,
+  "text": "こんな難しい問題が簡単なものか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 234,
+  "signature": "84576fdd72730a1ec8532ffeb0cfaa4d328789b913596dc754712efec000ae2c",
+  "src": "/audio/voices/keita/N2-041-2.mp3",
+  "srt": "/audio/voices/keita/N2-041-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "2f464e5a200f5e2a1cea486c56990d88ab12e2e760d209405e8af6f47157df0b",
+  "peakPcm": 18872,
+  "rmsDbfs": -19.83,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-130",
+  "exampleIndex": 1,
+  "text": "案内されるままに、部屋へ入りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 279,
+  "signature": "2d60a7c77ef9ac5d407f990923a95d6fd5d5bd41f659a11833752eae3bc52334",
+  "src": "/audio/voices/nanami/N2-130-2.mp3",
+  "srt": "/audio/voices/nanami/N2-130-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "6efe947ccb06f1c1082e6c73fa21fe7330bd14f2874127b78181a69827781703",
+  "peakPcm": 20684,
+  "rmsDbfs": -16.96,
+  "rate": "+0%",
+  "listened": false
+}

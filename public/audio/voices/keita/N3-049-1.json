@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-049",
+  "exampleIndex": 0,
+  "text": "明日の結果が気になって仕方がありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 145,
+  "signature": "0acd93387321fa4d67ceb90beaf985fd49f07ee118de52727b06af084747562d",
+  "src": "/audio/voices/keita/N3-049-1.mp3",
+  "srt": "/audio/voices/keita/N3-049-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "0b632de91784f9a6752d54759c82709baae72302fd644625a882ddfd4a50960f",
+  "peakPcm": 22497,
+  "rmsDbfs": -21.74,
+  "rate": "+0%",
+  "listened": false
+}

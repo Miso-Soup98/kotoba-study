@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-039",
+  "exampleIndex": 0,
+  "text": "電車が遅れたものだから、間に合いませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 233,
+  "signature": "0ee3f56082f99b925da7658701b6bf81810f72e4d4dc3c8186c16fbc4468fcc4",
+  "src": "/audio/voices/keita/N2-039-1.mp3",
+  "srt": "/audio/voices/keita/N2-039-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "0b65cf8ce28ca24ac759bea568fea9b83fc9aaf049b5067bf076e1808dba477c",
+  "peakPcm": 23454,
+  "rmsDbfs": -20.07,
+  "rate": "+0%",
+  "listened": false
+}

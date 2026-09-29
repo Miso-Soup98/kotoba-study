@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-026",
+  "exampleIndex": 0,
+  "text": "毎日話しているうちに、友達になりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 133,
+  "signature": "8be72b9e0b4ea91783f16e46299f4fe4f668ae6c37dad550ceb7e24cb1638b4f",
+  "src": "/audio/voices/nanami/N3-026-1.mp3",
+  "srt": "/audio/voices/nanami/N3-026-1.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "d37af641f54528eafcc41cfc85527036d71d0004057c760920d101fc6a0f0a22",
+  "peakPcm": 23508,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

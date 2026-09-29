@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-130",
+  "exampleIndex": 0,
+  "text": "思うままに、絵を描いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 279,
+  "signature": "d8c92c4d679a51669b28578d944a003528848fd31dada81234c3d3f52944debe",
+  "src": "/audio/voices/nanami/N2-130-1.mp3",
+  "srt": "/audio/voices/nanami/N2-130-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "0803c9b37164a434149152e8cbfe060427ecc2c3aead0dbe2f0759806e53085c",
+  "peakPcm": 20526,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

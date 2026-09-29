@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-035",
+  "exampleIndex": 1,
+  "text": "引き受けたからには、最後までやります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 231,
+  "signature": "5a589a67cb943ea69d102982298883409073f09c1b5c13be924c39e12ad29b79",
+  "src": "/audio/voices/nanami/N2-035-2.mp3",
+  "srt": "/audio/voices/nanami/N2-035-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "ce1a4ecdf228a3de2dc8608ccb1487721473bf7248ae9773fe1dbbe520dda31f",
+  "peakPcm": 21140,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

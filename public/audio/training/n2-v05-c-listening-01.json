@@ -1,0 +1,20 @@
+{
+  "entryId": "n2-v05-c-listening-01",
+  "exampleIndex": 0,
+  "text": "探していた雑誌は、一階の棚にはありません。古い号は先月から地下の資料室に移しました。ただ、資料室には職員と一緒でないと入れません。まず一階の受付で、読みたい雑誌の名前と発行された年を伝えてください。職員が用意します。読むことはできますが、古い号は家に持ち帰れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": null,
+  "signature": "647cbe46a01b12a643735ac9416c6bf894a2484c2a655857cf490907b9734d1f",
+  "src": "/audio/training/n2-v05-c-listening-01.mp3",
+  "srt": "/audio/training/n2-v05-c-listening-01.srt",
+  "durationSeconds": 27.504,
+  "bytes": 165024,
+  "sha256": "c6b93ab3ac049c8cd487852ee8cdf46a2c347b0b0e50ce4973d9b2f39640f76f",
+  "peakPcm": 22890,
+  "rmsDbfs": -17.36,
+  "rate": "+0%",
+  "listened": false,
+  "synthetic": true,
+  "source": "original-listening-exercise"
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-055",
+  "exampleIndex": 1,
+  "text": "皆が笑っているところを見ると、話は成功したのでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 241,
+  "signature": "e52addc7aca4bfabe0adb7838198a83e4ad8a6ba91c21fac9194a310b2cd3a41",
+  "src": "/audio/voices/keita/N2-055-2.mp3",
+  "srt": "/audio/voices/keita/N2-055-2.srt",
+  "durationSeconds": 4.944,
+  "bytes": 29664,
+  "sha256": "756fe6fc541e3b6ae7c9b3cf830f5489f122636300eea19d9b297b5c10bd5108",
+  "peakPcm": 23134,
+  "rmsDbfs": -20.37,
+  "rate": "+0%",
+  "listened": false
+}

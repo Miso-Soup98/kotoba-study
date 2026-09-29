@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-212",
+  "exampleIndex": 0,
+  "text": "一旦家に帰ってから、出直します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 320,
+  "signature": "c9d6fe0dfb5b9bbca9dec097d6d94ae5f4b03919c6b337f65524fb7d6ad28d83",
+  "src": "/audio/voices/nanami/N2-212-1.mp3",
+  "srt": "/audio/voices/nanami/N2-212-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "e72883693a4dfe00a542c8e7236104b6ad60cd6e467de2ae468ed772d4c3cdb0",
+  "peakPcm": 20748,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

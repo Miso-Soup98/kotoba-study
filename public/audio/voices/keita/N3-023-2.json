@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-023",
+  "exampleIndex": 1,
+  "text": "明日の九時に会うことになっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 132,
+  "signature": "b9b2fa5b4f110e3b79a19595a8823e98e02f6aaf7db68f08715954cf757a2f9c",
+  "src": "/audio/voices/keita/N3-023-2.mp3",
+  "srt": "/audio/voices/keita/N3-023-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "66100173476d2e97f1b253814eb93ec3a589f04a8e751becb9d38575fd794072",
+  "peakPcm": 24804,
+  "rmsDbfs": -21.1,
+  "rate": "+0%",
+  "listened": false
+}

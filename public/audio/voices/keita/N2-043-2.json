@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-043",
+  "exampleIndex": 1,
+  "text": "この紙に水をかけようものなら、字が全部消えてしまいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 235,
+  "signature": "18e481e55c9300b865b853381a2ce3ce0ea1ed59c3ee6eaf4feefcdcff9b29d4",
+  "src": "/audio/voices/keita/N2-043-2.mp3",
+  "srt": "/audio/voices/keita/N2-043-2.srt",
+  "durationSeconds": 4.848,
+  "bytes": 29088,
+  "sha256": "88d59bd34bb51c294479355a842b92f3664ebe174c1918f2e4b7cb4252ac6e40",
+  "peakPcm": 25543,
+  "rmsDbfs": -20.09,
+  "rate": "+0%",
+  "listened": false
+}

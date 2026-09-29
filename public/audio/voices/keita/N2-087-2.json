@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-087",
+  "exampleIndex": 1,
+  "text": "言葉遣いからして、失礼です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 257,
+  "signature": "90c13c4d9bb480d138f96e33d8e20a8079abc0aec788b1dbb5452febfb461a88",
+  "src": "/audio/voices/keita/N2-087-2.mp3",
+  "srt": "/audio/voices/keita/N2-087-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "148b906d583d255c635a6efdd43e242e45792bbbce0ee3d594474f1771d64f6f",
+  "peakPcm": 23215,
+  "rmsDbfs": -21.9,
+  "rate": "+0%",
+  "listened": false
+}

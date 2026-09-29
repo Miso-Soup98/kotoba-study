@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-219",
+  "exampleIndex": 1,
+  "text": "何といっても、経験が大切です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 324,
+  "signature": "24b794507ef9ff336a7596020dc0eea30e54adb971aecebfb4d51d8712ca2007",
+  "src": "/audio/voices/nanami/N2-219-2.mp3",
+  "srt": "/audio/voices/nanami/N2-219-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "a465989d7508470c4f68d04756954ccb2e3aec457f630654dfe5229e3807dfab",
+  "peakPcm": 22580,
+  "rmsDbfs": -17.48,
+  "rate": "+0%",
+  "listened": false
+}

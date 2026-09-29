@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-071",
+  "exampleIndex": 1,
+  "text": "毎日少しずつ覚えています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 156,
+  "signature": "35aaee55af5d30ccf4ebaf776a88aaa98cc442202bd5d1c7a75d80775e789e52",
+  "src": "/audio/voices/keita/N3-071-2.mp3",
+  "srt": "/audio/voices/keita/N3-071-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "3a3fff8188af57b83a4ed340569ce9db1e62dc0b125faae4edc049d8d64b7050",
+  "peakPcm": 26036,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

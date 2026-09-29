@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-023",
+  "exampleIndex": 1,
+  "text": "一度失敗したにすぎません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 225,
+  "signature": "183153cc31c3fab636164e966a65245312764de6776093f82a4c1c73a0af2803",
+  "src": "/audio/voices/nanami/N2-023-2.mp3",
+  "srt": "/audio/voices/nanami/N2-023-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "2c9d1a71454d61c36f144f44a2ada35a62d8507d700f5eb8849b13b6880ccb53",
+  "peakPcm": 20398,
+  "rmsDbfs": -19.17,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-062",
+  "exampleIndex": 1,
+  "text": "苦労の末に、店を開きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 244,
+  "signature": "d6973d7da5f424bf680456328d299833a8c00a961db23d561a6f1b2d20a2c7a8",
+  "src": "/audio/voices/keita/N2-062-2.mp3",
+  "srt": "/audio/voices/keita/N2-062-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "b5626b46531eda01877c35bfd4674691a42a7cdc569bc256a040e8b8a3b6d3b3",
+  "peakPcm": 22361,
+  "rmsDbfs": -20.14,
+  "rate": "+0%",
+  "listened": false
+}

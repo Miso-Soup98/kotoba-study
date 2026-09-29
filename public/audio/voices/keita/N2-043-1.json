@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-043",
+  "exampleIndex": 0,
+  "text": "うそをつこうものなら、信用を失います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 235,
+  "signature": "c69ba3b1cf9beefe097d4f669ff17b09c63f5eaf9566cdfdbdf8eb53f9371062",
+  "src": "/audio/voices/keita/N2-043-1.mp3",
+  "srt": "/audio/voices/keita/N2-043-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "af734d73ec59c57bf736df405647a28965c279cb3bba5f48e038d0ba5ebd6e65",
+  "peakPcm": 21203,
+  "rmsDbfs": -19.73,
+  "rate": "+0%",
+  "listened": false
+}

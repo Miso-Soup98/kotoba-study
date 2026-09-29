@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-149",
+  "exampleIndex": 1,
+  "text": "近いので、わざわざ車で行く必要はありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 195,
+  "signature": "fc71c5a93b06d65ccb9f7e790a160ee4d6d2b869b0663ef6ef0287bab8ae14e5",
+  "src": "/audio/voices/keita/N3-149-2.mp3",
+  "srt": "/audio/voices/keita/N3-149-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "235e618b7173fa0c352eaf8822768f87dcf4fdb3bb519d2869253db74526ebbc",
+  "peakPcm": 22823,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

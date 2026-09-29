@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-050",
+  "exampleIndex": 1,
+  "text": "ここで待っていてもしょうがないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 145,
+  "signature": "18f9640cf196182588128280581815c1ca0d8341cab968423834b03ee8b70c82",
+  "src": "/audio/voices/nanami/N3-050-2.mp3",
+  "srt": "/audio/voices/nanami/N3-050-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "45fe4804427e1736d0224b516d2656345b8cb4c7bb0e2b35dabf90e54b87824c",
+  "peakPcm": 21930,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

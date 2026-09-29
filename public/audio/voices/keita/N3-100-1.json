@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-100",
+  "exampleIndex": 0,
+  "text": "その話は信じがたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 170,
+  "signature": "3fa131a396c06040ffa08744d8ec1640c541b79e49e5659e032d70e3f2ff87de",
+  "src": "/audio/voices/keita/N3-100-1.mp3",
+  "srt": "/audio/voices/keita/N3-100-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "a937f7e2286ac0c131d3f0b1ba9f5a4f8e16a5e5900539507de3ef9b25af7f17",
+  "peakPcm": 21831,
+  "rmsDbfs": -20.81,
+  "rate": "+0%",
+  "listened": false
+}

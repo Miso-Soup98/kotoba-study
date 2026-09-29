@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-094",
+  "exampleIndex": 0,
+  "text": "この問題は学生のみならず、教員にも関係します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 261,
+  "signature": "cfb443faf14f8f9c4aa745b1bed6916abd86dd54a85d72992de3087e47235bc6",
+  "src": "/audio/voices/keita/N2-094-1.mp3",
+  "srt": "/audio/voices/keita/N2-094-1.srt",
+  "durationSeconds": 4.8,
+  "bytes": 28800,
+  "sha256": "84005c6fac74c2b115f5264cc41a0e063b24553fae863f7930ee15d3a270a2db",
+  "peakPcm": 22329,
+  "rmsDbfs": -19.29,
+  "rate": "+0%",
+  "listened": false
+}

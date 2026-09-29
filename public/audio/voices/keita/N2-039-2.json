@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-039",
+  "exampleIndex": 1,
+  "text": "初めてなものだから、やり方が分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 233,
+  "signature": "c487e10db902bb8b7383628acc5285d1c187b721a4ba2e34dd84110f6c7df13e",
+  "src": "/audio/voices/keita/N2-039-2.mp3",
+  "srt": "/audio/voices/keita/N2-039-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "1ddf3d11c12ed90b032a5d75b7fa86425bc507115feb0471ae3bfab6374dee7c",
+  "peakPcm": 21064,
+  "rmsDbfs": -22.14,
+  "rate": "+0%",
+  "listened": false
+}

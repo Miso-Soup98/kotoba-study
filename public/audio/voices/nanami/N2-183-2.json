@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-183",
+  "exampleIndex": 1,
+  "text": "結果が出ても、直ちに結論は出せません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 306,
+  "signature": "cbd84a937f00fdf4346186934ba1823b82344c7d6929261b0c9c266e0b4f130a",
+  "src": "/audio/voices/nanami/N2-183-2.mp3",
+  "srt": "/audio/voices/nanami/N2-183-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "e5bee4bfa19ec0ff123ad928d9ecb9b9a1ad57a1a6cacb44e7c0005d4ecfbc28",
+  "peakPcm": 21848,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

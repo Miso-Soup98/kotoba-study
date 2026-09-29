@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-119",
+  "exampleIndex": 1,
+  "text": "気温が下がるとともに、風も強くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 180,
+  "signature": "63f4820799efbd4d750c6f1f46289550480997f0664a6988c8a6f11911adc143",
+  "src": "/audio/voices/nanami/N3-119-2.mp3",
+  "srt": "/audio/voices/nanami/N3-119-2.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "b420b64da3d0a7b2b5e3119608b3115b6a62f632b424984e16747953dafb8958",
+  "peakPcm": 21326,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

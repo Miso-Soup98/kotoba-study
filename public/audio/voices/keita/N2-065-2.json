@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-065",
+  "exampleIndex": 1,
+  "text": "高いだけのことはあって、この道具は丈夫です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 246,
+  "signature": "4ed0c904236b9b2d19f996d9af226e2b496fd87c4bd46812e5166b1e0d458554",
+  "src": "/audio/voices/keita/N2-065-2.mp3",
+  "srt": "/audio/voices/keita/N2-065-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "5b056c835d654d9b4f7a5161313a5677ce16fe8a05ffc969d50bb018f3a29b27",
+  "peakPcm": 23768,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

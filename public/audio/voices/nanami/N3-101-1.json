@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-101",
+  "exampleIndex": 0,
+  "text": "この荷物は重くて、とても運べません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 171,
+  "signature": "d779ebfb8a50356db75d1c9e0f18860cf4d9f4508b0b0d09bb66ad3fa63b2544",
+  "src": "/audio/voices/nanami/N3-101-1.mp3",
+  "srt": "/audio/voices/nanami/N3-101-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "f83477cdf1043d6bd4774377e31e011934d862605e831b9b5d2017ef7b46d620",
+  "peakPcm": 21866,
+  "rmsDbfs": -17.25,
+  "rate": "+0%",
+  "listened": false
+}

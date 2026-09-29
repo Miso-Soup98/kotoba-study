@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-144",
+  "exampleIndex": 1,
+  "text": "同じ間違いをしないように気をつけます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 192,
+  "signature": "9a22d6d6d1b7e91bafb2ec6e1e7e25e9076c481adf58d6ee0cf139f6cf8b79fc",
+  "src": "/audio/voices/nanami/N3-144-2.mp3",
+  "srt": "/audio/voices/nanami/N3-144-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "27f3eb6d1484df759f32b7a64229f4342c55ce5f0e425c9594036316ec178eec",
+  "peakPcm": 21139,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

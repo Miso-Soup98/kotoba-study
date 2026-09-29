@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-148",
+  "exampleIndex": 1,
+  "text": "待ちましたが、彼はついに来ませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 194,
+  "signature": "ede8ba2bfbd48e2b5c142b71a906d1709077e6d587c9f54c513db28256af97a8",
+  "src": "/audio/voices/keita/N3-148-2.mp3",
+  "srt": "/audio/voices/keita/N3-148-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "7e9eb2da1a828c39c4e41aa41e4d9745bfb4f8a4c25b58d940332cacc0f0e151",
+  "peakPcm": 24034,
+  "rmsDbfs": -20.83,
+  "rate": "+0%",
+  "listened": false
+}

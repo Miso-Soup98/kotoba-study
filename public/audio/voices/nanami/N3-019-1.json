@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-019",
+  "exampleIndex": 0,
+  "text": "明日は試験なので、遊ぶわけにはいきません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 130,
+  "signature": "e8533df201cadf40709078c94e54994d6fdb7d3853fac5975a10b2d62c0871ce",
+  "src": "/audio/voices/nanami/N3-019-1.mp3",
+  "srt": "/audio/voices/nanami/N3-019-1.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "c4169319219f990cb64d5edd920cad63b13cb24c2e85b35d0101a06a36e9ea40",
+  "peakPcm": 21691,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

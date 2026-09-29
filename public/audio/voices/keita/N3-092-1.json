@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-092",
+  "exampleIndex": 0,
+  "text": "時間さえあれば、手伝えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 166,
+  "signature": "12dfe9911dec6577f80727fcbb4ccfefa4746f60683b7fb178ceebb8af980193",
+  "src": "/audio/voices/keita/N3-092-1.mp3",
+  "srt": "/audio/voices/keita/N3-092-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "815730d5e3ae4f82d158e3c318eefeae162cc67cebfc942a4c8f5c6008e299e5",
+  "peakPcm": 26205,
+  "rmsDbfs": -21.74,
+  "rate": "+0%",
+  "listened": false
+}

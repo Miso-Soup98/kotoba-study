@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-064",
+  "exampleIndex": 1,
+  "text": "説明が分からなかったので、聞き直しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 152,
+  "signature": "e591c04132aadc630affd2c404c0b19a58eb87995ee23162084c2748d854872a",
+  "src": "/audio/voices/nanami/N3-064-2.mp3",
+  "srt": "/audio/voices/nanami/N3-064-2.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "1d37a1b902cc29a481c52d51c6a275d35de15b6592079eb66fc8b9551b92e0a9",
+  "peakPcm": 22625,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

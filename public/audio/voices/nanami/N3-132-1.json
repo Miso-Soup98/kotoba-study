@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-132",
+  "exampleIndex": 0,
+  "text": "分からないところを、もう一度読んでごらん。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 186,
+  "signature": "61d65360a98e2d2cce9deeb71d5cc88aa02fef48d884fa4545dc3b440b3334bb",
+  "src": "/audio/voices/nanami/N3-132-1.mp3",
+  "srt": "/audio/voices/nanami/N3-132-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "885b44a9f39f6ae54bb09d0326c9bb034ad58fa7ff7ec16e4c605ca6dba0655b",
+  "peakPcm": 21582,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

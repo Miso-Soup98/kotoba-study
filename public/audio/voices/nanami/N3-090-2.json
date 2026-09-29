@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-090",
+  "exampleIndex": 1,
+  "text": "私は兄ほど速く走れません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 165,
+  "signature": "9c3663c76e3b0a5d5e11fe7a012a8944eb297fdd5e50d55c7d0ce65109e69029",
+  "src": "/audio/voices/nanami/N3-090-2.mp3",
+  "srt": "/audio/voices/nanami/N3-090-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "901dd291a82736181fe247549860da1f7a179a6b2a95a5e4818df19105a76d28",
+  "peakPcm": 21574,
+  "rmsDbfs": -18.3,
+  "rate": "+0%",
+  "listened": false
+}

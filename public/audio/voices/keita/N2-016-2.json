@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-016",
+  "exampleIndex": 1,
+  "text": "計画に沿って、作業を進めます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 221,
+  "signature": "ec049c97623b23bc51137b6a736986f4081700b3d31d6702a98484ef2c7e005d",
+  "src": "/audio/voices/keita/N2-016-2.mp3",
+  "srt": "/audio/voices/keita/N2-016-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "7e033fa602f79d36b0df02b20d14e99e07677e234a93cbbb1828cbed91925d83",
+  "peakPcm": 23434,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

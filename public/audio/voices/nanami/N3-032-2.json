@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-032",
+  "exampleIndex": 1,
+  "text": "家族と相談した上で、決めます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 136,
+  "signature": "465c6f400530ce23dcb01b38ab34c691e2ea4d9fd93edc915b5aaeb64b738994",
+  "src": "/audio/voices/nanami/N3-032-2.mp3",
+  "srt": "/audio/voices/nanami/N3-032-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "f2ae7217624b732e7229924c7dce08a95cf81d645ac95ddb8907526e6013ddf2",
+  "peakPcm": 22987,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

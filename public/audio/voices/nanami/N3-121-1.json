@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-121",
+  "exampleIndex": 0,
+  "text": "寝たふりをしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 181,
+  "signature": "9f29fe39b21cebb8fb51d88ac04e6a34abda242abdd40913b95054f2ee1b418a",
+  "src": "/audio/voices/nanami/N3-121-1.mp3",
+  "srt": "/audio/voices/nanami/N3-121-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "1b6e7c7898e00bcbed0dbc8f99ea127a3899abf7dbf2de14b4da7db8f86ac7f7",
+  "peakPcm": 22237,
+  "rmsDbfs": -18.54,
+  "rate": "+0%",
+  "listened": false
+}

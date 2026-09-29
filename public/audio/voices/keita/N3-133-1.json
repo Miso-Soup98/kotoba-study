@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-133",
+  "exampleIndex": 0,
+  "text": "何が原因なのでしょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 187,
+  "signature": "bc6a2e756e810173eb18bb4bed96770f8d65ec158d0c92f3538b9d007558495e",
+  "src": "/audio/voices/keita/N3-133-1.mp3",
+  "srt": "/audio/voices/keita/N3-133-1.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "ba81197f061ebcaebcb5b4ce49d420cbb59112d5e3fdd5a1bc3778bf8350c92e",
+  "peakPcm": 25293,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

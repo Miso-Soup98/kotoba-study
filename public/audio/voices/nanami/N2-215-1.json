@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-215",
+  "exampleIndex": 0,
+  "text": "駅までたった五分です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 322,
+  "signature": "9da1501326046e20ec81011696d7299f2fb27b215686a108ac59ea8c920c457b",
+  "src": "/audio/voices/nanami/N2-215-1.mp3",
+  "srt": "/audio/voices/nanami/N2-215-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "23ac0bac71443e7e76d0d8a5c902d18ebd4ee5566b99c63b5911069a1a8ed6eb",
+  "peakPcm": 21557,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

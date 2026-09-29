@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-200",
+  "exampleIndex": 1,
+  "text": "明日は休みですか。そうすると、今日が最後ですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 314,
+  "signature": "35858c76008c097e88f9e9ecbb8464d790b3e7c2e696cb1f02ca7938d7ce4fad",
+  "src": "/audio/voices/keita/N2-200-2.mp3",
+  "srt": "/audio/voices/keita/N2-200-2.srt",
+  "durationSeconds": 5.232,
+  "bytes": 31392,
+  "sha256": "21cb8ab93b4cd4eabf4f5e66adecdf75d33141701cc20654a4135e462f1e0576",
+  "peakPcm": 24365,
+  "rmsDbfs": -21.15,
+  "rate": "+0%",
+  "listened": false
+}

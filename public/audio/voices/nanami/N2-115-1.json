@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-115",
+  "exampleIndex": 0,
+  "text": "何も今日全部する必要はありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 271,
+  "signature": "d3b7d117bb17036863c3d94bf430f8410829439634cfe4b309cbd9cf553d5cf7",
+  "src": "/audio/voices/nanami/N2-115-1.mp3",
+  "srt": "/audio/voices/nanami/N2-115-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "b00e4648fe56d9b69835241c0c107f27cddbe692c88b0b4b14cf792e99b07558",
+  "peakPcm": 21234,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-128",
+  "exampleIndex": 0,
+  "text": "こんなに高くては、買えません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 278,
+  "signature": "744c7cb31ad8e9e3c54ea6a99a36c284ad4f613cfadee0e7567404e8075fc4c7",
+  "src": "/audio/voices/nanami/N2-128-1.mp3",
+  "srt": "/audio/voices/nanami/N2-128-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "b82c6f1385f74e82815202ed208c14bf319c4995a948ac5cbd450a86d18bb10b",
+  "peakPcm": 20938,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

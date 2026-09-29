@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-038",
+  "exampleIndex": 0,
+  "text": "連絡によると、会議は中止だということです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 139,
+  "signature": "03d2825bb9b09b9e0b545a0d1f9ad109988cf4e87f42a65d6fb602fd4c658cc5",
+  "src": "/audio/voices/nanami/N3-038-1.mp3",
+  "srt": "/audio/voices/nanami/N3-038-1.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "483c3ec8d9b80302ab2f088f954cdb608e536b5d745ac7e358bb3321bae95937",
+  "peakPcm": 21498,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

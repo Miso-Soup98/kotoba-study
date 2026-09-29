@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-152",
+  "exampleIndex": 1,
+  "text": "名前がどうしても思い出せません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 196,
+  "signature": "04d3cabb672561c0286ba6f5dcbb1347726897181b8c4b353106bd4d1401cdc8",
+  "src": "/audio/voices/keita/N3-152-2.mp3",
+  "srt": "/audio/voices/keita/N3-152-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "021b0241ea6fb29af9c990f014efbb96eec5a59b7805d5231af79542f486b4f0",
+  "peakPcm": 23700,
+  "rmsDbfs": -20.17,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-031",
+  "exampleIndex": 1,
+  "text": "現場を見て初めて、状況を理解しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 136,
+  "signature": "1a56472015741955a566b860ced921d659636de8ad6f23f285567af90f1fdec4",
+  "src": "/audio/voices/keita/N3-031-2.mp3",
+  "srt": "/audio/voices/keita/N3-031-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "d1f46dbf754a5323c8145bcab6422fb936871f5460db0a5243900d023075818b",
+  "peakPcm": 25284,
+  "rmsDbfs": -19.88,
+  "rate": "+0%",
+  "listened": false
+}

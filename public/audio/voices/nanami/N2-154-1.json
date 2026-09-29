@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-154",
+  "exampleIndex": 0,
+  "text": "初めての作品としては、よくできています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 291,
+  "signature": "2f607ad9205a826bf336163dc2e34a86ca7f5c7d7205e93d8711fed1fd051ca4",
+  "src": "/audio/voices/nanami/N2-154-1.mp3",
+  "srt": "/audio/voices/nanami/N2-154-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "4376ee402611ea4f1fe433ca846741b69b3e10f7e0435400e9f53ac3d5900ff9",
+  "peakPcm": 20427,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

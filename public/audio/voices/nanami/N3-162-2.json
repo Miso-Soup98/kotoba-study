@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-162",
+  "exampleIndex": 1,
+  "text": "心配というより、むしろ楽しみです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 201,
+  "signature": "17cb976b77397470869472fc92964a78064833f67456a12d0377a6b3e009e208",
+  "src": "/audio/voices/nanami/N3-162-2.mp3",
+  "srt": "/audio/voices/nanami/N3-162-2.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "daf715c25e60a518eaa33d6384724ca4e72598980a4555f087b6af7df35c4afc",
+  "peakPcm": 21583,
+  "rmsDbfs": -17.99,
+  "rate": "+0%",
+  "listened": false
+}

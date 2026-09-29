@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-095",
+  "exampleIndex": 0,
+  "text": "国内はもとより、海外でも知られています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 261,
+  "signature": "a7319415b1bd4f2c17c26ab55821455ddc0914ed9fc39f2b4e5b7b865bae5cb8",
+  "src": "/audio/voices/keita/N2-095-1.mp3",
+  "srt": "/audio/voices/keita/N2-095-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "05eb8c0e4d8e0813c1389f3c9624b0407e8ef9b270004f1eae7cf2f6c003913c",
+  "peakPcm": 23454,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

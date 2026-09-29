@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-038",
+  "exampleIndex": 0,
+  "text": "人の失敗を笑うものではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 232,
+  "signature": "13ec9fc6ec5340d1e1885db326a9390e484222315fb90d3b96714ef5c314bbb7",
+  "src": "/audio/voices/nanami/N2-038-1.mp3",
+  "srt": "/audio/voices/nanami/N2-038-1.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "a1201984b2a25aa898048ae4b1b81c91cd87704eee516e10c1ad6029a1a85d9b",
+  "peakPcm": 20853,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

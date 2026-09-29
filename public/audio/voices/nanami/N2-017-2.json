@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-017",
+  "exampleIndex": 1,
+  "text": "工事に伴い、道路を閉鎖します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 222,
+  "signature": "5fbc5df0b2d36c2cbb9b2542113b6585b01bac7ef3758c4faaeb5147c5dd6218",
+  "src": "/audio/voices/nanami/N2-017-2.mp3",
+  "srt": "/audio/voices/nanami/N2-017-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "a7ec6ce24c7c97dfa1443077762e91c18d6819c47b0306154bb59761b35e7cba",
+  "peakPcm": 20476,
+  "rmsDbfs": -17.19,
+  "rate": "+0%",
+  "listened": false
+}

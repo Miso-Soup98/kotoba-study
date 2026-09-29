@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-106",
+  "exampleIndex": 1,
+  "text": "誰もいないところを見ると、会議は終わったとみえます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 173,
+  "signature": "98578e9cde78c84a22ee3d9031e6f1b46d863bd15cebee4f17aff37cfa392bd5",
+  "src": "/audio/voices/nanami/N3-106-2.mp3",
+  "srt": "/audio/voices/nanami/N3-106-2.srt",
+  "durationSeconds": 4.752,
+  "bytes": 28512,
+  "sha256": "68a2eb21d7c05fb36a6ba606690a3e307f74d472cfc284e576c9eb15aad15f56",
+  "peakPcm": 19606,
+  "rmsDbfs": -17.15,
+  "rate": "+0%",
+  "listened": false
+}

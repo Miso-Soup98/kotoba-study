@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-122",
+  "exampleIndex": 1,
+  "text": "送ったつもりでしたが、まだ送っていませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 181,
+  "signature": "4ab5628eb4776cad56ced84e35413455e888a3d662099d18c56722450d53f397",
+  "src": "/audio/voices/keita/N3-122-2.mp3",
+  "srt": "/audio/voices/keita/N3-122-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "06456baa1979b67a866c99b2e1ba4d9cc59bf0750914acf9ea1bb6bec6bbd65b",
+  "peakPcm": 26523,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

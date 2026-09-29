@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-022",
+  "exampleIndex": 1,
+  "text": "急ぐことはないので、ゆっくり来てください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 131,
+  "signature": "c66e196c642403928cd5204c5a24e7b29a2b72234469bf852b0ccd9e7da8d0c9",
+  "src": "/audio/voices/keita/N3-022-2.mp3",
+  "srt": "/audio/voices/keita/N3-022-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "92a16b6d3ae131ea8d296b34adcb5aa4cc04416806e817804d326f4a193d8b60",
+  "peakPcm": 21878,
+  "rmsDbfs": -21.43,
+  "rate": "+0%",
+  "listened": false
+}

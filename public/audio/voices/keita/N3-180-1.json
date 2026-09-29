@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-180",
+  "exampleIndex": 0,
+  "text": "さて、今日の授業を始めましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 210,
+  "signature": "0f18a41d8bfd646b6a309c825482574c19b5d62a932b6544f3e5156cba432425",
+  "src": "/audio/voices/keita/N3-180-1.mp3",
+  "srt": "/audio/voices/keita/N3-180-1.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "eb53abd189853d74d4b43bf810c39bf3c1f57faca7fc7ff52dc1f65798087ea1",
+  "peakPcm": 23407,
+  "rmsDbfs": -20.98,
+  "rate": "+0%",
+  "listened": false
+}

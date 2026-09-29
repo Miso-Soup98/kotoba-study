@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-164",
+  "exampleIndex": 0,
+  "text": "寝不足のせいか、頭が重いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 296,
+  "signature": "bb17fcbb6b44f1cde22cabbf29280e3b94813443d77af951ebe557aec6a3561d",
+  "src": "/audio/voices/keita/N2-164-1.mp3",
+  "srt": "/audio/voices/keita/N2-164-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "63bafbd10728f46429a11242db9f896f5a1d3c3e9ee07cfda568216bde3267e5",
+  "peakPcm": 25899,
+  "rmsDbfs": -20.98,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-014",
+  "exampleIndex": 0,
+  "text": "雨のせいで、靴がぬれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 127,
+  "signature": "3bda0179c756148f7f671d7728f8d0bbc39a1fc1e765def04a3f8ff038a38f6e",
+  "src": "/audio/voices/keita/N3-014-1.mp3",
+  "srt": "/audio/voices/keita/N3-014-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "5f855c84ca581b543f3236b4b7da9dd15dfe547c376211aea9a2d7eac15752c1",
+  "peakPcm": 25466,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

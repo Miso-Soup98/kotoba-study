@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-024",
+  "exampleIndex": 1,
+  "text": "続けているのは、この仕事が好きだからにほかなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 225,
+  "signature": "0a22fb92714f8acee4c5994a92ac225fbade13be04a0a82261313839fef6b84b",
+  "src": "/audio/voices/keita/N2-024-2.mp3",
+  "srt": "/audio/voices/keita/N2-024-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "7716ffdd8309fbdaa3dc06f772cca784771a5ede29e7c0105bfa3794c9aa3abd",
+  "peakPcm": 23252,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

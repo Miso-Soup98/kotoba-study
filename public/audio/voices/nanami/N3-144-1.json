@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-144",
+  "exampleIndex": 0,
+  "text": "足元に気をつけてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 192,
+  "signature": "740e6c2b9cdd28c0b2c8123c68e522e8ebbda314676443949af625867c700484",
+  "src": "/audio/voices/nanami/N3-144-1.mp3",
+  "srt": "/audio/voices/nanami/N3-144-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "44ec2f472c436d0c44dabd24d9e791c988d2e9bf855b2a1c7384cb67a3cabb79",
+  "peakPcm": 20177,
+  "rmsDbfs": -18.86,
+  "rate": "+0%",
+  "listened": false
+}

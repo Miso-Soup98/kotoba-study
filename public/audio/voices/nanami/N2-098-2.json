@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-098",
+  "exampleIndex": 1,
+  "text": "一部を除き、全員が賛成しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 263,
+  "signature": "54f57d5d7a7d609b5fd20f0d776794c383ecebbaf55008ad25570dcad179219e",
+  "src": "/audio/voices/nanami/N2-098-2.mp3",
+  "srt": "/audio/voices/nanami/N2-098-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "96938d9283272d9cb0e6ad4ff23b1509cf56e2f0ac690961012082018ff1dbb2",
+  "peakPcm": 22343,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

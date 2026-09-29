@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-078",
+  "exampleIndex": 0,
+  "text": "料理にかけては、姉にかないません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 159,
+  "signature": "e3c9fcd03b96c2b35fc31b6993b5c855510ae3755cff9a8102c7d57759b606de",
+  "src": "/audio/voices/nanami/N3-078-1.mp3",
+  "srt": "/audio/voices/nanami/N3-078-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "1ea8a51da833aeb0024c67e017a08158ed2f5b9da66cb8d6ea9bcefe165d8674",
+  "peakPcm": 18646,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

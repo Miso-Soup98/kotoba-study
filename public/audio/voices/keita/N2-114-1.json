@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-114",
+  "exampleIndex": 0,
+  "text": "分からなくはないですが、賛成はできません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 271,
+  "signature": "33e82eaaf05a399cae895efacc567c7fa03eeceaceaff42f21667d6a01a09b3d",
+  "src": "/audio/voices/keita/N2-114-1.mp3",
+  "srt": "/audio/voices/keita/N2-114-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "5e87e941027c7c99f66d4b42eb2c50d5d6ff0275a87a904912e6be651582a6e5",
+  "peakPcm": 23130,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

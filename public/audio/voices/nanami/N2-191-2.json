@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-191",
+  "exampleIndex": 1,
+  "text": "問題は、なお残っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 310,
+  "signature": "de9c0a4ffee74b138e64ddd4eb5657e34d84e87614f29b46a7229d60ade1e755",
+  "src": "/audio/voices/nanami/N2-191-2.mp3",
+  "srt": "/audio/voices/nanami/N2-191-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "0bfb35e4dbcec44d048ff4db5ed5f8b7b2cdc3dd4c4fc3af6c9b6375d05108b3",
+  "peakPcm": 22181,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

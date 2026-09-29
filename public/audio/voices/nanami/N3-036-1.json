@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-036",
+  "exampleIndex": 0,
+  "text": "練習すればするほど、上手になります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 138,
+  "signature": "49552d1ea80c398640d4ac04fdd5ce84895bcdb4a33586bbe2c429617b9e37e5",
+  "src": "/audio/voices/nanami/N3-036-1.mp3",
+  "srt": "/audio/voices/nanami/N3-036-1.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "b23ad37cc42840b252c5ab7d3caa98c1e0a8a477aa2e6c709d345091924c2fc7",
+  "peakPcm": 21914,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

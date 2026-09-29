@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-131",
+  "exampleIndex": 1,
+  "text": "明日までに提出すること。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 186,
+  "signature": "5de521c3284e0bf54ddb0ddaee6d20ab4997b57fec2b0f26d564b317e92a538d",
+  "src": "/audio/voices/keita/N3-131-2.mp3",
+  "srt": "/audio/voices/keita/N3-131-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "6b4f1bd8426bf38032231136164c028a88b2f8efa4cc3fa3e8a4a0243ca9fe85",
+  "peakPcm": 22515,
+  "rmsDbfs": -21.87,
+  "rate": "+0%",
+  "listened": false
+}

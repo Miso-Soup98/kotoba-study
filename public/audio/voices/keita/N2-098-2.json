@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-098",
+  "exampleIndex": 1,
+  "text": "一部を除き、全員が賛成しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 263,
+  "signature": "e9df24ee6649456ae9d5508a90b9e921afbafbf66d58331a7efafecdcc2a6a2b",
+  "src": "/audio/voices/keita/N2-098-2.mp3",
+  "srt": "/audio/voices/keita/N2-098-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "fa745fb879c0f182c6d6957314d4fcf3b34c1f5a96ce3d8b68e3ac447568c87f",
+  "peakPcm": 24072,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

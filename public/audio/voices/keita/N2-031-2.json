@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-031",
+  "exampleIndex": 1,
+  "text": "費用が高く、計画を変更せざるを得ません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 229,
+  "signature": "76b1256d714f624d4e01df7453af401acb79291a8fb34fc97af2f6ae245e7832",
+  "src": "/audio/voices/keita/N2-031-2.mp3",
+  "srt": "/audio/voices/keita/N2-031-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "b5a7ce35bb7cdf4a4614e7df99b95083aa71341744831729135513ba8e2470bc",
+  "peakPcm": 22757,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

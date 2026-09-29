@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-091",
+  "exampleIndex": 1,
+  "text": "それが本当だとしても、私の考えは変わりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 259,
+  "signature": "cd66972e57eee8c7fbc8f8de4fc6fe9b45f21d7e02f6df14c7a6f025b816e7b2",
+  "src": "/audio/voices/keita/N2-091-2.mp3",
+  "srt": "/audio/voices/keita/N2-091-2.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "516a2373eddeaad69050f4be5126a02d05505b02123412e955f8c3472ecfc7f8",
+  "peakPcm": 23844,
+  "rmsDbfs": -19.93,
+  "rate": "+0%",
+  "listened": false
+}

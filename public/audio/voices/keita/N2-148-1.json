@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-148",
+  "exampleIndex": 0,
+  "text": "先生に聞いたところ、明日は休講だそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 288,
+  "signature": "3e05e9baf6c16d23ff1e12e769f9221a436d30709b87af29ade0b5a0556d3faf",
+  "src": "/audio/voices/keita/N2-148-1.mp3",
+  "srt": "/audio/voices/keita/N2-148-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "1b0035f596de39877143924d0bcb6f7c9402cff18e3322be6b0adba175db9bff",
+  "peakPcm": 25132,
+  "rmsDbfs": -20.86,
+  "rate": "+0%",
+  "listened": false
+}

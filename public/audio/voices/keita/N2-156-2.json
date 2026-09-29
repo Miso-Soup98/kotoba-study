@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-156",
+  "exampleIndex": 1,
+  "text": "御意見を頂ければと思います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 292,
+  "signature": "6e020339ce7c6fae21001880f2bf5997c1a686662718b1d4fc42d7d58952cf95",
+  "src": "/audio/voices/keita/N2-156-2.mp3",
+  "srt": "/audio/voices/keita/N2-156-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "5d460724b2ba167bca329a556cbb7b9a7e769290f98f078da2c49d35944d321e",
+  "peakPcm": 22673,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

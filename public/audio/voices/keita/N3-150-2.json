@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-150",
+  "exampleIndex": 1,
+  "text": "子供を笑わせるために、わざと変な声を出しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 195,
+  "signature": "9df529c5516ee11e34e896f65078aadb581a32b6439072034eacedf45f32b734",
+  "src": "/audio/voices/keita/N3-150-2.mp3",
+  "srt": "/audio/voices/keita/N3-150-2.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "c3a9fd5c736bcbc351293bdd7570b52fbbfe723255ccedecdf109039774beca3",
+  "peakPcm": 24836,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

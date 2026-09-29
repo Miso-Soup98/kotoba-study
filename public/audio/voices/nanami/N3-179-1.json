@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-179",
+  "exampleIndex": 0,
+  "text": "午後はさらに寒くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 210,
+  "signature": "98f2d5bb554fc00d495b06e4911e83c609736f7102eb5d7d188f2f040de5595c",
+  "src": "/audio/voices/nanami/N3-179-1.mp3",
+  "srt": "/audio/voices/nanami/N3-179-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "dcdc7de07ce78705126bc27a58fadc43257b11a2bf5585b2444eea49a25ee6aa",
+  "peakPcm": 22737,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

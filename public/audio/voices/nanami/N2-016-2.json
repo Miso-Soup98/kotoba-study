@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-016",
+  "exampleIndex": 1,
+  "text": "計画に沿って、作業を進めます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 221,
+  "signature": "0599c47678f2e04a18f233bb1884d3b18fac1d8bc8c70533c9141ec606d92658",
+  "src": "/audio/voices/nanami/N2-016-2.mp3",
+  "srt": "/audio/voices/nanami/N2-016-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "deb33e81c49a9c8a3c1aa155f209213aadfe2600e8b5430512685e9d3baf5a55",
+  "peakPcm": 22091,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

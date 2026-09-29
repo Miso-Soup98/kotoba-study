@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-150",
+  "exampleIndex": 1,
+  "text": "子供を笑わせるために、わざと変な声を出しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 195,
+  "signature": "94d67b680c3de72b0c1bfb72a8701ebc1f0e62a4237dc6d727239ef40fdd4458",
+  "src": "/audio/voices/nanami/N3-150-2.mp3",
+  "srt": "/audio/voices/nanami/N3-150-2.srt",
+  "durationSeconds": 4.752,
+  "bytes": 28512,
+  "sha256": "cc1c20f906f5fdb6b41b3cdf47f29a8d3fe37476705f99d049f75e146fade547",
+  "peakPcm": 23520,
+  "rmsDbfs": -16.86,
+  "rate": "+0%",
+  "listened": false
+}

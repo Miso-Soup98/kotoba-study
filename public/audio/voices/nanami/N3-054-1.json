@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-054",
+  "exampleIndex": 0,
+  "text": "知っているくせに、教えてくれません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 147,
+  "signature": "7f3b1cd55adbe285443d424b8dca743c9c2a4f3b5b8cfd4622a72f2c74553e93",
+  "src": "/audio/voices/nanami/N3-054-1.mp3",
+  "srt": "/audio/voices/nanami/N3-054-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "bae194f9632670b42e99e0ffcddf1ac3744fce61494abd1bacc98c0a2d2e37b9",
+  "peakPcm": 20515,
+  "rmsDbfs": -18.32,
+  "rate": "+0%",
+  "listened": false
+}

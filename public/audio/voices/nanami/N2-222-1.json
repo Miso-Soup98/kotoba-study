@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-222",
+  "exampleIndex": 0,
+  "text": "方法は簡単です。しかしながら、時間がかかります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 325,
+  "signature": "5ee26bd5ebab5838e8c7b52b63900f90ebf76faee125be2d90f7ecaf9b414fd0",
+  "src": "/audio/voices/nanami/N2-222-1.mp3",
+  "srt": "/audio/voices/nanami/N2-222-1.srt",
+  "durationSeconds": 5.784,
+  "bytes": 34704,
+  "sha256": "9eb2bda456f5e2f9cf5177e878043e6a3ce1c25850671a587bc58608c09f8632",
+  "peakPcm": 22244,
+  "rmsDbfs": -17.55,
+  "rate": "+0%",
+  "listened": false
+}

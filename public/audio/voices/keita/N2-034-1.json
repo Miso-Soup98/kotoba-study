@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-034",
+  "exampleIndex": 0,
+  "text": "準備は早いに越したことはありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 230,
+  "signature": "a8c6c09ac1c2f5c551649acffe4095a28f8dd3deddae6810abbcb8b28218622c",
+  "src": "/audio/voices/keita/N2-034-1.mp3",
+  "srt": "/audio/voices/keita/N2-034-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "c2b2d1b24eb74ef0a76c265e2879570ab2a73da7083ef59a3630dea2032898ff",
+  "peakPcm": 21540,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

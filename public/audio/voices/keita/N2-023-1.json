@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-023",
+  "exampleIndex": 0,
+  "text": "これは私の意見にすぎません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 225,
+  "signature": "19e64ae0e3e4124ba9fe7b094afe00885a29a795ac5f1e905b1b2e4579159aff",
+  "src": "/audio/voices/keita/N2-023-1.mp3",
+  "srt": "/audio/voices/keita/N2-023-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "9f72b1ae6dccd9c20cc9d7f92f612c4ef623828ad577e61687609e7b45de4bd7",
+  "peakPcm": 23476,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

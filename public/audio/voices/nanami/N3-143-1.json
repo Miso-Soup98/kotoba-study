@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-143",
+  "exampleIndex": 0,
+  "text": "試験の結果が気になります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 192,
+  "signature": "8d12c5c195a42c604f0baffc93ac2ce5ae96c0eb32887e3d8731d4b5a58d331f",
+  "src": "/audio/voices/nanami/N3-143-1.mp3",
+  "srt": "/audio/voices/nanami/N3-143-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "1827282453032d41dcdec2e53b9e58fdf2878dbd2b48e22f4008b931784e7fd7",
+  "peakPcm": 19477,
+  "rmsDbfs": -18.23,
+  "rate": "+0%",
+  "listened": false
+}

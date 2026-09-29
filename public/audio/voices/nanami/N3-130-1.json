@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-130",
+  "exampleIndex": 0,
+  "text": "もう帰らないと。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 185,
+  "signature": "3c28b2d03be950b8067d2d561706e8e0e589e32f92c4dbe57ccb9c430d9166d7",
+  "src": "/audio/voices/nanami/N3-130-1.mp3",
+  "srt": "/audio/voices/nanami/N3-130-1.srt",
+  "durationSeconds": 2.184,
+  "bytes": 13104,
+  "sha256": "036e7caff1c7454ecc22e3af5ef40cd70a8200651d69a6012744499a56916660",
+  "peakPcm": 22143,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

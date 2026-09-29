@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-128",
+  "exampleIndex": 1,
+  "text": "駅へ行くには、この道をまっすぐ進んでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 184,
+  "signature": "086a7bbd4231e9f6ba50acd4f1c3e197b730169d248bd30c2f8decebd6692b52",
+  "src": "/audio/voices/nanami/N3-128-2.mp3",
+  "srt": "/audio/voices/nanami/N3-128-2.srt",
+  "durationSeconds": 4.632,
+  "bytes": 27792,
+  "sha256": "5d7d3b8d5d8f66c7eac2c84bba1cf5f7847b30ba2d00921c6273264650cb67a8",
+  "peakPcm": 21504,
+  "rmsDbfs": -17.07,
+  "rate": "+0%",
+  "listened": false
+}

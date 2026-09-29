@@ -5,13 +5,21 @@ import {
   type Question,
 } from "./types.ts";
 import { tasks } from "../study/content.ts";
+function comparePracticeTime(a: PracticeRecord, b: PracticeRecord) {
+  return a.at - b.at || (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
+}
 export function latestAnswers(records: PracticeRecord[]) {
   const latest = new Map<string, PracticeRecord>();
-  for (const record of records) latest.set(record.questionId, record);
+  for (const record of records) {
+    const previous = latest.get(record.questionId);
+    if (!previous || comparePracticeTime(previous, record) < 0)
+      latest.set(record.questionId, record);
+  }
   return latest;
 }
 export function trainingSummary(records: PracticeRecord[]) {
-  const recent = records.slice(-60);
+  // Offline answers can arrive after newer work from another device.
+  const recent = [...records].sort(comparePracticeTime).slice(-60);
   const categories = (Object.keys(categoryLabels) as Category[]).map(
     (category) => {
       const selected = recent.filter((r) => r.category === category);

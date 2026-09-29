@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-057",
+  "exampleIndex": 1,
+  "text": "最近、父は病気がちです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 149,
+  "signature": "a9b7f25a6ca47b2a9baf120714d57cce8d7a0f68d5addf93374180f1dbc5a844",
+  "src": "/audio/voices/nanami/N3-057-2.mp3",
+  "srt": "/audio/voices/nanami/N3-057-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "6e7640f79ef46418227ce9263783ecddaf2be782d64d773cf66b87ffb34ac8c2",
+  "peakPcm": 22114,
+  "rmsDbfs": -18.46,
+  "rate": "+0%",
+  "listened": false
+}

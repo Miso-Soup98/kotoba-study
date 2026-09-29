@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-154",
+  "exampleIndex": 1,
+  "text": "私としては、計画を続けたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 291,
+  "signature": "67cecb60ef40cbed33f6c350191b8ff94c37dafff3d5b2f86717440da7e4e80a",
+  "src": "/audio/voices/nanami/N2-154-2.mp3",
+  "srt": "/audio/voices/nanami/N2-154-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "87b03859e1e05d393fb25f1f285ebbef36c00cac59f82018f1a5ffe326111f3f",
+  "peakPcm": 20996,
+  "rmsDbfs": -17.57,
+  "rate": "+0%",
+  "listened": false
+}

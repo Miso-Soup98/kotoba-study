@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-102",
+  "exampleIndex": 0,
+  "text": "雨はまだやみそうにありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 171,
+  "signature": "fba8a80c7a8550fea378c27d5fdd4a12e81b4582bb4d781b6407d2b16bd0091d",
+  "src": "/audio/voices/keita/N3-102-1.mp3",
+  "srt": "/audio/voices/keita/N3-102-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "87ad3b92f73bcc62bf9968c572398860bfd0ecf5aab22e9e6141ec388f7662ed",
+  "peakPcm": 23875,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

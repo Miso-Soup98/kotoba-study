@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-120",
+  "exampleIndex": 0,
+  "text": "私が言ったとおりに書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 180,
+  "signature": "64e3961d148934161c90af8f7b81ab5ca01867530f85a27084cb84b183f262a6",
+  "src": "/audio/voices/nanami/N3-120-1.mp3",
+  "srt": "/audio/voices/nanami/N3-120-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "94b0c2f215a443a628df9dbdeee95e2400896eb10f4ad6976205a0976e0e1e33",
+  "peakPcm": 21008,
+  "rmsDbfs": -18.23,
+  "rate": "+0%",
+  "listened": false
+}

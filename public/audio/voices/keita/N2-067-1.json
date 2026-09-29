@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-067",
+  "exampleIndex": 0,
+  "text": "静かなどころか、とてもにぎやかでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 247,
+  "signature": "5b72b61d305a76ed5b5c5f668ed8354910c397314259833f819efd614267ed85",
+  "src": "/audio/voices/keita/N2-067-1.mp3",
+  "srt": "/audio/voices/keita/N2-067-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "3c4a650361786a7da4e3b764a0fcfa4f6320ac69fc924012ce856f7333e565d5",
+  "peakPcm": 23392,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

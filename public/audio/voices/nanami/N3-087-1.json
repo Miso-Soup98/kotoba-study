@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-087",
+  "exampleIndex": 0,
+  "text": "子供向けの本を探しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 164,
+  "signature": "fcb08f6604abccb7c4f91da7816d77dc7a5d908ed1f4847e205048279ae8fec9",
+  "src": "/audio/voices/nanami/N3-087-1.mp3",
+  "srt": "/audio/voices/nanami/N3-087-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "5663f9b31277ff7d92f515e087e829ea194253e1633720f11b5ed4319cdbc80a",
+  "peakPcm": 21093,
+  "rmsDbfs": -18.01,
+  "rate": "+0%",
+  "listened": false
+}

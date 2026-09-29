@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-123",
+  "exampleIndex": 1,
+  "text": "本を買おうか買うまいか、考えています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 275,
+  "signature": "293a90eb675ef2c9a7d3f93d2c41cf6e53b868684b30ba82850e8014fa5797a8",
+  "src": "/audio/voices/keita/N2-123-2.mp3",
+  "srt": "/audio/voices/keita/N2-123-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "dc9bc7a44497196fd51449659d57f48b630dce49d32a9d0cd08b234961ccb8c4",
+  "peakPcm": 24624,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-135",
+  "exampleIndex": 1,
+  "text": "前に会ったことがありましたっけ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 188,
+  "signature": "56a7f306cedc49d6c32ca16640174817a116679fd937b05551742240112b2042",
+  "src": "/audio/voices/nanami/N3-135-2.mp3",
+  "srt": "/audio/voices/nanami/N3-135-2.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "5e23f93b128e06b46bc1309f6b5f70be2117808a08c4b40025ba6e3a9e665c08",
+  "peakPcm": 22608,
+  "rmsDbfs": -18.19,
+  "rate": "+0%",
+  "listened": false
+}

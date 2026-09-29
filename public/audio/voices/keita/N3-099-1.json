@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-099",
+  "exampleIndex": 0,
+  "text": "住所が分からないので、送りようがありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 170,
+  "signature": "eaf263d65eb682b01c0fe059f5b795f4ae35bc847a851414cc589fff447aa937",
+  "src": "/audio/voices/keita/N3-099-1.mp3",
+  "srt": "/audio/voices/keita/N3-099-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "ed65d783ce475b8a3a8ebf438bc0487e6acb9e0f4655fa9718db7ac79b2ee5ba",
+  "peakPcm": 19900,
+  "rmsDbfs": -20.71,
+  "rate": "+0%",
+  "listened": false
+}

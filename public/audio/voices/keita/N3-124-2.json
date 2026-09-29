@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-124",
+  "exampleIndex": 1,
+  "text": "学生時代は、夜遅くまで話したものです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 182,
+  "signature": "13052bc5dc802041b0dc7b98fe868cbabcdbf98bc134a6886e243be009cd335e",
+  "src": "/audio/voices/keita/N3-124-2.mp3",
+  "srt": "/audio/voices/keita/N3-124-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "0acb5571a698899c805ed4c54362ba9dca2abbac1dae43045c5ded004bf4c31e",
+  "peakPcm": 25004,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

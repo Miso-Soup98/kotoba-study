@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-036",
+  "exampleIndex": 1,
+  "text": "失敗したからこそ、学べたことがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 231,
+  "signature": "1fce9a28e7b209fa4acea88ac4e34ed9d1754dacb8be16b6330ffba8e39a5828",
+  "src": "/audio/voices/nanami/N2-036-2.mp3",
+  "srt": "/audio/voices/nanami/N2-036-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "cdacafadb0640455e38d067dfd4c6247e4e59dc0cbcff75dffc198f021842a30",
+  "peakPcm": 21367,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

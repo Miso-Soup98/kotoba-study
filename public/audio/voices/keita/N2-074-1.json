@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-074",
+  "exampleIndex": 0,
+  "text": "休んでばかりはいられません。仕事を始めましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 250,
+  "signature": "719e51c5ce872fe7992d6b5802cfcbd7a77d532aab51a58990621b281e115259",
+  "src": "/audio/voices/keita/N2-074-1.mp3",
+  "srt": "/audio/voices/keita/N2-074-1.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "9547e2bd072d579a2e030659220966f716d74c6615a362c3ec069b76b361b298",
+  "peakPcm": 24036,
+  "rmsDbfs": -20.7,
+  "rate": "+0%",
+  "listened": false
+}

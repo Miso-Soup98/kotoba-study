@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-050",
+  "exampleIndex": 0,
+  "text": "分かり次第、ご連絡します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 238,
+  "signature": "6b0b37a0c6162247809a4c48111b43081bf65c8b0faf15c25befc67e4ae8f218",
+  "src": "/audio/voices/nanami/N2-050-1.mp3",
+  "srt": "/audio/voices/nanami/N2-050-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "f3722b1eebbcf1333a9f90660d13c58f87e784f9792ec8d8757011835ceecba6",
+  "peakPcm": 20548,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

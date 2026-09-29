@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-059",
+  "exampleIndex": 1,
+  "text": "最近、忘れっぽくなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 150,
+  "signature": "2a30fbfc06f119583324f2ede390305c3e1be5fff1a4ce43702f494b68929530",
+  "src": "/audio/voices/keita/N3-059-2.mp3",
+  "srt": "/audio/voices/keita/N3-059-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "3530801811d757ff5a8886b081c2c64cb8eea293550e7aae7ba311d1078b697a",
+  "peakPcm": 24832,
+  "rmsDbfs": -21.64,
+  "rate": "+0%",
+  "listened": false
+}

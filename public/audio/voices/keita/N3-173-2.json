@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-173",
+  "exampleIndex": 1,
+  "text": "留学したいです。そのために、お金を貯めています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 207,
+  "signature": "18df82962201f6644edffbd4316b9c543d346012f17cea18b99a0d5b9738890c",
+  "src": "/audio/voices/keita/N3-173-2.mp3",
+  "srt": "/audio/voices/keita/N3-173-2.srt",
+  "durationSeconds": 5.112,
+  "bytes": 30672,
+  "sha256": "14920738a9e7b6f0169684156d5379e458cd0804ec4299b1845024bd53d99efe",
+  "peakPcm": 25220,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

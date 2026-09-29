@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-110",
+  "exampleIndex": 1,
+  "text": "同じ条件の下で、比較しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 269,
+  "signature": "c3571a7f544ed042a5163c59d24cf751213d595bb4b71da5f79670e108494261",
+  "src": "/audio/voices/keita/N2-110-2.mp3",
+  "srt": "/audio/voices/keita/N2-110-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "9d1a36a1d627b08df91eeec9f9d2482d3ee9ec20c319dfca1594e391761408c9",
+  "peakPcm": 26178,
+  "rmsDbfs": -20.53,
+  "rate": "+0%",
+  "listened": false
+}

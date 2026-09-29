@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-028",
+  "exampleIndex": 0,
+  "text": "会議の最中に電話が鳴りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 134,
+  "signature": "9e984b22393d14cff1597f11176d26175443b375cf034224def939247fddd978",
+  "src": "/audio/voices/keita/N3-028-1.mp3",
+  "srt": "/audio/voices/keita/N3-028-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "01fea2b6d6443bc57fca05db066bfe53ecb03364730218fad6b2146832342c5d",
+  "peakPcm": 20936,
+  "rmsDbfs": -20.82,
+  "rate": "+0%",
+  "listened": false
+}

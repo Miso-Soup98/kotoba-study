@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-073",
+  "exampleIndex": 0,
+  "text": "父は今、電話中です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 157,
+  "signature": "57b59de5558c1562f20b56e25b07e445894f5d4c1674f6ea455d17b90288194f",
+  "src": "/audio/voices/nanami/N3-073-1.mp3",
+  "srt": "/audio/voices/nanami/N3-073-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "340ac335e2a36353ede740d77d84d48a67f032401755a8a2863c8c14cf8fd290",
+  "peakPcm": 21250,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

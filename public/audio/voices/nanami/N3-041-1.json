@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-041",
+  "exampleIndex": 0,
+  "text": "彼は静かというより、話すのが苦手です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 141,
+  "signature": "786150e06c1300814c0cde627982d960fe7affc93c414cf276701cb479673a0b",
+  "src": "/audio/voices/nanami/N3-041-1.mp3",
+  "srt": "/audio/voices/nanami/N3-041-1.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "3e123f093e330ec7be7c8af388f39c864a2e2af4bc989d9b00aacab4724ced25",
+  "peakPcm": 21379,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

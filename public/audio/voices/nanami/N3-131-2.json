@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-131",
+  "exampleIndex": 1,
+  "text": "明日までに提出すること。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 186,
+  "signature": "4914dab5a2b0ebf8cfb38e9112c2ac31d7e7c20b67c8a9fe0342c8a29e831d4b",
+  "src": "/audio/voices/nanami/N3-131-2.mp3",
+  "srt": "/audio/voices/nanami/N3-131-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "53aa419c31d8bfa74783e06fdd060c94a77a55fc00f7131a3d6bdbe3a08a48ce",
+  "peakPcm": 22222,
+  "rmsDbfs": -18.41,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-031",
+  "exampleIndex": 0,
+  "text": "一人で暮らして初めて、家事の大変さが分かりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 136,
+  "signature": "bd43a77d3199a4bb9eb8d7adb577b06106eaeab41329ea0e97d5110c5873e52f",
+  "src": "/audio/voices/nanami/N3-031-1.mp3",
+  "srt": "/audio/voices/nanami/N3-031-1.srt",
+  "durationSeconds": 5.04,
+  "bytes": 30240,
+  "sha256": "f637df7a83e44843ed1f3037bb3b3f655c02a5f0dc57c037ceabd8fb108eaea3",
+  "peakPcm": 22125,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

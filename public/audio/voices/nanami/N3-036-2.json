@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-036",
+  "exampleIndex": 1,
+  "text": "荷物は軽ければ軽いほど便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 138,
+  "signature": "3a5c054a743553d1ac65253836de13e4a0ff91c015ffa284f5c343c6ad84aae6",
+  "src": "/audio/voices/nanami/N3-036-2.mp3",
+  "srt": "/audio/voices/nanami/N3-036-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "fb24ac9be6b73c66cccce5251e031a5feeea2772eeffcc3575623d09d08327d4",
+  "peakPcm": 21072,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

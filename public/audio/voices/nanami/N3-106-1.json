@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-106",
+  "exampleIndex": 0,
+  "text": "疲れたとみえて、弟はすぐ寝ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 173,
+  "signature": "6e0b91334e35ffd2be1ec1c4ffe8c2d2e071bd286e6a0307e47546c4921ffee6",
+  "src": "/audio/voices/nanami/N3-106-1.mp3",
+  "srt": "/audio/voices/nanami/N3-106-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "77cd17cb94128bf1faa285cf9c3dbb4e5d06373f28ba915d78bd3755897884ca",
+  "peakPcm": 22795,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

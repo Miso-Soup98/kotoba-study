@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-171",
+  "exampleIndex": 1,
+  "text": "果たして間に合うかどうか、分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 300,
+  "signature": "76c22a66d46dfc06c0dc3fd0cb2393fd6a9933225ba30cfc6a82f89d185f1fb3",
+  "src": "/audio/voices/nanami/N2-171-2.mp3",
+  "srt": "/audio/voices/nanami/N2-171-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "95b0ae5d91caedc845793632feb61c6363b6c0f7acb926364f6c19b77af3f55f",
+  "peakPcm": 21423,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

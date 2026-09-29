@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-164",
+  "exampleIndex": 0,
+  "text": "一度に全部覚えるのは難しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 202,
+  "signature": "869f70cefcb8b17ce208e0385e335ef668ffd835e83677bdec8b01334b4bbb51",
+  "src": "/audio/voices/nanami/N3-164-1.mp3",
+  "srt": "/audio/voices/nanami/N3-164-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "1fb9e1eaf3fd82153f9e146939fac699c4f8d61c25c9ffc213d700b81269a052",
+  "peakPcm": 20988,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

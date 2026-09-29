@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-117",
+  "exampleIndex": 1,
+  "text": "料理好きな姉のことだから、喜ぶはずです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 272,
+  "signature": "e5dd1af4c570ec433e8f9f21e11cf086df571aaed460a94c32ff5b15206ab01b",
+  "src": "/audio/voices/keita/N2-117-2.mp3",
+  "srt": "/audio/voices/keita/N2-117-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "9b3a9074a139ac10520f997a73f3eeab202b3783f287dc8fceeef302f832cd7a",
+  "peakPcm": 23307,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-220",
+  "exampleIndex": 0,
+  "text": "何しろ初めてなので、時間がかかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 324,
+  "signature": "c27792fe351f4179804dff17336c02b4ec0b154e9d04dcde1869101d48f24c91",
+  "src": "/audio/voices/keita/N2-220-1.mp3",
+  "srt": "/audio/voices/keita/N2-220-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "f7bc42723235d62c87a356850ecd16593bf78b6c785fe15125ca66f2cc6593ae",
+  "peakPcm": 24583,
+  "rmsDbfs": -21.14,
+  "rate": "+0%",
+  "listened": false
+}

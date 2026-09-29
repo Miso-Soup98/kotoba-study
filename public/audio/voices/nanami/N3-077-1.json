@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-077",
+  "exampleIndex": 0,
+  "text": "今夜から明日にかけて、雨が降るそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 159,
+  "signature": "4b3ef282b8faedd9e2f6df779c7b8b248277cfa199054722843e197d1f6f6620",
+  "src": "/audio/voices/nanami/N3-077-1.mp3",
+  "srt": "/audio/voices/nanami/N3-077-1.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "c8b4dcb50e7aa089908f9cfa7915c204902e8d83cae6c377b614cedfa7d2087c",
+  "peakPcm": 21079,
+  "rmsDbfs": -18.1,
+  "rate": "+0%",
+  "listened": false
+}

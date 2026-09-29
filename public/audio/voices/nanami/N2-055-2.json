@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-055",
+  "exampleIndex": 1,
+  "text": "皆が笑っているところを見ると、話は成功したのでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 241,
+  "signature": "aaa20ff5841502f7549855ac05b2bd8e04eb2f4861eb4d52d69ca6c81b89cbe1",
+  "src": "/audio/voices/nanami/N2-055-2.mp3",
+  "srt": "/audio/voices/nanami/N2-055-2.srt",
+  "durationSeconds": 5.16,
+  "bytes": 30960,
+  "sha256": "aa49ab2dae774d2e9a558e40cedc41cb722676f3f795a13186cceb8ae7d5cece",
+  "peakPcm": 22424,
+  "rmsDbfs": -16.9,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-151",
+  "exampleIndex": 1,
+  "text": "買った本は読まずじまいでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 289,
+  "signature": "af3cac6751fdcd0a206362017d6800f93992b04440476bf2186c016f1918550e",
+  "src": "/audio/voices/keita/N2-151-2.mp3",
+  "srt": "/audio/voices/keita/N2-151-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "ade6286aa1d12f294aef7dd4aad2507e50551ee05a80165c6737054d6ef5ae91",
+  "peakPcm": 21701,
+  "rmsDbfs": -21.72,
+  "rate": "+0%",
+  "listened": false
+}

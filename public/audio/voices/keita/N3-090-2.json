@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-090",
+  "exampleIndex": 1,
+  "text": "私は兄ほど速く走れません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 165,
+  "signature": "d5f02c469be381e841c89d14386f331bbd997137dc436c16f2d3e8919b2ac075",
+  "src": "/audio/voices/keita/N3-090-2.mp3",
+  "srt": "/audio/voices/keita/N3-090-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "a531656ac1b733b7389f741da608a8ff2dd3b37e1f5225d4a8e92580d3b67c27",
+  "peakPcm": 21082,
+  "rmsDbfs": -21.69,
+  "rate": "+0%",
+  "listened": false
+}

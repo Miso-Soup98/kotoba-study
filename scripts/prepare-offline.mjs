@@ -13,8 +13,11 @@ await walk("dist/client/_next/static");
 await writeFile("dist/client/precache.json", JSON.stringify(assets));
 const source = await readFile("public/sw.js", "utf8");
 const hash = createHash("sha256")
+  .update(source)
   .update(JSON.stringify(assets))
   .update(await readFile("public/data/grammar.json"))
+  .update(await readFile("public/data/n2-weekly-curriculum.json"))
+  .update(await readFile("public/data/question-sets/n2-2026-09-v05.json"))
   .digest("hex")
   .slice(0, 12);
 await writeFile(

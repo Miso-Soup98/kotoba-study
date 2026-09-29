@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-110",
+  "exampleIndex": 1,
+  "text": "心配するばかりで、相談しませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 175,
+  "signature": "aabe5b7156092956fdfc15c0b5aa01a32f988857cb84d70af6d0097151e14368",
+  "src": "/audio/voices/nanami/N3-110-2.mp3",
+  "srt": "/audio/voices/nanami/N3-110-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "5d47750bb5d22be51027205e62d50913a2c9b48365292036ff59859736c60d76",
+  "peakPcm": 21106,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

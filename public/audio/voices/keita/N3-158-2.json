@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-158",
+  "exampleIndex": 1,
+  "text": "難しくて、まるで分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 199,
+  "signature": "1867191063dbd496b86b054d0a50e157f708e082553e5b282d9e35a4f50b281b",
+  "src": "/audio/voices/keita/N3-158-2.mp3",
+  "srt": "/audio/voices/keita/N3-158-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "b2c1d84de70cf4f84abda154ca81c2efba268c8644447027d42f804ba804cfea",
+  "peakPcm": 22567,
+  "rmsDbfs": -21.72,
+  "rate": "+0%",
+  "listened": false
+}

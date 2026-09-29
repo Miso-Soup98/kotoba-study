@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-061",
+  "exampleIndex": 0,
+  "text": "長く待ったあげく、店に入れませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 244,
+  "signature": "80e96d29182813b5cf7c62ee3e58c92aca7cac040156cfdc358aa57b1d6c0cfb",
+  "src": "/audio/voices/nanami/N2-061-1.mp3",
+  "srt": "/audio/voices/nanami/N2-061-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "cffe4b5cf6ba7e381577c646ff5a48279db82572db2b891d41e5635a16bc6ac1",
+  "peakPcm": 20829,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

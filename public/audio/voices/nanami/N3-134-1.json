@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-134",
+  "exampleIndex": 0,
+  "text": "春と言えば、桜ですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 187,
+  "signature": "0389efa8d203188d584e66539446612bb08fc2230e4ab85205c4df8d43df9aa0",
+  "src": "/audio/voices/nanami/N3-134-1.mp3",
+  "srt": "/audio/voices/nanami/N3-134-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "325ab101294686c55c48dff4d7cbafe6ac833b1096e842ef7706f7199e3af6f5",
+  "peakPcm": 20430,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

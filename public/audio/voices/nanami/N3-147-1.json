@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-147",
+  "exampleIndex": 0,
+  "text": "おいしくて、つい食べすぎました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 194,
+  "signature": "6b573c005d1fc6bf10a7221c0e3bc71f5af9792ce1d10b4a2ea96fc5e9513f6c",
+  "src": "/audio/voices/nanami/N3-147-1.mp3",
+  "srt": "/audio/voices/nanami/N3-147-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "aef1c32f134de6b82bbf20fbd97d9de84d27737b74e70be8a3e84e1516dc58f5",
+  "peakPcm": 21207,
+  "rmsDbfs": -18.5,
+  "rate": "+0%",
+  "listened": false
+}

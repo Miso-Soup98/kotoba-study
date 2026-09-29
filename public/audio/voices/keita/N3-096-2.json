@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-096",
+  "exampleIndex": 1,
+  "text": "時間があれば、一緒に行けるのに。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 168,
+  "signature": "708f9650560b13523adce3ed924231a94afb2a4a2efd19efbf75446b7527b09d",
+  "src": "/audio/voices/keita/N3-096-2.mp3",
+  "srt": "/audio/voices/keita/N3-096-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "018b33889d54e58be1adfb2e548e6a51a261717d5e2512bff3d77a289aa62bec",
+  "peakPcm": 25022,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

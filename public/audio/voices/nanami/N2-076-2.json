@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-076",
+  "exampleIndex": 1,
+  "text": "毎回遅れるようでは、信用されません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 251,
+  "signature": "7df080f2a34c2ee852224812d92047e08ae795f46a70be1ef0411bea7a19938e",
+  "src": "/audio/voices/nanami/N2-076-2.mp3",
+  "srt": "/audio/voices/nanami/N2-076-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "57fcad6577e105c05fc3c015a78250d35d067713f34e6b0b5b26e6d30663bb5b",
+  "peakPcm": 20365,
+  "rmsDbfs": -16.71,
+  "rate": "+0%",
+  "listened": false
+}

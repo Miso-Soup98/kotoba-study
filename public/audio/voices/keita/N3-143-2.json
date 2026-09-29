@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-143",
+  "exampleIndex": 1,
+  "text": "隣の部屋の音が気になって、眠れません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 192,
+  "signature": "67b542e9e16d999018ce401cebd4781cb792f8466504228ac88a009d14edb689",
+  "src": "/audio/voices/keita/N3-143-2.mp3",
+  "srt": "/audio/voices/keita/N3-143-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "898f63a87303554b011cb591b8fad63cde01d9eb464a27e8ed2b78d7621aa921",
+  "peakPcm": 24641,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

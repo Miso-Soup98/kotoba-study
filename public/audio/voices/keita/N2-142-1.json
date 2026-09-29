@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-142",
+  "exampleIndex": 0,
+  "text": "本やら服やらで、部屋がいっぱいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 285,
+  "signature": "595f0372998aa0317fcbb4b0a9a67bdd82730c3031c47ef74dc671bd5c1a4f1d",
+  "src": "/audio/voices/keita/N2-142-1.mp3",
+  "srt": "/audio/voices/keita/N2-142-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "35d8469fda347526a7a682a5bb4871f835c98823d5cc8da82af026f72e2d78f7",
+  "peakPcm": 25631,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

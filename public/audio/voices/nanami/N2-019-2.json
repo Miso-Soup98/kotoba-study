@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-019",
+  "exampleIndex": 1,
+  "text": "土地をめぐる問題が起きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 223,
+  "signature": "e2dd1cbbdc312e1e0d3ba1025cbcb91fe97aae1ac23db764755f928ec344353f",
+  "src": "/audio/voices/nanami/N2-019-2.mp3",
+  "srt": "/audio/voices/nanami/N2-019-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "aa3e02d0bfc25820a358a90da9846e46a914be4d6efdf9c9fe3c10786cba91e4",
+  "peakPcm": 20928,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

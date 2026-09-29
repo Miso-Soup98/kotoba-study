@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-120",
+  "exampleIndex": 1,
+  "text": "幸いなことに、誰もけがをしませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 274,
+  "signature": "403a47b011d5bc5b2d8d6564a780dbe0ea40faa5ed7627dba217c66058e76558",
+  "src": "/audio/voices/keita/N2-120-2.mp3",
+  "srt": "/audio/voices/keita/N2-120-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "f6e00179e3f451c84a3e799f54f3d1b131582638154f91b6476a12cffba34bbf",
+  "peakPcm": 27228,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

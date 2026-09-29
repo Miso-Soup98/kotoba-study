@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-176",
+  "exampleIndex": 0,
+  "text": "お茶にしますか。それとも、水にしますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 208,
+  "signature": "8f87d95962c992372ee415c5dc6a0c043e423ea8ab33d47b5d427c882dd86be0",
+  "src": "/audio/voices/keita/N3-176-1.mp3",
+  "srt": "/audio/voices/keita/N3-176-1.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "d2044fc74197262a6f49c449bee939836bda4385ac0484c5a4fc97d97f575691",
+  "peakPcm": 25746,
+  "rmsDbfs": -21.01,
+  "rate": "+0%",
+  "listened": false
+}

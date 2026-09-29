@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-131",
+  "exampleIndex": 1,
+  "text": "時間が止まったかのようでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 279,
+  "signature": "8fc0b6556e09b1183cbebf6af1d112a75e05d57b282311341a133bda9f95602e",
+  "src": "/audio/voices/keita/N2-131-2.mp3",
+  "srt": "/audio/voices/keita/N2-131-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "9af515b15bebce35109e566e6f42945a5b953ebad761d98903d3fa4c3a819768",
+  "peakPcm": 24582,
+  "rmsDbfs": -20.87,
+  "rate": "+0%",
+  "listened": false
+}

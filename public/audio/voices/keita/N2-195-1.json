@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-195",
+  "exampleIndex": 0,
+  "text": "道に迷いました。おまけに雨も降ってきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 312,
+  "signature": "4cb9cdebb6a71833bcb637142299e846140c3da5cd320687908a4dfb9558d833",
+  "src": "/audio/voices/keita/N2-195-1.mp3",
+  "srt": "/audio/voices/keita/N2-195-1.srt",
+  "durationSeconds": 4.512,
+  "bytes": 27072,
+  "sha256": "c6c5dcc05315574cab8695ff4f7387f1c06fb8a84089016d28cdf3cb20c397bb",
+  "peakPcm": 24061,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

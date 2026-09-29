@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-110",
+  "exampleIndex": 0,
+  "text": "先生の指導の下で、研究しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 269,
+  "signature": "5f3f6ac543ef84470837a98fc278c99d5117ea467f2b1a743ee16de6dcd47f2e",
+  "src": "/audio/voices/nanami/N2-110-1.mp3",
+  "srt": "/audio/voices/nanami/N2-110-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "2b24a567b5734e1a88ebbc54ad9b4c1d30cff068a9cc6708acf5834511ea624b",
+  "peakPcm": 21314,
+  "rmsDbfs": -17.51,
+  "rate": "+0%",
+  "listened": false
+}

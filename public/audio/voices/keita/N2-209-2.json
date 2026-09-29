@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-209",
+  "exampleIndex": 1,
+  "text": "二人は何やら相談しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 319,
+  "signature": "99b33829be9f39054d62de4e2e52f326f5d1ab165c4127b7ac7fd51e54ad2e3c",
+  "src": "/audio/voices/keita/N2-209-2.mp3",
+  "srt": "/audio/voices/keita/N2-209-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "47b5ec4f284e03c825835b558dd40117b35e8cb21028f1b40ce74ef95ddd0a48",
+  "peakPcm": 24819,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

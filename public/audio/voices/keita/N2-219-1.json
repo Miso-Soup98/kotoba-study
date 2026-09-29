@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-219",
+  "exampleIndex": 0,
+  "text": "この家は、何といっても駅に近いのが便利です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 324,
+  "signature": "ef2e5403cdb44027c2ad1d1bacf150d7dcfef82c9afa56f575530c9bfc4ddd61",
+  "src": "/audio/voices/keita/N2-219-1.mp3",
+  "srt": "/audio/voices/keita/N2-219-1.srt",
+  "durationSeconds": 4.344,
+  "bytes": 26064,
+  "sha256": "df058efb1ce4b9bc1ed6d20992be2210110ed861c65101507276af43ce2e2c9f",
+  "peakPcm": 25149,
+  "rmsDbfs": -20.14,
+  "rate": "+0%",
+  "listened": false
+}

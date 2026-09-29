@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-137",
+  "exampleIndex": 1,
+  "text": "安くたって、要らない物は買いません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 189,
+  "signature": "85022ee4a8e3bfa62da59df457b47193afb8a24b0927e83860b3126b655f37f4",
+  "src": "/audio/voices/keita/N3-137-2.mp3",
+  "srt": "/audio/voices/keita/N3-137-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "74f751c742e3da9fb1b5b7b59098712e05135c24fa3dbab9a0ba46681437a97e",
+  "peakPcm": 27155,
+  "rmsDbfs": -21.28,
+  "rate": "+0%",
+  "listened": false
+}

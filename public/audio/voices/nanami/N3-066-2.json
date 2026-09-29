@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-066",
+  "exampleIndex": 1,
+  "text": "皆で一つの作品を作り上げました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 153,
+  "signature": "0506a3450ed7b2ef4fc3da3a5ea3a3f93df85be7e98c6008dbc3556232987c38",
+  "src": "/audio/voices/nanami/N3-066-2.mp3",
+  "srt": "/audio/voices/nanami/N3-066-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "e01cce1bbe68d3ff9f911e477c34981fa671cf7f19f2c479f9cd6c69e0b864fe",
+  "peakPcm": 20836,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

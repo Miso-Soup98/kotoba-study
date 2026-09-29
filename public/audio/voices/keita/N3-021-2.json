@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-021",
+  "exampleIndex": 1,
+  "text": "人の秘密を話すべきではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 131,
+  "signature": "d8c806f5dd0c432df4c485b440b5833860b87c0eeec8aa0ad088144381bc8ad3",
+  "src": "/audio/voices/keita/N3-021-2.mp3",
+  "srt": "/audio/voices/keita/N3-021-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "ca3eb4091bfb2c9e2b758443510d7a40f06c426b55b31d4493174bf849f42862",
+  "peakPcm": 22662,
+  "rmsDbfs": -19.77,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-047",
+  "exampleIndex": 0,
+  "text": "朝御飯を食べずに出かけました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 144,
+  "signature": "a71f739328566bdc80348fa0884c858761ef882e3144869c183510dbbda4b367",
+  "src": "/audio/voices/keita/N3-047-1.mp3",
+  "srt": "/audio/voices/keita/N3-047-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "a8ecb69e99a3299815695dccdc92aad8140e734cd203d108c40ccc130745a17d",
+  "peakPcm": 23350,
+  "rmsDbfs": -21.61,
+  "rate": "+0%",
+  "listened": false
+}

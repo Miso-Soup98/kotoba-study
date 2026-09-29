@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-183",
+  "exampleIndex": 0,
+  "text": "異常があれば、直ちに連絡してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 306,
+  "signature": "2d8e3d1d0db406cc18b9293147484b76fa3039d5c868ca6aaf4de960e70c447c",
+  "src": "/audio/voices/keita/N2-183-1.mp3",
+  "srt": "/audio/voices/keita/N2-183-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "8fccf06ab477f977eebecd80ddb98dbb3921ec85edf02f8d675126b6e7816744",
+  "peakPcm": 24211,
+  "rmsDbfs": -20.58,
+  "rate": "+0%",
+  "listened": false
+}

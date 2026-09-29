@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-146",
+  "exampleIndex": 1,
+  "text": "友達の苦しみが少し分かりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 193,
+  "signature": "3d9ac0fb4ab7e47b046b80f052a8bf3ea332bcf78fa6dd4aa3affcc47133f25a",
+  "src": "/audio/voices/keita/N3-146-2.mp3",
+  "srt": "/audio/voices/keita/N3-146-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "f6913010c21ff7c90e528c819be25c464279500936549904bd0bb3ba97f5cbc3",
+  "peakPcm": 22340,
+  "rmsDbfs": -20.53,
+  "rate": "+0%",
+  "listened": false
+}

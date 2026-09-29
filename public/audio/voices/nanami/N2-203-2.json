@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-203",
+  "exampleIndex": 1,
+  "text": "本館及び別館は休館です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 316,
+  "signature": "5977c156398124e49baa3f7b9c92cc235fc80e4a951192c06c09f5985da5c6f2",
+  "src": "/audio/voices/nanami/N2-203-2.mp3",
+  "srt": "/audio/voices/nanami/N2-203-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "f86525321e022ea08892fa0970be809927308826e4250ab678e06f64c8080b30",
+  "peakPcm": 22069,
+  "rmsDbfs": -16.79,
+  "rate": "+0%",
+  "listened": false
+}

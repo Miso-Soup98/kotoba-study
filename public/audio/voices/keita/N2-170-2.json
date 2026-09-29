@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-170",
+  "exampleIndex": 1,
+  "text": "準備は一応終わりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 299,
+  "signature": "c89ec54c8bf16f15aa3415635c7bf8825643aafd4f49f611b09160d0506c3efc",
+  "src": "/audio/voices/keita/N2-170-2.mp3",
+  "srt": "/audio/voices/keita/N2-170-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "0e1036a8c5a27cda65e0f6096f7c809c66990dc843f54adc250855c0bd581b53",
+  "peakPcm": 19705,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-061",
+  "exampleIndex": 0,
+  "text": "長く待ったあげく、店に入れませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 244,
+  "signature": "391b690e89880a9ed06eeb10a8b27a838ab49baab54e459e26d4907bb00e26e6",
+  "src": "/audio/voices/keita/N2-061-1.mp3",
+  "srt": "/audio/voices/keita/N2-061-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "7039e25ae6901e7bfc86cad9fce8b66a65baa9447f809a665f809e22262cd4c4",
+  "peakPcm": 24342,
+  "rmsDbfs": -21.1,
+  "rate": "+0%",
+  "listened": false
+}

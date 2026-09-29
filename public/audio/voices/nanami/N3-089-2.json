@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-089",
+  "exampleIndex": 1,
+  "text": "泣きたいくらいうれしかったです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 165,
+  "signature": "16fc6ccaf402b20735e08391b122a50ba8fd6ee48cd0685ccd0137af6937b8c4",
+  "src": "/audio/voices/nanami/N3-089-2.mp3",
+  "srt": "/audio/voices/nanami/N3-089-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "db5d6f8a2cf1f04e7fe5cfee1b7bdb3b4011ebca7ee82f6d1ae0cf89eeac737c",
+  "peakPcm": 20704,
+  "rmsDbfs": -18.57,
+  "rate": "+0%",
+  "listened": false
+}

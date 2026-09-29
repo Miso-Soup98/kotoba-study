@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-061",
+  "exampleIndex": 1,
+  "text": "迷ったあげく、何も買いませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 244,
+  "signature": "7a7d912932279663e886a98699f0b3c689af5797f61745b69940a63dc2e8da07",
+  "src": "/audio/voices/nanami/N2-061-2.mp3",
+  "srt": "/audio/voices/nanami/N2-061-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "a56c4cc0d5ec8888d768c9c4ad89b85140c8251b344a7ea53f73fb7fa0aab0be",
+  "peakPcm": 21226,
+  "rmsDbfs": -18.47,
+  "rate": "+0%",
+  "listened": false
+}

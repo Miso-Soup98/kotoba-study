@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-046",
+  "exampleIndex": 0,
+  "text": "平日はもちろん、土曜日も開いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 143,
+  "signature": "1efb8178b82f8c0ba2fef5da9158da7c35bff2f318053c41923db0ac51ec8ef5",
+  "src": "/audio/voices/keita/N3-046-1.mp3",
+  "srt": "/audio/voices/keita/N3-046-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "a6cb7d6a65dc8f67b284231dfba987569e9eea9324197a74ddc364f2fc9336f2",
+  "peakPcm": 22987,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

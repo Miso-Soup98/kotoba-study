@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-012",
+  "exampleIndex": 1,
+  "text": "前の部屋に比べると、ここは広いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 126,
+  "signature": "e62a3f2e76746f71721ff4ff8b26f8e06637f7c3d8ee32d39b9b84ff107f43de",
+  "src": "/audio/voices/nanami/N3-012-2.mp3",
+  "srt": "/audio/voices/nanami/N3-012-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "a8cff579a475255abd9e8e7a4a60ceb76abd2a347a1eed6dee5e1153cefae475",
+  "peakPcm": 23215,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

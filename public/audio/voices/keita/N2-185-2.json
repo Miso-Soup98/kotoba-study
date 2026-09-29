@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-185",
+  "exampleIndex": 1,
+  "text": "小さな変化が、やがて大きな差になります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 307,
+  "signature": "29eca9e74d2fef7e0a13fada19ed797c746ba8c1af98d7e8090d715cd55c67ef",
+  "src": "/audio/voices/keita/N2-185-2.mp3",
+  "srt": "/audio/voices/keita/N2-185-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "7d456b970467b70931ed884ff507c82b9f88cd5c0d3824f9487bfe361fb5e437",
+  "peakPcm": 23764,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-034",
+  "exampleIndex": 0,
+  "text": "年を取るにつれて、早く目が覚めるようになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 137,
+  "signature": "2e5cc4b5e3b9a6234fe3083ad6c48cac0f6fcf0a830fa1ec348e6db395598dd5",
+  "src": "/audio/voices/nanami/N3-034-1.mp3",
+  "srt": "/audio/voices/nanami/N3-034-1.srt",
+  "durationSeconds": 4.776,
+  "bytes": 28656,
+  "sha256": "e85d7d65f5543ce5a4d33a17c3cc27f65b601ec5f2715cf7fe5785adba5c74da",
+  "peakPcm": 20704,
+  "rmsDbfs": -17.0,
+  "rate": "+0%",
+  "listened": false
+}

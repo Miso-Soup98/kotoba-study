@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-167",
+  "exampleIndex": 0,
+  "text": "一日に読めるのは、せいぜい二十ページです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 204,
+  "signature": "87a9ea75b947b7cb1937f0ca1ba290e81f81b4f7baa3f17fcd568d0026d469d3",
+  "src": "/audio/voices/nanami/N3-167-1.mp3",
+  "srt": "/audio/voices/nanami/N3-167-1.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "5603a02938f2d2ebc0b7c2f6dfc90e61b45d3d86ef3f1b07cfd1252edb6ad3e0",
+  "peakPcm": 21465,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

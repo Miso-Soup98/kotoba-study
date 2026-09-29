@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-014",
+  "exampleIndex": 1,
+  "text": "寝るのが遅かったせいで、眠いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 127,
+  "signature": "d9bd819f2cf1d9756541e2fe2791a178eacbf2b67d3856736c8666b8ef7de42c",
+  "src": "/audio/voices/keita/N3-014-2.mp3",
+  "srt": "/audio/voices/keita/N3-014-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "158a66d36c508d0dba3b50e5deaac76eb8b0dbb50fde633028850952f8611ba5",
+  "peakPcm": 25066,
+  "rmsDbfs": -21.12,
+  "rate": "+0%",
+  "listened": false
+}

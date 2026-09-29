@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-030",
+  "exampleIndex": 1,
+  "text": "雪のため、電車が遅れる恐れがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 228,
+  "signature": "38ff8d33fbd57b760d5d6e97cc4d488a42975cbe2910f08c0e2521681df7d2a2",
+  "src": "/audio/voices/nanami/N2-030-2.mp3",
+  "srt": "/audio/voices/nanami/N2-030-2.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "11fbfc157f3346480d8133980af94bf6ac9722b5a913838b4a3f86fdce5b4780",
+  "peakPcm": 22362,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

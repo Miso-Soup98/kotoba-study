@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-170",
+  "exampleIndex": 1,
+  "text": "結局、皆で歩いて帰りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 205,
+  "signature": "04c1b3a1e145d0d5a0a4f8d9c15124a344d4b2280a2355a5099d66e587c7c2b9",
+  "src": "/audio/voices/keita/N3-170-2.mp3",
+  "srt": "/audio/voices/keita/N3-170-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "4c2efa2a5df68b3fad2e01c386b159420395c21efb0533aeffc55b9d2f352eb2",
+  "peakPcm": 20477,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

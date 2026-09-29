@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-049",
+  "exampleIndex": 0,
+  "text": "結果は準備次第です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 238,
+  "signature": "1ea05449e44a1bddb0ea3e869e77ae99526a286ed663e9207f2b83a79ae1e577",
+  "src": "/audio/voices/nanami/N2-049-1.mp3",
+  "srt": "/audio/voices/nanami/N2-049-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "80ca8d1aac10978eccc9b41612e9b27f9b2118d4566aa3022f0d42ddae09d4ac",
+  "peakPcm": 20559,
+  "rmsDbfs": -18.75,
+  "rate": "+0%",
+  "listened": false
+}

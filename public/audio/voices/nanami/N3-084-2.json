@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-084",
+  "exampleIndex": 1,
+  "text": "親の希望に反して、外国で働くことにしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 162,
+  "signature": "f323f51bfc02f1af005a3caa2551d26ab7e43886ea2dbcde24f9467990f008e7",
+  "src": "/audio/voices/nanami/N3-084-2.mp3",
+  "srt": "/audio/voices/nanami/N3-084-2.srt",
+  "durationSeconds": 4.752,
+  "bytes": 28512,
+  "sha256": "330b58c1c7f68e47dbe13d60385c8f35b72806439b7c7cd97021fc65bdaee460",
+  "peakPcm": 21282,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

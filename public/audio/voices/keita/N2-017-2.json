@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-017",
+  "exampleIndex": 1,
+  "text": "工事に伴い、道路を閉鎖します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 222,
+  "signature": "2c5c1d4d4b7a8eac28ec94695fcb8a6ff815d27bb82ed5b1eb521aaa9d783684",
+  "src": "/audio/voices/keita/N2-017-2.mp3",
+  "srt": "/audio/voices/keita/N2-017-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "e0646aee53df1d63aeb494cf7b87471c505e24564191c9e82d470a125fff00fb",
+  "peakPcm": 24126,
+  "rmsDbfs": -20.5,
+  "rate": "+0%",
+  "listened": false
+}

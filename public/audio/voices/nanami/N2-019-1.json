@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-019",
+  "exampleIndex": 0,
+  "text": "予算をめぐって、話し合いが続いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 223,
+  "signature": "c54e95b8502332b56c55ab392b0227baec57da3adaecb69f7e64b3e0403cf5b7",
+  "src": "/audio/voices/nanami/N2-019-1.mp3",
+  "srt": "/audio/voices/nanami/N2-019-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "75de9abd07ecdac8247b087401bd839e0df224329bf247428266144412143c11",
+  "peakPcm": 21445,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

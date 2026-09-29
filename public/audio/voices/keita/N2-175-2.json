@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-175",
+  "exampleIndex": 1,
+  "text": "気温がわずかに上がりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 302,
+  "signature": "1aafb34c427a745eb89d347ce3cfed4fc3e6bd3bca462f116b697bb889dc72e0",
+  "src": "/audio/voices/keita/N2-175-2.mp3",
+  "srt": "/audio/voices/keita/N2-175-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "156ff0cdbcc0020e1ae17819b6d7e5e8e700f30d5a10028ccdb83df58c79cef3",
+  "peakPcm": 21721,
+  "rmsDbfs": -19.89,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-140",
+  "exampleIndex": 0,
+  "text": "この変化は気温の影響だと考えられます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 284,
+  "signature": "7e13de6abf399eb053fd252f51c39b0802b6be54fc583728544e2ec171a350cf",
+  "src": "/audio/voices/keita/N2-140-1.mp3",
+  "srt": "/audio/voices/keita/N2-140-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "727d20c6f5264df5cf9aa1a03c71315e37f7f26b51ade83e4341e267eff55df0",
+  "peakPcm": 21402,
+  "rmsDbfs": -20.08,
+  "rate": "+0%",
+  "listened": false
+}

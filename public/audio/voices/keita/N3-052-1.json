@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-052",
+  "exampleIndex": 0,
+  "text": "この店は値段が安いわりに、おいしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 146,
+  "signature": "b68f978367fb03a6125903de2dc1bd8f9e90fde95854d1696eec51f8f4c6d04b",
+  "src": "/audio/voices/keita/N3-052-1.mp3",
+  "srt": "/audio/voices/keita/N3-052-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "c6776fcccb887e8f7a742fdda2c83e75928ed0cc539bf8246240ccfe091deb7c",
+  "peakPcm": 23015,
+  "rmsDbfs": -20.29,
+  "rate": "+0%",
+  "listened": false
+}

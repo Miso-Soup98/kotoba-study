@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-127",
+  "exampleIndex": 0,
+  "text": "この町には山もあれば、海もあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 184,
+  "signature": "6934a6b999fcb156b2d9467869d8f9cecbd3212b105b3b72dd4070e93f07ec2d",
+  "src": "/audio/voices/nanami/N3-127-1.mp3",
+  "srt": "/audio/voices/nanami/N3-127-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "4cb0c6ba28fe5abea00d512a8f4834a0cd803bb14445fab1f3a3bacdadfe0935",
+  "peakPcm": 21750,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

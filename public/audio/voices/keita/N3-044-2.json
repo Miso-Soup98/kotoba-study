@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-044",
+  "exampleIndex": 1,
+  "text": "彼は英語ばかりでなく、日本語も話せます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 142,
+  "signature": "7c5d0b82bd919d89a08d49a3fb5b7ab668fb28a2ba0b9dc45a59d037f10167e1",
+  "src": "/audio/voices/keita/N3-044-2.mp3",
+  "srt": "/audio/voices/keita/N3-044-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "3cca36481e354e095fe1688dfaff7df45047363d0303ea22a7f64a4bc9ee8b61",
+  "peakPcm": 21565,
+  "rmsDbfs": -20.08,
+  "rate": "+0%",
+  "listened": false
+}

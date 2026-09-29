@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-063",
+  "exampleIndex": 0,
+  "text": "長い小説を読み切りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 152,
+  "signature": "286bd869f779a66f1d3768b119865543adffe4c26245091f20f036bf2165f4da",
+  "src": "/audio/voices/keita/N3-063-1.mp3",
+  "srt": "/audio/voices/keita/N3-063-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "893c878c3b8f228508cdd5fdbc6cecf256ac06dadc7ce72af6a18011e53c1e94",
+  "peakPcm": 24346,
+  "rmsDbfs": -21.02,
+  "rate": "+0%",
+  "listened": false
+}

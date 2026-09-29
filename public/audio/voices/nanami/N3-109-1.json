@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-109",
+  "exampleIndex": 0,
+  "text": "食べたいだけ食べてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 175,
+  "signature": "2047863b6f130ca4642aef5dcef63c0e4a1b9742b6d9be2dd1ed6a6ec110688a",
+  "src": "/audio/voices/nanami/N3-109-1.mp3",
+  "srt": "/audio/voices/nanami/N3-109-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "920b53d76e48961c32e82e48de9a0aaac837b0004bf00d309841cfcd9eead523",
+  "peakPcm": 21406,
+  "rmsDbfs": -18.9,
+  "rate": "+0%",
+  "listened": false
+}

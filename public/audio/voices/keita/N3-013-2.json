@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-013",
+  "exampleIndex": 1,
+  "text": "早く出たおかげで、間に合いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 127,
+  "signature": "747f5c573400c6e4875773f1579596decb0a5cb8669c85a74bef88c796c42f09",
+  "src": "/audio/voices/keita/N3-013-2.mp3",
+  "srt": "/audio/voices/keita/N3-013-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "ecd02748ce6219764f47343e5b37a83912f3d5f39167eabb99a23c288196682c",
+  "peakPcm": 20161,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

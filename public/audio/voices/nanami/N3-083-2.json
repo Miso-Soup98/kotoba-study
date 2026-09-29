@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-083",
+  "exampleIndex": 1,
+  "text": "教育における言葉の役割を考えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 162,
+  "signature": "32abe578b33b333805a77c3d3205bf358061756365b9e9b205fd5ce72288bdb9",
+  "src": "/audio/voices/nanami/N3-083-2.mp3",
+  "srt": "/audio/voices/nanami/N3-083-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "cb5ed2573f278cf29b6c29a5b8a1df1b0d2fbedb040a463de308315d17f7214d",
+  "peakPcm": 23160,
+  "rmsDbfs": -16.89,
+  "rate": "+0%",
+  "listened": false
+}

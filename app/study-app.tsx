@@ -1679,7 +1679,7 @@ export default function StudyApp({
                 </section>
               </div>
               <div className="about-line">
-                <span>言葉 · v0.5.0-dev · 全量 622 条 / 1,244 例句</span>
+                <span>言葉 · v0.5.0 · 全量 622 条 / 1,244 例句</span>
                 <a
                   href="https://github.com/Miso-Soup98/kotoba-study"
                   target="_blank"

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-048",
+  "exampleIndex": 0,
+  "text": "本を買っただけでは、勉強したことにはなりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 237,
+  "signature": "78e498a472d999a6dffac8614b0f5ca567c02bb4cb16341ee5d2ecd398acdca3",
+  "src": "/audio/voices/keita/N2-048-1.mp3",
+  "srt": "/audio/voices/keita/N2-048-1.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "498642b6f1350918b0aa3a45d82a093e663602b7c4d80b01fa9d815a8db0d475",
+  "peakPcm": 22376,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

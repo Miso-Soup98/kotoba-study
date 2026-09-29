@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-103",
+  "exampleIndex": 0,
+  "text": "言うだけは言いましたが、聞いてもらえませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 265,
+  "signature": "e3adb26b174ead46bf940bbe187dd73ca48a4dd36e750bad760225f329695280",
+  "src": "/audio/voices/keita/N2-103-1.mp3",
+  "srt": "/audio/voices/keita/N2-103-1.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "900aea1022ffadca734cba3dae363611d9c5b6a12e7f355923fe67859bbdf718",
+  "peakPcm": 22330,
+  "rmsDbfs": -19.78,
+  "rate": "+0%",
+  "listened": false
+}

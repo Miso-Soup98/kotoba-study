@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-019",
+  "exampleIndex": 0,
+  "text": "明日は試験なので、遊ぶわけにはいきません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 130,
+  "signature": "bf2093271f702838e69feb23627344420a447fa191554c5d1243ab9d5dd524a4",
+  "src": "/audio/voices/keita/N3-019-1.mp3",
+  "srt": "/audio/voices/keita/N3-019-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "1011f500868e3f6c2d771f3f6ca5b9a2566b7f9cf9b9ee303466622050d30fcb",
+  "peakPcm": 22903,
+  "rmsDbfs": -20.07,
+  "rate": "+0%",
+  "listened": false
+}

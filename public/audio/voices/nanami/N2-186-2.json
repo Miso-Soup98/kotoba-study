@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-186",
+  "exampleIndex": 1,
+  "text": "空はいよいよ暗くなってきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 307,
+  "signature": "2f1e1cb84bc4f9ec3d65ca4737a8cb71c6285dd327c8a1fb52b8bb5e41f7c2ec",
+  "src": "/audio/voices/nanami/N2-186-2.mp3",
+  "srt": "/audio/voices/nanami/N2-186-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "cb0d3330ac23ece79b7214ad9e7c2c6aca6413df1250f203e4defacd46fe11ee",
+  "peakPcm": 21718,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

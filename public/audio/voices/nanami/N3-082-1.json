@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-082",
+  "exampleIndex": 0,
+  "text": "感謝を込めて、手紙を書きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 161,
+  "signature": "5ac432a0f9882aff6527928b805657e732be5c4f26fa65c80c5254d22c30f2c8",
+  "src": "/audio/voices/nanami/N3-082-1.mp3",
+  "srt": "/audio/voices/nanami/N3-082-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "3e905f8f7e631537c27dbd22ad349704fec21734dc8d4011ac14a2120305eca7",
+  "peakPcm": 21533,
+  "rmsDbfs": -18.16,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-043",
+  "exampleIndex": 1,
+  "text": "この紙に水をかけようものなら、字が全部消えてしまいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 235,
+  "signature": "1257a348211470a70374ad60c2cf8aa721c47dc12c487de71f4b3b50174f1725",
+  "src": "/audio/voices/nanami/N2-043-2.mp3",
+  "srt": "/audio/voices/nanami/N2-043-2.srt",
+  "durationSeconds": 5.232,
+  "bytes": 31392,
+  "sha256": "bf3f992f8a8835ad3ad947b77d3b14ac196a2d111bb49c6a196f49e6450fdaa9",
+  "peakPcm": 21130,
+  "rmsDbfs": -17.06,
+  "rate": "+0%",
+  "listened": false
+}

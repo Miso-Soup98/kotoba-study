@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-016",
+  "exampleIndex": 0,
+  "text": "川に沿って歩きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 221,
+  "signature": "d338db85be4c4ddf9799397e637d23fede39e42cd3aa1eee059a6d8633db2e53",
+  "src": "/audio/voices/nanami/N2-016-1.mp3",
+  "srt": "/audio/voices/nanami/N2-016-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "32f5bb506aa288e629d4a909ae63c41a27e5b091e5fbda353aa321ea9b404108",
+  "peakPcm": 20970,
+  "rmsDbfs": -18.78,
+  "rate": "+0%",
+  "listened": false
+}

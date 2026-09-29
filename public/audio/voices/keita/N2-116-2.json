@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-116",
+  "exampleIndex": 1,
+  "text": "健康を守りたいなら、無理をしないことです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 272,
+  "signature": "6d6218f1d1841eaee7838d746235a315b0db0600040ea963528388b74b6ab208",
+  "src": "/audio/voices/keita/N2-116-2.mp3",
+  "srt": "/audio/voices/keita/N2-116-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "502a4aa9109ef30e2f6fdf32ab946c13e2052fc4fe102de0436507b8fec4e00d",
+  "peakPcm": 20963,
+  "rmsDbfs": -19.95,
+  "rate": "+0%",
+  "listened": false
+}

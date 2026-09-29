@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-044",
+  "exampleIndex": 0,
+  "text": "彼の話には、人を引きつけるものがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 235,
+  "signature": "a12880e1715ba594676157089352cb25519153f30cf150261a6fcdea8a53cbb5",
+  "src": "/audio/voices/keita/N2-044-1.mp3",
+  "srt": "/audio/voices/keita/N2-044-1.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "3be489569e785b4292daf8755408a30cc33711d031aa7bfd7bca1fb0c4395323",
+  "peakPcm": 23875,
+  "rmsDbfs": -20.55,
+  "rate": "+0%",
+  "listened": false
+}

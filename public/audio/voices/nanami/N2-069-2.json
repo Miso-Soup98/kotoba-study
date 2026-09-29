@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-069",
+  "exampleIndex": 1,
+  "text": "一人暮らしは自由な反面、寂しいこともあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 248,
+  "signature": "608baa4114839bc08ccf9c2f2a8c41559600d6f3df1a21f3aaf424d89e830f69",
+  "src": "/audio/voices/nanami/N2-069-2.mp3",
+  "srt": "/audio/voices/nanami/N2-069-2.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "573cc4f56ffd79967b63369f613ef2d415a5107145548b55eaeb94f92084cef8",
+  "peakPcm": 21286,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

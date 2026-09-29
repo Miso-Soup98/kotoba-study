@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-154",
+  "exampleIndex": 1,
+  "text": "これは決して簡単な問題ではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 197,
+  "signature": "db58d8b598d78670e16d0a3653a77b1495535f8841a7d0f35ddfe863f3885f63",
+  "src": "/audio/voices/keita/N3-154-2.mp3",
+  "srt": "/audio/voices/keita/N3-154-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "d46e89fd6b70d5a9da24ca04a4159f559e20637c2b9db8991dc4c762dbecf1e2",
+  "peakPcm": 24043,
+  "rmsDbfs": -19.88,
+  "rate": "+0%",
+  "listened": false
+}

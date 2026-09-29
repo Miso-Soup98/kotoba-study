@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-205",
+  "exampleIndex": 0,
+  "text": "だって、誰も教えてくれなかったんです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 317,
+  "signature": "0af044466f0c4852767594cec868c7c0d9e59c6cebd62ad3b5937daf5b91940b",
+  "src": "/audio/voices/keita/N2-205-1.mp3",
+  "srt": "/audio/voices/keita/N2-205-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "765758ddca0ecf11f049fe0feca42615632b7f768dddf025301115352cd4d1a7",
+  "peakPcm": 27828,
+  "rmsDbfs": -21.54,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-107",
+  "exampleIndex": 0,
+  "text": "借金してまで買いたくはありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 267,
+  "signature": "acfe3e27d7c75fafccec79aeaa54960b1b783d71682a1af391e2a9d4ce712fb7",
+  "src": "/audio/voices/nanami/N2-107-1.mp3",
+  "srt": "/audio/voices/nanami/N2-107-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "61ea87e4167b284978ac2461c3819d117c870a6cd5ec7f1fd9f7b4fdb8140f6d",
+  "peakPcm": 20129,
+  "rmsDbfs": -18.6,
+  "rate": "+0%",
+  "listened": false
+}

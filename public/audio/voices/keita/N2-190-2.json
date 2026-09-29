@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-190",
+  "exampleIndex": 1,
+  "text": "明日は試験です。ちなみに、辞書は使えません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 309,
+  "signature": "e63aba1f4117b1f532da2eab6094abe3fb13f1980c73438061d1abe8e8b3ca4f",
+  "src": "/audio/voices/keita/N2-190-2.mp3",
+  "srt": "/audio/voices/keita/N2-190-2.srt",
+  "durationSeconds": 5.088,
+  "bytes": 30528,
+  "sha256": "3e1a592491e263cdd1bb5748ba20dac51bb354e40e110c8dcb2640e2706ee54e",
+  "peakPcm": 26132,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

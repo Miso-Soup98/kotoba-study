@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-128",
+  "exampleIndex": 1,
+  "text": "今から出ては、間に合いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 278,
+  "signature": "120bae2fc02abc27f976eae2a560f7cdd5a24982cdb280d9468de10dd44f8b5d",
+  "src": "/audio/voices/nanami/N2-128-2.mp3",
+  "srt": "/audio/voices/nanami/N2-128-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "4051d5c78be321238e31953b7532869030b38524b2df0ae0a7e432aef89d1cf0",
+  "peakPcm": 22112,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

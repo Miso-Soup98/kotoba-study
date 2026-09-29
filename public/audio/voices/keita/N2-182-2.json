@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-182",
+  "exampleIndex": 1,
+  "text": "午後になって、気温が一気に下がりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 305,
+  "signature": "f5f672b2ce87866aa2611ef0a56da6a11f52839c4c646d4dd305270368669ada",
+  "src": "/audio/voices/keita/N2-182-2.mp3",
+  "srt": "/audio/voices/keita/N2-182-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "bc97586b924ba129a89b541351bab021f4ce05d2e4cc3c8b7b5b3001146d6b30",
+  "peakPcm": 23152,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

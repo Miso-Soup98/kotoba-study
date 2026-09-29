@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-046",
+  "exampleIndex": 1,
+  "text": "発音はもちろん、文法も大切です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 143,
+  "signature": "d673accd22d3f12134e4f763d3056b15a2844fcf26a9e3486e6f372e3313c6bf",
+  "src": "/audio/voices/nanami/N3-046-2.mp3",
+  "srt": "/audio/voices/nanami/N3-046-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "88124b3da121ecc84cdc3662e79760742e67a58fdd93fce62c0f5e63c37a6402",
+  "peakPcm": 21354,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

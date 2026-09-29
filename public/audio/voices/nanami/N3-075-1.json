@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-075",
+  "exampleIndex": 0,
+  "text": "学校へ行く途中で、財布を拾いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 158,
+  "signature": "8ee039af3d5939f1e9fd8604cd07c9a80521a1d54513e26f4719650cb6319635",
+  "src": "/audio/voices/nanami/N3-075-1.mp3",
+  "srt": "/audio/voices/nanami/N3-075-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "5085da06e7cabd4fc228a271190be025a89f49cda27c96381d0885eda6c80b2c",
+  "peakPcm": 21845,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

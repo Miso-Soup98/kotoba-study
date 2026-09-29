@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-042",
+  "exampleIndex": 1,
+  "text": "彼が来ないとすると、誰が説明しますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 141,
+  "signature": "ae6bd914ed65f838d33fec6275de12efdace61217abe8af94498eb2f4eef974c",
+  "src": "/audio/voices/keita/N3-042-2.mp3",
+  "srt": "/audio/voices/keita/N3-042-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "293cc3c4be8db69ab1163d833b8c8079d667ac742466be075d67f5a4e6bb1f74",
+  "peakPcm": 27172,
+  "rmsDbfs": -21.39,
+  "rate": "+0%",
+  "listened": false
+}

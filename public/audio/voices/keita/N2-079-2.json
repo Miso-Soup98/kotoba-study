@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-079",
+  "exampleIndex": 1,
+  "text": "出発するに際し、全員に注意を伝えました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 253,
+  "signature": "1f1805087b93ee0f9bbace0def91f945bffdc5db0983798112d54f032eeb216e",
+  "src": "/audio/voices/keita/N2-079-2.mp3",
+  "srt": "/audio/voices/keita/N2-079-2.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "aa6ef89a8ecf3e94ae70cecd1bb9bbb64642891f8480ff88caf675c4be03ecc7",
+  "peakPcm": 23420,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

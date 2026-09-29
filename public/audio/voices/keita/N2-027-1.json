@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-027",
+  "exampleIndex": 0,
+  "text": "誰にでも起こり得ることです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 227,
+  "signature": "9c4fd5d6e5bd89225126b408b6c8384fffa14ed0793b4b66b682d5a086af9ede",
+  "src": "/audio/voices/keita/N2-027-1.mp3",
+  "srt": "/audio/voices/keita/N2-027-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "82ec8646e13d8ded3dfa5c0ed59ed76ed55933c51d33661b14827a124687099e",
+  "peakPcm": 25914,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

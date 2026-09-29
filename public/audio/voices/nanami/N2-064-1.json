@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-064",
+  "exampleIndex": 0,
+  "text": "期待していただけに、残念です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 245,
+  "signature": "1545b7ca57a1aadb4bfb597f40709690e4e002f7316ad5b2467776273853f342",
+  "src": "/audio/voices/nanami/N2-064-1.mp3",
+  "srt": "/audio/voices/nanami/N2-064-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "24270e389550b7eeeca425abdb72ca60f6575319b083792605a4896597a912e8",
+  "peakPcm": 20686,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

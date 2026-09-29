@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-101",
+  "exampleIndex": 0,
+  "text": "一人として反対しませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 264,
+  "signature": "09081ffac6b650a99c317b86477e4adb70e69abfd2ca04f9f428c38c7e4b9c76",
+  "src": "/audio/voices/keita/N2-101-1.mp3",
+  "srt": "/audio/voices/keita/N2-101-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "3d276ae9892b244d62944a06de7f2de4dd59dd5b09c46ab2d4a6375587dcea77",
+  "peakPcm": 21178,
+  "rmsDbfs": -21.49,
+  "rate": "+0%",
+  "listened": false
+}

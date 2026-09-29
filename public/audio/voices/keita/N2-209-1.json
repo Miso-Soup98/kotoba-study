@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-209",
+  "exampleIndex": 0,
+  "text": "隣の部屋から、何やら音が聞こえます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 319,
+  "signature": "714c6ed2a5312b93b6fe39fa92f519983b20fccc2c9f96d3b7a815e6ea4fadbe",
+  "src": "/audio/voices/keita/N2-209-1.mp3",
+  "srt": "/audio/voices/keita/N2-209-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "f265c42ca0751634199305bf8fbc2e8d4d17210193f8cb5e3884e5e118a2a43a",
+  "peakPcm": 25443,
+  "rmsDbfs": -20.27,
+  "rate": "+0%",
+  "listened": false
+}

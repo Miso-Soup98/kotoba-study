@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-084",
+  "exampleIndex": 1,
+  "text": "親の希望に反して、外国で働くことにしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 162,
+  "signature": "8578676a410361473f1a087e3a8c98294f6ebcd9697645ab9e97ff72987473a3",
+  "src": "/audio/voices/keita/N3-084-2.mp3",
+  "srt": "/audio/voices/keita/N3-084-2.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "68826efd8607080e2f1370b910d4e6701ae1f42f031c42914857e3b02c5b2bf8",
+  "peakPcm": 25099,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

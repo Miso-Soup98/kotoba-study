@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-054",
+  "exampleIndex": 0,
+  "text": "知っているくせに、教えてくれません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 147,
+  "signature": "50f3a353c9deb4dd7d52b4b3b72d41f78b8754abae76ffcff798589c4d81a839",
+  "src": "/audio/voices/keita/N3-054-1.mp3",
+  "srt": "/audio/voices/keita/N3-054-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "0955ca8fe192d159a389164646f89ecc3b125efc850452eb6a1c95a5c2f1a766",
+  "peakPcm": 20463,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

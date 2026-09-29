@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-064",
+  "exampleIndex": 1,
+  "text": "大切な仕事だけに、慎重に進めます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 245,
+  "signature": "80130369ec0129eb68b46f0fa2918a0f698e0f965a86671f130bab95262620c7",
+  "src": "/audio/voices/nanami/N2-064-2.mp3",
+  "srt": "/audio/voices/nanami/N2-064-2.srt",
+  "durationSeconds": 4.176,
+  "bytes": 25056,
+  "sha256": "a5143bdeded302b682112e7446af933949661946fc7c63213d304d9ff0fe5406",
+  "peakPcm": 21015,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

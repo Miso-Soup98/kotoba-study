@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-086",
+  "exampleIndex": 1,
+  "text": "部屋は狭い代わりに、家賃が安いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 163,
+  "signature": "2ae82bf74591b1322a2d7bd837c091b19c818fa952dd8590d3487917b831c21a",
+  "src": "/audio/voices/keita/N3-086-2.mp3",
+  "srt": "/audio/voices/keita/N3-086-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "8f215e862d1f81fc3f18c22874c70cd6a670a14a3f57865cd07573f7656b1d3d",
+  "peakPcm": 26048,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

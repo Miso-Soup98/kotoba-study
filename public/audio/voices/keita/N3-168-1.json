@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-168",
+  "exampleIndex": 0,
+  "text": "しばらくここで待ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 204,
+  "signature": "01ab89844a0859254170537362bbbf0861c909cc3d0f2e7eed0dc0af5d552f6e",
+  "src": "/audio/voices/keita/N3-168-1.mp3",
+  "srt": "/audio/voices/keita/N3-168-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "bb6570292b0ca4416881922b5582609fb255e23159d1d9dd1be31146ce5ef804",
+  "peakPcm": 25566,
+  "rmsDbfs": -21.66,
+  "rate": "+0%",
+  "listened": false
+}

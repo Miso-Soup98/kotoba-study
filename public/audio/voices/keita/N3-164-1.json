@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-164",
+  "exampleIndex": 0,
+  "text": "一度に全部覚えるのは難しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 202,
+  "signature": "edde8c83c7a31db633889e5732745413898ca4550bb7620e5b9dac13860c080d",
+  "src": "/audio/voices/keita/N3-164-1.mp3",
+  "srt": "/audio/voices/keita/N3-164-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "273b36925e5b83b1ce3066368a85788586c216b91d4314c01ef2a5a3185efdd1",
+  "peakPcm": 22858,
+  "rmsDbfs": -20.14,
+  "rate": "+0%",
+  "listened": false
+}

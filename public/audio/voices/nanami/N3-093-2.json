@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-093",
+  "exampleIndex": 1,
+  "text": "今度こそ、最後まで読みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 167,
+  "signature": "ef71113388e719a339d7cbddf3e0f0708b86599449d1da26eb3ffffd48361c03",
+  "src": "/audio/voices/nanami/N3-093-2.mp3",
+  "srt": "/audio/voices/nanami/N3-093-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "4fdaa5aee21878efa057e9899a284b09c555fe151fdde5824ba82cc575ada8c8",
+  "peakPcm": 21634,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

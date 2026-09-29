@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-125",
+  "exampleIndex": 1,
+  "text": "彼は出かけたきり、戻ってきません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 183,
+  "signature": "6da4e32edb6b1866ec2603eeadcc8b192bc1285e9e75aaf8a50be6d401a2f215",
+  "src": "/audio/voices/keita/N3-125-2.mp3",
+  "srt": "/audio/voices/keita/N3-125-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "95e1e87f0c9c2617b4aa723182f6e10948a8b347d75464e5c999ab2f55f89a41",
+  "peakPcm": 23916,
+  "rmsDbfs": -21.8,
+  "rate": "+0%",
+  "listened": false
+}

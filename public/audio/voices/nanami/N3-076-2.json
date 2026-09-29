@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-076",
+  "exampleIndex": 1,
+  "text": "掃除のついでに、机の位置も変えました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 158,
+  "signature": "f6c828c396a68a43584f59af3f35c571d366cd7f780034fb8d39c0d1aaf83c2f",
+  "src": "/audio/voices/nanami/N3-076-2.mp3",
+  "srt": "/audio/voices/nanami/N3-076-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "6c211931eb597cebcc57e69528aa330aeca86a1ea3f486de91cc6ad0aca89aaf",
+  "peakPcm": 22976,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

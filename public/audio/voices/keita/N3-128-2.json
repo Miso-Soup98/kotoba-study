@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-128",
+  "exampleIndex": 1,
+  "text": "駅へ行くには、この道をまっすぐ進んでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 184,
+  "signature": "980c5b8716094d9297a8d36f7b5ba0d958f497ca37bd8f20dd60b8e231ac71d9",
+  "src": "/audio/voices/keita/N3-128-2.mp3",
+  "srt": "/audio/voices/keita/N3-128-2.srt",
+  "durationSeconds": 4.152,
+  "bytes": 24912,
+  "sha256": "10a2874a9c8989aea5c687977e56fb7bc9161344cd5d05eb330a940b81c536b7",
+  "peakPcm": 21299,
+  "rmsDbfs": -20.36,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-185",
+  "exampleIndex": 0,
+  "text": "雨はやがてやみました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 307,
+  "signature": "47ac114ea91138f40694ef902e5e297303929c530771475a066d3592aa62d4e4",
+  "src": "/audio/voices/keita/N2-185-1.mp3",
+  "srt": "/audio/voices/keita/N2-185-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "38e0c50a2b93038a1de197205f1b9405d3b40ac536913c33b140a851c047857a",
+  "peakPcm": 24918,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

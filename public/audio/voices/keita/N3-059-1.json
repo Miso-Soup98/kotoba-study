@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-059",
+  "exampleIndex": 0,
+  "text": "この上着は少し子供っぽいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 150,
+  "signature": "d67d2341f3bb747c2eb21173e99524d72a3ddce3bc1d722b14060b66837f657f",
+  "src": "/audio/voices/keita/N3-059-1.mp3",
+  "srt": "/audio/voices/keita/N3-059-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "c5315662e38e931df1ebddda449dc8f2c51ff485b04dfe98eb2cda3a9ba02a85",
+  "peakPcm": 23091,
+  "rmsDbfs": -19.65,
+  "rate": "+0%",
+  "listened": false
+}

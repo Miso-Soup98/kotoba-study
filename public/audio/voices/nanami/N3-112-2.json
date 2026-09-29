@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-112",
+  "exampleIndex": 1,
+  "text": "困っている場合じゃない。まず連絡しよう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 176,
+  "signature": "654e6d65691b22abef7ad51b099d45a572328d8faeda2d50136b90180b11bc68",
+  "src": "/audio/voices/nanami/N3-112-2.mp3",
+  "srt": "/audio/voices/nanami/N3-112-2.srt",
+  "durationSeconds": 4.68,
+  "bytes": 28080,
+  "sha256": "c5cad1876f40deb7174129851a66e12cc7087b335b8eb1e47df1fc6fb2f15355",
+  "peakPcm": 21528,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

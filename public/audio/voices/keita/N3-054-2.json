@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-054",
+  "exampleIndex": 1,
+  "text": "約束したくせに、来ませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 147,
+  "signature": "a1ab50c21924cf9db28390bd6e01c1152831dc729185cc07156595f0a0bbe962",
+  "src": "/audio/voices/keita/N3-054-2.mp3",
+  "srt": "/audio/voices/keita/N3-054-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "8a32ad02d027d7f0a5762e38918f9a92dd7d482e5c8fe97e59fb403914a564af",
+  "peakPcm": 24435,
+  "rmsDbfs": -22.09,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-015",
+  "exampleIndex": 1,
+  "text": "病気のため、今日は休みます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 128,
+  "signature": "9681b65ec06669c18433aa35f1febe2ae5516bec3132a3292ae56f6fd249ca2d",
+  "src": "/audio/voices/keita/N3-015-2.mp3",
+  "srt": "/audio/voices/keita/N3-015-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "60860dfb7c2838ac4d3943e60777f927f4d67128ed834af3235633e0e977d44c",
+  "peakPcm": 22754,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-064",
+  "exampleIndex": 0,
+  "text": "名前を書き直してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 152,
+  "signature": "c493463f5b0d5f85d541b2a41c7380c8b576de401da326009a05fdf5989745ca",
+  "src": "/audio/voices/keita/N3-064-1.mp3",
+  "srt": "/audio/voices/keita/N3-064-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "f151438083d59cf1d46596e878e1e8fc0055e97ce03bb465091d04730ef7a600",
+  "peakPcm": 24664,
+  "rmsDbfs": -20.36,
+  "rate": "+0%",
+  "listened": false
+}

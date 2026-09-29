@@ -1,0 +1,18 @@
+{
+  "entryId": "N3-138",
+  "exampleIndex": 1,
+  "text": "休みに映画か何か見ませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 189,
+  "signature": "355f38380f918956b51b5de51f5a99fca5fa69d6cb8997443ca49b839bae1568",
+  "src": "/audio/voices/keita/N3-138-2.mp3",
+  "srt": "/audio/voices/keita/N3-138-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "71a2a86aa22c6ab8680104edf764385854a162275c90b13963e530ea00dd37fc",
+  "peakPcm": 20859,
+  "rmsDbfs": -20.42,
+  "rate": "+0%",
+  "listened": false
+}

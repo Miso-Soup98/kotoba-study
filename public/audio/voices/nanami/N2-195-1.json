@@ -1,0 +1,18 @@
+{
+  "entryId": "N2-195",
+  "exampleIndex": 0,
+  "text": "道に迷いました。おまけに雨も降ってきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 312,
+  "signature": "a6de177efd446dde69f6048f2f65a786157d32b872deb2e7d6ff23ca4d01c290",
+  "src": "/audio/voices/nanami/N2-195-1.mp3",
+  "srt": "/audio/voices/nanami/N2-195-1.srt",
+  "durationSeconds": 5.064,
+  "bytes": 30384,
+  "sha256": "d7074b435a68d4832ddf1c5f6520f33ee97da465a10f443a5b3fa7b4fc7c1f98",
+  "peakPcm": 23686,
+  "rmsDbfs": -18.65,
+  "rate": "+0%",
+  "listened": false
+}
