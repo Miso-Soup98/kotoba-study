@@ -1,0 +1,3314 @@
+[
+  {
+    "id": "lex:openjlpt:fc3bc1e6f1",
+    "text": "開く",
+    "reading": "あく",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      225720,
+      201844
+    ]
+  },
+  {
+    "id": "lex:openjlpt:115ec83476",
+    "text": "明日",
+    "reading": "あした",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      234469,
+      80466
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4f134c9b38",
+    "text": "後",
+    "reading": "あと",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      189518,
+      229928
+    ]
+  },
+  {
+    "id": "lex:openjlpt:afdf384f68",
+    "text": "あなた",
+    "reading": "あなた",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      198640,
+      200726
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ac4706068b",
+    "text": "あの",
+    "reading": "あの",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      231361,
+      219724
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ac08788418",
+    "text": "ある",
+    "reading": "ある",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      77204,
+      80097
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ae0cc00f94",
+    "text": "言う",
+    "reading": "いう",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      236431,
+      216629
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4fc98c6938",
+    "text": "いくら",
+    "reading": "いくら",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      223306,
+      197388
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fac6fc0838",
+    "text": "いつ",
+    "reading": "いつ",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      228596,
+      198453
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9438889173",
+    "text": "いる",
+    "reading": "いる",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      214668,
+      75577
+    ]
+  },
+  {
+    "id": "lex:openjlpt:08a3ed212d",
+    "text": "上",
+    "reading": "うえ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      202398,
+      202408
+    ]
+  },
+  {
+    "id": "lex:openjlpt:db32745bbc",
+    "text": "弟",
+    "reading": "おとうと",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      125460,
+      195735
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b75778f0ce",
+    "text": "一昨年",
+    "reading": "おととし",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      93768
+    ]
+  },
+  {
+    "id": "lex:openjlpt:687082e55c",
+    "text": "かかる",
+    "reading": "かかる",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      201593,
+      205401
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0ce2b98d3b",
+    "text": "かける",
+    "reading": "かける",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      236074,
+      224138
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e34295f3e1",
+    "text": "方",
+    "reading": "かた",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      224157,
+      226508
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4092bfd9bb",
+    "text": "角",
+    "reading": "かど",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      184544,
+      231123
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d2546ac97b",
+    "text": "辛い",
+    "reading": "からい",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      223874,
+      202330
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a556e5edce",
+    "text": "体",
+    "reading": "からだ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      199696,
+      223641
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0400a204bd",
+    "text": "今日",
+    "reading": "きょう",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      232046,
+      171508
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2e2abd26ca",
+    "text": "来る",
+    "reading": "くる",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      236043,
+      78725
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c552e79d34",
+    "text": "コート",
+    "reading": "コート",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      1171687
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bd3a2ad2ad",
+    "text": "この",
+    "reading": "この",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      223794,
+      219456
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5cb07674a3",
+    "text": "三",
+    "reading": "さん",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      123182,
+      219631
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b366a3d677",
+    "text": "塩",
+    "reading": "しお",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      223651,
+      188597
+    ]
+  },
+  {
+    "id": "lex:openjlpt:091c8c0e07",
+    "text": "じゃ",
+    "reading": "じゃ",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      215913,
+      215754
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1763fc412a",
+    "text": "上手",
+    "reading": "じょうず",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      231837,
+      195731
+    ]
+  },
+  {
+    "id": "lex:openjlpt:50525927ee",
+    "text": "丈夫",
+    "reading": "じょうぶ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      222994,
+      103983
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c4cdc162d7",
+    "text": "する",
+    "reading": "する",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      4858,
+      84880
+    ]
+  },
+  {
+    "id": "lex:openjlpt:898b067287",
+    "text": "背",
+    "reading": "せ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      200083,
+      114666
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b48d0c99d4",
+    "text": "せっけん",
+    "reading": "せっけん",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      214032,
+      10899704
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5ef867ff81",
+    "text": "そこ",
+    "reading": "そこ",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      198206,
+      183289
+    ]
+  },
+  {
+    "id": "lex:openjlpt:38c854e97f",
+    "text": "そば",
+    "reading": "そば",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      226153,
+      191672
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6ff51bace3",
+    "text": "空",
+    "reading": "そら",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      179433,
+      191980
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e7ca1b2fd5",
+    "text": "たて",
+    "reading": "たて",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      202374,
+      184932
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9b08365493",
+    "text": "ちょうど",
+    "reading": "ちょうど",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      202896,
+      202931
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d00ef0a9d5",
+    "text": "次",
+    "reading": "つぎ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      150216,
+      150204
+    ]
+  },
+  {
+    "id": "lex:openjlpt:edc22b8d98",
+    "text": "つける",
+    "reading": "つける",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      201970,
+      192597
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6f4691297f",
+    "text": "戸",
+    "reading": "と",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      137092,
+      175163
+    ]
+  },
+  {
+    "id": "lex:openjlpt:cd4b8c6381",
+    "text": "どの",
+    "reading": "どの",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      218528,
+      232473
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9d1aa046d6",
+    "text": "止まる",
+    "reading": "とまる",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      202936,
+      224650
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5d32281da9",
+    "text": "中",
+    "reading": "なか",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      201917,
+      226423
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e05de4981d",
+    "text": "なる",
+    "reading": "なる",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      202981,
+      122958
+    ]
+  },
+  {
+    "id": "lex:openjlpt:558866ef86",
+    "text": "何",
+    "reading": "なん",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      184431,
+      236417
+    ]
+  },
+  {
+    "id": "lex:openjlpt:542f39c93d",
+    "text": "はい",
+    "reading": "はい",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      236422,
+      198381
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c428d02d43",
+    "text": "入る",
+    "reading": "はいる",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      122091,
+      173570
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4729cc56f4",
+    "text": "はく",
+    "reading": "はく",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      222263,
+      201604
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7ce7f7d305",
+    "text": "はし",
+    "reading": "はし",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      198541,
+      192400
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0a38c65004",
+    "text": "東",
+    "reading": "ひがし",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      210091,
+      124292
+    ]
+  },
+  {
+    "id": "lex:openjlpt:23911a0718",
+    "text": "弾く",
+    "reading": "ひく",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      226059,
+      229616
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d91ee7a9ed",
+    "text": "人",
+    "reading": "ひと",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      199395,
+      226941
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7a9ce8e2df",
+    "text": "暇",
+    "reading": "ひま",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      215363,
+      234469
+    ]
+  },
+  {
+    "id": "lex:openjlpt:04ab635f4b",
+    "text": "ボタン",
+    "reading": "ボタン",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      192366,
+      196251
+    ]
+  },
+  {
+    "id": "lex:openjlpt:849baaf2c3",
+    "text": "ほんとう",
+    "reading": "ほんとう",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      81497,
+      193838
+    ]
+  },
+  {
+    "id": "lex:openjlpt:319e218950",
+    "text": "前",
+    "reading": "まえ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      184856
+    ]
+  },
+  {
+    "id": "lex:openjlpt:162e00c6ef",
+    "text": "また",
+    "reading": "また",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      215924,
+      230730
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0c8a588e53",
+    "text": "店",
+    "reading": "みせ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      124989,
+      124997
+    ]
+  },
+  {
+    "id": "lex:openjlpt:84e465b526",
+    "text": "南",
+    "reading": "みなみ",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      196997,
+      195304
+    ]
+  },
+  {
+    "id": "lex:openjlpt:72eb77e07a",
+    "text": "眼鏡",
+    "reading": "めがね",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      158805,
+      83033
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5b92758003",
+    "text": "門",
+    "reading": "もん",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      215219,
+      79781
+    ]
+  },
+  {
+    "id": "lex:openjlpt:19db29fbbb",
+    "text": "よく",
+    "reading": "よく",
+    "level": "N5",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      215788,
+      192833
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d5c2e69813",
+    "text": "私",
+    "reading": "わたくし",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      159334,
+      89373
+    ]
+  },
+  {
+    "id": "lex:openjlpt:13b6dbec03",
+    "text": "悪い",
+    "reading": "わるい",
+    "level": "N5",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      74724,
+      215129
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4fff6d0441",
+    "text": "あ",
+    "reading": "あ",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      234772,
+      234770
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6a4011f27f",
+    "text": "ああ",
+    "reading": "ああ",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      229847,
+      9628722
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d1a343e501",
+    "text": "間",
+    "reading": "あいだ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      75828,
+      202194
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4c3461199c",
+    "text": "明日",
+    "reading": "あす",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      234469,
+      80447
+    ]
+  },
+  {
+    "id": "lex:openjlpt:95f7288e1b",
+    "text": "いっぱい",
+    "reading": "いっぱい",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      223142,
+      77696
+    ]
+  },
+  {
+    "id": "lex:openjlpt:76d4bcd098",
+    "text": "うち",
+    "reading": "うち",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      180221,
+      78640
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e6f3a7d91a",
+    "text": "打つ",
+    "reading": "うつ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      234931,
+      74669
+    ]
+  },
+  {
+    "id": "lex:openjlpt:533b248802",
+    "text": "うん",
+    "reading": "うん",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      228063,
+      228059
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2e0f32c097",
+    "text": "怒る",
+    "reading": "おこる",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      204653,
+      162826
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c6815e7618",
+    "text": "音",
+    "reading": "おと",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      224760,
+      91684
+    ]
+  },
+  {
+    "id": "lex:openjlpt:721424863e",
+    "text": "表",
+    "reading": "おもて",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      221729,
+      74697
+    ]
+  },
+  {
+    "id": "lex:openjlpt:876713fb67",
+    "text": "かっこう",
+    "reading": "かっこう",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      200600,
+      230839
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7d2f81c2a3",
+    "text": "くれる",
+    "reading": "くれる",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      79331,
+      83146
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8b7434e649",
+    "text": "工場",
+    "reading": "こうじょう",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      210728,
+      194894
+    ]
+  },
+  {
+    "id": "lex:openjlpt:038f67b635",
+    "text": "こと",
+    "reading": "こと",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      79848,
+      123723
+    ]
+  },
+  {
+    "id": "lex:openjlpt:97bf3a5f9e",
+    "text": "さっき",
+    "reading": "さっき",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      75173,
+      216791
+    ]
+  },
+  {
+    "id": "lex:openjlpt:dd89673ae0",
+    "text": "字",
+    "reading": "じ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      177217,
+      150736
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f9a20b5203",
+    "text": "しかる",
+    "reading": "しかる",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      144815,
+      99133
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ab6fd5bdbb",
+    "text": "十分",
+    "reading": "じゅうぶん",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      160764,
+      189963
+    ]
+  },
+  {
+    "id": "lex:openjlpt:745024b527",
+    "text": "すり",
+    "reading": "すり",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      214107,
+      224631
+    ]
+  },
+  {
+    "id": "lex:openjlpt:554ab81272",
+    "text": "そう",
+    "reading": "そう",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      195298,
+      197488
+    ]
+  },
+  {
+    "id": "lex:openjlpt:de9d61dd71",
+    "text": "大事",
+    "reading": "だいじ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      106339,
+      75362
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4e5dab579c",
+    "text": "たいてい",
+    "reading": "たいてい",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      79711,
+      84780
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b442490fff",
+    "text": "大分",
+    "reading": "だいぶ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      203904,
+      203905
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b5579bc4a6",
+    "text": "畳",
+    "reading": "たたみ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      103952,
+      222975
+    ]
+  },
+  {
+    "id": "lex:openjlpt:18035049f8",
+    "text": "ちゃん",
+    "reading": "ちゃん",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      230080,
+      519636
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ba74488833",
+    "text": "つき",
+    "reading": "つき",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      195286,
+      196018
+    ]
+  },
+  {
+    "id": "lex:openjlpt:53162e310d",
+    "text": "都",
+    "reading": "と",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      236216,
+      124528
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9ef4ab5d2a",
+    "text": "とうとう",
+    "reading": "とうとう",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      200035,
+      201230
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3aadcbc234",
+    "text": "止める",
+    "reading": "とめる",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      182470,
+      192310
+    ]
+  },
+  {
+    "id": "lex:openjlpt:55a030e65f",
+    "text": "日",
+    "reading": "ひ",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      124386,
+      219955
+    ]
+  },
+  {
+    "id": "lex:openjlpt:36d0fd2044",
+    "text": "ひげ",
+    "reading": "ひげ",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      226759,
+      220430
+    ]
+  },
+  {
+    "id": "lex:openjlpt:dddceb65a5",
+    "text": "開く",
+    "reading": "ひらく",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      125506,
+      198428
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fceb1b247e",
+    "text": "ぶどう",
+    "reading": "ぶどう",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      166220,
+      197141
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1587d6fbcf",
+    "text": "僕",
+    "reading": "ぼく",
+    "level": "N4",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      81699,
+      81987
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bbaeab9c94",
+    "text": "もし",
+    "reading": "もし",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      193542,
+      193730
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6e13cee4dc",
+    "text": "もっとも",
+    "reading": "もっとも",
+    "level": "N4",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      225135,
+      193334
+    ]
+  },
+  {
+    "id": "lex:openjlpt:57c650defa",
+    "text": "あと",
+    "reading": "あと",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      209349,
+      138279
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0cbc5fcb97",
+    "text": "いち",
+    "reading": "いち",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      168369,
+      147363
+    ]
+  },
+  {
+    "id": "lex:openjlpt:42473b9a9e",
+    "text": "いつか",
+    "reading": "いつか",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      93337,
+      161429
+    ]
+  },
+  {
+    "id": "lex:openjlpt:15d4ea5f82",
+    "text": "否",
+    "reading": "いや",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      228496,
+      228504
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9c851c43f7",
+    "text": "御",
+    "reading": "お",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      76178,
+      76834
+    ]
+  },
+  {
+    "id": "lex:openjlpt:26e15c1ade",
+    "text": "音",
+    "reading": "おん",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      188319,
+      188309
+    ]
+  },
+  {
+    "id": "lex:openjlpt:53e1ba680a",
+    "text": "会",
+    "reading": "かい",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      222689,
+      185444
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1e21784548",
+    "text": "雷",
+    "reading": "かみなり",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      168404,
+      160274
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8ce4616a78",
+    "text": "空",
+    "reading": "から",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      196121,
+      207209
+    ]
+  },
+  {
+    "id": "lex:openjlpt:53f7d1e6a9",
+    "text": "グランド",
+    "reading": "グランド",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      228397,
+      12072710
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a3bb21b401",
+    "text": "軍",
+    "reading": "ぐん",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      141252,
+      96681
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9adc22cc25",
+    "text": "工場",
+    "reading": "こうば",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      162902,
+      173736
+    ]
+  },
+  {
+    "id": "lex:openjlpt:380bf1226c",
+    "text": "今日",
+    "reading": "こんにち",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      104312,
+      120918
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9ff6bba172",
+    "text": "際",
+    "reading": "さい",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      186687,
+      146261
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9eb3e2a34e",
+    "text": "作物",
+    "reading": "さくもつ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      122595,
+      114397
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9ba2a9c365",
+    "text": "氏",
+    "reading": "し",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      82610,
+      124869
+    ]
+  },
+  {
+    "id": "lex:openjlpt:832f591208",
+    "text": "銃",
+    "reading": "じゅう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      176202,
+      147950
+    ]
+  },
+  {
+    "id": "lex:openjlpt:17c0d3a658",
+    "text": "少女",
+    "reading": "しょうじょ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      231347,
+      142582
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0596cdc023",
+    "text": "女子",
+    "reading": "じょし",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      222596,
+      223858
+    ]
+  },
+  {
+    "id": "lex:openjlpt:365fe85edb",
+    "text": "印",
+    "reading": "しるし",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      121325,
+      222944
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4f0c39291a",
+    "text": "末",
+    "reading": "すえ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      192778,
+      99128
+    ]
+  },
+  {
+    "id": "lex:openjlpt:42d77d4da9",
+    "text": "せい",
+    "reading": "せい",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      233064,
+      104749
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3836c2c8bd",
+    "text": "象",
+    "reading": "ぞう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      208992,
+      146308
+    ]
+  },
+  {
+    "id": "lex:openjlpt:771ae04338",
+    "text": "ダイヤ",
+    "reading": "ダイヤ",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      77519,
+      218085
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f1ff353185",
+    "text": "たとえ",
+    "reading": "たとえ",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      77717,
+      189199
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0167b18f74",
+    "text": "種",
+    "reading": "たね",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      204359,
+      118758
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5ac33a4880",
+    "text": "玉",
+    "reading": "たま",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      198775,
+      168794
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fbeac8c220",
+    "text": "地方",
+    "reading": "ちほう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      107061,
+      204987
+    ]
+  },
+  {
+    "id": "lex:openjlpt:06b85de79a",
+    "text": "中",
+    "reading": "ちゅう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      236029,
+      98997
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3ce84453e7",
+    "text": "ちょうだい",
+    "reading": "ちょうだい",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      75697,
+      223314
+    ]
+  },
+  {
+    "id": "lex:openjlpt:778765a79e",
+    "text": "角",
+    "reading": "つの",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      76795,
+      143675
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1213823fa2",
+    "text": "辛い",
+    "reading": "つらい",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      74243,
+      184039
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c2946190ea",
+    "text": "で",
+    "reading": "で",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      213607,
+      233461
+    ]
+  },
+  {
+    "id": "lex:openjlpt:371f1b3f39",
+    "text": "敵",
+    "reading": "てき",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      101960,
+      96029
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5750d76e14",
+    "text": "どうか",
+    "reading": "どうか",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      201606,
+      201632
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4591eb1d00",
+    "text": "留める",
+    "reading": "とめる",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      80064,
+      219902
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9d47958486",
+    "text": "何",
+    "reading": "なに",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      172752,
+      76831
+    ]
+  },
+  {
+    "id": "lex:openjlpt:04f80af544",
+    "text": "生",
+    "reading": "なま",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      74282,
+      225838
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b115c24eac",
+    "text": "日",
+    "reading": "にち",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      74691,
+      207988
+    ]
+  },
+  {
+    "id": "lex:openjlpt:20b5089feb",
+    "text": "ね",
+    "reading": "ね",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      113046,
+      198647
+    ]
+  },
+  {
+    "id": "lex:openjlpt:38191588bb",
+    "text": "鼠",
+    "reading": "ねずみ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      122011,
+      220776
+    ]
+  },
+  {
+    "id": "lex:openjlpt:aeff3c4d96",
+    "text": "後",
+    "reading": "のち",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      142999,
+      122897
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3d1e878581",
+    "text": "原",
+    "reading": "はら",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      152060
+    ]
+  },
+  {
+    "id": "lex:openjlpt:de6ed799d8",
+    "text": "灯",
+    "reading": "ひ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      140398,
+      226242
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ae29f467bd",
+    "text": "表",
+    "reading": "ひょう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      220116,
+      220393
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1ea7451e69",
+    "text": "瓶",
+    "reading": "びん",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      168994,
+      207041
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f898b4b8d2",
+    "text": "節",
+    "reading": "ふし",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      118907
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7f83598742",
+    "text": "縁",
+    "reading": "ふち",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      96758,
+      202418
+    ]
+  },
+  {
+    "id": "lex:openjlpt:08fb4b13c1",
+    "text": "打つ",
+    "reading": "ぶつ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      197169,
+      210431
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3c5ff54bea",
+    "text": "分",
+    "reading": "ぶん",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      223288,
+      218933
+    ]
+  },
+  {
+    "id": "lex:openjlpt:39b0ac16ca",
+    "text": "文",
+    "reading": "ぶん",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      83688,
+      83692
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9dda296d47",
+    "text": "方",
+    "reading": "ほう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      215450,
+      75362
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b1358dbe27",
+    "text": "仏",
+    "reading": "ほとけ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      230707,
+      83841
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bd7dce62ae",
+    "text": "骨",
+    "reading": "ほね",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      172955,
+      182110
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8421f715e7",
+    "text": "間",
+    "reading": "ま",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      182946
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f91eb72b15",
+    "text": "街",
+    "reading": "まち",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      75868,
+      222615
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3efa32e22e",
+    "text": "ママ",
+    "reading": "ママ",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      137835,
+      195320
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ad70550f9b",
+    "text": "実",
+    "reading": "み",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      80094,
+      191476
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e086a9e024",
+    "text": "認める",
+    "reading": "みとめる",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      223954,
+      107845
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8fb52e4502",
+    "text": "土産",
+    "reading": "みやげ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      218069,
+      78190
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c4956951f6",
+    "text": "都",
+    "reading": "みやこ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      192110,
+      148096
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c40902d092",
+    "text": "面",
+    "reading": "めん",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      208093,
+      123091
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0f4b2590f6",
+    "text": "基",
+    "reading": "もと",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      209780,
+      193096
+    ]
+  },
+  {
+    "id": "lex:openjlpt:396f83701d",
+    "text": "役",
+    "reading": "やく",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      120162,
+      116129
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0f54df5fc1",
+    "text": "言う",
+    "reading": "ゆう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      220315,
+      236431
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5489cdb398",
+    "text": "床",
+    "reading": "ゆか",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      146472,
+      79999
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ae7eaba50f",
+    "text": "よい",
+    "reading": "よい",
+    "level": "N3",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      164645,
+      87231
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bcab821414",
+    "text": "様",
+    "reading": "よう",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      112241,
+      219227
+    ]
+  },
+  {
+    "id": "lex:openjlpt:19a41952db",
+    "text": "夜中",
+    "reading": "よなか",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      152550,
+      165070
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9768eacb27",
+    "text": "例",
+    "reading": "れい",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      98916,
+      92845
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3f77054caf",
+    "text": "輪",
+    "reading": "わ",
+    "level": "N3",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      226723,
+      185955
+    ]
+  },
+  {
+    "id": "lex:openjlpt:84ce1b3469",
+    "text": "一昨年",
+    "reading": "いっさくねん",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      93768
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d56c7f55f8",
+    "text": "一定",
+    "reading": "いってい",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      179604,
+      107410
+    ]
+  },
+  {
+    "id": "lex:openjlpt:31c272208c",
+    "text": "ガム",
+    "reading": "ガム",
+    "level": "N2",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      226229,
+      198845
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0a81eafbf4",
+    "text": "擦る",
+    "reading": "こする",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      142354,
+      229129
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f28cffe595",
+    "text": "洒落",
+    "reading": "しゃれ",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      85776,
+      166423
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7a4cf36303",
+    "text": "上下",
+    "reading": "じょうげ",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      108613,
+      92539
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5b1670aea6",
+    "text": "せめて",
+    "reading": "せめて",
+    "level": "N2",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      213995,
+      190274
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c76123f3f7",
+    "text": "大分",
+    "reading": "だいぶん",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      218760,
+      192750
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fc4bbe285e",
+    "text": "ついで",
+    "reading": "ついで",
+    "level": "N2",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      121505,
+      84297
+    ]
+  },
+  {
+    "id": "lex:openjlpt:56319c8bb4",
+    "text": "月日",
+    "reading": "つきひ",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      207387,
+      175614
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f6833a87fe",
+    "text": "突く",
+    "reading": "つく",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      202423,
+      144706
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7985190c1e",
+    "text": "艶",
+    "reading": "つや",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      150980,
+      222283
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2d36cfac32",
+    "text": "強気",
+    "reading": "つよき",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      230331,
+      108382
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8058eb2a5b",
+    "text": "天皇",
+    "reading": "てんのう",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      125042,
+      125040
+    ]
+  },
+  {
+    "id": "lex:openjlpt:79095736b4",
+    "text": "退く",
+    "reading": "どく",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      95284,
+      95285
+    ]
+  },
+  {
+    "id": "lex:openjlpt:986998f6c6",
+    "text": "退ける",
+    "reading": "どける",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      209695,
+      223526
+    ]
+  },
+  {
+    "id": "lex:openjlpt:07f4ebd73d",
+    "text": "梯子",
+    "reading": "はしご",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      100172,
+      159139
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a603c7698c",
+    "text": "潜る",
+    "reading": "もぐる",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      185118,
+      145061
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2b64f87c29",
+    "text": "盛る",
+    "reading": "もる",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      10811008
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ebea673dd1",
+    "text": "火傷",
+    "reading": "やけど",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      186741,
+      234546
+    ]
+  },
+  {
+    "id": "lex:openjlpt:84096d1b94",
+    "text": "ようやく",
+    "reading": "ようやく",
+    "level": "N2",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      236543,
+      192874
+    ]
+  },
+  {
+    "id": "lex:openjlpt:87db0f1329",
+    "text": "汚す",
+    "reading": "よごす",
+    "level": "N2",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      229550,
+      113535
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7b53295093",
+    "text": "よる",
+    "reading": "よる",
+    "level": "N2",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      140216,
+      219209
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6859422547",
+    "text": "私",
+    "reading": "あたし",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      221008,
+      89373
+    ]
+  },
+  {
+    "id": "lex:openjlpt:cb3d7cda2e",
+    "text": "軍",
+    "reading": "いくさ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      83870,
+      227770
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1d578a6738",
+    "text": "一定",
+    "reading": "いちじょう",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      105204,
+      206691
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5d1ad6cf31",
+    "text": "否",
+    "reading": "いな",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      116416,
+      204981
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2b1903712a",
+    "text": "いやいや",
+    "reading": "いやいや",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      206570,
+      90258
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0d79c7283f",
+    "text": "入る",
+    "reading": "いる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      161218,
+      167434
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3ffc020bb5",
+    "text": "氏",
+    "reading": "うじ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      168115
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5da1033412",
+    "text": "会",
+    "reading": "え",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      206241
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f11ad5d8d2",
+    "text": "縁",
+    "reading": "えん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      179747,
+      76182
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f9aaf64bd0",
+    "text": "塩",
+    "reading": "えん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      188593,
+      188601
+    ]
+  },
+  {
+    "id": "lex:openjlpt:98c6945629",
+    "text": "おいて",
+    "reading": "おいて",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      202810
+    ]
+  },
+  {
+    "id": "lex:openjlpt:98909531bf",
+    "text": "おおい",
+    "reading": "おおい",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      148822,
+      111828
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bc37b59298",
+    "text": "おごる",
+    "reading": "おごる",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      227746,
+      227747
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3c74d17c1d",
+    "text": "弟",
+    "reading": "おと",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      81396,
+      98591
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5b32f6a19b",
+    "text": "少女",
+    "reading": "おとめ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      231347,
+      97909
+    ]
+  },
+  {
+    "id": "lex:openjlpt:42cf1a5950",
+    "text": "街",
+    "reading": "がい",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      224285,
+      127022
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b913b671ea",
+    "text": "角",
+    "reading": "かく",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      235339,
+      76452
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6ba1bae967",
+    "text": "擦る",
+    "reading": "かする",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      224998,
+      149005
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8ac22c99b5",
+    "text": "管",
+    "reading": "かん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      183844
+    ]
+  },
+  {
+    "id": "lex:openjlpt:48d1eb2573",
+    "text": "来る",
+    "reading": "きたる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      86146,
+      188152
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bce14973f2",
+    "text": "玉",
+    "reading": "ぎょく",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      74314,
+      196263
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fc259785af",
+    "text": "汚す",
+    "reading": "けがす",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      206646,
+      173730
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1e176e82e5",
+    "text": "戸",
+    "reading": "こ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      225970,
+      236059
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a017bb3c0c",
+    "text": "御",
+    "reading": "ご",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      219832,
+      224639
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3b5b1c60b8",
+    "text": "骨",
+    "reading": "こつ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      90409,
+      99279
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4ae5663b6a",
+    "text": "盛る",
+    "reading": "さかる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      10811008
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2e94c5f285",
+    "text": "様",
+    "reading": "さま",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      76459,
+      90986
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6eaf31b290",
+    "text": "さらう",
+    "reading": "さらう",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      88210,
+      108713
+    ]
+  },
+  {
+    "id": "lex:openjlpt:50ffe65f74",
+    "text": "さん",
+    "reading": "さん",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      227626,
+      85523
+    ]
+  },
+  {
+    "id": "lex:openjlpt:966e181cea",
+    "text": "次",
+    "reading": "じ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      74447,
+      137227
+    ]
+  },
+  {
+    "id": "lex:openjlpt:26c17d8895",
+    "text": "地方",
+    "reading": "じかた",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      96152,
+      113790
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d8a877df8f",
+    "text": "認める",
+    "reading": "したためる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      110091
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6dcfd99e2c",
+    "text": "実",
+    "reading": "じつ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      80817,
+      2310035
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b7459622cc",
+    "text": "僕",
+    "reading": "しもべ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      236373
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6fdfa5e5ee",
+    "text": "種",
+    "reading": "しゅ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      235028,
+      112684
+    ]
+  },
+  {
+    "id": "lex:openjlpt:dd86bf4e80",
+    "text": "退く",
+    "reading": "しりぞく",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      227714,
+      102366
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c5951376c9",
+    "text": "退ける",
+    "reading": "しりぞける",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      160179,
+      117707
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6bebbaf4b0",
+    "text": "人",
+    "reading": "じん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      228416,
+      226364
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f71c5d995e",
+    "text": "天皇",
+    "reading": "すめらぎ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      125041,
+      76586
+    ]
+  },
+  {
+    "id": "lex:openjlpt:57054ddfeb",
+    "text": "節",
+    "reading": "せつ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      170566,
+      224183
+    ]
+  },
+  {
+    "id": "lex:openjlpt:21f2e9018e",
+    "text": "前",
+    "reading": "ぜん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      140952,
+      75850
+    ]
+  },
+  {
+    "id": "lex:openjlpt:08cfe03cb3",
+    "text": "吐く",
+    "reading": "つく",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      140208,
+      204408
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8ba1e58b80",
+    "text": "銃",
+    "reading": "つつ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      176202,
+      147949
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2564dfcfcb",
+    "text": "突く",
+    "reading": "つつく",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      193047,
+      77078
+    ]
+  },
+  {
+    "id": "lex:openjlpt:060bd26d75",
+    "text": "体",
+    "reading": "てい",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      76328,
+      173089
+    ]
+  },
+  {
+    "id": "lex:openjlpt:82e39c46a6",
+    "text": "梯子",
+    "reading": "ていし",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      100172,
+      83578
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1941689b4f",
+    "text": "店",
+    "reading": "てん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      160981,
+      196194
+    ]
+  },
+  {
+    "id": "lex:openjlpt:290e4e8db6",
+    "text": "と",
+    "reading": "と",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      4988,
+      74533
+    ]
+  },
+  {
+    "id": "lex:openjlpt:75abef3a63",
+    "text": "床",
+    "reading": "とこ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      167663,
+      85917
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e9f0941d9e",
+    "text": "止まる",
+    "reading": "とどまる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      224474,
+      120265
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7515db0cfd",
+    "text": "止める",
+    "reading": "とどめる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      115947,
+      174463
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d067bdf300",
+    "text": "留める",
+    "reading": "とどめる",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      174463,
+      115947
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2cd8f09df7",
+    "text": "なんか",
+    "reading": "なんか",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      221811,
+      102267
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2e8753951c",
+    "text": "悪い",
+    "reading": "にくい",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      226121,
+      190307
+    ]
+  },
+  {
+    "id": "lex:openjlpt:88e26cec55",
+    "text": "音",
+    "reading": "ね",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      188314,
+      188319
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1ac6d9ceaf",
+    "text": "鼠",
+    "reading": "ねず",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      212775,
+      99045
+    ]
+  },
+  {
+    "id": "lex:openjlpt:08fac022a1",
+    "text": "弾く",
+    "reading": "はじく",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      105879,
+      223014
+    ]
+  },
+  {
+    "id": "lex:openjlpt:856da87e15",
+    "text": "文",
+    "reading": "ふみ",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      75370
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9e39f13090",
+    "text": "分",
+    "reading": "ふん",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      236056,
+      4936
+    ]
+  },
+  {
+    "id": "lex:openjlpt:68e9c896bf",
+    "text": "三",
+    "reading": "み",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      104473,
+      78900
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d6c56bc73f",
+    "text": "夜中",
+    "reading": "やちゅう",
+    "level": "N1",
+    "reasons": [
+      "same-surface-multiple-course-readings"
+    ],
+    "tatoebaIds": [
+      207160,
+      126120
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bfef822f66",
+    "text": "レバー",
+    "reading": "レバー",
+    "level": "N1",
+    "reasons": [
+      "kana-headword-has-other-common-homophone"
+    ],
+    "tatoebaIds": [
+      192340,
+      74508
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "lex:openjlpt:b48d0c99d4",
+    "original": {
+      "meaningEn": [
+        "economy"
+      ],
+      "meaningZh": "节俭；节省；勤俭",
+      "chineseSenses": [
+        "节俭；节省；勤俭"
+      ],
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "jmdictId": 1386220,
+      "chineseStatus": "machine-assisted",
+      "chineseSource": "tomoshi",
+      "text": "せっけん",
+      "reading": "せっけん",
+      "level": "N5",
+      "examples": [
+        {
+          "tatoebaId": 214032,
+          "sourceUrl": "https://tatoeba.org/sentences/show/214032"
+        },
+        {
+          "tatoebaId": 10899704,
+          "sourceUrl": "https://tatoeba.org/sentences/show/10899704"
+        }
+      ]
+    },
+    "reason": "The N5 headword's two sentences explicitly mean soap. Waller/OpenJLPT incorrectly attach the homophone 節倹 (thrift). Correct the dictionary identity and meaning; preserve the soap sentences. N2 石鹸 is another spelling of this lexeme.",
+    "evidence": [
+      "https://tatoeba.org/sentences/show/214032",
+      "https://tatoeba.org/sentences/show/10899704",
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1382590"
+    ],
+    "set": {
+      "meaningEn": [
+        "soap"
+      ],
+      "meaningZh": "肥皂",
+      "chineseSenses": [
+        "肥皂"
+      ],
+      "pos": [
+        "n"
+      ],
+      "jmdictId": 1382590,
+      "chineseStatus": "dictionary-candidate",
+      "chineseSource": "kaikki"
+    },
+    "duplicateOf": "lex:openjlpt:018b71a3e2",
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:1fb9d39cd6",
+    "original": {
+      "meaningEn": [
+        "building or bill"
+      ],
+      "meaningZh": "帳單，發票",
+      "chineseSenses": [
+        "帳單，發票",
+        "證券，票據，清單，優惠券，憑證"
+      ],
+      "chineseStatus": "dictionary-candidate",
+      "chineseSource": "kaikki",
+      "text": "ビル",
+      "reading": "ビル",
+      "level": "N4",
+      "examples": []
+    },
+    "reason": "The matched JMdict 1106010 is the abbreviation of building, whereas the first Kaikki candidate is the separate homophone from bill. Use the intended building sense and remove the mixed English gloss.",
+    "evidence": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1106010",
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "set": {
+      "meaningEn": [
+        "multi-floor building",
+        "multi-storey building"
+      ],
+      "meaningZh": "楼房；大楼",
+      "chineseSenses": [
+        "楼房；大楼"
+      ],
+      "chineseStatus": "machine-assisted",
+      "chineseSource": "tomoshi"
+    },
+    "resolved": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "uniqueJapaneseIds": 12615,
+  "uniqueSentencePairs": 12615,
+  "counts": {
+    "owner-unavailable": 8726,
+    "fully-attributed-pair": 3535,
+    "english-translation-not-uniquely-matched": 354
+  },
+  "publicationRule": "Publish only exact-text pairs where both Japanese and English IDs and usernames are matched; show both author profile links and the CC BY 2.0 FR license link. Missing-owner and changed-text pairs are withheld."
+}

@@ -1,5 +1,7 @@
 @import "tailwindcss";
 @import "tw-animate-css";
+/* Word content is data, never Tailwind class names. Avoid rescanning each shard. */
+@source not "../public/data/vocabulary";
 
 .course-tabs, .course-resume, .course-overview, .course-diagnostic, .course-item { display: flex; gap: 1rem; align-items: center; justify-content: space-between; }
 .course-tabs { justify-content: flex-start; margin-bottom: 1rem; }

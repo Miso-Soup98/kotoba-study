@@ -1,0 +1,20 @@
+{
+  "words": 7811,
+  "enrollmentHoldCandidates": 293,
+  "enrollmentHoldReasons": {
+    "english-meaning-no-reference-overlap": 270,
+    "surface-needs-confirmation": 10,
+    "reading-needs-confirmation": 11,
+    "known-soap-thrift-homophone-mismatch": 1,
+    "no-reference-entry": 13,
+    "uncommon-or-irregular-reading": 1,
+    "archaic-reading-needs-context": 1
+  },
+  "wordsWithExampleHoldCandidates": 256,
+  "limitations": [
+    "This is lexical consistency screening, not full semantic verification",
+    "No-overlap may reflect harmless synonyms; holds are conservative",
+    "Waller snapshots contain the same known input mistakes and are not a safe automatic repair source",
+    "A reference ID shared by two spellings may produce duplicate learning cards unless caller deduplicates"
+  ]
+}

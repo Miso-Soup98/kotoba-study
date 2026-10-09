@@ -88,10 +88,13 @@ const Training = lazy(() =>
     default: module.Training,
   })),
 );
+const VocabularyLibrary = lazy(() => import("@/components/vocabulary-library").then(m => ({ default: m.VocabularyLibrary })));
+const VocabularyNotes = lazy(() => import("@/components/vocabulary-library").then(m => ({ default: m.VocabularyNotes })));
 
 const NAV = [
   { id: "today", label: "今天", icon: House },
   { id: "library", label: "语法库", icon: BookOpen },
+  { id: "vocabulary", label: "单词库", icon: GraduationCap },
   { id: "review", label: "复习", icon: Layers3 },
   { id: "words", label: "生词本", icon: Bookmark },
   { id: "ted", label: "TED 精读", icon: Headphones },
@@ -155,6 +158,8 @@ export default function StudyApp({
     window.dispatchEvent(new Event("kotoba:stop-ted"));
   });
   const [tedSelected, setTedSelected] = useState("");
+  const [vocabularySelected, setVocabularySelected] = useState("");
+  const [savedPage, setSavedPage] = useState(0);
   const [entries, setEntries] = useState<Entry[]>([]),
     [loadError, setLoadError] = useState("");
   const [view, setView] = useState("today"),
@@ -210,9 +215,9 @@ export default function StudyApp({
   }, []);
   const byId = useMemo(() => new Map(entries.map((e) => [e.id, e])), [entries]);
   const grammarWords = useMemo(() => entries.flatMap(vocabulary), [entries]);
-  const words = useMemo(
-    () => [...grammarWords, ...Object.values(model.tedWords)],
-    [grammarWords, model.tedWords],
+  const words = useMemo<Word[]>(
+    () => [...grammarWords, ...Object.values(model.tedWords), ...Object.values(model.vocabularyWords)],
+    [grammarWords, model.tedWords, model.vocabularyWords],
   );
   const wordById = useMemo(() => new Map(words.map((w) => [w.id, w])), [words]);
   const current =
@@ -276,6 +281,7 @@ export default function StudyApp({
   const activeCard = due.find(([id]) => id === reviewId) ?? due[0];
   const reviewEntry = activeCard ? byId.get(activeCard[0]) : undefined;
   const reviewWord = activeCard ? wordById.get(activeCard[0]) : undefined;
+  const reviewVocabulary = activeCard ? model.vocabularyWords[activeCard[0]] : undefined;
   const reviewListening = activeCard ? model.listeningCards[activeCard[0]] : undefined;
   const recommendation =
     entries.find((e) => e.level === "N3" && !model.cards[e.id]?.enrolled) ??
@@ -295,6 +301,7 @@ export default function StudyApp({
     journal = journalDraft.text,
     setJournal = journalDraft.setText;
   useEffect(() => setFlipped(false), [activeCard?.[0]]);
+  useEffect(() => setSavedPage(0), [wordQuery]);
   useEffect(() => {
     const context = (
       document as unknown as {
@@ -375,6 +382,11 @@ export default function StudyApp({
     draft.saved(event.id);
   }
   function openEntry(id: string) {
+    if (id.startsWith("lex:")) {
+      setVocabularySelected(id);
+      setView("vocabulary");
+      return;
+    }
     if (id.startsWith("ted-")) {
       setTedSelected(id);
       setView("ted");
@@ -514,7 +526,7 @@ export default function StudyApp({
               <SidebarMenuItem key={n.id}>
                 <SidebarMenuButton
                   isActive={view === n.id}
-                  onClick={() => setView(n.id)}
+                  onClick={() => { setVocabularySelected(""); setView(n.id); }}
                   className="nav-item"
                 >
                   <n.icon />
@@ -1170,7 +1182,7 @@ export default function StudyApp({
                         window.dispatchEvent(new Event("kotoba:stop-ted"));
                       }} /> : <>
                     <span className="level-badge">
-                      {reviewEntry?.level ?? "生词"}
+                      {reviewEntry?.level ?? reviewVocabulary?.level ?? "生词"}
                     </span>
                     <p className="card-prompt">
                       {reviewEntry
@@ -1229,15 +1241,16 @@ export default function StudyApp({
                                 </p>
                               </>
                             )}
-                            <p className="muted">来自 {reviewWord?.source}</p>
+                            {reviewVocabulary ? <Suspense fallback={<p>正在加载词条说明…</p>}><VocabularyNotes word={reviewVocabulary}/></Suspense>
+                              : <p className="muted">来自 {reviewWord?.source}</p>}
                             <button
                               className="text-button"
                               onClick={() =>
-                                void action(() => audio.word(reviewWord!.text))
+                                void action(() => audio.word(reviewVocabulary?.reading ?? reviewWord!.text))
                               }
                             >
                               <Volume2 size={18} />
-                              听读音
+                              {reviewVocabulary ? "听读音 · 设备语音" : "听读音"}
                             </button>
                           </>
                         )}
@@ -1290,7 +1303,7 @@ export default function StudyApp({
                       openEntry(reviewListening?.articleId ?? reviewEntry?.id ?? reviewWord!.source)
                     }
                   >
-                    回到原文
+                    {reviewVocabulary ? "查看单词详情" : "回到原文"}
                     <ArrowRight size={15} />
                   </button>
                 </div>
@@ -1368,6 +1381,10 @@ export default function StudyApp({
               />
             </Suspense>
           )}
+          {view === "vocabulary" && <Suspense fallback={<p role="status">正在打开单词库…</p>}>
+            <VocabularyLibrary key={session?.userId ?? "guest"} study={study} initialId={vocabularySelected}
+              onReview={() => setView("review")} onSpeak={reading => audio.word(reading)} />
+          </Suspense>}
           {view === "words" && (
             <>
               <div className="page-heading">
@@ -1391,10 +1408,11 @@ export default function StudyApp({
               </label>
               {savedWords.length ? (
                 <div className="word-grid">
-                  {savedWords.map((w) => (
+                  {savedWords.slice(Math.min(savedPage, Math.max(0, Math.ceil(savedWords.length / 24) - 1)) * 24,
+                    (Math.min(savedPage, Math.max(0, Math.ceil(savedWords.length / 24) - 1)) + 1) * 24).map((w) => (
                     <article className="panel word-card" key={w.id}>
                       <div className="section-heading">
-                        <span className="word-source">{w.source}</span>
+                        <span className="word-source">{model.vocabularyWords[w.id] ? `${model.vocabularyWords[w.id].level} · 分级单词` : w.source}</span>
                         <button
                           className="icon-button"
                           aria-label={`移除${w.text}`}
@@ -1430,7 +1448,7 @@ export default function StudyApp({
                         <button
                           className="icon-button"
                           aria-label={`播放${w.text}`}
-                          onClick={() => void action(() => audio.word(w.text))}
+                          onClick={() => void action(() => audio.word(model.vocabularyWords[w.id]?.reading ?? w.text))}
                         >
                           <Volume2 size={19} />
                         </button>
@@ -1438,10 +1456,11 @@ export default function StudyApp({
                           className="text-button"
                           onClick={() => openEntry(w.source)}
                         >
-                          看原文
+                          {model.vocabularyWords[w.id] ? "单词详情" : "看原文"}
                         </button>
                         <button
                           className="secondary compact"
+                          disabled={model.vocabularyWords[w.id]?.learningStatus === "needs-review"}
                           onClick={() =>
                             void action(() =>
                               save(
@@ -1452,7 +1471,7 @@ export default function StudyApp({
                             )
                           }
                         >
-                          {model.cards[w.id]?.enrolled
+                          {model.vocabularyWords[w.id]?.learningStatus === "needs-review" ? "待核对，暂缓背诵" : model.cards[w.id]?.enrolled
                             ? "暂停复习"
                             : "加入复习"}
                         </button>
@@ -1465,7 +1484,7 @@ export default function StudyApp({
                   <Bookmark size={38} />
                   <h2>{wordQuery ? "没有找到这个词" : "把遇见的生词留下来"}</h2>
                   <p>
-                    在语法详情中点击词语，即可收藏。收藏和加入复习可以分别选择。
+                    在单词库、语法详情或 TED 中收藏词语。收藏和加入复习可以分别选择。
                   </p>
                   <button
                     className="primary"
@@ -1476,6 +1495,10 @@ export default function StudyApp({
                   </button>
                 </div>
               )}
+              {savedWords.length > 24 && <div className="vocabulary-pagination">
+                <button className="secondary" disabled={savedPage === 0} onClick={() => setSavedPage(p => Math.max(0, p - 1))}>上一页</button>
+                <span>每页 24 词</span><button className="secondary" disabled={(savedPage + 1) * 24 >= savedWords.length} onClick={() => setSavedPage(p => p + 1)}>下一页</button>
+              </div>}
             </>
           )}
           {view === "profile" && (
@@ -1700,7 +1723,7 @@ export default function StudyApp({
             <button
               key={n.id}
               className={view === n.id ? "active" : ""}
-              onClick={() => setView(n.id)}
+              onClick={() => { setVocabularySelected(""); setView(n.id); }}
             >
               <n.icon size={21} />
               <span>{n.label}</span>

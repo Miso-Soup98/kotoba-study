@@ -67,7 +67,8 @@ self.addEventListener("fetch", (event) => {
   if (
     ASSETS.includes(url.pathname) ||
     url.pathname.startsWith("/_next/static/") ||
-    /^\/data\/question-sets\/[a-z0-9-]{1,64}\.json$/.test(url.pathname)
+    /^\/data\/question-sets\/[a-z0-9-]{1,64}\.json$/.test(url.pathname) ||
+    /^\/data\/vocabulary\/v[0-9a-z-]{1,40}\/(index|N[1-5]-\d{3})\.json$/.test(url.pathname)
   )
     event.respondWith(
       caches.match(request).then(

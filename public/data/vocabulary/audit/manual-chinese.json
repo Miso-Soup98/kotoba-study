@@ -1,0 +1,755 @@
+[
+  {
+    "id": "lex:openjlpt:eac7a22620",
+    "text": "いただきます",
+    "reading": "いただきます",
+    "level": "N5",
+    "originalEnglish": [
+      "expression of gratitude before meals"
+    ],
+    "meaningZh": "我开动了（饭前表达感谢的用语）",
+    "reason": "词条是饭前感恩寒暄语，原两例句却是收款和点酒时的「頂く」礼貌形，不能作为该固定寒暄语的学习例句。保留基本释义，隐藏这两例句。",
+    "removeExamples": true,
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:20cbecd474",
+    "text": "好き",
+    "reading": "すき",
+    "level": "N5",
+    "originalEnglish": [
+      "likeable"
+    ],
+    "meaningZh": "喜欢；喜爱",
+    "reason": "原英文 likeable 容易被理解为“讨人喜欢”，本词基本义是说话者喜欢、喜爱某物或某人。",
+    "meaningEnCorrected": [
+      "liking",
+      "being fond of"
+    ],
+    "posCorrected": [
+      "adj-na",
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:89927b8fa1",
+    "text": "家内",
+    "reading": "かない",
+    "level": "N4",
+    "originalEnglish": [
+      "housewife"
+    ],
+    "meaningZh": "内人；我的妻子",
+    "reason": "家内（かない）在本词所指的人物义中是对外称自己的妻子，不等同于职业或家庭分工意义的 housewife。",
+    "meaningEnCorrected": [
+      "one's wife"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:8fb005254a",
+    "text": "けがする",
+    "reading": "けがする",
+    "level": "N4",
+    "originalEnglish": [
+      "to injure"
+    ],
+    "meaningZh": "受伤",
+    "reason": "けがする是“受伤”，不是使别人受伤的及物动作；英文 to injure 容易误导主客体。",
+    "meaningEnCorrected": [
+      "to get injured",
+      "to be hurt"
+    ],
+    "posCorrected": [
+      "vs-i"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:554ab81272",
+    "text": "そう",
+    "reading": "そう",
+    "level": "N4",
+    "originalEnglish": [
+      "really"
+    ],
+    "meaningZh": "看起来……；似乎要……（表示样态）",
+    "reason": "该条词性与两例句「雨が降りそう」「楽しそう」均为样态助动词，原英文 really 错配了同形表达。",
+    "meaningEnCorrected": [
+      "seeming",
+      "looking like",
+      "appearing about to"
+    ],
+    "posCorrected": [
+      "aux",
+      "adj-na"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:e957aa6df9",
+    "text": "済ませる",
+    "reading": "すませる",
+    "level": "N3",
+    "originalEnglish": [
+      "to be finished"
+    ],
+    "meaningZh": "把……做完；办完",
+    "reason": "済ませる是他动词，表示把事情办完；原英文 to be finished 没有保留这一结构。",
+    "meaningEnCorrected": [
+      "to finish something",
+      "to get something done"
+    ],
+    "posCorrected": [
+      "v1",
+      "vt"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:8ae84a079b",
+    "text": "能",
+    "reading": "のう",
+    "level": "N3",
+    "originalEnglish": [
+      "being skilled in",
+      "nicely",
+      "properly"
+    ],
+    "meaningZh": "能剧（日本传统舞台艺术）",
+    "reason": "原英文 nicely/properly 等与のう不符；两例句均指日本传统舞台艺术能剧，依该读音和语境订正。",
+    "meaningEnCorrected": [
+      "Noh (traditional Japanese theatre)"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E8%83%BD-111801"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:b0fe98d49c",
+    "text": "陸",
+    "reading": "りく",
+    "level": "N3",
+    "originalEnglish": [
+      "six (used in legal documents)"
+    ],
+    "meaningZh": "陆地",
+    "reason": "りく表示陆地，两例句均为陆地、靠岸语境；原英文六的大写义属于别读ロク，发生义项混配。",
+    "meaningEnCorrected": [
+      "land",
+      "dry land"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E9%99%B8-451175"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:61e0e71518",
+    "text": "関東",
+    "reading": "かんとう",
+    "level": "N2",
+    "originalEnglish": [
+      "eastern half of Japan",
+      "including Tokyo"
+    ],
+    "meaningZh": "关东地区（以东京为中心的日本地区）",
+    "reason": "关东是包含东京的日本地区，不等同于整个日本东半部；限定地域范围，避免把关东误记作东日本。",
+    "meaningEnCorrected": [
+      "Kanto region of Japan (including Tokyo)"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:ffd3c9c0d7",
+    "text": "斬る",
+    "reading": "きる",
+    "level": "N2",
+    "originalEnglish": [
+      "to behead",
+      "to murder"
+    ],
+    "meaningZh": "砍；斩；用刀杀死",
+    "reason": "斬る的基本动作是用刀剑等砍、斩，原英文把它泛化成任何 murder；订正为带刀剑动作的含义。",
+    "meaningEnCorrected": [
+      "to cut down with a blade",
+      "to slay with a sword"
+    ],
+    "posCorrected": [
+      "v5r",
+      "vt"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:f52c85beb6",
+    "text": "出来上がり",
+    "reading": "できあがり",
+    "level": "N2",
+    "originalEnglish": [
+      "be finished",
+      "ready",
+      "made for",
+      "cut out"
+    ],
+    "meaningZh": "完成；制成的成品或结果",
+    "reason": "出来上がり是完成、制成后的成品或完成情况，不是 made for/cut out（适合）的普通表达。",
+    "meaningEnCorrected": [
+      "completion",
+      "finished product",
+      "finished result"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:4570b0ab6b",
+    "text": "天津",
+    "reading": "あまつ",
+    "level": "N1",
+    "originalEnglish": [
+      "heavenly",
+      "imperial"
+    ],
+    "meaningZh": "天上的；神圣的（古语，通常接名词）",
+    "reason": "あまつ为古语的「天つ」及相关旧写，表示天上的、神圣的；不是中国城市天津（てんしん）。保留旧词，不把它当现代常用地名。",
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E5%A4%A9%E3%81%A4-427049"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:4f60e61ae2",
+    "text": "一見",
+    "reading": "いちげん",
+    "level": "N1",
+    "originalEnglish": [
+      "unfamiliar",
+      "never before met"
+    ],
+    "meaningZh": "初次见面；初次来访（常用于一見さん）",
+    "reason": "いちげん在「一見さん」中指初次来访、没有旧交的客人；不能混同“一眼看去”的いっけん。所附一見さん例句与该读音一致。",
+    "meaningEnCorrected": [
+      "first-time visitor",
+      "first meeting"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:1d578a6738",
+    "text": "一定",
+    "reading": "いちじょう",
+    "level": "N1",
+    "originalEnglish": [
+      "fixed",
+      "settled",
+      "definite",
+      "uniform",
+      "regularized",
+      "defined",
+      "standardized",
+      "certain",
+      "prescribed"
+    ],
+    "meaningZh": "确定无疑；必定（古语读法）",
+    "reason": "いちじょう是真实古读，表示确定无疑、必定；原例句「一定の速度」「一定の期限」应读いってい，删除错配现代例句。N2已有いってい词条，故不重写本条读音和身份。",
+    "meaningEnCorrected": [
+      "certain; definite (archaic)",
+      "certainly; surely (archaic)"
+    ],
+    "posCorrected": [
+      "n",
+      "adv"
+    ],
+    "removeExamples": true,
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E4%B8%80%E5%AE%9A-433412"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:f3f408a1e8",
+    "text": "末",
+    "reading": "うら",
+    "level": "N1",
+    "originalEnglish": [
+      "top end",
+      "tip"
+    ],
+    "meaningZh": "树梢；枝叶的尖端（古语）",
+    "reason": "うら是枝叶尖端、梢头的古读；不把现代常见すえ/まつ读法或粉末义混入。",
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E6%9C%AB-136437"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:578447ed67",
+    "text": "乾",
+    "reading": "けん",
+    "level": "N1",
+    "originalEnglish": [
+      "heaven",
+      "emperor"
+    ],
+    "meaningZh": "乾卦；天；帝王（古典用语）",
+    "reason": "けん为易卦、天或帝王等古典义；两例句是「乾く／乾いて」的かわく读法，与此词头无关，删除错配例句。",
+    "removeExamples": true,
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kotoba/0001059100",
+      "https://kotobank.jp/word/%E4%B9%BE-469056"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:26bcaec009",
+    "text": "事によると",
+    "reading": "ことによると",
+    "level": "N1",
+    "originalEnglish": [
+      "depending on the circumstances"
+    ],
+    "meaningZh": "也许；说不定",
+    "reason": "事によると是“也许、说不定”的惯用表达，不能只按字面给出 depending on the circumstances。",
+    "meaningEnCorrected": [
+      "perhaps",
+      "possibly"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/jeword/%E4%BA%8B"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:fc4763325c",
+    "text": "然も",
+    "reading": "さも",
+    "level": "N1",
+    "originalEnglish": [
+      "with gusto",
+      "with satisfaction"
+    ],
+    "meaningZh": "显得确实……；好像真是……；实在",
+    "reason": "さも表示显得确实如此、仿佛真是如此；原英文 with gusto/with satisfaction 把局部搭配的感情色彩误作基本义。所附不高兴的语境也不支持 satisfaction。",
+    "meaningEnCorrected": [
+      "as if",
+      "apparently",
+      "indeed"
+    ],
+    "posCorrected": [
+      "adv"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E7%84%B6%E3%82%82-512065"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:49b24ec6dc",
+    "text": "実態",
+    "reading": "じったい",
+    "level": "N1",
+    "originalEnglish": [
+      "truth",
+      "fact"
+    ],
+    "meaningZh": "实际状态；实情",
+    "reason": "実態指实际状态、实际情况；用 actual state/actual circumstances 区别抽象的 truth。",
+    "meaningEnCorrected": [
+      "actual state",
+      "actual circumstances"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:ddff5ba694",
+    "text": "修士",
+    "reading": "しゅうし",
+    "level": "N1",
+    "originalEnglish": [
+      "Masters degree program"
+    ],
+    "meaningZh": "硕士；硕士学位",
+    "reason": "修士表示硕士或硕士学位；完整的硕士课程通常为修士課程，不把 program 固定为本词唯一义。",
+    "meaningEnCorrected": [
+      "master's degree",
+      "holder of a master's degree"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:c261df67ce",
+    "text": "徐々",
+    "reading": "じょじょ",
+    "level": "N1",
+    "originalEnglish": [
+      "gradually",
+      "steadily",
+      "quietly",
+      "slowly",
+      "soon"
+    ],
+    "meaningZh": "逐渐；缓缓（常用徐々に）",
+    "reason": "徐々（通常徐々に）为逐渐，不是 soon。例句88711的「態度がでかくなった」表示变得傲慢，英文getting better错译；本覆盖层保守隐藏原例句组，避免保留错误对照。",
+    "meaningEnCorrected": [
+      "gradually",
+      "little by little"
+    ],
+    "removeExamples": true,
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:5c66cff518",
+    "text": "擦れ違い",
+    "reading": "すれちがい",
+    "level": "N1",
+    "originalEnglish": [
+      "chance encounter"
+    ],
+    "meaningZh": "擦肩而过；彼此错过；沟通错位",
+    "reason": "基本义是擦肩而过、彼此错过，亦指交流错位；chance encounter 单独作为释义会把“错过”误作“偶遇”。",
+    "meaningEnCorrected": [
+      "passing each other",
+      "missing each other",
+      "failure to connect"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:f71c5d995e",
+    "text": "天皇",
+    "reading": "すめらぎ",
+    "level": "N1",
+    "originalEnglish": [
+      "Emperor of Japan"
+    ],
+    "meaningZh": "天皇（すめらぎ为古雅称法）",
+    "reason": "すめらぎ为古雅称法，与现代文章通常使用的てんのう不同；所附现代政治说明句未证明使用古读，隐藏例句以免读音误导。保留词头和古语提示，不把它改成另一张卡。",
+    "removeExamples": true,
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:8ee5c7c8db",
+    "text": "立方",
+    "reading": "たちかた",
+    "level": "N1",
+    "originalEnglish": [
+      "dancing (geisha)"
+    ],
+    "meaningZh": "舞者；舞台表演者（日本舞蹈、能乐等）",
+    "reason": "たちかた是日本舞蹈、能乐等的舞者或表演者，不是表示立方的りっぽう；原英文 dancing 改为指人的 dancer。",
+    "meaningEnCorrected": [
+      "dancer in a Japanese dance performance",
+      "stage performer"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E7%AB%8B%E6%96%B9-560925"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:8ddba4675b",
+    "text": "給う",
+    "reading": "たまう",
+    "level": "N1",
+    "originalEnglish": [
+      "to receive",
+      "to grant"
+    ],
+    "meaningZh": "赐予（文语尊敬语）；接动词后表示尊敬",
+    "reason": "たまう在该词及例句中是给予的文语尊敬语或尊敬补助动词；to receive 会混淆给予和领受，予以删去。",
+    "meaningEnCorrected": [
+      "to give (literary honorific)",
+      "to do (honorific auxiliary)"
+    ],
+    "posCorrected": [
+      "v5u",
+      "vt"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E8%B3%9C%E3%81%86-562678"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:8814988b80",
+    "text": "中腹",
+    "reading": "ちゅうっぱら",
+    "level": "N1",
+    "originalEnglish": [
+      "irritated",
+      "offended"
+    ],
+    "meaningZh": "憋着一肚子气；心中的怒气（旧语）",
+    "reason": "ちゅうっぱら为旧语，表示憋着怒气等；原例句说山腰，实际为ちゅうふく。按词典保留可确认的旧义并删除错配例句，不暗改词头到另一个读音。",
+    "removeExamples": true,
+    "posCorrected": [
+      "n",
+      "adj-na"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E4%B8%AD%E8%85%B9-567823"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:8ba1e58b80",
+    "text": "銃",
+    "reading": "つつ",
+    "level": "N1",
+    "originalEnglish": [
+      "gun"
+    ],
+    "meaningZh": "枪；火枪（つつ为旧称）",
+    "reason": "つつ是枪的旧称，原现代枪械例句未标明此旧读，容易让人把日常じゅう读错；保留旧称提示并隐藏这些例句。",
+    "removeExamples": true,
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:e1ea2bb61d",
+    "text": "出直し",
+    "reading": "でなおし",
+    "level": "N1",
+    "originalEnglish": [
+      "adjustment",
+      "touch up"
+    ],
+    "meaningZh": "重来；重新开始；改日再来",
+    "reason": "出直し为重新开始、重做或改日再来，所附两句也分别为重来和明天再来；adjustment/touch up 错配为局部修整。",
+    "meaningEnCorrected": [
+      "making a fresh start",
+      "starting over",
+      "coming again"
+    ],
+    "posCorrected": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:02783d9713",
+    "text": "丁々",
+    "reading": "とうとう",
+    "level": "N1",
+    "originalEnglish": [
+      "clashing of swords",
+      "felling of trees",
+      "ringing of an ax"
+    ],
+    "meaningZh": "咚咚；斧头砍树或敲击时的声音（书面语）",
+    "reason": "とうとう为砍伐、敲击等声音的书面拟声表达；明确其罕见书面语性质，避免和“终于”的とうとう混淆。",
+    "meaningEnCorrected": [
+      "with a chopping sound",
+      "with a thumping sound"
+    ],
+    "referenceUrls": [
+      "https://yamanishi.webpage21a.jp/files/20130626154117.pdf"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:4ec7fe1166",
+    "text": "何々",
+    "reading": "どれどれ",
+    "level": "N1",
+    "originalEnglish": [
+      "which (emphatic)"
+    ],
+    "meaningZh": "哪个；哪些（强调询问）；让我看看",
+    "reason": "原表记何々通常令人读成なになに，与本条どれどれ和which义冲突。词典可确认的是どれどれ／何れ何れ，改成明确的假名显示，保留原ID与读音。",
+    "textCorrected": "どれどれ",
+    "meaningEnCorrected": [
+      "which (emphatic)",
+      "let me see"
+    ],
+    "posCorrected": [
+      "pn",
+      "int"
+    ],
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E4%BD%95%E3%82%8C%E4%BD%95%E3%82%8C-586355"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:a8b71cab9b",
+    "text": "捻じれる",
+    "reading": "ねじれる",
+    "level": "N1",
+    "originalEnglish": [
+      "to twist",
+      "to wrench",
+      "to screw"
+    ],
+    "meaningZh": "扭曲；发生扭转",
+    "reason": "捻じれる为自动词，表示自身发生扭曲；to wrench/to screw 容易误导为主动拧转另一物，改用自动态释义。",
+    "meaningEnCorrected": [
+      "to become twisted",
+      "to be distorted"
+    ],
+    "posCorrected": [
+      "v1",
+      "vi"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:21d892acef",
+    "text": "番目",
+    "reading": "ばんめ",
+    "level": "N1",
+    "originalEnglish": [
+      "cardinal number suffix"
+    ],
+    "meaningZh": "第……个（接在数词后表示顺序）",
+    "reason": "接在数词后表示第几个，是序数ordinal，不是基数cardinal。两例句分别为第三颗星、第八颗行星。",
+    "meaningEnCorrected": [
+      "ordinal-number suffix (the nth)"
+    ],
+    "posCorrected": [
+      "suf"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:ad9000928d",
+    "text": "震わせる",
+    "reading": "ふるわせる",
+    "level": "N1",
+    "originalEnglish": [
+      "to be shaking",
+      "to be trembling"
+    ],
+    "meaningZh": "使……震动；使……发抖",
+    "reason": "震わせる保留使某部位、物体震动的他动结构，如声を／体を震わせる；原英文 to be shaking 易与震える混淆。",
+    "meaningEnCorrected": [
+      "to make something tremble",
+      "to shake something"
+    ],
+    "posCorrected": [
+      "v1",
+      "vt"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:e482d02cda",
+    "text": "本格",
+    "reading": "ほんかく",
+    "level": "N1",
+    "originalEnglish": [
+      "propriety",
+      "fundamental rules"
+    ],
+    "meaningZh": "本来的格式；正式的规模或样式",
+    "reason": "本格指本来的规范、正式的样式或规模；propriety 容易误作礼貌得体，将英文限定为本来方式/正式样式。",
+    "meaningEnCorrected": [
+      "original or proper form",
+      "genuine way of doing something"
+    ],
+    "posCorrected": [
+      "n",
+      "adj-f"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:fa2a840942",
+    "text": "まとめ",
+    "reading": "まとめ",
+    "level": "N1",
+    "originalEnglish": [
+      "settlement",
+      "conclusion"
+    ],
+    "meaningZh": "归纳；总结；汇总",
+    "reason": "まとめ为归纳、汇总、总结；只给settlement/conclusion容易理解为解决争端或单纯结局。",
+    "meaningEnCorrected": [
+      "summary",
+      "bringing together",
+      "consolidation"
+    ],
+    "posCorrected": [
+      "n"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:a86f29464a",
+    "text": "佚",
+    "reading": "いつ",
+    "level": "N2",
+    "originalEnglish": [
+      "be lost",
+      "peace",
+      "hide",
+      "mistake",
+      "beautiful",
+      "in turn"
+    ],
+    "meaningZh": "",
+    "reason": "原英文把遗失、安逸、隐藏、错误、美丽、轮流等不同字义混列，缺少可核对词典条目和例句，不能确认其作为独立N2词汇的词形、词性和义项。暂缓，不猜译。",
+    "blocked": true
+  },
+  {
+    "id": "lex:openjlpt:5da1033412",
+    "text": "会",
+    "reading": "え",
+    "level": "N1",
+    "originalEnglish": [
+      "understanding"
+    ],
+    "meaningZh": "",
+    "reason": "え是会的音读之一，但当前原英文understanding不能据此确认为独立现代词义；所附陸上競技会应读かい且为集会义，明显错配。暂缓原条，不把它强改为已有会（かい）。",
+    "blocked": true,
+    "removeExamples": true
+  },
+  {
+    "id": "lex:openjlpt:d4517d7970",
+    "text": "予言",
+    "reading": "かねごと",
+    "level": "N1",
+    "originalEnglish": [
+      "prediction",
+      "promise",
+      "prognostication"
+    ],
+    "meaningZh": "",
+    "reason": "かねごと可见于古语词典候选与古典用例，但当前两例句未支持此古读，通常应读よげん；本轮不混并成现代词条，也不据候选填入确认中文。保留待核对。",
+    "blocked": true,
+    "removeExamples": true
+  }
+]

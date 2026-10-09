@@ -36,6 +36,8 @@ export type EventKind =
   | "setting"
   | "ted_loop"
   | "ted_word"
+  | "vocabulary_word"
+  | "vocabulary_known"
   | "ted_progress"
   | "listening_card"
   | "training_session"

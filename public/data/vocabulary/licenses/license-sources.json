@@ -1,0 +1,38 @@
+[
+  {
+    "file": "ATTRIBUTION.md",
+    "sha256": "6d66afdd87eb106323b8424886e66f5422aebc4fd7c1c7121b7dfd51f187e777",
+    "bytes": 2762
+  },
+  {
+    "file": "CC-BY-2.0-FR-legalcode.html",
+    "sha256": "597d4c64f6606c64da65ba6c079e5cc87e4cce2b5187eda908c939b538e7ab9b",
+    "bytes": 39479,
+    "url": "https://raw.githubusercontent.com/creativecommons/cc-legal-tools-data/main/docs/licenses/by/2.0/fr/legalcode.fr.html"
+  },
+  {
+    "file": "CC-BY-SA-4.0.txt",
+    "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
+    "bytes": 20138
+  },
+  {
+    "file": "EDRDG-licence.html",
+    "sha256": "52f60ea9ca68170a2f0663d7dba381ebf1bd57c17a3347dfe21153865c156692",
+    "bytes": 13587
+  },
+  {
+    "file": "OpenJLPT-NOTICE.md",
+    "sha256": "a2e6f45517bb1a1c047628991832244916888a4ced3aa26adeafb89705588557",
+    "bytes": 3456
+  },
+  {
+    "file": "Tomoshi-LICENSE.md",
+    "sha256": "b81d977bf8345c24d69147bc00af5ff1cf05f0ddd5672abbbdebf7e25aa4a54f",
+    "bytes": 1584
+  },
+  {
+    "file": "Tomoshi-NOTICE.md",
+    "sha256": "a76557947027967ddbeefa19346141e8c3a8ff426e40ad6fc2706ae926e07388",
+    "bytes": 1829
+  }
+]

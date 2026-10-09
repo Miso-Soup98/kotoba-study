@@ -1,0 +1,47 @@
+.vocabulary-levels { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; margin: 20px 0; }
+.vocabulary-levels button { border: 1px solid #dce5d5; border-radius: 14px; padding: 16px 8px; display: grid; gap: 5px; background: #fffdf9; text-align: center; color: #637456; }
+.vocabulary-levels strong { font-size: 20px; font-weight: 600; }
+.vocabulary-levels span { font-size: 12px; }
+.vocabulary-levels button.active { background: #e8f0df; border-color: #788f64; box-shadow: inset 0 0 0 1px #788f64; color: #354f2a; }
+.vocabulary-plan { display: flex; gap: 24px; align-items: center; justify-content: space-between; margin-bottom: 20px; }
+.vocabulary-plan h2 { font-size: 18px; margin-bottom: 9px; }
+.vocabulary-plan p { margin: 5px 0; }
+.vocabulary-plan .secondary { flex-shrink: 0; }
+.vocabulary-toolbar { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin-bottom: 20px; font-size: 14px; }
+.vocabulary-toolbar .search-field { flex: 1; min-width: 210px; margin: 0; }
+.vocabulary-toolbar select { border: 1px solid #dce5d5; border-radius: 8px; padding: 10px; background: white; }
+.vocabulary-toolbar input[type=checkbox] { accent-color: #658550; margin-right: 5px; }
+.vocabulary-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.vocabulary-tile { text-align: left; display: flex; flex-direction: column; align-items: stretch; gap: 8px; min-width: 0; cursor: pointer; transition: border-color .15s; }
+.vocabulary-tile:hover, .vocabulary-tile:focus-visible { border-color: #6b8754; }
+.vocabulary-tile strong { font-size: 24px; color: #344d2e; font-weight: 550; overflow-wrap: anywhere; }
+.vocabulary-meta { display: flex; justify-content: space-between; font-size: 11px; color: #7b8971; }
+.vocabulary-gloss { font-size: 14px; line-height: 1.65; color: #5e6b54; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+.vocabulary-pagination { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 22px 0; font-size: 13px; color: #758269; }
+.vocabulary-dialog { max-height: min(86dvh, 820px); overflow-y: auto; width: min(680px, calc(100% - 28px)); max-width: 680px !important; }
+.vocabulary-dialog .answer-meaning { margin: 0; line-height: 1.65; }
+.vocabulary-actions { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.vocabulary-actions-bottom { border-top: 1px solid #e5eadf; padding-top: 18px; }
+.vocabulary-notes { overflow-wrap: anywhere; }
+.vocabulary-english { font-size: 13px; color: #75816d; line-height: 1.65; }
+.vocabulary-english > span { font-size: 10px; border: 1px solid #d6dfcd; border-radius: 4px; padding: 1px 4px; margin-right: 4px; }
+.vocabulary-notes details { margin: 15px 0; font-size: 14px; }
+.vocabulary-notes summary { color: #617950; cursor: pointer; padding: 5px 0; }
+.vocabulary-notes ul { padding-left: 20px; list-style: disc; line-height: 1.8; }
+.vocabulary-notes a, .vocabulary-attribution a { text-decoration: underline; color: #627c53; }
+.vocabulary-example { border-left: 3px solid #ccdabb; padding: 12px 16px; margin: 18px 0; background: #f6f8f1; border-radius: 0 10px 10px 0; }
+.vocabulary-example p { margin: 4px 0 8px; line-height: 1.8; }
+.vocabulary-example a { font-size: 11px; }
+@media (max-width: 1100px) { .vocabulary-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) {
+  .vocabulary-levels { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+  .vocabulary-levels button { padding: 11px 6px; }
+  .vocabulary-plan { align-items: flex-start; flex-direction: column; gap: 12px; }
+  .vocabulary-grid { grid-template-columns: 1fr 1fr; gap: 9px; }
+  .vocabulary-tile { padding: 15px 12px; }
+  .vocabulary-tile strong { font-size: 21px; }
+  .vocabulary-tile .reading { font-size: 12px; }
+  .vocabulary-pagination .secondary { padding: 10px 8px; font-size: 12px; }
+  .mobile-nav { overflow-x: auto; justify-content: flex-start; gap: 0; }
+  .mobile-nav button { flex: 0 0 max(12.5%, 48px); font-size: 10px; }
+}
