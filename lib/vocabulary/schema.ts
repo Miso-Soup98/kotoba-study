@@ -1,7 +1,7 @@
 import { z } from "zod";
 import type { StudyEvent } from "../study/types";
 
-export const VOCABULARY_VERSION = "v06-20261010";
+export const VOCABULARY_VERSION = "v06-20261010-r1";
 export const LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 export const vocabularyId = z.string().regex(/^lex:openjlpt:[a-z0-9]{6,40}$/);
 const sourceUrl = z.string().max(500).url().refine(value => value.startsWith("https://"));

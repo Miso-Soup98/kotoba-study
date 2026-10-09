@@ -751,5 +751,55 @@
     "reason": "かねごと可见于古语词典候选与古典用例，但当前两例句未支持此古读，通常应读よげん；本轮不混并成现代词条，也不据候选填入确认中文。保留待核对。",
     "blocked": true,
     "removeExamples": true
+  },
+  {
+    "id": "lex:openjlpt:bf69a1d9f2",
+    "text": "うかがう",
+    "reading": "うかがう",
+    "level": "N4",
+    "originalEnglish": [
+      "to visit"
+    ],
+    "originalChinese": "【窺う】",
+    "meaningZh": "拜访；登门（「伺う」，「訪ねる／行く」的谦让表达）",
+    "reason": "原中文只指向同音词「窺う」，不对应本条to visit；按已匹配JMdict 1305700中「伺う」的拜访义订正。问询义例句不用于本条，继续隐藏待核对例句。",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1305700"
+    ],
+    "resolved": true,
+    "removeExamples": true
+  },
+  {
+    "id": "lex:openjlpt:da1a2f9721",
+    "text": "うそ",
+    "reading": "うそ",
+    "level": "N4",
+    "originalEnglish": [
+      "a lie"
+    ],
+    "originalChinese": "维基词典的以下詞條尚未創建提示（不是释义）",
+    "meaningZh": "谎言；谎话",
+    "reason": "原匹配拿到了词典的页面编辑提示，按JMdict 1172400「嘘」及现有英文a lie订正。",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1172400"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "lex:openjlpt:5750d76e14",
+    "text": "どうか",
+    "reading": "どうか",
+    "level": "N3",
+    "originalEnglish": [
+      "copper coin"
+    ],
+    "originalChinese": "【銅貨】",
+    "meaningZh": "",
+    "blocked": true,
+    "removeExamples": true,
+    "reason": "来源英文copper coin和JMdict 1454350指向「銅貨」，而来源例句均为「どうか」的请／恳请义。保留原英文便于追溯，去掉仅有词形的中文占位，暂缓背诵，待确认分级词条的目标义项。",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1454350"
+    ]
   }
 ]

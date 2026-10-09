@@ -3,7 +3,7 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { resolve, join } from "node:path";
 import { createHash } from "node:crypto";
-const version = "v06-20261010", levels = ["N5", "N4", "N3", "N2", "N1"];
+const version = "v06-20261010-r1", levels = ["N5", "N4", "N3", "N2", "N1"];
 const input = process.argv[2];
 if (!input) throw Error("Usage: node scripts/prepare-vocabulary.mjs <draft-directory> <manual-chinese.json> <quarantine.json> <example-review.json> <tatoeba-attribution.json> <source-corrections.json>");
 if (process.argv.length !== 8) throw Error("Publication requires all six reviewed inputs; refusing an unreviewed catalog.");
@@ -27,7 +27,7 @@ for (const level of levels) {
   const words = data.map(row => {
     const patch = overrides.get(row.id);
     const original = { text: row.text, reading: row.reading, meaningEn: row.meaningEn, pos: row.pos };
-    const meanZh = patch?.meaningZh || row.meaningZh || "";
+    const meanZh = patch?.meaningZh ?? row.meaningZh ?? "";
     const text = patch?.textCorrected || row.text, reading = patch?.readingCorrected || row.reading;
     const en = patch?.meaningEnCorrected || row.meaningEn;
     const pos = patch?.posCorrected || row.pos;
@@ -37,7 +37,7 @@ for (const level of levels) {
       id: row.id, text, reading, meaning: meanZh || `英文：${en.join("; ")}`,
       source: row.id, original: `OpenJLPT ${row.level} · ${row.text}（${row.reading}）`, level, version,
       meaningZh: meanZh, meaningEn: en.slice(0, 20),
-      chineseSenses: patch?.meaningZh ? [patch.meaningZh] : (row.chineseSenses || []).slice(0, 20),
+      chineseSenses: patch?.meaningZh !== undefined ? (meanZh ? [meanZh] : []) : (row.chineseSenses || []).slice(0, 20),
       chineseStatus: patch?.meaningZh ? "machine-assisted" : row.chineseStatus,
       learningStatus: reason || patch?.blocked ? "needs-review" : "ready",
       contentNote: reason || patch?.reason || row.contentNote || "",

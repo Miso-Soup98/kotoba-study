@@ -84,3 +84,26 @@ test("published catalog is complete, unique, bounded and snapshot-valid across a
   }
   assert.equal(seen, 7811);
 });
+
+test("dictionary cross-references and edit notices never become Chinese definitions", () => {
+  const root = `public/data/vocabulary/${VOCABULARY_VERSION}/`;
+  const catalog: VocabularyCatalog = JSON.parse(readFileSync(root + "index.json", "utf8"));
+  const words = new Map<string, VocabularyWord>();
+  for (const shard of new Set(catalog.words.map(w => w.shard))) {
+    for (const row of JSON.parse(readFileSync(root + shard, "utf8"))) {
+      words.set(row.id, row);
+      for (const meaning of [row.meaningZh, ...row.chineseSenses]) {
+        assert.ok(!/^【[^】]+】$/.test(meaning.trim()) && !/以下(?:詞條尚未創建|词条尚未创建)/.test(meaning), row.id);
+      }
+    }
+  }
+  assert.match(words.get("lex:openjlpt:bf69a1d9f2")!.meaningZh, /拜访/);
+  assert.match(words.get("lex:openjlpt:da1a2f9721")!.meaningZh, /谎言/);
+  const ambiguous = words.get("lex:openjlpt:5750d76e14")!;
+  assert.equal(ambiguous.learningStatus, "needs-review");
+  assert.equal(ambiguous.meaningZh, "");
+  assert.deepEqual(ambiguous.chineseSenses, []);
+  assert.equal(ambiguous.chineseStatus, "missing");
+  assert.equal(ambiguous.meaning, "英文：copper coin");
+  assert.throws(() => vocabularyChanges(ambiguous, "enroll", rebuild([])));
+});

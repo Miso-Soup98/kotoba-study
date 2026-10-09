@@ -1,0 +1,1787 @@
+{
+  "version": "v06-20261010-r1",
+  "counts": {
+    "N5": {
+      "total": 674,
+      "chinese": 663,
+      "ready": 660
+    },
+    "N4": {
+      "total": 630,
+      "chinese": 616,
+      "ready": 589
+    },
+    "N3": {
+      "total": 1659,
+      "chinese": 1632,
+      "ready": 1604
+    },
+    "N2": {
+      "total": 1778,
+      "chinese": 1759,
+      "ready": 1734
+    },
+    "N1": {
+      "total": 3070,
+      "chinese": 3017,
+      "ready": 2961
+    }
+  },
+  "total": 7811,
+  "chinese": 7687,
+  "ready": 7548,
+  "needsReview": 263,
+  "corrections": [
+    {
+      "id": "lex:openjlpt:eac7a22620",
+      "original": {
+        "text": "いただきます",
+        "reading": "いただきます",
+        "meaningEn": [
+          "expression of gratitude before meals"
+        ],
+        "pos": [
+          "exp"
+        ]
+      },
+      "text": "いただきます",
+      "reading": "いただきます",
+      "level": "N5",
+      "originalEnglish": [
+        "expression of gratitude before meals"
+      ],
+      "meaningZh": "我开动了（饭前表达感谢的用语）",
+      "reason": "词条是饭前感恩寒暄语，原两例句却是收款和点酒时的「頂く」礼貌形，不能作为该固定寒暄语的学习例句。保留基本释义，隐藏这两例句。",
+      "removeExamples": true,
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:20cbecd474",
+      "original": {
+        "text": "好き",
+        "reading": "すき",
+        "meaningEn": [
+          "likeable"
+        ],
+        "pos": [
+          "adj-na",
+          "n"
+        ]
+      },
+      "text": "好き",
+      "reading": "すき",
+      "level": "N5",
+      "originalEnglish": [
+        "likeable"
+      ],
+      "meaningZh": "喜欢；喜爱",
+      "reason": "原英文 likeable 容易被理解为“讨人喜欢”，本词基本义是说话者喜欢、喜爱某物或某人。",
+      "meaningEnCorrected": [
+        "liking",
+        "being fond of"
+      ],
+      "posCorrected": [
+        "adj-na",
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:bf69a1d9f2",
+      "original": {
+        "text": "うかがう",
+        "reading": "うかがう",
+        "meaningEn": [
+          "to visit"
+        ],
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      "text": "うかがう",
+      "reading": "うかがう",
+      "level": "N4",
+      "originalEnglish": [
+        "to visit"
+      ],
+      "originalChinese": "【窺う】",
+      "meaningZh": "拜访；登门（「伺う」，「訪ねる／行く」的谦让表达）",
+      "reason": "原中文只指向同音词「窺う」，不对应本条to visit；按已匹配JMdict 1305700中「伺う」的拜访义订正。问询义例句不用于本条，继续隐藏待核对例句。",
+      "referenceUrls": [
+        "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1305700"
+      ],
+      "resolved": true,
+      "removeExamples": true
+    },
+    {
+      "id": "lex:openjlpt:da1a2f9721",
+      "original": {
+        "text": "うそ",
+        "reading": "うそ",
+        "meaningEn": [
+          "a lie"
+        ],
+        "pos": [
+          "n",
+          "adj-no"
+        ]
+      },
+      "text": "うそ",
+      "reading": "うそ",
+      "level": "N4",
+      "originalEnglish": [
+        "a lie"
+      ],
+      "originalChinese": "维基词典的以下詞條尚未創建提示（不是释义）",
+      "meaningZh": "谎言；谎话",
+      "reason": "原匹配拿到了词典的页面编辑提示，按JMdict 1172400「嘘」及现有英文a lie订正。",
+      "referenceUrls": [
+        "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1172400"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:89927b8fa1",
+      "original": {
+        "text": "家内",
+        "reading": "かない",
+        "meaningEn": [
+          "housewife"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "家内",
+      "reading": "かない",
+      "level": "N4",
+      "originalEnglish": [
+        "housewife"
+      ],
+      "meaningZh": "内人；我的妻子",
+      "reason": "家内（かない）在本词所指的人物义中是对外称自己的妻子，不等同于职业或家庭分工意义的 housewife。",
+      "meaningEnCorrected": [
+        "one's wife"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:8fb005254a",
+      "original": {
+        "text": "けがする",
+        "reading": "けがする",
+        "meaningEn": [
+          "to injure"
+        ],
+        "pos": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      },
+      "text": "けがする",
+      "reading": "けがする",
+      "level": "N4",
+      "originalEnglish": [
+        "to injure"
+      ],
+      "meaningZh": "受伤",
+      "reason": "けがする是“受伤”，不是使别人受伤的及物动作；英文 to injure 容易误导主客体。",
+      "meaningEnCorrected": [
+        "to get injured",
+        "to be hurt"
+      ],
+      "posCorrected": [
+        "vs-i"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:554ab81272",
+      "original": {
+        "text": "そう",
+        "reading": "そう",
+        "meaningEn": [
+          "really"
+        ],
+        "pos": [
+          "aux",
+          "adj-na"
+        ]
+      },
+      "text": "そう",
+      "reading": "そう",
+      "level": "N4",
+      "originalEnglish": [
+        "really"
+      ],
+      "meaningZh": "看起来……；似乎要……（表示样态）",
+      "reason": "该条词性与两例句「雨が降りそう」「楽しそう」均为样态助动词，原英文 really 错配了同形表达。",
+      "meaningEnCorrected": [
+        "seeming",
+        "looking like",
+        "appearing about to"
+      ],
+      "posCorrected": [
+        "aux",
+        "adj-na"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:e957aa6df9",
+      "original": {
+        "text": "済ませる",
+        "reading": "すませる",
+        "meaningEn": [
+          "to be finished"
+        ],
+        "pos": [
+          "v1",
+          "vt"
+        ]
+      },
+      "text": "済ませる",
+      "reading": "すませる",
+      "level": "N3",
+      "originalEnglish": [
+        "to be finished"
+      ],
+      "meaningZh": "把……做完；办完",
+      "reason": "済ませる是他动词，表示把事情办完；原英文 to be finished 没有保留这一结构。",
+      "meaningEnCorrected": [
+        "to finish something",
+        "to get something done"
+      ],
+      "posCorrected": [
+        "v1",
+        "vt"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:5750d76e14",
+      "original": {
+        "text": "どうか",
+        "reading": "どうか",
+        "meaningEn": [
+          "copper coin"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "どうか",
+      "reading": "どうか",
+      "level": "N3",
+      "originalEnglish": [
+        "copper coin"
+      ],
+      "originalChinese": "【銅貨】",
+      "meaningZh": "",
+      "blocked": true,
+      "removeExamples": true,
+      "reason": "来源英文copper coin和JMdict 1454350指向「銅貨」，而来源例句均为「どうか」的请／恳请义。保留原英文便于追溯，去掉仅有词形的中文占位，暂缓背诵，待确认分级词条的目标义项。",
+      "referenceUrls": [
+        "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1454350"
+      ]
+    },
+    {
+      "id": "lex:openjlpt:8ae84a079b",
+      "original": {
+        "text": "能",
+        "reading": "のう",
+        "meaningEn": [
+          "being skilled in",
+          "nicely",
+          "properly"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "能",
+      "reading": "のう",
+      "level": "N3",
+      "originalEnglish": [
+        "being skilled in",
+        "nicely",
+        "properly"
+      ],
+      "meaningZh": "能剧（日本传统舞台艺术）",
+      "reason": "原英文 nicely/properly 等与のう不符；两例句均指日本传统舞台艺术能剧，依该读音和语境订正。",
+      "meaningEnCorrected": [
+        "Noh (traditional Japanese theatre)"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E8%83%BD-111801"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:b0fe98d49c",
+      "original": {
+        "text": "陸",
+        "reading": "りく",
+        "meaningEn": [
+          "six (used in legal documents)"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "陸",
+      "reading": "りく",
+      "level": "N3",
+      "originalEnglish": [
+        "six (used in legal documents)"
+      ],
+      "meaningZh": "陆地",
+      "reason": "りく表示陆地，两例句均为陆地、靠岸语境；原英文六的大写义属于别读ロク，发生义项混配。",
+      "meaningEnCorrected": [
+        "land",
+        "dry land"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E9%99%B8-451175"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:a86f29464a",
+      "original": {
+        "text": "佚",
+        "reading": "いつ",
+        "meaningEn": [
+          "be lost",
+          "peace",
+          "hide",
+          "mistake",
+          "beautiful",
+          "in turn"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "佚",
+      "reading": "いつ",
+      "level": "N2",
+      "originalEnglish": [
+        "be lost",
+        "peace",
+        "hide",
+        "mistake",
+        "beautiful",
+        "in turn"
+      ],
+      "meaningZh": "",
+      "reason": "原英文把遗失、安逸、隐藏、错误、美丽、轮流等不同字义混列，缺少可核对词典条目和例句，不能确认其作为独立N2词汇的词形、词性和义项。暂缓，不猜译。",
+      "blocked": true
+    },
+    {
+      "id": "lex:openjlpt:61e0e71518",
+      "original": {
+        "text": "関東",
+        "reading": "かんとう",
+        "meaningEn": [
+          "eastern half of Japan",
+          "including Tokyo"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "関東",
+      "reading": "かんとう",
+      "level": "N2",
+      "originalEnglish": [
+        "eastern half of Japan",
+        "including Tokyo"
+      ],
+      "meaningZh": "关东地区（以东京为中心的日本地区）",
+      "reason": "关东是包含东京的日本地区，不等同于整个日本东半部；限定地域范围，避免把关东误记作东日本。",
+      "meaningEnCorrected": [
+        "Kanto region of Japan (including Tokyo)"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:ffd3c9c0d7",
+      "original": {
+        "text": "斬る",
+        "reading": "きる",
+        "meaningEn": [
+          "to behead",
+          "to murder"
+        ],
+        "pos": [
+          "v5r",
+          "vt"
+        ]
+      },
+      "text": "斬る",
+      "reading": "きる",
+      "level": "N2",
+      "originalEnglish": [
+        "to behead",
+        "to murder"
+      ],
+      "meaningZh": "砍；斩；用刀杀死",
+      "reason": "斬る的基本动作是用刀剑等砍、斩，原英文把它泛化成任何 murder；订正为带刀剑动作的含义。",
+      "meaningEnCorrected": [
+        "to cut down with a blade",
+        "to slay with a sword"
+      ],
+      "posCorrected": [
+        "v5r",
+        "vt"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:f52c85beb6",
+      "original": {
+        "text": "出来上がり",
+        "reading": "できあがり",
+        "meaningEn": [
+          "be finished",
+          "ready",
+          "made for",
+          "cut out"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "出来上がり",
+      "reading": "できあがり",
+      "level": "N2",
+      "originalEnglish": [
+        "be finished",
+        "ready",
+        "made for",
+        "cut out"
+      ],
+      "meaningZh": "完成；制成的成品或结果",
+      "reason": "出来上がり是完成、制成后的成品或完成情况，不是 made for/cut out（适合）的普通表达。",
+      "meaningEnCorrected": [
+        "completion",
+        "finished product",
+        "finished result"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:4570b0ab6b",
+      "original": {
+        "text": "天津",
+        "reading": "あまつ",
+        "meaningEn": [
+          "heavenly",
+          "imperial"
+        ],
+        "pos": [
+          "adj-f"
+        ]
+      },
+      "text": "天津",
+      "reading": "あまつ",
+      "level": "N1",
+      "originalEnglish": [
+        "heavenly",
+        "imperial"
+      ],
+      "meaningZh": "天上的；神圣的（古语，通常接名词）",
+      "reason": "あまつ为古语的「天つ」及相关旧写，表示天上的、神圣的；不是中国城市天津（てんしん）。保留旧词，不把它当现代常用地名。",
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E5%A4%A9%E3%81%A4-427049"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:4f60e61ae2",
+      "original": {
+        "text": "一見",
+        "reading": "いちげん",
+        "meaningEn": [
+          "unfamiliar",
+          "never before met"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "一見",
+      "reading": "いちげん",
+      "level": "N1",
+      "originalEnglish": [
+        "unfamiliar",
+        "never before met"
+      ],
+      "meaningZh": "初次见面；初次来访（常用于一見さん）",
+      "reason": "いちげん在「一見さん」中指初次来访、没有旧交的客人；不能混同“一眼看去”的いっけん。所附一見さん例句与该读音一致。",
+      "meaningEnCorrected": [
+        "first-time visitor",
+        "first meeting"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:1d578a6738",
+      "original": {
+        "text": "一定",
+        "reading": "いちじょう",
+        "meaningEn": [
+          "fixed",
+          "settled",
+          "definite",
+          "uniform",
+          "regularized",
+          "defined",
+          "standardized",
+          "certain",
+          "prescribed"
+        ],
+        "pos": [
+          "adj-nari",
+          "n"
+        ]
+      },
+      "text": "一定",
+      "reading": "いちじょう",
+      "level": "N1",
+      "originalEnglish": [
+        "fixed",
+        "settled",
+        "definite",
+        "uniform",
+        "regularized",
+        "defined",
+        "standardized",
+        "certain",
+        "prescribed"
+      ],
+      "meaningZh": "确定无疑；必定（古语读法）",
+      "reason": "いちじょう是真实古读，表示确定无疑、必定；原例句「一定の速度」「一定の期限」应读いってい，删除错配现代例句。N2已有いってい词条，故不重写本条读音和身份。",
+      "meaningEnCorrected": [
+        "certain; definite (archaic)",
+        "certainly; surely (archaic)"
+      ],
+      "posCorrected": [
+        "n",
+        "adv"
+      ],
+      "removeExamples": true,
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E4%B8%80%E5%AE%9A-433412"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:f3f408a1e8",
+      "original": {
+        "text": "末",
+        "reading": "うら",
+        "meaningEn": [
+          "top end",
+          "tip"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "末",
+      "reading": "うら",
+      "level": "N1",
+      "originalEnglish": [
+        "top end",
+        "tip"
+      ],
+      "meaningZh": "树梢；枝叶的尖端（古语）",
+      "reason": "うら是枝叶尖端、梢头的古读；不把现代常见すえ/まつ读法或粉末义混入。",
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E6%9C%AB-136437"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:5da1033412",
+      "original": {
+        "text": "会",
+        "reading": "え",
+        "meaningEn": [
+          "understanding"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "会",
+      "reading": "え",
+      "level": "N1",
+      "originalEnglish": [
+        "understanding"
+      ],
+      "meaningZh": "",
+      "reason": "え是会的音读之一，但当前原英文understanding不能据此确认为独立现代词义；所附陸上競技会应读かい且为集会义，明显错配。暂缓原条，不把它强改为已有会（かい）。",
+      "blocked": true,
+      "removeExamples": true
+    },
+    {
+      "id": "lex:openjlpt:d4517d7970",
+      "original": {
+        "text": "予言",
+        "reading": "かねごと",
+        "meaningEn": [
+          "prediction",
+          "promise",
+          "prognostication"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "予言",
+      "reading": "かねごと",
+      "level": "N1",
+      "originalEnglish": [
+        "prediction",
+        "promise",
+        "prognostication"
+      ],
+      "meaningZh": "",
+      "reason": "かねごと可见于古语词典候选与古典用例，但当前两例句未支持此古读，通常应读よげん；本轮不混并成现代词条，也不据候选填入确认中文。保留待核对。",
+      "blocked": true,
+      "removeExamples": true
+    },
+    {
+      "id": "lex:openjlpt:578447ed67",
+      "original": {
+        "text": "乾",
+        "reading": "けん",
+        "meaningEn": [
+          "heaven",
+          "emperor"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "乾",
+      "reading": "けん",
+      "level": "N1",
+      "originalEnglish": [
+        "heaven",
+        "emperor"
+      ],
+      "meaningZh": "乾卦；天；帝王（古典用语）",
+      "reason": "けん为易卦、天或帝王等古典义；两例句是「乾く／乾いて」的かわく读法，与此词头无关，删除错配例句。",
+      "removeExamples": true,
+      "referenceUrls": [
+        "https://www.kanjipedia.jp/kotoba/0001059100",
+        "https://kotobank.jp/word/%E4%B9%BE-469056"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:26bcaec009",
+      "original": {
+        "text": "事によると",
+        "reading": "ことによると",
+        "meaningEn": [
+          "depending on the circumstances"
+        ],
+        "pos": [
+          "exp"
+        ]
+      },
+      "text": "事によると",
+      "reading": "ことによると",
+      "level": "N1",
+      "originalEnglish": [
+        "depending on the circumstances"
+      ],
+      "meaningZh": "也许；说不定",
+      "reason": "事によると是“也许、说不定”的惯用表达，不能只按字面给出 depending on the circumstances。",
+      "meaningEnCorrected": [
+        "perhaps",
+        "possibly"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/jeword/%E4%BA%8B"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:fc4763325c",
+      "original": {
+        "text": "然も",
+        "reading": "さも",
+        "meaningEn": [
+          "with gusto",
+          "with satisfaction"
+        ],
+        "pos": [
+          "adv"
+        ]
+      },
+      "text": "然も",
+      "reading": "さも",
+      "level": "N1",
+      "originalEnglish": [
+        "with gusto",
+        "with satisfaction"
+      ],
+      "meaningZh": "显得确实……；好像真是……；实在",
+      "reason": "さも表示显得确实如此、仿佛真是如此；原英文 with gusto/with satisfaction 把局部搭配的感情色彩误作基本义。所附不高兴的语境也不支持 satisfaction。",
+      "meaningEnCorrected": [
+        "as if",
+        "apparently",
+        "indeed"
+      ],
+      "posCorrected": [
+        "adv"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E7%84%B6%E3%82%82-512065"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:49b24ec6dc",
+      "original": {
+        "text": "実態",
+        "reading": "じったい",
+        "meaningEn": [
+          "truth",
+          "fact"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "実態",
+      "reading": "じったい",
+      "level": "N1",
+      "originalEnglish": [
+        "truth",
+        "fact"
+      ],
+      "meaningZh": "实际状态；实情",
+      "reason": "実態指实际状态、实际情况；用 actual state/actual circumstances 区别抽象的 truth。",
+      "meaningEnCorrected": [
+        "actual state",
+        "actual circumstances"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:ddff5ba694",
+      "original": {
+        "text": "修士",
+        "reading": "しゅうし",
+        "meaningEn": [
+          "Masters degree program"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "修士",
+      "reading": "しゅうし",
+      "level": "N1",
+      "originalEnglish": [
+        "Masters degree program"
+      ],
+      "meaningZh": "硕士；硕士学位",
+      "reason": "修士表示硕士或硕士学位；完整的硕士课程通常为修士課程，不把 program 固定为本词唯一义。",
+      "meaningEnCorrected": [
+        "master's degree",
+        "holder of a master's degree"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:c261df67ce",
+      "original": {
+        "text": "徐々",
+        "reading": "じょじょ",
+        "meaningEn": [
+          "gradually",
+          "steadily",
+          "quietly",
+          "slowly",
+          "soon"
+        ],
+        "pos": [
+          "adj-t",
+          "adv-to"
+        ]
+      },
+      "text": "徐々",
+      "reading": "じょじょ",
+      "level": "N1",
+      "originalEnglish": [
+        "gradually",
+        "steadily",
+        "quietly",
+        "slowly",
+        "soon"
+      ],
+      "meaningZh": "逐渐；缓缓（常用徐々に）",
+      "reason": "徐々（通常徐々に）为逐渐，不是 soon。例句88711的「態度がでかくなった」表示变得傲慢，英文getting better错译；本覆盖层保守隐藏原例句组，避免保留错误对照。",
+      "meaningEnCorrected": [
+        "gradually",
+        "little by little"
+      ],
+      "removeExamples": true,
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:f71c5d995e",
+      "original": {
+        "text": "天皇",
+        "reading": "すめらぎ",
+        "meaningEn": [
+          "Emperor of Japan"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "天皇",
+      "reading": "すめらぎ",
+      "level": "N1",
+      "originalEnglish": [
+        "Emperor of Japan"
+      ],
+      "meaningZh": "天皇（すめらぎ为古雅称法）",
+      "reason": "すめらぎ为古雅称法，与现代文章通常使用的てんのう不同；所附现代政治说明句未证明使用古读，隐藏例句以免读音误导。保留词头和古语提示，不把它改成另一张卡。",
+      "removeExamples": true,
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:5c66cff518",
+      "original": {
+        "text": "擦れ違い",
+        "reading": "すれちがい",
+        "meaningEn": [
+          "chance encounter"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "擦れ違い",
+      "reading": "すれちがい",
+      "level": "N1",
+      "originalEnglish": [
+        "chance encounter"
+      ],
+      "meaningZh": "擦肩而过；彼此错过；沟通错位",
+      "reason": "基本义是擦肩而过、彼此错过，亦指交流错位；chance encounter 单独作为释义会把“错过”误作“偶遇”。",
+      "meaningEnCorrected": [
+        "passing each other",
+        "missing each other",
+        "failure to connect"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:8ee5c7c8db",
+      "original": {
+        "text": "立方",
+        "reading": "たちかた",
+        "meaningEn": [
+          "dancing (geisha)"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "立方",
+      "reading": "たちかた",
+      "level": "N1",
+      "originalEnglish": [
+        "dancing (geisha)"
+      ],
+      "meaningZh": "舞者；舞台表演者（日本舞蹈、能乐等）",
+      "reason": "たちかた是日本舞蹈、能乐等的舞者或表演者，不是表示立方的りっぽう；原英文 dancing 改为指人的 dancer。",
+      "meaningEnCorrected": [
+        "dancer in a Japanese dance performance",
+        "stage performer"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E7%AB%8B%E6%96%B9-560925"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:8ddba4675b",
+      "original": {
+        "text": "給う",
+        "reading": "たまう",
+        "meaningEn": [
+          "to receive",
+          "to grant"
+        ],
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      "text": "給う",
+      "reading": "たまう",
+      "level": "N1",
+      "originalEnglish": [
+        "to receive",
+        "to grant"
+      ],
+      "meaningZh": "赐予（文语尊敬语）；接动词后表示尊敬",
+      "reason": "たまう在该词及例句中是给予的文语尊敬语或尊敬补助动词；to receive 会混淆给予和领受，予以删去。",
+      "meaningEnCorrected": [
+        "to give (literary honorific)",
+        "to do (honorific auxiliary)"
+      ],
+      "posCorrected": [
+        "v5u",
+        "vt"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E8%B3%9C%E3%81%86-562678"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:8814988b80",
+      "original": {
+        "text": "中腹",
+        "reading": "ちゅうっぱら",
+        "meaningEn": [
+          "irritated",
+          "offended"
+        ],
+        "pos": []
+      },
+      "text": "中腹",
+      "reading": "ちゅうっぱら",
+      "level": "N1",
+      "originalEnglish": [
+        "irritated",
+        "offended"
+      ],
+      "meaningZh": "憋着一肚子气；心中的怒气（旧语）",
+      "reason": "ちゅうっぱら为旧语，表示憋着怒气等；原例句说山腰，实际为ちゅうふく。按词典保留可确认的旧义并删除错配例句，不暗改词头到另一个读音。",
+      "removeExamples": true,
+      "posCorrected": [
+        "n",
+        "adj-na"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E4%B8%AD%E8%85%B9-567823"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:8ba1e58b80",
+      "original": {
+        "text": "銃",
+        "reading": "つつ",
+        "meaningEn": [
+          "gun"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "銃",
+      "reading": "つつ",
+      "level": "N1",
+      "originalEnglish": [
+        "gun"
+      ],
+      "meaningZh": "枪；火枪（つつ为旧称）",
+      "reason": "つつ是枪的旧称，原现代枪械例句未标明此旧读，容易让人把日常じゅう读错；保留旧称提示并隐藏这些例句。",
+      "removeExamples": true,
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:e1ea2bb61d",
+      "original": {
+        "text": "出直し",
+        "reading": "でなおし",
+        "meaningEn": [
+          "adjustment",
+          "touch up"
+        ],
+        "pos": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      "text": "出直し",
+      "reading": "でなおし",
+      "level": "N1",
+      "originalEnglish": [
+        "adjustment",
+        "touch up"
+      ],
+      "meaningZh": "重来；重新开始；改日再来",
+      "reason": "出直し为重新开始、重做或改日再来，所附两句也分别为重来和明天再来；adjustment/touch up 错配为局部修整。",
+      "meaningEnCorrected": [
+        "making a fresh start",
+        "starting over",
+        "coming again"
+      ],
+      "posCorrected": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:02783d9713",
+      "original": {
+        "text": "丁々",
+        "reading": "とうとう",
+        "meaningEn": [
+          "clashing of swords",
+          "felling of trees",
+          "ringing of an ax"
+        ],
+        "pos": [
+          "adv-to",
+          "adj-t"
+        ]
+      },
+      "text": "丁々",
+      "reading": "とうとう",
+      "level": "N1",
+      "originalEnglish": [
+        "clashing of swords",
+        "felling of trees",
+        "ringing of an ax"
+      ],
+      "meaningZh": "咚咚；斧头砍树或敲击时的声音（书面语）",
+      "reason": "とうとう为砍伐、敲击等声音的书面拟声表达；明确其罕见书面语性质，避免和“终于”的とうとう混淆。",
+      "meaningEnCorrected": [
+        "with a chopping sound",
+        "with a thumping sound"
+      ],
+      "referenceUrls": [
+        "https://yamanishi.webpage21a.jp/files/20130626154117.pdf"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:4ec7fe1166",
+      "original": {
+        "text": "何々",
+        "reading": "どれどれ",
+        "meaningEn": [
+          "which (emphatic)"
+        ],
+        "pos": []
+      },
+      "text": "何々",
+      "reading": "どれどれ",
+      "level": "N1",
+      "originalEnglish": [
+        "which (emphatic)"
+      ],
+      "meaningZh": "哪个；哪些（强调询问）；让我看看",
+      "reason": "原表记何々通常令人读成なになに，与本条どれどれ和which义冲突。词典可确认的是どれどれ／何れ何れ，改成明确的假名显示，保留原ID与读音。",
+      "textCorrected": "どれどれ",
+      "meaningEnCorrected": [
+        "which (emphatic)",
+        "let me see"
+      ],
+      "posCorrected": [
+        "pn",
+        "int"
+      ],
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E4%BD%95%E3%82%8C%E4%BD%95%E3%82%8C-586355"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:a8b71cab9b",
+      "original": {
+        "text": "捻じれる",
+        "reading": "ねじれる",
+        "meaningEn": [
+          "to twist",
+          "to wrench",
+          "to screw"
+        ],
+        "pos": [
+          "v1",
+          "vi"
+        ]
+      },
+      "text": "捻じれる",
+      "reading": "ねじれる",
+      "level": "N1",
+      "originalEnglish": [
+        "to twist",
+        "to wrench",
+        "to screw"
+      ],
+      "meaningZh": "扭曲；发生扭转",
+      "reason": "捻じれる为自动词，表示自身发生扭曲；to wrench/to screw 容易误导为主动拧转另一物，改用自动态释义。",
+      "meaningEnCorrected": [
+        "to become twisted",
+        "to be distorted"
+      ],
+      "posCorrected": [
+        "v1",
+        "vi"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:21d892acef",
+      "original": {
+        "text": "番目",
+        "reading": "ばんめ",
+        "meaningEn": [
+          "cardinal number suffix"
+        ],
+        "pos": [
+          "ctr"
+        ]
+      },
+      "text": "番目",
+      "reading": "ばんめ",
+      "level": "N1",
+      "originalEnglish": [
+        "cardinal number suffix"
+      ],
+      "meaningZh": "第……个（接在数词后表示顺序）",
+      "reason": "接在数词后表示第几个，是序数ordinal，不是基数cardinal。两例句分别为第三颗星、第八颗行星。",
+      "meaningEnCorrected": [
+        "ordinal-number suffix (the nth)"
+      ],
+      "posCorrected": [
+        "suf"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:ad9000928d",
+      "original": {
+        "text": "震わせる",
+        "reading": "ふるわせる",
+        "meaningEn": [
+          "to be shaking",
+          "to be trembling"
+        ],
+        "pos": [
+          "v1",
+          "vt"
+        ]
+      },
+      "text": "震わせる",
+      "reading": "ふるわせる",
+      "level": "N1",
+      "originalEnglish": [
+        "to be shaking",
+        "to be trembling"
+      ],
+      "meaningZh": "使……震动；使……发抖",
+      "reason": "震わせる保留使某部位、物体震动的他动结构，如声を／体を震わせる；原英文 to be shaking 易与震える混淆。",
+      "meaningEnCorrected": [
+        "to make something tremble",
+        "to shake something"
+      ],
+      "posCorrected": [
+        "v1",
+        "vt"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:e482d02cda",
+      "original": {
+        "text": "本格",
+        "reading": "ほんかく",
+        "meaningEn": [
+          "propriety",
+          "fundamental rules"
+        ],
+        "pos": [
+          "n",
+          "adj-f"
+        ]
+      },
+      "text": "本格",
+      "reading": "ほんかく",
+      "level": "N1",
+      "originalEnglish": [
+        "propriety",
+        "fundamental rules"
+      ],
+      "meaningZh": "本来的格式；正式的规模或样式",
+      "reason": "本格指本来的规范、正式的样式或规模；propriety 容易误作礼貌得体，将英文限定为本来方式/正式样式。",
+      "meaningEnCorrected": [
+        "original or proper form",
+        "genuine way of doing something"
+      ],
+      "posCorrected": [
+        "n",
+        "adj-f"
+      ],
+      "resolved": true
+    },
+    {
+      "id": "lex:openjlpt:fa2a840942",
+      "original": {
+        "text": "まとめ",
+        "reading": "まとめ",
+        "meaningEn": [
+          "settlement",
+          "conclusion"
+        ],
+        "pos": [
+          "n"
+        ]
+      },
+      "text": "まとめ",
+      "reading": "まとめ",
+      "level": "N1",
+      "originalEnglish": [
+        "settlement",
+        "conclusion"
+      ],
+      "meaningZh": "归纳；总结；汇总",
+      "reason": "まとめ为归纳、汇总、总结；只给settlement/conclusion容易理解为解决争端或单纯结局。",
+      "meaningEnCorrected": [
+        "summary",
+        "bringing together",
+        "consolidation"
+      ],
+      "posCorrected": [
+        "n"
+      ],
+      "resolved": true
+    }
+  ],
+  "files": [
+    {
+      "name": "N5-001.json",
+      "count": 100,
+      "bytes": 102578,
+      "sha256": "4d8009114ae5b7611b1de43a5eee41cba93095a2ee1acbf70fceca13d673af9f"
+    },
+    {
+      "name": "N5-002.json",
+      "count": 100,
+      "bytes": 99008,
+      "sha256": "70f0c2bb4fd416e8f7427958d81d38952b9d5c7f9bd6e850d4e1e9a578f9b4bb"
+    },
+    {
+      "name": "N5-003.json",
+      "count": 100,
+      "bytes": 100054,
+      "sha256": "956f0fd9b37d02aeaf784a809eacc6b5c0ab20e889e119f8ec385aec6b418416"
+    },
+    {
+      "name": "N5-004.json",
+      "count": 100,
+      "bytes": 102197,
+      "sha256": "943d49538be4d12c0b2f9ec49d57f6eaabebd3ec5b89c828ad9cdd26d07a8eba"
+    },
+    {
+      "name": "N5-005.json",
+      "count": 100,
+      "bytes": 96907,
+      "sha256": "c30a613771cd43a42284cbbcc67ee0c4a104a76cfd0cb5e25f563e62cc6214ff"
+    },
+    {
+      "name": "N5-006.json",
+      "count": 100,
+      "bytes": 103420,
+      "sha256": "0bb57f9a94f380a6d830dfa523320327784762995889ed57c5e6b99d0f598cca"
+    },
+    {
+      "name": "N5-007.json",
+      "count": 74,
+      "bytes": 83090,
+      "sha256": "e1079c79b606f599fcd8fb8edf96199b4bda1ed41e26b75c6d1b64f3d8c09c39"
+    },
+    {
+      "name": "N4-001.json",
+      "count": 100,
+      "bytes": 96395,
+      "sha256": "009b610d2c57cddb862c592e1274f2e32345255fa0c6b08288c9869b4af645b9"
+    },
+    {
+      "name": "N4-002.json",
+      "count": 100,
+      "bytes": 97746,
+      "sha256": "aa79e2f63597089e3a5a4a7cbc82bc2540a4441f8b1a5219fca4c5a912d2c02f"
+    },
+    {
+      "name": "N4-003.json",
+      "count": 100,
+      "bytes": 89702,
+      "sha256": "f0fd0d73e091d7ce32c16ea17c9cd9aaaa59715200ba2cd3c2a90738957fa066"
+    },
+    {
+      "name": "N4-004.json",
+      "count": 100,
+      "bytes": 94748,
+      "sha256": "8b3c47cc3a97541ec10ce42c9c6bbc6ab6a101cf9f2af500907930495492a809"
+    },
+    {
+      "name": "N4-005.json",
+      "count": 100,
+      "bytes": 104282,
+      "sha256": "3e4b9cdbac7cb9138b8aa937a7009c06aa11d5aefbc65427b21c6594c28d4b61"
+    },
+    {
+      "name": "N4-006.json",
+      "count": 100,
+      "bytes": 102168,
+      "sha256": "4cefd5c3ba6f4a56dd1b6221a0e10523d3a26668a6139069c5653ecbab336668"
+    },
+    {
+      "name": "N4-007.json",
+      "count": 30,
+      "bytes": 29615,
+      "sha256": "135fbe49be6dd71b96e4e7ce0ec99d0c510e9b2b8e70f1938876a143f7f60b1f"
+    },
+    {
+      "name": "N3-001.json",
+      "count": 100,
+      "bytes": 86452,
+      "sha256": "f05da5fd8382ca24eff6707a849eddd188c94c72f3768fe5c319b878686a0afc"
+    },
+    {
+      "name": "N3-002.json",
+      "count": 100,
+      "bytes": 87835,
+      "sha256": "32ba92a1a9523050f9da36c2231cb0373a92182ee1c646c95323e80a2f564299"
+    },
+    {
+      "name": "N3-003.json",
+      "count": 100,
+      "bytes": 92261,
+      "sha256": "5c4a108a3fdd676ad8ec9f578c68f2e5fb2d4faecd5204855a57697817e09662"
+    },
+    {
+      "name": "N3-004.json",
+      "count": 100,
+      "bytes": 87045,
+      "sha256": "f21217149f31180e3155ed8c40aed4a9cc72b790c5971299dae3f2f9b21b307a"
+    },
+    {
+      "name": "N3-005.json",
+      "count": 100,
+      "bytes": 89521,
+      "sha256": "0e1966077a952b9a8f5e1012fbcf7eb7560724f9133dae2cd369b59a041c70a0"
+    },
+    {
+      "name": "N3-006.json",
+      "count": 100,
+      "bytes": 90954,
+      "sha256": "7d45ad998269d520b26058a3d4589aab26caf176804bcfb29a9cf8ff3dd94c56"
+    },
+    {
+      "name": "N3-007.json",
+      "count": 100,
+      "bytes": 88514,
+      "sha256": "0d8822dc3e5782d3e9058b3a15e5dec010eb9b0468fd8d661fd0c2168d2b0f74"
+    },
+    {
+      "name": "N3-008.json",
+      "count": 100,
+      "bytes": 87131,
+      "sha256": "b906dceae0f061c2e5541cd0c47fabd022cd427ca3d73e66852856bc6e464e4b"
+    },
+    {
+      "name": "N3-009.json",
+      "count": 100,
+      "bytes": 85854,
+      "sha256": "1a832380aae21473e7c9ba495e1721b6b7dbd8a87505262c144c14a26d19208a"
+    },
+    {
+      "name": "N3-010.json",
+      "count": 100,
+      "bytes": 92096,
+      "sha256": "5985d6355029b906a1ec6225196e7803ca1aea05072f8f8c06a547fdef57a8dd"
+    },
+    {
+      "name": "N3-011.json",
+      "count": 100,
+      "bytes": 90892,
+      "sha256": "a44534a7bfd7ade3714d7c48d8c38e3615e32ee021a0838495a2f6b5f68f4ebd"
+    },
+    {
+      "name": "N3-012.json",
+      "count": 100,
+      "bytes": 92977,
+      "sha256": "e0674c90f9f653233abb5044534c8250a63e4e3ac56e298c20a13389c7393b68"
+    },
+    {
+      "name": "N3-013.json",
+      "count": 100,
+      "bytes": 93297,
+      "sha256": "5532cd6106c312f413bf373f04b71be786def8979e983db02837fec6aee68e46"
+    },
+    {
+      "name": "N3-014.json",
+      "count": 100,
+      "bytes": 90793,
+      "sha256": "1d9a13e8c89e73774cdb57b33761c969c08532ff6927dd5346b12cee954029f2"
+    },
+    {
+      "name": "N3-015.json",
+      "count": 100,
+      "bytes": 86223,
+      "sha256": "be76ec1a3a49e3a1da9fa52a400beb813ddf4df8d53d6dab5c87b374be0e39de"
+    },
+    {
+      "name": "N3-016.json",
+      "count": 100,
+      "bytes": 90445,
+      "sha256": "369eec6b7b6abf0e506892bc408b6702517010562162cb3e1c8c1595ba72808e"
+    },
+    {
+      "name": "N3-017.json",
+      "count": 59,
+      "bytes": 53045,
+      "sha256": "4190a21daf4047ef061e11d7b99849c3eaa0c85f767d1c2f592635e4e53c0de2"
+    },
+    {
+      "name": "N2-001.json",
+      "count": 100,
+      "bytes": 99345,
+      "sha256": "c0c833c249bdecb33d0f5e9960cb28911c5fb03de1f5470adcf6fbe2c619f9fb"
+    },
+    {
+      "name": "N2-002.json",
+      "count": 100,
+      "bytes": 88723,
+      "sha256": "6038b59ba420fcf68a28581a4a679f2524e232caebece15b4b0aaf1e45c81bab"
+    },
+    {
+      "name": "N2-003.json",
+      "count": 100,
+      "bytes": 90750,
+      "sha256": "93f76dcfb5f85b234467aa188cc466bf35bddb5a92fc8fc0899c3419bbbf9ead"
+    },
+    {
+      "name": "N2-004.json",
+      "count": 100,
+      "bytes": 86811,
+      "sha256": "9232ac9ef959ddcddc995c3bed6a714f13ab82f909fb6f90357c65162f42e6df"
+    },
+    {
+      "name": "N2-005.json",
+      "count": 100,
+      "bytes": 95339,
+      "sha256": "c690adcea40ed71d5e6175aa428c7635f6aee328b685dd3720bab55891ea0f42"
+    },
+    {
+      "name": "N2-006.json",
+      "count": 100,
+      "bytes": 89922,
+      "sha256": "d3a0836324b71d91a79dcba9ea17d45a78c76237874ff2eefe3ca92054fbf771"
+    },
+    {
+      "name": "N2-007.json",
+      "count": 100,
+      "bytes": 85854,
+      "sha256": "c90480a9781c73d9993bb2d9c71036f4ea4097d1fb90f42ae3a188a870c4e184"
+    },
+    {
+      "name": "N2-008.json",
+      "count": 100,
+      "bytes": 83425,
+      "sha256": "2ba61ea5d2575cccaea665f21b6be426a72ac49fc228134b5c33a0e0c25c7aeb"
+    },
+    {
+      "name": "N2-009.json",
+      "count": 100,
+      "bytes": 93306,
+      "sha256": "c185b84cd3ce3188ed56369f5918d24770a20dae3aad50a50530a55e667df0d8"
+    },
+    {
+      "name": "N2-010.json",
+      "count": 100,
+      "bytes": 86954,
+      "sha256": "f235428485815dc1dfbac79e2d2dd8292adf4ce21414e6d54d95dfd957916f93"
+    },
+    {
+      "name": "N2-011.json",
+      "count": 100,
+      "bytes": 87859,
+      "sha256": "7fc7f4c1d688b5cdbacc497b44de95f550e3fdd9f947ca53c990c13be29a6597"
+    },
+    {
+      "name": "N2-012.json",
+      "count": 100,
+      "bytes": 90658,
+      "sha256": "1689f83f9e52030cc2a507ac4eb605cfc753a44aae96138cdc379d3f12768888"
+    },
+    {
+      "name": "N2-013.json",
+      "count": 100,
+      "bytes": 91017,
+      "sha256": "8bf59ced451a6ab6fc85a523c796ec6e286d9ae4065d9461e0732a29d30ab649"
+    },
+    {
+      "name": "N2-014.json",
+      "count": 100,
+      "bytes": 97974,
+      "sha256": "6fd3550c56484c301981523923fa862e47534c19dae776e4e4dc5fbdfecc9317"
+    },
+    {
+      "name": "N2-015.json",
+      "count": 100,
+      "bytes": 86738,
+      "sha256": "db3fef0911926e811af7c6d478a0510856748ddf79569c3647153468234e1968"
+    },
+    {
+      "name": "N2-016.json",
+      "count": 100,
+      "bytes": 90293,
+      "sha256": "aba5c32e6a8d6c042a70e7561895e48874b8a6bf8ccd4071f4cd4993251f16c1"
+    },
+    {
+      "name": "N2-017.json",
+      "count": 100,
+      "bytes": 94594,
+      "sha256": "10aed005aae56c44d652ea078d1d47182b2373f3c2c39e56727680c23a8ed922"
+    },
+    {
+      "name": "N2-018.json",
+      "count": 78,
+      "bytes": 64841,
+      "sha256": "d32b2a44b06f9668fdbc331f71abe108a0632d89622c7e8b1833bda2403ce4de"
+    },
+    {
+      "name": "N1-001.json",
+      "count": 100,
+      "bytes": 91069,
+      "sha256": "109c31feae3e8853012036f6db7c7ca9013c028bbe06081e2243429b75f57d15"
+    },
+    {
+      "name": "N1-002.json",
+      "count": 100,
+      "bytes": 82471,
+      "sha256": "54a32503edaa23d618ce4f694ebb08c0344cbd3c965853a9bfe3b3f77ec68c7d"
+    },
+    {
+      "name": "N1-003.json",
+      "count": 100,
+      "bytes": 85865,
+      "sha256": "def9eb19765d60f4ac318f5b63441013648c5d962679c7b96ea8f744df30282d"
+    },
+    {
+      "name": "N1-004.json",
+      "count": 100,
+      "bytes": 85787,
+      "sha256": "2f933f7bb5888020298cc5b0cc4f857dcf25d789d44d42f1f425ea4f9804c461"
+    },
+    {
+      "name": "N1-005.json",
+      "count": 100,
+      "bytes": 88259,
+      "sha256": "2f6befe6c8ac1ee3a77bdb7d8c8cc688c9e429ed8b93e5905575cfb08b12f4c0"
+    },
+    {
+      "name": "N1-006.json",
+      "count": 100,
+      "bytes": 80802,
+      "sha256": "2878b32a59565bc4acdb05bad17e4772d90aa638f9aeb94bbfdb38dcf4e05e79"
+    },
+    {
+      "name": "N1-007.json",
+      "count": 100,
+      "bytes": 81667,
+      "sha256": "f7aef2db2bb7e48e4d47a148d75f513587f6ee88e9344baa166e68a0506235cd"
+    },
+    {
+      "name": "N1-008.json",
+      "count": 100,
+      "bytes": 88602,
+      "sha256": "dfdb4604ba4f6477356e18b78e153e6f5f183cbc334591bc60df2f7317edfeb9"
+    },
+    {
+      "name": "N1-009.json",
+      "count": 100,
+      "bytes": 81288,
+      "sha256": "d76a633a493828fca262bcf79dbae7b808f68eb2e0efee12f94268661e18f6c2"
+    },
+    {
+      "name": "N1-010.json",
+      "count": 100,
+      "bytes": 82519,
+      "sha256": "63e71815dae7ef29010264429aa554d6f40c9e53364acdbe11685b09c355a44a"
+    },
+    {
+      "name": "N1-011.json",
+      "count": 100,
+      "bytes": 85477,
+      "sha256": "775ba7a6249873e2edb269a03915d55e1be1d1e5daf25ddc3efc4eecca0dfc29"
+    },
+    {
+      "name": "N1-012.json",
+      "count": 100,
+      "bytes": 84859,
+      "sha256": "00c368be2ca51588fd606ee8bf1876cea1148b3ed95c31ebcfa0bd41af8ac840"
+    },
+    {
+      "name": "N1-013.json",
+      "count": 100,
+      "bytes": 82418,
+      "sha256": "ec672dee38ecf6e34bb592751140513efa3873b0b047a2b92d698ef7de82f068"
+    },
+    {
+      "name": "N1-014.json",
+      "count": 100,
+      "bytes": 80948,
+      "sha256": "090906a20a56aa2c5856bf02641c94cbf0bfd08b86beea55fd65531cab6de2f1"
+    },
+    {
+      "name": "N1-015.json",
+      "count": 100,
+      "bytes": 85507,
+      "sha256": "8df9cd0e72c2bdb617a3110e698b26bc75b68c49a3bbb6f1cf8aa13b0743e7f5"
+    },
+    {
+      "name": "N1-016.json",
+      "count": 100,
+      "bytes": 79494,
+      "sha256": "443d603539a6238253967f3ed4b7c7ab24c635e76e45e072f20ae02a2271c274"
+    },
+    {
+      "name": "N1-017.json",
+      "count": 100,
+      "bytes": 84260,
+      "sha256": "dc81788fc5189d33aa3058500dc48b6b6655d4993ca8f67f57076f7268d6a81b"
+    },
+    {
+      "name": "N1-018.json",
+      "count": 100,
+      "bytes": 85948,
+      "sha256": "49964d6462693d3c1992c0e30c744b5c9bafc07ffba8410d37dadca939cc29bb"
+    },
+    {
+      "name": "N1-019.json",
+      "count": 100,
+      "bytes": 86934,
+      "sha256": "b3be18f20a10873a7ea0795b251921f1d4886c0aa99a8f8d9a25c4d82352eebf"
+    },
+    {
+      "name": "N1-020.json",
+      "count": 100,
+      "bytes": 83986,
+      "sha256": "976df9fe6250e6b147f65de1de92a5a48c45691b185bd3590df79c9f530a557c"
+    },
+    {
+      "name": "N1-021.json",
+      "count": 100,
+      "bytes": 85097,
+      "sha256": "2782452a139d38a270331aa542cfd60067d1e4652b90f5112d6d3114bbeb3127"
+    },
+    {
+      "name": "N1-022.json",
+      "count": 100,
+      "bytes": 96112,
+      "sha256": "5e2fbc9843ae057b2afd06f467c0fd7c78cd2cfb597d8b0e699f08023af2918c"
+    },
+    {
+      "name": "N1-023.json",
+      "count": 100,
+      "bytes": 85544,
+      "sha256": "06389a937e1af0190c0c4bc4966c07b4757fd38c043ad039713175d6b89f3c4a"
+    },
+    {
+      "name": "N1-024.json",
+      "count": 100,
+      "bytes": 91692,
+      "sha256": "5765652fc14f921dded31a60779e81e3d65b4c7ca914c94baa197b0058513630"
+    },
+    {
+      "name": "N1-025.json",
+      "count": 100,
+      "bytes": 86595,
+      "sha256": "aafc7f8c8c40e646db51c46e5b978cecd086bd005988b01c087d62be52059291"
+    },
+    {
+      "name": "N1-026.json",
+      "count": 100,
+      "bytes": 81521,
+      "sha256": "4246a3ebe17296636ffdb5f9c566f00d5842ce17b4719b13fbadb662d0fd4287"
+    },
+    {
+      "name": "N1-027.json",
+      "count": 100,
+      "bytes": 80860,
+      "sha256": "90d33ae1dcb3879fd43cfd780b38ca6f6bca346e631d51541b2c2ac015dea824"
+    },
+    {
+      "name": "N1-028.json",
+      "count": 100,
+      "bytes": 86056,
+      "sha256": "6e5d683c5ed6604ddffc01c144974399820b0b488321bfd3a2668e9b38237c70"
+    },
+    {
+      "name": "N1-029.json",
+      "count": 100,
+      "bytes": 86324,
+      "sha256": "15a4225a34425da51441f4f739e1b9f43676f053d7953af59bc0ef60c896191b"
+    },
+    {
+      "name": "N1-030.json",
+      "count": 100,
+      "bytes": 82060,
+      "sha256": "13111e20808f4570b0275c58ded985e2d1d5103df9c3828b2edc08e7b98daed1"
+    },
+    {
+      "name": "N1-031.json",
+      "count": 70,
+      "bytes": 59139,
+      "sha256": "117c597a4bbf474bf2f26ae301084ca02896adccb56a60333cec52544009c60e"
+    }
+  ]
+}
