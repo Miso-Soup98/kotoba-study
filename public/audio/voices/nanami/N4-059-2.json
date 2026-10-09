@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-059",
+  "exampleIndex": 1,
+  "text": "宿題を終えた後で、映画を見ました。",
+  "speechText": "宿題を終えた後で、映画を見ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 84,
+  "signature": "a3598263c55de24c8253d576aedc488621ddefe7102233f9c5a28f505b09dce0",
+  "src": "/audio/voices/nanami/N4-059-2.mp3",
+  "srt": "/audio/voices/nanami/N4-059-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "43dfb12ea75771419d7c129b93c83d341b814a69ded7b44f950b54d3b48e3930",
+  "peakPcm": 22220,
+  "rmsDbfs": -16.85,
+  "rate": "+0%",
+  "listened": false
+}

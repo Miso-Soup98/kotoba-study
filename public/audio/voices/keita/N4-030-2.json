@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-030",
+  "exampleIndex": 1,
+  "text": "雨も降っているし、今日は出かけません。",
+  "speechText": "雨も降っているし、今日は出かけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 69,
+  "signature": "325ebbe0f200c47464fa7d50b0e5af860df396cdd1e0143b9db26f1ded9e4214",
+  "src": "/audio/voices/keita/N4-030-2.mp3",
+  "srt": "/audio/voices/keita/N4-030-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "3000a2fdd40da23d90cf3451b7d171120fd5766947ef159b8c1d28d193432d82",
+  "peakPcm": 23715,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

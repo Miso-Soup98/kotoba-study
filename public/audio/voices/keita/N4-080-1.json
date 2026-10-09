@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-080",
+  "exampleIndex": 0,
+  "text": "疲れているなら、少し休んだらどうですか。",
+  "speechText": "疲れているなら、少し休んだらどうですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 94,
+  "signature": "b1e6228dc9a1375d580f88e0c1b1ee129cd5efed49aa4af56d6527f7d3a1b560",
+  "src": "/audio/voices/keita/N4-080-1.mp3",
+  "srt": "/audio/voices/keita/N4-080-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "2e54a49c7645b5e7d6b053f030c9fdb261a5e52be715502ef34eafa164c1ca64",
+  "peakPcm": 23848,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

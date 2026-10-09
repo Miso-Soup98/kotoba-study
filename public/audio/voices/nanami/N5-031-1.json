@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-031",
+  "exampleIndex": 0,
+  "text": "一緒に昼ご飯を食べませんか。",
+  "speechText": "一緒に昼ご飯を食べませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 25,
+  "signature": "9d70d7d7b46b58f78f9fb2efb0d5c1fd5338119dc54dd3762a21883a009c0140",
+  "src": "/audio/voices/nanami/N5-031-1.mp3",
+  "srt": "/audio/voices/nanami/N5-031-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "c0ccfe31e3b2db143845f3e36a2cae8bda13fd45a6c239e4004dffb1873473bf",
+  "peakPcm": 19203,
+  "rmsDbfs": -18.59,
+  "rate": "+0%",
+  "listened": false
+}

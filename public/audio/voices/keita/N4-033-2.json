@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-033",
+  "exampleIndex": 1,
+  "text": "あの店は有名だそうです。",
+  "speechText": "あの店は有名だそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 71,
+  "signature": "6efce3365b822b1e4b70577c388658cfbf5d220d071b8b6ca997b434f8ef7f64",
+  "src": "/audio/voices/keita/N4-033-2.mp3",
+  "srt": "/audio/voices/keita/N4-033-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "8f9472753dbf23af42c103e2757337ce058f7837cc568dfb02b8df65cc5b479a",
+  "peakPcm": 21224,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

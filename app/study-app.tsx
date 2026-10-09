@@ -246,6 +246,7 @@ export default function StudyApp({
     .filter(
       ([id, s]) =>
         s.enrolled &&
+        model.vocabularyWords[id]?.learningStatus !== "needs-review" &&
         s.card.due.getTime() <= tick &&
         (byId.has(id) || wordById.has(id) || !!model.listeningCards[id]),
     )

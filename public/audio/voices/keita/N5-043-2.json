@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-043",
+  "exampleIndex": 1,
+  "text": "授業が終わってから、買い物に行きます。",
+  "speechText": "授業が終わってから、買い物に行きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 31,
+  "signature": "7a94bb33b96086585c4d240abdb1d18494be358d548d1f2f86c455d1d76ce101",
+  "src": "/audio/voices/keita/N5-043-2.mp3",
+  "srt": "/audio/voices/keita/N5-043-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "c3aa76e0f39ccd3ee736ca9149b58f63f7915fba7169fc7065be0133f1de628a",
+  "peakPcm": 22401,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

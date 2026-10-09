@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-117",
+  "exampleIndex": 1,
+  "text": "今度こそ勝ってやる。",
+  "speechText": "今度こそ勝ってやる。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 113,
+  "signature": "e3e2015507adb98d173ef09e65257b97c2424582679e7c031ef8ed8d0ddae47a",
+  "src": "/audio/voices/nanami/N4-117-2.mp3",
+  "srt": "/audio/voices/nanami/N4-117-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "9d936d1669d974a8683f68f1bd63d76c278b6ee9f18f3426a9de6c79dc7081de",
+  "peakPcm": 21668,
+  "rmsDbfs": -19.46,
+  "rate": "+0%",
+  "listened": false
+}

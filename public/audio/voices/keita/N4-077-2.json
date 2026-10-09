@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-077",
+  "exampleIndex": 1,
+  "text": "鳥のように空を飛びたいです。",
+  "speechText": "鳥のように空を飛びたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 93,
+  "signature": "f0c0f822b8f346cd81fea243b26fe300aff0b63fbb9411c0089bbb3126caa8b8",
+  "src": "/audio/voices/keita/N4-077-2.mp3",
+  "srt": "/audio/voices/keita/N4-077-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "b4e13009513d6691da88b7d4bb59d7dce1fe04a79f6d4fcf7a8b98d5a6728680",
+  "peakPcm": 23552,
+  "rmsDbfs": -20.37,
+  "rate": "+0%",
+  "listened": false
+}

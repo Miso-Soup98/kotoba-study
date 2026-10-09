@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-075",
+  "exampleIndex": 0,
+  "text": "友達と一緒に勉強します。",
+  "speechText": "友達と一緒に勉強します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 47,
+  "signature": "8864e6fa2b95686ded3d5501d3abd08041e4dd62eba6f66171cedff452963805",
+  "src": "/audio/voices/keita/N5-075-1.mp3",
+  "srt": "/audio/voices/keita/N5-075-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "4ff9d777e90f7b11415e21309461d72a7057724ba7e357859084206559b6cf68",
+  "peakPcm": 23707,
+  "rmsDbfs": -20.39,
+  "rate": "+0%",
+  "listened": false
+}

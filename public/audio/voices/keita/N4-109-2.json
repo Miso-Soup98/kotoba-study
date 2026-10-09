@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-109",
+  "exampleIndex": 1,
+  "text": "学生のころ、よく泳ぎました。",
+  "speechText": "学生のころ、よく泳ぎました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 109,
+  "signature": "96aa085a1f673d7442976a77f6e8ce9197903698fa561f136fb433f2e0e2e8f3",
+  "src": "/audio/voices/keita/N4-109-2.mp3",
+  "srt": "/audio/voices/keita/N4-109-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "b5cdbeeb2a6ee2a2c76fd029ed873a582dd36b7b6ea01caf7d071e0c2126d096",
+  "peakPcm": 23715,
+  "rmsDbfs": -20.99,
+  "rate": "+0%",
+  "listened": false
+}

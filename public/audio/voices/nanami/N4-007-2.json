@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-007",
+  "exampleIndex": 1,
+  "text": "明日なら、時間があります。",
+  "speechText": "明日なら、時間があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 58,
+  "signature": "350ae9e57b1a358054d9229324d0ec48260fc67bd707b14580d5b15578dc7f84",
+  "src": "/audio/voices/nanami/N4-007-2.mp3",
+  "srt": "/audio/voices/nanami/N4-007-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "54eb26f17a1926c908590d5654f43d1c3feda1b039355e519d65a0c365279654",
+  "peakPcm": 20672,
+  "rmsDbfs": -17.99,
+  "rate": "+0%",
+  "listened": false
+}

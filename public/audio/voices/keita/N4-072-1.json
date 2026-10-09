@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-072",
+  "exampleIndex": 0,
+  "text": "名前を書くだけで、申し込めます。",
+  "speechText": "名前を書くだけで、申し込めます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 90,
+  "signature": "9711d87abd2f08d9ab795f0887ebe9e28d00605ad8eb92b9b6482658a4b86685",
+  "src": "/audio/voices/keita/N4-072-1.mp3",
+  "srt": "/audio/voices/keita/N4-072-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "6acaba2ee8e82f6737b7f25b4191770ee233d7c4a5816ed72341d299a15b457f",
+  "peakPcm": 23761,
+  "rmsDbfs": -20.98,
+  "rate": "+0%",
+  "listened": false
+}

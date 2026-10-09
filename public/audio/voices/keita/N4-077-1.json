@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-077",
+  "exampleIndex": 0,
+  "text": "あの雲は魚に見えます。",
+  "speechText": "あの雲は魚に見えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 93,
+  "signature": "afb3dd9bfc8fc1822e1f8160a7104fbaaf75a4699e65009d1c3ce3814175de98",
+  "src": "/audio/voices/keita/N4-077-1.mp3",
+  "srt": "/audio/voices/keita/N4-077-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "431cd5edc055c1bff55b0d972459822c53f1d6d7e456e122e2a7ace02d6e37ea",
+  "peakPcm": 22071,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

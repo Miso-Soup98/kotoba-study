@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-065",
+  "exampleIndex": 1,
+  "text": "以前は大阪に住んでいました。",
+  "speechText": "以前は大阪に住んでいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 87,
+  "signature": "2fa4ef1c7af54c88c8f360a98560053ef66195a3827f7d532777ff0b5cb334d0",
+  "src": "/audio/voices/nanami/N4-065-2.mp3",
+  "srt": "/audio/voices/nanami/N4-065-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "4debcfd5ba8c2e0a1f60039dd80a5837978a2555a3de37660d185b206d2d872a",
+  "peakPcm": 21866,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

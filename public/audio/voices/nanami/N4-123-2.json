@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-123",
+  "exampleIndex": 1,
+  "text": "その話をぜひ聞きたいです。",
+  "speechText": "その話をぜひ聞きたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 116,
+  "signature": "b5f80cbbd4a5c8dd1d3213b215097011f1aab5dbe00f2b42fab0e78fc110b1fd",
+  "src": "/audio/voices/nanami/N4-123-2.mp3",
+  "srt": "/audio/voices/nanami/N4-123-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "41077556ab4e953a5c537baaddbe42727e317b5008e5139eb107c1ad2139718c",
+  "peakPcm": 21977,
+  "rmsDbfs": -18.15,
+  "rate": "+0%",
+  "listened": false
+}

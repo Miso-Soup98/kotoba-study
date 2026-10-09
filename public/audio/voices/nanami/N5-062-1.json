@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-062",
+  "exampleIndex": 0,
+  "text": "姉は料理を作るのが上手です。",
+  "speechText": "姉は料理を作るのが上手です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 40,
+  "signature": "5caf1af5b454bf38f012b4336f3adbbbaa8b13a3d1e173dda6055a44a70b2457",
+  "src": "/audio/voices/nanami/N5-062-1.mp3",
+  "srt": "/audio/voices/nanami/N5-062-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "00025e5691accfbd82867260cbc70b501d02d063e0f16c95317d922fe5b00cf8",
+  "peakPcm": 20709,
+  "rmsDbfs": -17.28,
+  "rate": "+0%",
+  "listened": false
+}

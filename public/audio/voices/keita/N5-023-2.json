@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-023",
+  "exampleIndex": 1,
+  "text": "友達と映画を見ました。",
+  "speechText": "友達と映画を見ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 21,
+  "signature": "952584112146c7da19717ec7378f7d7dff0a2f3e44f6b3b408244ff8eeda816e",
+  "src": "/audio/voices/keita/N5-023-2.mp3",
+  "srt": "/audio/voices/keita/N5-023-2.srt",
+  "durationSeconds": 2.376,
+  "bytes": 14256,
+  "sha256": "2d218cd47bf919c34455f64513799ccb5e1ca602c8ada6a7fb8de8844346930f",
+  "peakPcm": 22132,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

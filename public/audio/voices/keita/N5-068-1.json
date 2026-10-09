@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-068",
+  "exampleIndex": 0,
+  "text": "日本の生活はどうですか。",
+  "speechText": "日本の生活はどうですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 43,
+  "signature": "46bf29abd362a8d6ad08c0dc78f1c82a0c958c825553edcbea18f5907961d957",
+  "src": "/audio/voices/keita/N5-068-1.mp3",
+  "srt": "/audio/voices/keita/N5-068-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "a67e78ab6c321893275cf199b35e2987fb47531f6438645e30990588a9ebf9c5",
+  "peakPcm": 21653,
+  "rmsDbfs": -19.73,
+  "rate": "+0%",
+  "listened": false
+}

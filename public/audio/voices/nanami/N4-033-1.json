@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-033",
+  "exampleIndex": 0,
+  "text": "先生は明日来ないそうです。",
+  "speechText": "先生は明日来ないそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 71,
+  "signature": "368cf88635fdea3c0cf382249508f7776173351552ea3e67e5e1d7baef009b8f",
+  "src": "/audio/voices/nanami/N4-033-1.mp3",
+  "srt": "/audio/voices/nanami/N4-033-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "b051746e4d41c6e5c385b040c45709c019792a5a3921141783793df36a685c5c",
+  "peakPcm": 20815,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

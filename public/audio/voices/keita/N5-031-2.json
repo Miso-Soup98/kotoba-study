@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-031",
+  "exampleIndex": 1,
+  "text": "明日、図書館へ行きませんか。",
+  "speechText": "明日、図書館へ行きませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 25,
+  "signature": "7c10abc1b922a7be50ac8a94e1b8e42d600982f8eb620f574814dcd02ab67384",
+  "src": "/audio/voices/keita/N5-031-2.mp3",
+  "srt": "/audio/voices/keita/N5-031-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "e1f170aa47c786b34a4cacd71c517ee11ed933a35b8d3d8699826af2b9e6c54b",
+  "peakPcm": 24113,
+  "rmsDbfs": -22.62,
+  "rate": "+0%",
+  "listened": false
+}

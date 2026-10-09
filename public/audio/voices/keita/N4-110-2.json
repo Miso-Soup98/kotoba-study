@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-110",
+  "exampleIndex": 1,
+  "text": "一行おきに書いてください。",
+  "speechText": "いちぎょうおきに書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 110,
+  "signature": "efa410edbc764e8e4baa1d9f47f5266895a970199f4b99231d75ee1f4579eeb5",
+  "src": "/audio/voices/keita/N4-110-2.mp3",
+  "srt": "/audio/voices/keita/N4-110-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "154d48dadcb0c16ddff24fa71a52bb588010475c9e605913f5b66a313b9d83ad",
+  "peakPcm": 20254,
+  "rmsDbfs": -21.15,
+  "rate": "+0%",
+  "listened": false
+}

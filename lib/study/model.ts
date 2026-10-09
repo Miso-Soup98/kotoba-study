@@ -8,6 +8,7 @@ import type { PracticeRecord } from "../training/types.ts";
 import { parseListeningCard, type ListeningCard } from "./listening-card.ts";
 import { parseTrainingSession, type TrainingSession } from "../training/session.ts";
 import { parseVocabularyWord, vocabularyId, type VocabularyWord } from "../vocabulary/schema.ts";
+import { correctedVocabularySnapshot } from "../vocabulary/corrections.ts";
 export const ALGORITHM = "fsrs-5.4.2/default-0.9/no-fuzz";
 export const scheduler = fsrs({ request_retention: 0.9, enable_fuzz: false });
 export type CardState = {
@@ -97,7 +98,7 @@ export function rebuild(events: StudyEvent[]): Model {
       const parsed = parseVocabularyWord(e.value);
       // First saved content is an immutable snapshot, also available offline and on another device.
       if (parsed.success && parsed.data.id === e.entity && !result.vocabularyWords[e.entity])
-        result.vocabularyWords[e.entity] = parsed.data;
+        result.vocabularyWords[e.entity] = correctedVocabularySnapshot(parsed.data);
     }
     if (e.kind === "vocabulary_known" && vocabularyId.safeParse(e.entity).success && typeof e.value === "boolean") {
       result.vocabularyKnown[e.entity] = e.value;

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-037",
+  "exampleIndex": 0,
+  "text": "友達は来月引っ越すらしいです。",
+  "speechText": "友達は来月引っ越すらしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 73,
+  "signature": "42271c8fc6694f228393953c3ffe1745e447db429b30d415ddeeca6e7bcf967e",
+  "src": "/audio/voices/nanami/N4-037-1.mp3",
+  "srt": "/audio/voices/nanami/N4-037-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "5c67248d46ad8151a48d63334008ec490729ed6caaa2f4f9b2422ea5f9274e49",
+  "peakPcm": 20872,
+  "rmsDbfs": -18.45,
+  "rate": "+0%",
+  "listened": false
+}

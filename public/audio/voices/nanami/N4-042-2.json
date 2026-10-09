@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-042",
+  "exampleIndex": 1,
+  "text": "母は子供を公園で遊ばせました。",
+  "speechText": "母は子供を公園で遊ばせました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 75,
+  "signature": "cd99e92235fc91caee8d27157ac2e36e9c7f619a6578cdcadbad0d226dc34f63",
+  "src": "/audio/voices/nanami/N4-042-2.mp3",
+  "srt": "/audio/voices/nanami/N4-042-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "cc9bfeef8cf299b429d317980e4e36b4d12df08366382c8963cfa4d98f798388",
+  "peakPcm": 22089,
+  "rmsDbfs": -16.57,
+  "rate": "+0%",
+  "listened": false
+}

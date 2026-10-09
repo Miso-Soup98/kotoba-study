@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-047",
+  "exampleIndex": 0,
+  "text": "水をください。",
+  "speechText": "水をください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 33,
+  "signature": "7b7656e85118d9e318c46ec2c622a44a2b5ba7318e0e5fc5c5d1d511755b5297",
+  "src": "/audio/voices/keita/N5-047-1.mp3",
+  "srt": "/audio/voices/keita/N5-047-1.srt",
+  "durationSeconds": 1.872,
+  "bytes": 11232,
+  "sha256": "1fe11c5a8919bb0744d391626745b965e6c6d700d4b06cbd0d621bfc6a18d5b1",
+  "peakPcm": 20478,
+  "rmsDbfs": -21.74,
+  "rate": "+0%",
+  "listened": false
+}

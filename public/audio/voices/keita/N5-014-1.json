@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-014",
+  "exampleIndex": 0,
+  "text": "毎朝、走ります。",
+  "speechText": "毎朝、走ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 16,
+  "signature": "8a6f0297c8920f4b1665a41146f689e8e3c09857483a81d49f65f3de659964a6",
+  "src": "/audio/voices/keita/N5-014-1.mp3",
+  "srt": "/audio/voices/keita/N5-014-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "f3d7df5ead5440a01901828aaff32b86eae27a117ee80b546e53ea2f7e94a0f6",
+  "peakPcm": 26385,
+  "rmsDbfs": -23.29,
+  "rate": "+0%",
+  "listened": false
+}

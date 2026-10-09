@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-014",
+  "exampleIndex": 0,
+  "text": "毎朝、走ります。",
+  "speechText": "毎朝、走ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 16,
+  "signature": "7c5fa3a889194211360f39d601c435a0369461e0bcf5c6a62c5ab02f0055cd89",
+  "src": "/audio/voices/nanami/N5-014-1.mp3",
+  "srt": "/audio/voices/nanami/N5-014-1.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "5455ca8d2cd4ddb77289b6597a56cea1b6e748a8352c0c2b4a592fde4afd31f1",
+  "peakPcm": 20050,
+  "rmsDbfs": -18.78,
+  "rate": "+0%",
+  "listened": false
+}

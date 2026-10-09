@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-078",
+  "exampleIndex": 0,
+  "text": "今日は暑いなあ。",
+  "speechText": "今日は暑いなあ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 48,
+  "signature": "9c70cebba0fe09997bd14d283b7502beaef3fd1ea4b2599e07c103d4abb9e27b",
+  "src": "/audio/voices/nanami/N5-078-1.mp3",
+  "srt": "/audio/voices/nanami/N5-078-1.srt",
+  "durationSeconds": 2.184,
+  "bytes": 13104,
+  "sha256": "b63dd898f3cd59ea863e5b3d5ee7973acf099d291f38e68b95406ccf08a67a46",
+  "peakPcm": 20083,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

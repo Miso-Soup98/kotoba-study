@@ -29,7 +29,7 @@ export function VocabularyNotes({ word }: { word: VocabularyWord }) {
     {!word.sentences.length && <p className="footnote">本词暂未收录例句。</p>}
     <details><summary>词典来源与分级说明</summary>
       <ul>{word.sourceUrls.map((url, i) => <li key={url}><a href={url} target="_blank" rel="noreferrer">来源 {i + 1} · {new URL(url).hostname}</a></li>)}</ul>
-      <p className="footnote">参考分级来自 OpenJLPT，非官方完整考纲。内容版本 {word.version}；保存后保留当时的词条。</p>
+      <p className="footnote">参考分级来自 OpenJLPT，非官方完整考纲。内容版本 {word.version}；保留保存记录，并应用已确认的语言订正，复习进度不变。</p>
     </details>
   </div>;
 }

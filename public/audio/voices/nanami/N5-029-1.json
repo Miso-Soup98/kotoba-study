@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-029",
+  "exampleIndex": 0,
+  "text": "週末はゆっくり休みたいです。",
+  "speechText": "週末はゆっくり休みたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 24,
+  "signature": "5b80515e33ba336b5f552017ea91eb9277d1bccec2ec8ef8c9ca81e50162bc04",
+  "src": "/audio/voices/nanami/N5-029-1.mp3",
+  "srt": "/audio/voices/nanami/N5-029-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "fd626da6b5d720149352b6d92970fbe5c6f7ae5c6284cd0c3b27a17e7c17f2f2",
+  "peakPcm": 20750,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

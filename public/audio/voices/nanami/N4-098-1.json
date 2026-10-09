@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-098",
+  "exampleIndex": 0,
+  "text": "三人のうち、二人が来ました。",
+  "speechText": "三人のうち、二人が来ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 103,
+  "signature": "2fd3b0f997134886bf2c191efbf5dcfa60b9b3451b4f5cdf2951062769062baa",
+  "src": "/audio/voices/nanami/N4-098-1.mp3",
+  "srt": "/audio/voices/nanami/N4-098-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "dc0c75141dfdb2d6d7199ab7f4fc34ef5884d8e34ea965e0765e456fc702a7f6",
+  "peakPcm": 22524,
+  "rmsDbfs": -18.6,
+  "rate": "+0%",
+  "listened": false
+}

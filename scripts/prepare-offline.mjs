@@ -17,7 +17,7 @@ const hash = createHash("sha256")
   .update(JSON.stringify(assets))
   .update(await readFile("public/data/grammar.json"))
   .update(await readFile("public/data/n2-weekly-curriculum.json"))
-  .update(await readFile("public/data/question-sets/n2-2026-09-v05.json"))
+  .update(await readFile("public/data/question-sets/n2-2026-10-r1.json"))
   .digest("hex")
   .slice(0, 12);
 await writeFile(

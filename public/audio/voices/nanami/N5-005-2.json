@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-005",
+  "exampleIndex": 1,
+  "text": "日本語の授業は午後です。",
+  "speechText": "日本語の授業は午後です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 12,
+  "signature": "fd0e6e2cdf38cf278633557fc678bef26e52c133523f2324193e719f129aad7e",
+  "src": "/audio/voices/nanami/N5-005-2.mp3",
+  "srt": "/audio/voices/nanami/N5-005-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "8ff5733a9fcb17d83e4c84396269cad0c332e241882fb98216f30d42372ec560",
+  "peakPcm": 21440,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

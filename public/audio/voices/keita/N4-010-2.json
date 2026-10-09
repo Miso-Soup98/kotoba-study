@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-010",
+  "exampleIndex": 1,
+  "text": "日曜日なのに、早く起きました。",
+  "speechText": "日曜日なのに、早く起きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 59,
+  "signature": "1e01f55379ad2e0d942505b32217908e4878b7c1e318ebabcb1e7993e205c7fb",
+  "src": "/audio/voices/keita/N4-010-2.mp3",
+  "srt": "/audio/voices/keita/N4-010-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "02ce4f6727660579c663443817d2764ab4eb13515c70302a052f2074c2bc8901",
+  "peakPcm": 25149,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

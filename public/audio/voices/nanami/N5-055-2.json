@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-055",
+  "exampleIndex": 1,
+  "text": "受付はあそこです。",
+  "speechText": "受付はあそこです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 37,
+  "signature": "def6028747b1f2104f428bd2763d3a42e327f140d156a6191b9d67071c8bace2",
+  "src": "/audio/voices/nanami/N5-055-2.mp3",
+  "srt": "/audio/voices/nanami/N5-055-2.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "fe976ebfec36dceadcade15f375a9f9c11002b583b2477da32e8c30548337c23",
+  "peakPcm": 21021,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

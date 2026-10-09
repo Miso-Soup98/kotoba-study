@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-082",
+  "exampleIndex": 1,
+  "text": "学生が二十人くらいいます。",
+  "speechText": "学生が二十人くらいいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 50,
+  "signature": "c807f44ad770d816ddc96cd0e74b247c845272b7cd9aa0be0e40b3001d2355e3",
+  "src": "/audio/voices/nanami/N5-082-2.mp3",
+  "srt": "/audio/voices/nanami/N5-082-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "b13caa4e6eca7beeebb07ddc47726e3bd4022439e73e1bdd469d85be08986666",
+  "peakPcm": 20054,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

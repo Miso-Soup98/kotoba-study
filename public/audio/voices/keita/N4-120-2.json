@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-120",
+  "exampleIndex": 1,
+  "text": "今日は忙しいです。それに、少し疲れています。",
+  "speechText": "今日は忙しいです。それに、少し疲れています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 115,
+  "signature": "ed496771633f46cf26e0b9f3aa9d45e6759cfd8da3b0168b25866f00a3b0f136",
+  "src": "/audio/voices/keita/N4-120-2.mp3",
+  "srt": "/audio/voices/keita/N4-120-2.srt",
+  "durationSeconds": 5.208,
+  "bytes": 31248,
+  "sha256": "5ca588c0479b489e2928343d7158a1a2e32984eae051928ca4f0a872c7904fef",
+  "peakPcm": 24278,
+  "rmsDbfs": -21.28,
+  "rate": "+0%",
+  "listened": false
+}

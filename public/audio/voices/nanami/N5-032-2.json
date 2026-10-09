@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-032",
+  "exampleIndex": 1,
+  "text": "明日、また話しましょう。",
+  "speechText": "明日、また話しましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 25,
+  "signature": "edf6ae1325cde8171134eb709bf817b2dddaba0bdde6c7ca6804db1d85c76848",
+  "src": "/audio/voices/nanami/N5-032-2.mp3",
+  "srt": "/audio/voices/nanami/N5-032-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "7444b5383c8bf968016f86e93a392f73b1d475322bd394f221e6e88013ad032c",
+  "peakPcm": 21259,
+  "rmsDbfs": -19.36,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-049",
+  "exampleIndex": 0,
+  "text": "小さい字は読みにくいです。",
+  "speechText": "小さい字は読みにくいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 79,
+  "signature": "d0c83542da3c4d5280e8b504ff306f37e7ee262681c85b78593aebd2e00601f0",
+  "src": "/audio/voices/nanami/N4-049-1.mp3",
+  "srt": "/audio/voices/nanami/N4-049-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "50978f40bda07cfd5ea851b0b76ae0d896cc08835f05030f2924c0a4571fec53",
+  "peakPcm": 20591,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

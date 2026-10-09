@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-067",
+  "exampleIndex": 1,
+  "text": "赤ちゃんが泣き出しました。",
+  "speechText": "赤ちゃんが泣き出しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 88,
+  "signature": "d2d6012ff13c882d2678504051dabba336d9d0e6dc5ac0df4d7a73dab6022346",
+  "src": "/audio/voices/keita/N4-067-2.mp3",
+  "srt": "/audio/voices/keita/N4-067-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "2f15c08449fe06cb71ca2b9493772216614570c82a60c22fe679404c7ccaf4e2",
+  "peakPcm": 25150,
+  "rmsDbfs": -22.89,
+  "rate": "+0%",
+  "listened": false
+}

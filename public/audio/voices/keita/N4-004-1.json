@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-004",
+  "exampleIndex": 0,
+  "text": "私は日本語が少し話せます。",
+  "speechText": "私は日本語が少し話せます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 56,
+  "signature": "95db83936f814cd729998a401c0fe020e164a70853dfbe7dce7bdc7cea28fbc2",
+  "src": "/audio/voices/keita/N4-004-1.mp3",
+  "srt": "/audio/voices/keita/N4-004-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "d8fbb4a5ecf7052799bb667f2bc362338496a1dd432c523b196fd6db48c9e820",
+  "peakPcm": 21695,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

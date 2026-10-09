@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-056",
+  "exampleIndex": 1,
+  "text": "この部屋は広くなくて、少し暗いです。",
+  "speechText": "この部屋は広くなくて、少し暗いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 82,
+  "signature": "9816f993229aedca68848fc0f17e06ac17f5a09c9582aea3186c036600b77d0e",
+  "src": "/audio/voices/keita/N4-056-2.mp3",
+  "srt": "/audio/voices/keita/N4-056-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "88a580e476bb2cea6f07ad44172116e51d0b63784a10a0eca5359b0c541f34ee",
+  "peakPcm": 22733,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

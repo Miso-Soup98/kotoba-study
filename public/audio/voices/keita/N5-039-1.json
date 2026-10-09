@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-039",
+  "exampleIndex": 0,
+  "text": "暑いから、窓を開けます。",
+  "speechText": "暑いから、窓を開けます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 29,
+  "signature": "75c62cdaa3fd901735b980cc1a59ffa41fae10aee9b265dd1a7a3d241e713d0b",
+  "src": "/audio/voices/keita/N5-039-1.mp3",
+  "srt": "/audio/voices/keita/N5-039-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "b117de1e3a46ec69ae004bde020ef9303aacdcafc67610064597f1f4398a806d",
+  "peakPcm": 25067,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

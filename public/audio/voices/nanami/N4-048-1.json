@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-048",
+  "exampleIndex": 0,
+  "text": "この靴は歩きやすいです。",
+  "speechText": "この靴は歩きやすいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 78,
+  "signature": "ec666dc41c76aa004386c222a725c759a2675a604db60539648ebf53db5b30fd",
+  "src": "/audio/voices/nanami/N4-048-1.mp3",
+  "srt": "/audio/voices/nanami/N4-048-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "e326a994078713411fc9c75e1986be1b1a03fa0b71dc7237ceebaf2f751c07ef",
+  "peakPcm": 23005,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

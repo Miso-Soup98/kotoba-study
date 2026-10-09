@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-082",
+  "exampleIndex": 1,
+  "text": "学生が二十人くらいいます。",
+  "speechText": "学生が二十人くらいいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 50,
+  "signature": "d5583cd8167909312e58bd679b0166538980cb45fdbc041f14912666bc01e69c",
+  "src": "/audio/voices/keita/N5-082-2.mp3",
+  "srt": "/audio/voices/keita/N5-082-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "b95c85afff59373eded7c35e0da9a5b241297f2703cc94d86e83c0b0ca0af67d",
+  "peakPcm": 23111,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

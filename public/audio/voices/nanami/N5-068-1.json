@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-068",
+  "exampleIndex": 0,
+  "text": "日本の生活はどうですか。",
+  "speechText": "日本の生活はどうですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 43,
+  "signature": "0e835affd045015fd60b09565ccf45b0deafda1c9a4f45fc548676b7f7860ac2",
+  "src": "/audio/voices/nanami/N5-068-1.mp3",
+  "srt": "/audio/voices/nanami/N5-068-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "5cd42428a62ce0c066f586f3433df168ae3f5df8fd3ab28d1359dd7092e8919c",
+  "peakPcm": 23853,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

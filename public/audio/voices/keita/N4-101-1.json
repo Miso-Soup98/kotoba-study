@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-101",
+  "exampleIndex": 0,
+  "text": "ここに車を止めるな。",
+  "speechText": "ここに車を止めるな。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 105,
+  "signature": "ee27343ad89868dcd05711837f30d3b94ed8429f7d8c5ec486575b95ff4d8327",
+  "src": "/audio/voices/keita/N4-101-1.mp3",
+  "srt": "/audio/voices/keita/N4-101-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "26ce41c4587994ededd5489b7c6541baed74066654983b7a4863bda2dd1fca1f",
+  "peakPcm": 21176,
+  "rmsDbfs": -20.07,
+  "rate": "+0%",
+  "listened": false
+}

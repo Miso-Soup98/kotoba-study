@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-018",
+  "exampleIndex": 1,
+  "text": "先生に聞いてみます。",
+  "speechText": "先生に聞いてみます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 63,
+  "signature": "d4aa64aa6da8b99bc835dc0acf5d3a52b2c254a448b49273b80e5b2d444da67c",
+  "src": "/audio/voices/keita/N4-018-2.mp3",
+  "srt": "/audio/voices/keita/N4-018-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "45aeea81f5a73e5559ed1735370bc7aed55b820c0eea0190ad2073b3eb1f8512",
+  "peakPcm": 21136,
+  "rmsDbfs": -21.48,
+  "rate": "+0%",
+  "listened": false
+}

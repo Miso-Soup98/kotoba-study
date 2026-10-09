@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-008",
+  "exampleIndex": 0,
+  "text": "このボタンを押すと、電気がつきます。",
+  "speechText": "このボタンを押すと、電気がつきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 58,
+  "signature": "ced79efa58ced2c8e86d8fec4229a6a80e67e9e942b8f3a533f8ca6b52490169",
+  "src": "/audio/voices/nanami/N4-008-1.mp3",
+  "srt": "/audio/voices/nanami/N4-008-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "d7108ea1564f192f3acde65b99e032b06a2e13142adad16fa41ad20184128c14",
+  "peakPcm": 21499,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

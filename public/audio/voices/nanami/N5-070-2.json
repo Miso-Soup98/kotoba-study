@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-070",
+  "exampleIndex": 1,
+  "text": "駅までどうやって行きますか。",
+  "speechText": "駅までどうやって行きますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 44,
+  "signature": "4816fc56c8cadba1221cea9bf531a1f1c79e08e0b0afaf7fe5afdebaa371c6ea",
+  "src": "/audio/voices/nanami/N5-070-2.mp3",
+  "srt": "/audio/voices/nanami/N5-070-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "1e5956c3b045b0b19759d61a6ed8170128ed39ee380f30a182d381cfbe5e9006",
+  "peakPcm": 21755,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

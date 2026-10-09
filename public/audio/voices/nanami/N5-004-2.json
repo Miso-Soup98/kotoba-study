@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-004",
+  "exampleIndex": 1,
+  "text": "毎晩、本を読みます。",
+  "speechText": "毎晩、本を読みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 11,
+  "signature": "e7fe88e9ec52ba6e8cf046a0ff6a0cd8d1b0bfa6a4c11f610670aad0277a5524",
+  "src": "/audio/voices/nanami/N5-004-2.mp3",
+  "srt": "/audio/voices/nanami/N5-004-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "1f7b7ad1d0b929e7459fea11e57e8dabcbeb21087a57e6f64a5846cc006a6043",
+  "peakPcm": 20231,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

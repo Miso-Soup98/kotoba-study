@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-028",
+  "exampleIndex": 1,
+  "text": "姉は結婚しています。",
+  "speechText": "姉は結婚しています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 23,
+  "signature": "8905cde39df5feab3b147dec558439f7243559e32cb2dc670edda9d036988d01",
+  "src": "/audio/voices/nanami/N5-028-2.mp3",
+  "srt": "/audio/voices/nanami/N5-028-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "495c8fc3b81246e877887971b21865815b92b9c5b44c6ca4f52358e74e394264",
+  "peakPcm": 21946,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

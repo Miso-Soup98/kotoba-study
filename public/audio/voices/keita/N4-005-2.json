@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-005",
+  "exampleIndex": 1,
+  "text": "駅に着いたら、電話してください。",
+  "speechText": "駅に着いたら、電話してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 57,
+  "signature": "3509a34b1d0d92529f5c480ad48b7b7b42f95e7f85fffda9691dffa0c986e044",
+  "src": "/audio/voices/keita/N4-005-2.mp3",
+  "srt": "/audio/voices/keita/N4-005-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "f5b028cc4ba3bee66226910979d5fa1345cd4f71d1eb48bf8a745d29007b3dc9",
+  "peakPcm": 22177,
+  "rmsDbfs": -21.65,
+  "rate": "+0%",
+  "listened": false
+}

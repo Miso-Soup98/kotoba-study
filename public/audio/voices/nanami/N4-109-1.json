@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-109",
+  "exampleIndex": 0,
+  "text": "九時ごろに着きます。",
+  "speechText": "九時ごろに着きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 109,
+  "signature": "553de8fe64d0641c5867c0935961f752dcf8489b347de93fcb564a16b7b9842f",
+  "src": "/audio/voices/nanami/N4-109-1.mp3",
+  "srt": "/audio/voices/nanami/N4-109-1.srt",
+  "durationSeconds": 2.376,
+  "bytes": 14256,
+  "sha256": "988368313c7a1cc0027ebe0b80a377ab8cca1ecf37f256268849fa861e374913",
+  "peakPcm": 18256,
+  "rmsDbfs": -18.57,
+  "rate": "+0%",
+  "listened": false
+}

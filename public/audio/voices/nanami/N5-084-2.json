@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-084",
+  "exampleIndex": 1,
+  "text": "友達に写真を見せました。",
+  "speechText": "友達に写真を見せました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 51,
+  "signature": "c3efdb758ca3f67b025fa0008f881db50242d2239a49fe40bf87072085ce89fd",
+  "src": "/audio/voices/nanami/N5-084-2.mp3",
+  "srt": "/audio/voices/nanami/N5-084-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "a5297f81c4d69f02ba5f76a2042ade1f40367a76ca870e0c38153230f1be3cb9",
+  "peakPcm": 22378,
+  "rmsDbfs": -19.27,
+  "rate": "+0%",
+  "listened": false
+}

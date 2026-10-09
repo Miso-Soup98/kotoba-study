@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-069",
+  "exampleIndex": 0,
+  "text": "どんな音楽が好きですか。",
+  "speechText": "どんな音楽が好きですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 44,
+  "signature": "fc8f9fbc6f7e57ca2228ff650ab66ab67c3f9646c533a19b24926629cf040b2f",
+  "src": "/audio/voices/keita/N5-069-1.mp3",
+  "srt": "/audio/voices/keita/N5-069-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "e227c578b780dc6aae66ec4af2c2c38e3539b5073518461be9567b58a9291365",
+  "peakPcm": 23747,
+  "rmsDbfs": -20.56,
+  "rate": "+0%",
+  "listened": false
+}

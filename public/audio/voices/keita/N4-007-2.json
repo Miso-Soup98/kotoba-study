@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-007",
+  "exampleIndex": 1,
+  "text": "明日なら、時間があります。",
+  "speechText": "明日なら、時間があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 58,
+  "signature": "6a09763a06d7cdb80962d2b6014252f074501f59b64319e51ec88cc4c2219128",
+  "src": "/audio/voices/keita/N4-007-2.mp3",
+  "srt": "/audio/voices/keita/N4-007-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "ad011a6a4f36aab991cdac2f735ffa897b1537114370fa31130e8d75e55ca6d0",
+  "peakPcm": 26469,
+  "rmsDbfs": -21.02,
+  "rate": "+0%",
+  "listened": false
+}

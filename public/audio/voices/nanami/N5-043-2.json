@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-043",
+  "exampleIndex": 1,
+  "text": "授業が終わってから、買い物に行きます。",
+  "speechText": "授業が終わってから、買い物に行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 31,
+  "signature": "5c7701a300d660a1f3d801e4ff1f906242a3872cf65c0d627c290f082fab268c",
+  "src": "/audio/voices/nanami/N5-043-2.mp3",
+  "srt": "/audio/voices/nanami/N5-043-2.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "7f569f4a32725bf4a14bcac19f1e88d4909d11077bdbedf0697f7ccb2910094d",
+  "peakPcm": 20325,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-074",
+  "exampleIndex": 1,
+  "text": "もう一度確認する必要があります。",
+  "speechText": "もう一度確認する必要があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 91,
+  "signature": "3e1cf95ed2471b1e5c158fb61ba5600027ee77b23b7a24ebd68c2529c2e8e49c",
+  "src": "/audio/voices/keita/N4-074-2.mp3",
+  "srt": "/audio/voices/keita/N4-074-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "30d3aa3a9e275915c8acc09d29fc1cfbeac3c8c5b3d6a95a20bed1bd9e8d75d7",
+  "peakPcm": 23524,
+  "rmsDbfs": -19.74,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-105",
+  "exampleIndex": 1,
+  "text": "あの店は今日も休みかしら。",
+  "speechText": "あの店は今日も休みかしら。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 107,
+  "signature": "9c78c0d22e931782f92a66cae116e2aa6a66af42ef3b2d74f0460f44dad19f37",
+  "src": "/audio/voices/nanami/N4-105-2.mp3",
+  "srt": "/audio/voices/nanami/N4-105-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "2abe015f234991c62759b1c7561cdef6f6b16d69913f884ef18c5802f8c75e56",
+  "peakPcm": 20779,
+  "rmsDbfs": -18.59,
+  "rate": "+0%",
+  "listened": false
+}

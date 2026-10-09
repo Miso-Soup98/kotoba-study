@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-013",
+  "exampleIndex": 0,
+  "text": "部屋に猫がいます。",
+  "speechText": "部屋に猫がいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 16,
+  "signature": "d573d940185ab30d01170dac12e594e126cb89d35ff49bb13cc767c7fbd2467c",
+  "src": "/audio/voices/nanami/N5-013-1.mp3",
+  "srt": "/audio/voices/nanami/N5-013-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "ea24a06be449fe22a349f007ae09e225d866f5ee15007f719ff9aaeb932ba4e4",
+  "peakPcm": 22670,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

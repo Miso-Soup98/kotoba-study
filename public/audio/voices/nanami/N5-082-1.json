@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-082",
+  "exampleIndex": 0,
+  "text": "駅まで十分ぐらいかかります。",
+  "speechText": "駅までじゅっぷんぐらいかかります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 50,
+  "signature": "41b145ac5b92625f36a00878be6a4c3ac40744c1cd15c18c07fb9d2967adb29c",
+  "src": "/audio/voices/nanami/N5-082-1.mp3",
+  "srt": "/audio/voices/nanami/N5-082-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "076981394f28a130e64ae35ba3f847e8a3a8f92bd90d374eb81f665f8382e70d",
+  "peakPcm": 21272,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

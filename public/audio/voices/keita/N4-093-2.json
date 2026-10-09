@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-093",
+  "exampleIndex": 1,
+  "text": "受付は二階でございます。",
+  "speechText": "受付は二階でございます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 101,
+  "signature": "8d3e0d773e0e2eaa94c824b84b6b085f88d179c90393de86e8f82a91493b14e7",
+  "src": "/audio/voices/keita/N4-093-2.mp3",
+  "srt": "/audio/voices/keita/N4-093-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "6f7520fb2b0fd3036717e11c70c80a93b3ab27d020cb9a3ae856dc98b15335c7",
+  "peakPcm": 21808,
+  "rmsDbfs": -20.47,
+  "rate": "+0%",
+  "listened": false
+}

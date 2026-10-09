@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-013",
+  "exampleIndex": 0,
+  "text": "来年、就職するつもりです。",
+  "speechText": "来年、就職するつもりです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 61,
+  "signature": "89ab8249d76f65e350a6b275c1dbf4995a12c130cee961ccfcf7a3c27470423f",
+  "src": "/audio/voices/nanami/N4-013-1.mp3",
+  "srt": "/audio/voices/nanami/N4-013-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "8e264949bf18b9ef4fba493885bdebfc36e407508d4a5c8d7204f62e4aa4ed1f",
+  "peakPcm": 20809,
+  "rmsDbfs": -18.54,
+  "rate": "+0%",
+  "listened": false
+}

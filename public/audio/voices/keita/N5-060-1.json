@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-060",
+  "exampleIndex": 0,
+  "text": "果物の中で、りんごが一番好きです。",
+  "speechText": "果物の中で、りんごが一番好きです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 39,
+  "signature": "51977347c9ef337b850c70d4876b246eda3eae2340c8da2f62b4ee05ef6323e9",
+  "src": "/audio/voices/keita/N5-060-1.mp3",
+  "srt": "/audio/voices/keita/N5-060-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "35ada7bb10094b2aebe6d97c52b3fa493858b82481396f035a2598e3f39ca985",
+  "peakPcm": 26997,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-010",
+  "exampleIndex": 0,
+  "text": "食堂で昼ご飯を食べます。",
+  "speechText": "食堂で昼ご飯を食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 14,
+  "signature": "fa24a45971930c23b35d73d63291755b85af55b16bfa25e1891153d450443c14",
+  "src": "/audio/voices/keita/N5-010-1.mp3",
+  "srt": "/audio/voices/keita/N5-010-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "d47fd5390915582b2c45ceed43d7d3d1bd9e6c0a6284ba80cba9479a756fb7ac",
+  "peakPcm": 22227,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-020",
+  "exampleIndex": 0,
+  "text": "この部屋は広くて明るいです。",
+  "speechText": "この部屋は広くて明るいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 19,
+  "signature": "45f693e384c692b9e33ffa0f93ba0cdcf198c209a8175402718aa5a54715a88f",
+  "src": "/audio/voices/keita/N5-020-1.mp3",
+  "srt": "/audio/voices/keita/N5-020-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "f8f046c5f34b9217e7191930c10b7c9e52d61db58c759504301be8682dbc2f29",
+  "peakPcm": 23538,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

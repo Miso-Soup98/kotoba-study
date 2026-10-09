@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-128",
+  "exampleIndex": 1,
+  "text": "どうしてそんなに急いでいるんですか。",
+  "speechText": "どうしてそんなに急いでいるんですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 119,
+  "signature": "18b1875b8cde00a20586ece8b2dc43970026f7cc21284c9fe6b3936c8a51e616",
+  "src": "/audio/voices/nanami/N4-128-2.mp3",
+  "srt": "/audio/voices/nanami/N4-128-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "e698bdc9724576f281b63b98bd4ba850d121a02c9bcf9e4e7d9b703ecdf6e042",
+  "peakPcm": 20316,
+  "rmsDbfs": -16.88,
+  "rate": "+0%",
+  "listened": false
+}

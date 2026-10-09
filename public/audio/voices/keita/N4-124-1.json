@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-124",
+  "exampleIndex": 0,
+  "text": "急に風が強くなりました。",
+  "speechText": "急に風が強くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 117,
+  "signature": "66c733dd93a7d6e9e3d0067703e6b8872e6416d0cb8eb9ad216dfbfe1d06d019",
+  "src": "/audio/voices/keita/N4-124-1.mp3",
+  "srt": "/audio/voices/keita/N4-124-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "bab111a6ca5d8dabc0f91e70141054b55032b2925d266867534033fc04a700bc",
+  "peakPcm": 23094,
+  "rmsDbfs": -20.04,
+  "rate": "+0%",
+  "listened": false
+}

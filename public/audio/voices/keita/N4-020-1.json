@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-020",
+  "exampleIndex": 0,
+  "text": "財布を忘れてしまいました。",
+  "speechText": "財布を忘れてしまいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 64,
+  "signature": "fb3aac0cba5626a4dbf92907d8c3d5779edb3c946669d03dd9ec2b67b6e45339",
+  "src": "/audio/voices/keita/N4-020-1.mp3",
+  "srt": "/audio/voices/keita/N4-020-1.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "423e6439a91b67c089877cdbcfd3ce0843f10eb292ce3072b504200b953e9102",
+  "peakPcm": 22465,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

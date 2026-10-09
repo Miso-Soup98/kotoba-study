@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-077",
+  "exampleIndex": 1,
+  "text": "ご住所はこちらに書いてください。",
+  "speechText": "ご住所はこちらに書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 48,
+  "signature": "249bc7af30bc115c85b4852ad67068866c189358f68ba50f09399e07cb386de0",
+  "src": "/audio/voices/nanami/N5-077-2.mp3",
+  "srt": "/audio/voices/nanami/N5-077-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "9fb8d651167f2559e38721f8b03c5dafebf2c0cbee00cc9a63e8c30a65795e55",
+  "peakPcm": 20625,
+  "rmsDbfs": -18.4,
+  "rate": "+0%",
+  "listened": false
+}

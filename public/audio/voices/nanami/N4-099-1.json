@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-099",
+  "exampleIndex": 0,
+  "text": "背の高い人が来ました。",
+  "speechText": "背の高い人が来ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 104,
+  "signature": "3b05731e4269ce6b35561cc7661a3acf5cf68b2c7e8849673f794532555161b2",
+  "src": "/audio/voices/nanami/N4-099-1.mp3",
+  "srt": "/audio/voices/nanami/N4-099-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "2d427b9efc24f21acd27ba5d6e6f07598f20517988f4703685105c921625f94c",
+  "peakPcm": 21735,
+  "rmsDbfs": -18.57,
+  "rate": "+0%",
+  "listened": false
+}

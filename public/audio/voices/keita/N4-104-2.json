@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-104",
+  "exampleIndex": 1,
+  "text": "これで大丈夫かな。",
+  "speechText": "これで大丈夫かな。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 107,
+  "signature": "1a22a5d25f07b284f6244c9eb86999bb07edcf21df30573d4b42ad3f70b1d9be",
+  "src": "/audio/voices/keita/N4-104-2.mp3",
+  "srt": "/audio/voices/keita/N4-104-2.srt",
+  "durationSeconds": 2.088,
+  "bytes": 12528,
+  "sha256": "9d767a0030e441197ae522d8ed24dc58a9103871f1d3aaf6840158d399d5e90a",
+  "peakPcm": 23144,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-014",
+  "exampleIndex": 1,
+  "text": "昨日は勉強しませんでした。",
+  "speechText": "昨日は勉強しませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 16,
+  "signature": "f6c6f58f2a57e2fd361779631295847c05f5bd32d2f46d3d710774e8db2d7903",
+  "src": "/audio/voices/keita/N5-014-2.mp3",
+  "srt": "/audio/voices/keita/N5-014-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "a63a3012d1889cf8e8b0455e7fb10e2b2a9f4cffaecc53955ba6e124e8165f17",
+  "peakPcm": 21484,
+  "rmsDbfs": -19.7,
+  "rate": "+0%",
+  "listened": false
+}

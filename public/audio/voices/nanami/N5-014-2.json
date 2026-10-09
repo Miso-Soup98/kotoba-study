@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-014",
+  "exampleIndex": 1,
+  "text": "昨日は勉強しませんでした。",
+  "speechText": "昨日は勉強しませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 16,
+  "signature": "57aa14f5b5f5d161a1fb4638792d9d0f99f1e9a3cb5b1cd9a2e7ae955d47e256",
+  "src": "/audio/voices/nanami/N5-014-2.mp3",
+  "srt": "/audio/voices/nanami/N5-014-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "63330fed2c6b8b88f388a2c8f2aaf449a6b67e14de8de57ab12a8a71312cf081",
+  "peakPcm": 21193,
+  "rmsDbfs": -18.15,
+  "rate": "+0%",
+  "listened": false
+}

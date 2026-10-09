@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-075",
+  "exampleIndex": 1,
+  "text": "いつも七時に起きます。",
+  "speechText": "いつも七時に起きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 47,
+  "signature": "8f7c4ceb5077e71bcf6fdb79b6b8d77052e472bf1f925c1bc86839efb77e5423",
+  "src": "/audio/voices/keita/N5-075-2.mp3",
+  "srt": "/audio/voices/keita/N5-075-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "ded14888423b1280992e5e59f576e9939f7742d7935f558622d29b03a0ef0f29",
+  "peakPcm": 18332,
+  "rmsDbfs": -21.97,
+  "rate": "+0%",
+  "listened": false
+}

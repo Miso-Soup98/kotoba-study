@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-102",
+  "exampleIndex": 0,
+  "text": "危ない、止まれ！",
+  "speechText": "危ない、止まれ！",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 106,
+  "signature": "adb42c1211fe1f6d0d44eb1be7d479d5c9b1954b1fcaab13a0600dd4aebb3900",
+  "src": "/audio/voices/nanami/N4-102-1.mp3",
+  "srt": "/audio/voices/nanami/N4-102-1.srt",
+  "durationSeconds": 2.112,
+  "bytes": 12672,
+  "sha256": "3cdc3bf1662c429f1d88d53e46f0f97622d524b62d298b1d2e03e2e7363820eb",
+  "peakPcm": 20304,
+  "rmsDbfs": -18.67,
+  "rate": "+0%",
+  "listened": false
+}

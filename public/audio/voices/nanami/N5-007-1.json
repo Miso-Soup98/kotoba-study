@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-007",
+  "exampleIndex": 0,
+  "text": "明日は休みですか。",
+  "speechText": "明日は休みですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 13,
+  "signature": "6d7bc753e40f975faa939926127a7579d2ec7ef940c2efdf83c4ade5dc6f36c7",
+  "src": "/audio/voices/nanami/N5-007-1.mp3",
+  "srt": "/audio/voices/nanami/N5-007-1.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "4418cf0a378e627387aa86bb1c76706ec2a38873fef76d6c8843a061602506b2",
+  "peakPcm": 22035,
+  "rmsDbfs": -19.37,
+  "rate": "+0%",
+  "listened": false
+}

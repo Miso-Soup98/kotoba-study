@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-053",
+  "exampleIndex": 1,
+  "text": "机に資料が置いてあります。",
+  "speechText": "机に資料が置いてあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 81,
+  "signature": "a607bf7d681e4272bcf8f49b7360b86d19041cd1094bee6f1686a33ecc3ddd23",
+  "src": "/audio/voices/nanami/N4-053-2.mp3",
+  "srt": "/audio/voices/nanami/N4-053-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "9ce02bdbebf72758a96b3855e8d5e55fe1808357c24483b37f32a012b9aef719",
+  "peakPcm": 22033,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

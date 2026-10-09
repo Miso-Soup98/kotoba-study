@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-026",
+  "exampleIndex": 1,
+  "text": "友達に道を教えてもらいました。",
+  "speechText": "友達に道を教えてもらいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 67,
+  "signature": "213e2b5d934665cc01905e167216cb2b4de9a048683cfe8d805b1febb39f2f1f",
+  "src": "/audio/voices/keita/N4-026-2.mp3",
+  "srt": "/audio/voices/keita/N4-026-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "48e5bad12774f405be1290f50280f7973e7ccb5b7a2cd0538a7153da3c48171d",
+  "peakPcm": 22197,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-017",
+  "exampleIndex": 0,
+  "text": "毎日、少し歩くようにしています。",
+  "speechText": "毎日、少し歩くようにしています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 63,
+  "signature": "ca9a2a95ee198fab888d9e6840d0e38a88ef78510c2471e7c36fcb8cc18300ec",
+  "src": "/audio/voices/nanami/N4-017-1.mp3",
+  "srt": "/audio/voices/nanami/N4-017-1.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "f491c61074c4a3c0f241da91a13687ad2c0075f0e17c7dd778ed4a51ae015af2",
+  "peakPcm": 21833,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

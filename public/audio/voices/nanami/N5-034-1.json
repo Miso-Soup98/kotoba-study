@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-034",
+  "exampleIndex": 0,
+  "text": "ここに座ってもいいですか。",
+  "speechText": "ここに座ってもいいですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 26,
+  "signature": "afa679fb6a5e4c521f4435c1842a2a6819500a74117d365ca7a317bf17645148",
+  "src": "/audio/voices/nanami/N5-034-1.mp3",
+  "srt": "/audio/voices/nanami/N5-034-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "293f97e5d75445e626561c9a48222b0ac4f1f520ecd6193477c9636085c0d27e",
+  "peakPcm": 23431,
+  "rmsDbfs": -18.83,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-034",
+  "exampleIndex": 0,
+  "text": "ここに座ってもいいですか。",
+  "speechText": "ここに座ってもいいですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 26,
+  "signature": "57777aee20d89e8ef302c8a47b41ef6740dcb1afd50fa64e29d7acc2bc07e261",
+  "src": "/audio/voices/keita/N5-034-1.mp3",
+  "srt": "/audio/voices/keita/N5-034-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "01251d38fec29232b7e9bf84994b9587629be096ed066550c2bf5a18125b6a8c",
+  "peakPcm": 24066,
+  "rmsDbfs": -20.27,
+  "rate": "+0%",
+  "listened": false
+}

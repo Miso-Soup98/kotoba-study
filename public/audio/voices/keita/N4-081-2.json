@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-081",
+  "exampleIndex": 1,
+  "text": "試験に受かって、うれしいです。",
+  "speechText": "試験に受かって、うれしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 95,
+  "signature": "fca367359db967d399da0f383dc24219ce250d6e283092c352062f1171a19285",
+  "src": "/audio/voices/keita/N4-081-2.mp3",
+  "srt": "/audio/voices/keita/N4-081-2.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "32458eb851e7134fc1ad0c84aa328d5a5c224f9eae8d99781b0bc14ac87e97f6",
+  "peakPcm": 23668,
+  "rmsDbfs": -21.4,
+  "rate": "+0%",
+  "listened": false
+}

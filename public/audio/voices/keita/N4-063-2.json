@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-063",
+  "exampleIndex": 1,
+  "text": "これからも日本語を勉強していきます。",
+  "speechText": "これからも日本語を勉強していきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 86,
+  "signature": "dfb1680fd26adcd0c70b2077af67387f0d2b6e71aefbdbd72154bdb5351767ea",
+  "src": "/audio/voices/keita/N4-063-2.mp3",
+  "srt": "/audio/voices/keita/N4-063-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "54f1887762d85cebabb59f3e0cdbedb70b42dad096f59cbcab65565c0e732f26",
+  "peakPcm": 24545,
+  "rmsDbfs": -19.51,
+  "rate": "+0%",
+  "listened": false
+}

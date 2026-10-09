@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-007",
+  "exampleIndex": 0,
+  "text": "日本語を勉強するなら、この本がいいです。",
+  "speechText": "日本語を勉強するなら、この本がいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 58,
+  "signature": "dd6b63bba71ba847356f32f7cfe90fa460776cfbb20ec1e1adc0a2c34e8aa66a",
+  "src": "/audio/voices/nanami/N4-007-1.mp3",
+  "srt": "/audio/voices/nanami/N4-007-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "c8448165ff225b292efbba46d7867e641cb0ce335b51572f2102071722de1fc8",
+  "peakPcm": 21667,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

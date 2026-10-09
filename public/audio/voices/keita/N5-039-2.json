@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-039",
+  "exampleIndex": 1,
+  "text": "明日は試験ですから、早く寝ます。",
+  "speechText": "明日は試験ですから、早く寝ます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 29,
+  "signature": "c204a1c45ffd9eb0061108e550fa0c7079c18360765fb0b2015651187233bd2e",
+  "src": "/audio/voices/keita/N5-039-2.mp3",
+  "srt": "/audio/voices/keita/N5-039-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "6d3aa82061471ec158c56acf3be6b8a45e861c0d2b19c130ced90dac2c83235c",
+  "peakPcm": 23954,
+  "rmsDbfs": -21.14,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-061",
+  "exampleIndex": 0,
+  "text": "音楽を聞くのが好きです。",
+  "speechText": "音楽を聞くのが好きです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 40,
+  "signature": "fcd9d1ff719aa33d71990984563d26a93c8a423296539d2881af380a2426531f",
+  "src": "/audio/voices/keita/N5-061-1.mp3",
+  "srt": "/audio/voices/keita/N5-061-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "5d742e20befa83a55a1fdf38803ab9c91f6562d35e5678c2b7e2d2ba4087fa7b",
+  "peakPcm": 24513,
+  "rmsDbfs": -21.32,
+  "rate": "+0%",
+  "listened": false
+}

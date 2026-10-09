@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-070",
+  "exampleIndex": 1,
+  "text": "靴を履いたまま入らないでください。",
+  "speechText": "靴を履いたまま入らないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 89,
+  "signature": "cf11266aa37a28f0710487d8e1f420709e21ed4fa240a978bb055210eca2a261",
+  "src": "/audio/voices/keita/N4-070-2.mp3",
+  "srt": "/audio/voices/keita/N4-070-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "04c28a403826d2426012f3ff93af16b68b69e96f35e775640ae2d32dc1931b6b",
+  "peakPcm": 20825,
+  "rmsDbfs": -21.68,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-015",
+  "exampleIndex": 1,
+  "text": "昨日は外に出なかった。",
+  "speechText": "昨日は外に出なかった。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 17,
+  "signature": "492287a1f1eddf7a82b883020740e4fa689e43b87f990cdf7deee61a30fd5e2e",
+  "src": "/audio/voices/nanami/N5-015-2.mp3",
+  "srt": "/audio/voices/nanami/N5-015-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "b0b97a7613aa2e21a18a663488317fd65244dd63aeb7533c88e49aa23e8d6811",
+  "peakPcm": 22327,
+  "rmsDbfs": -18.02,
+  "rate": "+0%",
+  "listened": false
+}

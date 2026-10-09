@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-069",
+  "exampleIndex": 0,
+  "text": "これからも日本語を学び続けます。",
+  "speechText": "これからも日本語を学び続けます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 89,
+  "signature": "b17246c64d5a3072471af08b3c6a663033a63cd5479c91a81da7291f2b656ebf",
+  "src": "/audio/voices/nanami/N4-069-1.mp3",
+  "srt": "/audio/voices/nanami/N4-069-1.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "49c9ac1700d8f673d1355c8cd314bbd13734c17e3b9bf34e3c6026d15409a017",
+  "peakPcm": 21605,
+  "rmsDbfs": -16.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-023",
+  "exampleIndex": 1,
+  "text": "大学から資料をもらいました。",
+  "speechText": "大学から資料をもらいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 66,
+  "signature": "d92ec51614340bb313bf1c5bece14b8ddd82f2c1fa92a09fe5f5c616fc403cae",
+  "src": "/audio/voices/nanami/N4-023-2.mp3",
+  "srt": "/audio/voices/nanami/N4-023-2.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "17b94ccd05e5bd82b0a111ccb4299d5a073ba0d32fe04a85b12b7fda58bf0290",
+  "peakPcm": 21632,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

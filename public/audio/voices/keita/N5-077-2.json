@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-077",
+  "exampleIndex": 1,
+  "text": "ご住所はこちらに書いてください。",
+  "speechText": "ご住所はこちらに書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 48,
+  "signature": "4f592bc2ba7b7f05625bf3e2776517953498162dd6ffc09c944c4c8c32d95d50",
+  "src": "/audio/voices/keita/N5-077-2.mp3",
+  "srt": "/audio/voices/keita/N5-077-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "c033630821fd418e0a0cfd9af906383c7af33bc26f22a3fb7ceebd8832199ae9",
+  "peakPcm": 22516,
+  "rmsDbfs": -21.02,
+  "rate": "+0%",
+  "listened": false
+}

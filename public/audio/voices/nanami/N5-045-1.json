@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-045",
+  "exampleIndex": 0,
+  "text": "暇なとき、本を読みます。",
+  "speechText": "暇なとき、本を読みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 32,
+  "signature": "2681c119cba53fcde4536875f6f8f15adfe6cd9b1ad8e35162fcab456145cb16",
+  "src": "/audio/voices/nanami/N5-045-1.mp3",
+  "srt": "/audio/voices/nanami/N5-045-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "283648767057f9326f4e2a0025670ce86ac0ae2f2292ad96a026a0e0b5451977",
+  "peakPcm": 21448,
+  "rmsDbfs": -17.94,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-105",
+  "exampleIndex": 0,
+  "text": "鍵はどこに置いたかしら。",
+  "speechText": "鍵はどこに置いたかしら。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 107,
+  "signature": "fd67e1d2e8d6f25e76f4f643abbf4f58c31ec447f422e52da3af85c62d6be774",
+  "src": "/audio/voices/keita/N4-105-1.mp3",
+  "srt": "/audio/voices/keita/N4-105-1.srt",
+  "durationSeconds": 2.328,
+  "bytes": 13968,
+  "sha256": "87d42cfca512875838db2b54442fb9c00711207c2421332e612d267604cf2639",
+  "peakPcm": 22598,
+  "rmsDbfs": -21.79,
+  "rate": "+0%",
+  "listened": false
+}

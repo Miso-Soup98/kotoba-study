@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-065",
+  "exampleIndex": 0,
+  "text": "昨日の夜は本を読んでいました。",
+  "speechText": "昨日の夜は本を読んでいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 87,
+  "signature": "bd23a1cb9cc82c45d76f8384d5f716e153d7ab199a5e1ef17f134305939edce7",
+  "src": "/audio/voices/nanami/N4-065-1.mp3",
+  "srt": "/audio/voices/nanami/N4-065-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "cf1a1bfe04fbfa217b6c0602140b91dde2fa2ab98922852a975ec323a537f495",
+  "peakPcm": 22067,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

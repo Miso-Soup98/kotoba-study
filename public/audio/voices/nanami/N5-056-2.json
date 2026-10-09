@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-056",
+  "exampleIndex": 1,
+  "text": "部屋には誰もいません。",
+  "speechText": "部屋には誰もいません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 37,
+  "signature": "cff9e1348c08b34b4f52f8031a8893aaddb9cf91ba5c54cc2482d4dc075b0bc5",
+  "src": "/audio/voices/nanami/N5-056-2.mp3",
+  "srt": "/audio/voices/nanami/N5-056-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "18d9765a6524741526d011c94a0e6eb7686e129c943017421b62795151d7e8fe",
+  "peakPcm": 20077,
+  "rmsDbfs": -17.78,
+  "rate": "+0%",
+  "listened": false
+}

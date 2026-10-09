@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-021",
+  "exampleIndex": 1,
+  "text": "姉は弟に時計をあげました。",
+  "speechText": "姉は弟に時計をあげました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 65,
+  "signature": "f54d9cd572569105d0e729e9c596327c816fadf2acecd6a5e48955fbe8105e98",
+  "src": "/audio/voices/nanami/N4-021-2.mp3",
+  "srt": "/audio/voices/nanami/N4-021-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "230120389246d91fd90fc0f5e9f8e10364f0cd8e83bb584a674c05d89462815f",
+  "peakPcm": 20354,
+  "rmsDbfs": -17.05,
+  "rate": "+0%",
+  "listened": false
+}

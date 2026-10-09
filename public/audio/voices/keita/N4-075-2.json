@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-075",
+  "exampleIndex": 1,
+  "text": "部屋をきれいにしました。",
+  "speechText": "部屋をきれいにしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 92,
+  "signature": "90c3f601707181501e690520adf2080de7bd4bcc42b046d651c2313833e1cbf4",
+  "src": "/audio/voices/keita/N4-075-2.mp3",
+  "srt": "/audio/voices/keita/N4-075-2.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "3ba38a78be86037d94175f0573f0633c0759b9db0218372f1ee2dc6770c547e8",
+  "peakPcm": 25859,
+  "rmsDbfs": -19.63,
+  "rate": "+0%",
+  "listened": false
+}

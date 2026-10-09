@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-036",
+  "exampleIndex": 0,
+  "text": "あの人は学生みたいです。",
+  "speechText": "あの人は学生みたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 72,
+  "signature": "e02a97a01b8351faa6d053e579717ba0172f31a022c32bfa2f43f8a133c29329",
+  "src": "/audio/voices/nanami/N4-036-1.mp3",
+  "srt": "/audio/voices/nanami/N4-036-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "185f6d25268ef776c149f10c96e5f72345e82ed583130c0f556ffdb3db08bc68",
+  "peakPcm": 22071,
+  "rmsDbfs": -18.25,
+  "rate": "+0%",
+  "listened": false
+}

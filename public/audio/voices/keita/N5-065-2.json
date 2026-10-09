@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-065",
+  "exampleIndex": 1,
+  "text": "昨日は掃除したり、洗濯したりしました。",
+  "speechText": "昨日は掃除したり、洗濯したりしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 42,
+  "signature": "bd07902e1267cb70cde79d76bb23faa79982d2e54e50a7ca819a5beb8bd11ee8",
+  "src": "/audio/voices/keita/N5-065-2.mp3",
+  "srt": "/audio/voices/keita/N5-065-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "cf1ce66d471ccfe00eba010f5ec53b8a5e34d1cace43c36a7debbc115b410532",
+  "peakPcm": 20064,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

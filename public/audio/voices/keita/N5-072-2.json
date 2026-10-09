@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-072",
+  "exampleIndex": 1,
+  "text": "この部屋は誰でも使えます。",
+  "speechText": "この部屋は誰でも使えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 45,
+  "signature": "202c632aa98799f841bdecf1e747f85e52f10a5ac290e8ad9bff4bd2ffbc150a",
+  "src": "/audio/voices/keita/N5-072-2.mp3",
+  "srt": "/audio/voices/keita/N5-072-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "56b7cb72f6dbd75190e2d6d568f4505f3f8b74a864863604831b32c7f7117651",
+  "peakPcm": 22526,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

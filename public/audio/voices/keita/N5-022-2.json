@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-022",
+  "exampleIndex": 1,
+  "text": "あそこで話している人は先生です。",
+  "speechText": "あそこで話している人は先生です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 20,
+  "signature": "eeedb97a8baba03e962b70c407440586cb8183e8825ef621f88f87b2d9cdc807",
+  "src": "/audio/voices/keita/N5-022-2.mp3",
+  "srt": "/audio/voices/keita/N5-022-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "189092a40627b016e7d30debb369b495203e0611cbc0f177686efaee342a22e2",
+  "peakPcm": 21583,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

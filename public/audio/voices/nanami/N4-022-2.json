@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-022",
+  "exampleIndex": 1,
+  "text": "先生が妹に本をくれました。",
+  "speechText": "先生が妹に本をくれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 65,
+  "signature": "3187725018a6f8f0cc513623ba1bcd4f9ba23b6d03b5a443f0672cb44cfad677",
+  "src": "/audio/voices/nanami/N4-022-2.mp3",
+  "srt": "/audio/voices/nanami/N4-022-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "3e6a98d86d4b827a6a1991f88a0f075b4394e2ed7aeea169eb429a155aa0a8b2",
+  "peakPcm": 19623,
+  "rmsDbfs": -17.51,
+  "rate": "+0%",
+  "listened": false
+}

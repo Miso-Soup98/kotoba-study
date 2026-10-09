@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-017",
+  "exampleIndex": 1,
+  "text": "昔、ここは公園ではありませんでした。",
+  "speechText": "昔、ここは公園ではありませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 18,
+  "signature": "2a0a7deac8f202c4793ec5a367fbcb8c36eec983e41875c40a96261fec7ef590",
+  "src": "/audio/voices/nanami/N5-017-2.mp3",
+  "srt": "/audio/voices/nanami/N5-017-2.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "528ddba92bd8dc49f53f326a3832b643652831a04df125c89fb142fafaaac81c",
+  "peakPcm": 23192,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

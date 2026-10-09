@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-117",
+  "exampleIndex": 0,
+  "text": "犬を散歩に連れていってやりました。",
+  "speechText": "犬を散歩に連れていってやりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 113,
+  "signature": "daaade7f8f12c17e3256d7e965dc1b556f821979336f253409a79e379cad60f2",
+  "src": "/audio/voices/nanami/N4-117-1.mp3",
+  "srt": "/audio/voices/nanami/N4-117-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "b10e75c2039ecc563a28d76ffe7d557765c8888124ffa65932e826d6b2474ae1",
+  "peakPcm": 21943,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

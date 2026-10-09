@@ -11,6 +11,20 @@ import { rebuild } from "../lib/study/model.ts";
 import { lookupWord } from "../lib/ted/lookup.ts";
 import type { StudyEvent } from "../lib/study/types.ts";
 import type { TedArticle } from "../lib/ted/types.ts";
+
+test("uncertain PDF terms and dictionary edit notices cannot leak back through lookup fallbacks", () => {
+  const glossary = [{ term: "証明", reading: "しょうめい", meaning: "證明；Template:數證明", usage: "", examples: [], page: 1 }];
+  const article = { glossary, dictionary: { bad: glossary[0] } } as unknown as TedArticle;
+  const token = { surface: "証明", lemma: "証明", reading: "しょうめい", pos: "名詞", dictionaryId: "bad" };
+  assert.equal(lookupWord(article, token).gloss, undefined);
+  article.glossary = [{ ...glossary[0], meaning: "证明", uncertainTerm: true }];
+  article.corrections = [{ id: "test", kind: "glossary", term: "証明", original: {}, reason: "reading only", reference: { title: "test" } }];
+  assert.equal(lookupWord(article, token).gloss, undefined);
+  article.glossary[0].uncertainTerm = false;
+  assert.equal(lookupWord(article, token).gloss?.meaning, "证明");
+  article.glossary[0].displayHidden = true;
+  assert.equal(lookupWord(article, token).gloss, undefined);
+});
 test("unknown inflections retain their surface reading and cannot overwrite a reliable headword card", async () => {
   const paragraph = {
     id: "p1",

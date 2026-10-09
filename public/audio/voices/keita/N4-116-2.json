@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-116",
+  "exampleIndex": 1,
+  "text": "家族の大切さが分かりました。",
+  "speechText": "家族の大切さが分かりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 113,
+  "signature": "96b43011d2241c2d28ff47bd019c7bc6bacfb4802be8325ae811b324df3aa558",
+  "src": "/audio/voices/keita/N4-116-2.mp3",
+  "srt": "/audio/voices/keita/N4-116-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "5f18a07e93fb3360f4c015fc94387a3067c0185ccfe470e21bb21103782f5976",
+  "peakPcm": 18942,
+  "rmsDbfs": -22.5,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-077",
+  "exampleIndex": 0,
+  "text": "お名前を教えてください。",
+  "speechText": "お名前を教えてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 48,
+  "signature": "090c94388e5b7a1c398aecc2b01bbc028c948926451872eb10d7c5110c527c2d",
+  "src": "/audio/voices/nanami/N5-077-1.mp3",
+  "srt": "/audio/voices/nanami/N5-077-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "9097d89d78463f0f6623051bd81149293e52a7eb1fb201f6f8bf9e64d68f4646",
+  "peakPcm": 21376,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

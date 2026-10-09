@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-082",
+  "exampleIndex": 0,
+  "text": "返事が遅くなってすみません。",
+  "speechText": "返事が遅くなってすみません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 95,
+  "signature": "0bbcb91da772e0d05ffc4ba1ee4839cd7e99cd0c452e916cd771c237e0c44e09",
+  "src": "/audio/voices/keita/N4-082-1.mp3",
+  "srt": "/audio/voices/keita/N4-082-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "9b2e8d6381607c32b23e3bb376972c724adeb88c0b633b1bc607dadad0e581aa",
+  "peakPcm": 23199,
+  "rmsDbfs": -21.15,
+  "rate": "+0%",
+  "listened": false
+}

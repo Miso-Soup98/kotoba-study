@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-096",
+  "exampleIndex": 0,
+  "text": "今、資料を読んでいるところです。",
+  "speechText": "今、資料を読んでいるところです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 102,
+  "signature": "ca3910c8d739e254726ae1ade0b78e43be9cc5b5f5cbf8be685733e0d6db012d",
+  "src": "/audio/voices/keita/N4-096-1.mp3",
+  "srt": "/audio/voices/keita/N4-096-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "81ea7c80b04c0a9038ba75d004768396562c21ca90d33d29d70b79993989cf9d",
+  "peakPcm": 21614,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

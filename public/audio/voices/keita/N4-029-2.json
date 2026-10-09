@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-029",
+  "exampleIndex": 1,
+  "text": "地図を見ながら、駅まで歩きました。",
+  "speechText": "地図を見ながら、駅まで歩きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 69,
+  "signature": "06e4454b2c639123be2dcac9eb2feaa95e42f854914a2743195d0e180ea977b7",
+  "src": "/audio/voices/keita/N4-029-2.mp3",
+  "srt": "/audio/voices/keita/N4-029-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "19c554100891b0009d39bfb5c0ed2478f85ba97aa89caeed81a50c104cd21487",
+  "peakPcm": 24104,
+  "rmsDbfs": -21.34,
+  "rate": "+0%",
+  "listened": false
+}

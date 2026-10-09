@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-027",
+  "exampleIndex": 0,
+  "text": "もう一度説明していただけませんか。",
+  "speechText": "もう一度説明していただけませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 68,
+  "signature": "b7c5b9ecea0c8a760b3dc533e3d86c55283a5cf7782645f1710822b6e80204af",
+  "src": "/audio/voices/keita/N4-027-1.mp3",
+  "srt": "/audio/voices/keita/N4-027-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "d7b98021e365773151f58f47f79a6f5d27a6f57466b7032198849b8e273e07fc",
+  "peakPcm": 21853,
+  "rmsDbfs": -20.17,
+  "rate": "+0%",
+  "listened": false
+}

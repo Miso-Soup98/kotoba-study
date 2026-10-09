@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-006",
+  "exampleIndex": 1,
+  "text": "毎日練習すれば、少しずつ上手になります。",
+  "speechText": "毎日練習すれば、少しずつ上手になります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 57,
+  "signature": "bd5e93583d3dc8fb7ef220749cefb9577f07269890c146398bbc096dfa866962",
+  "src": "/audio/voices/nanami/N4-006-2.mp3",
+  "srt": "/audio/voices/nanami/N4-006-2.srt",
+  "durationSeconds": 4.488,
+  "bytes": 26928,
+  "sha256": "e1eb7273ae3803b16309a6932a57c3b2d6b7e730663daae768a9f4e7dd73a5da",
+  "peakPcm": 22507,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-075",
+  "exampleIndex": 0,
+  "text": "音を小さくしてください。",
+  "speechText": "音を小さくしてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 92,
+  "signature": "daaf3061ef8861a601ff22e74c3c4b41887cfbfef2279cfc3b0e0c78e5ae106f",
+  "src": "/audio/voices/keita/N4-075-1.mp3",
+  "srt": "/audio/voices/keita/N4-075-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "84531994f9d4c5c630ec4edafeea494fdb43fef8cd7266e8a7f81112a3c978a1",
+  "peakPcm": 21899,
+  "rmsDbfs": -21.5,
+  "rate": "+0%",
+  "listened": false
+}

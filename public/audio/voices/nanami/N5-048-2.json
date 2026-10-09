@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-048",
+  "exampleIndex": 1,
+  "text": "見るだけで、買いません。",
+  "speechText": "見るだけで、買いません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 33,
+  "signature": "a158f747618306266c0400a97fb82e7ad93402c9eab65af471a37c3415234d2e",
+  "src": "/audio/voices/nanami/N5-048-2.mp3",
+  "srt": "/audio/voices/nanami/N5-048-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "55c20f74295d48f0c7a3efe00992fb965f8367fad3d8b97404e26cf892c9a5e4",
+  "peakPcm": 21141,
+  "rmsDbfs": -18.36,
+  "rate": "+0%",
+  "listened": false
+}

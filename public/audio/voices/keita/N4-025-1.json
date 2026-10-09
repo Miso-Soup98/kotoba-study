@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-025",
+  "exampleIndex": 0,
+  "text": "友達が駅まで迎えに来てくれました。",
+  "speechText": "友達が駅まで迎えに来てくれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 67,
+  "signature": "47016393e5dda735c3030b2f8d87273633e23be5349f058ccc03d43f90578ff3",
+  "src": "/audio/voices/keita/N4-025-1.mp3",
+  "srt": "/audio/voices/keita/N4-025-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "1b1f27d3dd0cf04c34dab504b0132e9e7636c4842bb79ff6e31531f7dabcf92a",
+  "peakPcm": 22798,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-119",
+  "exampleIndex": 1,
+  "text": "何度も失敗しました。それでも、続けます。",
+  "speechText": "何度も失敗しました。それでも、続けます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 114,
+  "signature": "8f336acf72fce5bd8cf04db8ec4e279d03385d049f115bde3f9661559b8d9290",
+  "src": "/audio/voices/nanami/N4-119-2.mp3",
+  "srt": "/audio/voices/nanami/N4-119-2.srt",
+  "durationSeconds": 4.968,
+  "bytes": 29808,
+  "sha256": "bec38730a9c7072cb1bbe0f1b664796ba59d6a805f9346a31c1bfb7c569d8bb9",
+  "peakPcm": 23360,
+  "rmsDbfs": -18.58,
+  "rate": "+0%",
+  "listened": false
+}

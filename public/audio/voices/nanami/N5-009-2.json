@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-009",
+  "exampleIndex": 1,
+  "text": "週末、国へ帰ります。",
+  "speechText": "週末、国へ帰ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 14,
+  "signature": "5e012eaebe56c0d1ff0614fe7a7ba7cf9dc623dadc60feb48f52bcc47706586e",
+  "src": "/audio/voices/nanami/N5-009-2.mp3",
+  "srt": "/audio/voices/nanami/N5-009-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "be8e6b1d3fffe55e9d615bf6df2a30aafd90e6a79275427cfb3b317f1c4ae7b5",
+  "peakPcm": 19634,
+  "rmsDbfs": -18.14,
+  "rate": "+0%",
+  "listened": false
+}

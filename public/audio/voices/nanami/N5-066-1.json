@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-066",
+  "exampleIndex": 0,
+  "text": "疲れているなら、少し休んだほうがいいです。",
+  "speechText": "疲れているなら、少し休んだほうがいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 42,
+  "signature": "22b915dfe4ed2a14cbfe814dfe8c31fadc804e358b408306f3c818758bcb5c3c",
+  "src": "/audio/voices/nanami/N5-066-1.mp3",
+  "srt": "/audio/voices/nanami/N5-066-1.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "7ac66a9cec2f55b483952e8b23ce4b47f804775dac8fda1bb8ebf8966b1a11a4",
+  "peakPcm": 21314,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

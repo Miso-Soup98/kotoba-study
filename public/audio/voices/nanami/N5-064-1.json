@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-064",
+  "exampleIndex": 0,
+  "text": "飲み物はお茶にします。",
+  "speechText": "飲み物はお茶にします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 41,
+  "signature": "7809df775e7da1b7ed7df5f20aef4066a6504144e007052433273eea0d1a38b7",
+  "src": "/audio/voices/nanami/N5-064-1.mp3",
+  "srt": "/audio/voices/nanami/N5-064-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "728426fb87d73c8ca6b5bce84fb1563f42bca7d0f6c9bde8796ac41de1e87633",
+  "peakPcm": 21412,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

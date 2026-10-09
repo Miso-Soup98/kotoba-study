@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-052",
+  "exampleIndex": 0,
+  "text": "今日は寒いですね。",
+  "speechText": "今日は寒いですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 35,
+  "signature": "1fe38e697c6960eb2fb89e577c1618e3fbbe64810aebe7e015c283f98133f12b",
+  "src": "/audio/voices/nanami/N5-052-1.mp3",
+  "srt": "/audio/voices/nanami/N5-052-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "9dc0d2930b41c6284ab161a79a9d931e441f6fd9b00017df82049033d853fff5",
+  "peakPcm": 22097,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

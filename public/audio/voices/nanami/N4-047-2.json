@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-047",
+  "exampleIndex": 1,
+  "text": "この説明は難しすぎます。",
+  "speechText": "この説明は難しすぎます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 78,
+  "signature": "61623bd6d2be345614c2ecc4aa57ee4b3d976a0f9cd859f7e1b849ef643373a8",
+  "src": "/audio/voices/nanami/N4-047-2.mp3",
+  "srt": "/audio/voices/nanami/N4-047-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "65cfdcdbf6f5c29878e4d3a2dc4b13ecdc9e7706a63783080ff6e33cad666a14",
+  "peakPcm": 20902,
+  "rmsDbfs": -18.2,
+  "rate": "+0%",
+  "listened": false
+}

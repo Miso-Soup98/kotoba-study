@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-061",
+  "exampleIndex": 0,
+  "text": "音楽を聞くのが好きです。",
+  "speechText": "音楽を聞くのが好きです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 40,
+  "signature": "94327a191e117e6fa35d9f514ac33a275cc4129d64e83023c07a256272a0cd30",
+  "src": "/audio/voices/nanami/N5-061-1.mp3",
+  "srt": "/audio/voices/nanami/N5-061-1.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "744b277c9cf023845f5b81eca07f2e653462500f98e8ce3d0f1ba5c112c2b991",
+  "peakPcm": 23163,
+  "rmsDbfs": -18.37,
+  "rate": "+0%",
+  "listened": false
+}

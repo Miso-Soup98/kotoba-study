@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-022",
+  "exampleIndex": 1,
+  "text": "あそこで話している人は先生です。",
+  "speechText": "あそこで話している人は先生です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 20,
+  "signature": "d7bc28888d4ca947fe2ad7c5c0bffc104ec877309fbbfba013fe590849d58275",
+  "src": "/audio/voices/nanami/N5-022-2.mp3",
+  "srt": "/audio/voices/nanami/N5-022-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "c468a14af62878568e5317256a5c6c198714f4e89fc8e6905377f288d6ea2ed8",
+  "peakPcm": 21963,
+  "rmsDbfs": -17.78,
+  "rate": "+0%",
+  "listened": false
+}

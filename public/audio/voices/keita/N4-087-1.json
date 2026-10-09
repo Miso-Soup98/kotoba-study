@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-087",
+  "exampleIndex": 0,
+  "text": "田中さんは明日来るって言っていました。",
+  "speechText": "田中さんは明日来るって言っていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 98,
+  "signature": "13a89b1eaac6270d3c77965b7d4b2e090fb0df06507a6533aeedfcef5d966f10",
+  "src": "/audio/voices/keita/N4-087-1.mp3",
+  "srt": "/audio/voices/keita/N4-087-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "62ea3d84bf28c484da1f0be06194f7f5d468df0e0c2120fdb2aff3bb323cbb34",
+  "peakPcm": 23890,
+  "rmsDbfs": -21.44,
+  "rate": "+0%",
+  "listened": false
+}

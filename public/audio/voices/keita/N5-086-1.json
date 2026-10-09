@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-086",
+  "exampleIndex": 0,
+  "text": "受付はこちらです。",
+  "speechText": "受付はこちらです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 52,
+  "signature": "bbdd4b99dd44f619295cb4c5e37f718f7fe3c2be68a992333c8ca83c348f30cd",
+  "src": "/audio/voices/keita/N5-086-1.mp3",
+  "srt": "/audio/voices/keita/N5-086-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "874b913449a6b82307e2e98af6e4fe417bb28e536f238d6997fb49cf9d1157f6",
+  "peakPcm": 24069,
+  "rmsDbfs": -21.63,
+  "rate": "+0%",
+  "listened": false
+}

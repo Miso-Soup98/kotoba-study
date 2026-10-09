@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-065",
+  "exampleIndex": 1,
+  "text": "以前は大阪に住んでいました。",
+  "speechText": "以前は大阪に住んでいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 87,
+  "signature": "25aaf25a205dad528bd9a480ddb00dd6ad2d1f5a68e56a85de7329b75c333814",
+  "src": "/audio/voices/keita/N4-065-2.mp3",
+  "srt": "/audio/voices/keita/N4-065-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "a7ba5127ff93adbfa4457eeae194aba038d78dbcbb104a2d8d7194a69ccf85a5",
+  "peakPcm": 22391,
+  "rmsDbfs": -21.0,
+  "rate": "+0%",
+  "listened": false
+}

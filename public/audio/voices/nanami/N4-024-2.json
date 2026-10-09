@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-024",
+  "exampleIndex": 1,
+  "text": "妹の荷物を持ってあげました。",
+  "speechText": "妹の荷物を持ってあげました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 66,
+  "signature": "0398d2f206e63e87986bd88f883c638c1eb0a45da95928167c1abd6952c29783",
+  "src": "/audio/voices/nanami/N4-024-2.mp3",
+  "srt": "/audio/voices/nanami/N4-024-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "c082c376e94f8daaae3fe1f425468567e93addb2e444c2b8109791a9ccd09ff7",
+  "peakPcm": 21729,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

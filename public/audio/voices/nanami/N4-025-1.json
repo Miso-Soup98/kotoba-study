@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-025",
+  "exampleIndex": 0,
+  "text": "友達が駅まで迎えに来てくれました。",
+  "speechText": "友達が駅まで迎えに来てくれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 67,
+  "signature": "37fb971eb11f7351e1c2f04efb1eadff59eaff71afe709ac0c883f55e21739b0",
+  "src": "/audio/voices/nanami/N4-025-1.mp3",
+  "srt": "/audio/voices/nanami/N4-025-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "3e830e4090e806aa779bdb3f01d3a07b07c173dab2b47e8044bc89f5ae4a4a36",
+  "peakPcm": 20528,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

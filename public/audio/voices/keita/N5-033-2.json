@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-033",
+  "exampleIndex": 1,
+  "text": "そろそろ帰りましょうか。",
+  "speechText": "そろそろ帰りましょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 26,
+  "signature": "01cf64ddf3ecb3035515d14f1a56673e9b0439791595055e0e63eec01fa42fb8",
+  "src": "/audio/voices/keita/N5-033-2.mp3",
+  "srt": "/audio/voices/keita/N5-033-2.srt",
+  "durationSeconds": 2.328,
+  "bytes": 13968,
+  "sha256": "8f84cb5f061cae87eef91e75221dcce4937556e982086ea04e71f0c33c15358b",
+  "peakPcm": 20831,
+  "rmsDbfs": -21.37,
+  "rate": "+0%",
+  "listened": false
+}

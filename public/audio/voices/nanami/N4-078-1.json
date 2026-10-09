@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-078",
+  "exampleIndex": 0,
+  "text": "今日は春らしい天気です。",
+  "speechText": "今日は春らしい天気です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 93,
+  "signature": "a43fbaa9d9102ece48b7e0bbd1157cf8cac58bae92f0653688fac25f67e3a7a9",
+  "src": "/audio/voices/nanami/N4-078-1.mp3",
+  "srt": "/audio/voices/nanami/N4-078-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "1c510956213b75bb06509a5bee242ff3beecec815c6e8817eac62d04b4aaff2e",
+  "peakPcm": 21854,
+  "rmsDbfs": -17.57,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-038",
+  "exampleIndex": 0,
+  "text": "雨なので、家にいます。",
+  "speechText": "雨なので、家にいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 28,
+  "signature": "a708be529a610ccae65880f7cc3f12c9fa606c6eb3324a313826f35e348cacc5",
+  "src": "/audio/voices/keita/N5-038-1.mp3",
+  "srt": "/audio/voices/keita/N5-038-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "35502f89023ff37bf0414cce0cc6b705b0154f9233d9f2c932a23523d2b80fa3",
+  "peakPcm": 25736,
+  "rmsDbfs": -21.33,
+  "rate": "+0%",
+  "listened": false
+}

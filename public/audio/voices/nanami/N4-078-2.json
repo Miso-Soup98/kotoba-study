@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-078",
+  "exampleIndex": 1,
+  "text": "最後まで自分らしく話してください。",
+  "speechText": "最後まで自分らしく話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 93,
+  "signature": "3e6790fd6a24c841606a2b6f7d6cc6e505af7de783479e30ba19c89578f912f7",
+  "src": "/audio/voices/nanami/N4-078-2.mp3",
+  "srt": "/audio/voices/nanami/N4-078-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "ecf0b95d6002b6ff451605a643f8eb39fc3e3cbf1e2faf7b8d82cf5a19b3f383",
+  "peakPcm": 21393,
+  "rmsDbfs": -18.4,
+  "rate": "+0%",
+  "listened": false
+}

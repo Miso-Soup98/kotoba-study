@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-056",
+  "exampleIndex": 0,
+  "text": "財布が見つからなくて、困っています。",
+  "speechText": "財布が見つからなくて、困っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 82,
+  "signature": "30a6525799fb8840e06ae1ca7bc36b666eec116287fa725f303b5f6d75541771",
+  "src": "/audio/voices/nanami/N4-056-1.mp3",
+  "srt": "/audio/voices/nanami/N4-056-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "1fa136234c464e0a26f9312124866ae88ca2deb23da159ed65f3f62055c2fd2e",
+  "peakPcm": 22224,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-066",
+  "exampleIndex": 1,
+  "text": "子供はもう歩き始めました。",
+  "speechText": "子供はもう歩き始めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 87,
+  "signature": "d51c5fd3f3f95c0c11ba3ab39cf87b2048e1928dfb2ca5fda5685418a6e45ff2",
+  "src": "/audio/voices/keita/N4-066-2.mp3",
+  "srt": "/audio/voices/keita/N4-066-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "9d00fdd9b4055df47d54956761ed4815402f25e448ff8f0b16005e209f2f1105",
+  "peakPcm": 23848,
+  "rmsDbfs": -19.59,
+  "rate": "+0%",
+  "listened": false
+}

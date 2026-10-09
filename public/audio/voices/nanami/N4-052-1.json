@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-052",
+  "exampleIndex": 0,
+  "text": "明日行けるかどうか、まだ分かりません。",
+  "speechText": "明日行けるかどうか、まだ分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 80,
+  "signature": "304aeaecfd4b7c7acb6ceee806ff28cdcb8d6b9b13c648ddf9d90879b7296bcd",
+  "src": "/audio/voices/nanami/N4-052-1.mp3",
+  "srt": "/audio/voices/nanami/N4-052-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "ce5c768970eae50c529ac9fc04531d070038357b52dc8eb008a1626d2fbacd94",
+  "peakPcm": 20172,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

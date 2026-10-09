@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-040",
+  "exampleIndex": 0,
+  "text": "この店は小さいですが、便利です。",
+  "speechText": "この店は小さいですが、便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 29,
+  "signature": "c2ea207699caa40d2fa8745addbef4e952444ed76a401f7efb04d07f4204d44a",
+  "src": "/audio/voices/nanami/N5-040-1.mp3",
+  "srt": "/audio/voices/nanami/N5-040-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "fb96347844e5d5af0f2108d94271a31fc7a04f12d64a8b6eef445cd84e41ad75",
+  "peakPcm": 20653,
+  "rmsDbfs": -18.37,
+  "rate": "+0%",
+  "listened": false
+}

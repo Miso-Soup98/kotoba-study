@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-008",
+  "exampleIndex": 1,
+  "text": "春になると、暖かくなります。",
+  "speechText": "春になると、暖かくなります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 58,
+  "signature": "e68b82e4dc86f414ccf41fec16b0cd21e0de45200b926b78227acc092c01a20b",
+  "src": "/audio/voices/nanami/N4-008-2.mp3",
+  "srt": "/audio/voices/nanami/N4-008-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "2831aaeb655f446eb38ab39c74b7d28f0b75755c43b9d903e2caa72c705b387c",
+  "peakPcm": 20555,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-072",
+  "exampleIndex": 1,
+  "text": "この部屋は誰でも使えます。",
+  "speechText": "この部屋は誰でも使えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 45,
+  "signature": "fd96b5ecb5e8b481ef2d8f5b8a71d8a8afc9ea64f0b610568c0aa91609469800",
+  "src": "/audio/voices/nanami/N5-072-2.mp3",
+  "srt": "/audio/voices/nanami/N5-072-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "30907e9d6ad1e8016a23edcbf8a60c295872b1c0772e9af1cc34959d1dd4fa20",
+  "peakPcm": 22652,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

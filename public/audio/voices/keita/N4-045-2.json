@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-045",
+  "exampleIndex": 1,
+  "text": "もう遅いから、帰ろう。",
+  "speechText": "もう遅いから、帰ろう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 77,
+  "signature": "f84982a972f878184000f3be41242e907763d735697915e3e9093cb01a43147e",
+  "src": "/audio/voices/keita/N4-045-2.mp3",
+  "srt": "/audio/voices/keita/N4-045-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "f873feb3b64969a0186842eb6b57e0914dfa05f6a09fafc28cf07b17bf93ade9",
+  "peakPcm": 24485,
+  "rmsDbfs": -20.54,
+  "rate": "+0%",
+  "listened": false
+}

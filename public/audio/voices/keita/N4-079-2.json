@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-079",
+  "exampleIndex": 1,
+  "text": "妹は日本へ行きたがっています。",
+  "speechText": "妹は日本へ行きたがっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 94,
+  "signature": "a416d4066941a73143669ce1287a043841847e764a8e6039ece0aa3b4065a9c4",
+  "src": "/audio/voices/keita/N4-079-2.mp3",
+  "srt": "/audio/voices/keita/N4-079-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "649e64133573d370a45f59325b9a1185d4bb07c6685547331153cbb40383314d",
+  "peakPcm": 22036,
+  "rmsDbfs": -19.44,
+  "rate": "+0%",
+  "listened": false
+}

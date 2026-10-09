@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-021",
+  "exampleIndex": 1,
+  "text": "静かに話してください。",
+  "speechText": "静かに話してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 20,
+  "signature": "a26eed46aed8d89594115a8c49134e4af922367050fe57381f4bfe99512d0c56",
+  "src": "/audio/voices/keita/N5-021-2.mp3",
+  "srt": "/audio/voices/keita/N5-021-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "b5104b92125df79f4d8ec16005ac108f850d0b96df833e10bcec1b67496e39ea",
+  "peakPcm": 23743,
+  "rmsDbfs": -22.7,
+  "rate": "+0%",
+  "listened": false
+}

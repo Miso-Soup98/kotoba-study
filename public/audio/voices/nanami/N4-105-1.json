@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-105",
+  "exampleIndex": 0,
+  "text": "鍵はどこに置いたかしら。",
+  "speechText": "鍵はどこに置いたかしら。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 107,
+  "signature": "02d2e0f0adee9cbaede01df27bfc3461f82ee706fbdcfd243f8727d334dc2372",
+  "src": "/audio/voices/nanami/N4-105-1.mp3",
+  "srt": "/audio/voices/nanami/N4-105-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "8c03cf2e5079c2d0f6c1766c734eaf76140609b869daf97fc8e96f9cf8b53344",
+  "peakPcm": 18809,
+  "rmsDbfs": -18.88,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-053",
+  "exampleIndex": 1,
+  "text": "あなたの傘はどれですか。",
+  "speechText": "あなたの傘はどれですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 36,
+  "signature": "3030cd935f5f251d0471deabd858b49d1607f06c2fe9df8a2a4bbc21b3194180",
+  "src": "/audio/voices/nanami/N5-053-2.mp3",
+  "srt": "/audio/voices/nanami/N5-053-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "2ea6adf44b3451aa5c84f62890f55918b80f4f3e3aebd2fef9cdd66ec4c2b1ad",
+  "peakPcm": 20384,
+  "rmsDbfs": -18.68,
+  "rate": "+0%",
+  "listened": false
+}

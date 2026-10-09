@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-126",
+  "exampleIndex": 1,
+  "text": "さすがに一晩では全部読めません。",
+  "speechText": "さすがに一晩では全部読めません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 118,
+  "signature": "00e06cb8ae649bd7ea295ff282e92be03392c686ad03b2ffe1be7adaad705c31",
+  "src": "/audio/voices/nanami/N4-126-2.mp3",
+  "srt": "/audio/voices/nanami/N4-126-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "fcfa0d3ed827ddc0d2d6a7172c3698ba6810050efc6ce26f18b2c832ccfd0b73",
+  "peakPcm": 21176,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

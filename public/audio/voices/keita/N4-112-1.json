@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-112",
+  "exampleIndex": 0,
+  "text": "魚は食べますが、肉は食べません。",
+  "speechText": "魚は食べますが、肉は食べません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 111,
+  "signature": "c6983f4a88ef0f53c2410376df2ee2840364e656fa543df146f90500547b70e6",
+  "src": "/audio/voices/keita/N4-112-1.mp3",
+  "srt": "/audio/voices/keita/N4-112-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "8aa283c114449f20b0a0077af497fd3ad19ea85718dfc54aeb7d426b9520b807",
+  "peakPcm": 23039,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-081",
+  "exampleIndex": 0,
+  "text": "一週間に三回走ります。",
+  "speechText": "一週間に三回走ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 50,
+  "signature": "93d627cd1845b35ad31ecb70780e37ab15727bbeb8bc12c5c886ee0726bacbc7",
+  "src": "/audio/voices/nanami/N5-081-1.mp3",
+  "srt": "/audio/voices/nanami/N5-081-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "7120377cb17bd7e264b85353a5f1383b51d93e336da01480482b25da7053b85a",
+  "peakPcm": 18641,
+  "rmsDbfs": -18.49,
+  "rate": "+0%",
+  "listened": false
+}

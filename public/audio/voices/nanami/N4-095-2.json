@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-095",
+  "exampleIndex": 1,
+  "text": "家族のために働いています。",
+  "speechText": "家族のために働いています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 102,
+  "signature": "bf0912a5b35b98cf557994db5b876a6aa3d1443711436dcb2c1f9d9ee9dd5c34",
+  "src": "/audio/voices/nanami/N4-095-2.mp3",
+  "srt": "/audio/voices/nanami/N4-095-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "113fdc15b88c099ad740b608a19c4b3d40a4285e9f21e206ec33bf260b8bd375",
+  "peakPcm": 22179,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

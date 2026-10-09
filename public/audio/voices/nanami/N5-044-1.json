@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-044",
+  "exampleIndex": 0,
+  "text": "寝る前に歯を磨きます。",
+  "speechText": "寝る前に歯を磨きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 31,
+  "signature": "d0ed837fd9028860550e992b676110b20f14d2a762df5a9477585632d2c0d0c4",
+  "src": "/audio/voices/nanami/N5-044-1.mp3",
+  "srt": "/audio/voices/nanami/N5-044-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "03bae293d22544033016eb691dfc64abf7fc8dbea8cee99a030827403e1774d9",
+  "peakPcm": 21387,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

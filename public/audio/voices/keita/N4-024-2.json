@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-024",
+  "exampleIndex": 1,
+  "text": "妹の荷物を持ってあげました。",
+  "speechText": "妹の荷物を持ってあげました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 66,
+  "signature": "54b16ffb50411feef6f189434273fe105b8e50f03e37d843972c3dc792b84c88",
+  "src": "/audio/voices/keita/N4-024-2.mp3",
+  "srt": "/audio/voices/keita/N4-024-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "e65545a76025b044589cd53fdfcc9ab7e05eb7bf248f5fe5df734a934ff27a87",
+  "peakPcm": 21519,
+  "rmsDbfs": -19.9,
+  "rate": "+0%",
+  "listened": false
+}

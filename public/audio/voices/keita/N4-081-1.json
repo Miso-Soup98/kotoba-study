@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-081",
+  "exampleIndex": 0,
+  "text": "道が分からなくて、遅れました。",
+  "speechText": "道が分からなくて、遅れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 95,
+  "signature": "f7181540bcd75bd85c342cfb64ff697a2390c93759e75bba987b397a17acab24",
+  "src": "/audio/voices/keita/N4-081-1.mp3",
+  "srt": "/audio/voices/keita/N4-081-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "42cfa2a06b9632b02665ffcf8827f0ac138a57d73bd702f3c4dc1d66c8894502",
+  "peakPcm": 22451,
+  "rmsDbfs": -21.19,
+  "rate": "+0%",
+  "listened": false
+}

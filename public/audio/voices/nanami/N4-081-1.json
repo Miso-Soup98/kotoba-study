@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-081",
+  "exampleIndex": 0,
+  "text": "道が分からなくて、遅れました。",
+  "speechText": "道が分からなくて、遅れました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 95,
+  "signature": "387c231b83c0da4367c2692eb9d4c5acd197cdbe8cb022fd317794fb356d2bc0",
+  "src": "/audio/voices/nanami/N4-081-1.mp3",
+  "srt": "/audio/voices/nanami/N4-081-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "ba52837c6aafa09c6a02d1775877330cba05c25d5c1c66511f1eed41285418a6",
+  "peakPcm": 23121,
+  "rmsDbfs": -17.79,
+  "rate": "+0%",
+  "listened": false
+}

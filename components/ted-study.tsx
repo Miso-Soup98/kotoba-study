@@ -564,8 +564,8 @@ export function TedStudy({
             <p role="alert">词组和语法讲解未能加载，请重新打开 TED 页面。</p>
           )}
           <TedCorrections article={article} />
-          {article.review && <div className="context-lesson"><strong>本篇正文与译义已对照原图复核 · {article.review.reviewedAt}</strong>
-            <p>语境讲解优先于自动匹配提示。读音仍需结合原音核对。</p>
+          {article.review && <div className="context-lesson"><strong>{article.review.method === "text-audit" ? "本篇已做抽取文本审读" : "本篇正文与译义已对照原图复核"} · {article.review.reviewedAt}</strong>
+            <p>{article.review.method === "text-audit" ? "已订正可确认的文字问题；缺段、错列及无法确认的词注仍需对照原 PDF。原音未逐句试听。" : "语境讲解优先于自动匹配提示。读音仍需结合原音核对。"}</p>
             {!!article.review.remainingIssues.length && <details><summary>仍需留意的原文问题</summary>
               {article.review.remainingIssues.map((issue, i) => <p key={i}>{issue}</p>)}</details>}</div>}
           <details className="ted-source-notes">
@@ -586,6 +586,7 @@ export function TedStudy({
                     className={`panel ted-paragraph ${activeParagraph === paragraph.id ? "listening" : ""} ${paragraphId === paragraph.id ? "selected" : ""}`}
                     key={paragraph.id}
                   >
+                    {paragraph.reviewNote && <p className="footnote" role="note">待核对：{paragraph.reviewNote}</p>}
                     <div className="section-heading">
                       <span>
                         第 {index + 1} 段 · P.{paragraph.page}
@@ -748,6 +749,7 @@ export function TedStudy({
                   <summary>
                     <span lang="ja">{g.term}</span> <small>{g.reading}</small>
                   </summary>
+                  {g.reviewNote && <p className="footnote" role="note">待核对：{g.reviewNote}</p>}
                   <p>{g.meaning}</p>
                   {g.usage && <p>{g.usage}</p>}
                   {g.examples.map((ex, i) => (

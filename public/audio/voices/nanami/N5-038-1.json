@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-038",
+  "exampleIndex": 0,
+  "text": "雨なので、家にいます。",
+  "speechText": "雨なので、家にいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 28,
+  "signature": "924015024f811c77564fc892c72db2716eef7ce0873215738b01fd6b205ce899",
+  "src": "/audio/voices/nanami/N5-038-1.mp3",
+  "srt": "/audio/voices/nanami/N5-038-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "c962cc93341759976f2bdb845d8acbabfbc56d3bcd06dd88f70b0a43b8987989",
+  "peakPcm": 22759,
+  "rmsDbfs": -17.89,
+  "rate": "+0%",
+  "listened": false
+}

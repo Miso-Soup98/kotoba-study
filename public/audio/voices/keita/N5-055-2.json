@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-055",
+  "exampleIndex": 1,
+  "text": "受付はあそこです。",
+  "speechText": "受付はあそこです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 37,
+  "signature": "ac19434df3aba28ff20817f34dd10e1786d889ce8a1306396f98af0a4763bab1",
+  "src": "/audio/voices/keita/N5-055-2.mp3",
+  "srt": "/audio/voices/keita/N5-055-2.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "0b4daac7da4befb15429bc2cf7ec07f0b3b7476a9b4d7edd7428f923deeae811",
+  "peakPcm": 24227,
+  "rmsDbfs": -21.62,
+  "rate": "+0%",
+  "listened": false
+}

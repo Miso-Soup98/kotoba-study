@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-026",
+  "exampleIndex": 1,
+  "text": "窓を開けないでください。",
+  "speechText": "窓を開けないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 22,
+  "signature": "8b431f618a0b9034d4166a00a066211d36bda8b7a3b883f49d8c9a624c023b9c",
+  "src": "/audio/voices/nanami/N5-026-2.mp3",
+  "srt": "/audio/voices/nanami/N5-026-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "b0e9814c09eda6683b59e30a27ca7d14a27e77b2dd167ef9971531348e9524cd",
+  "peakPcm": 21224,
+  "rmsDbfs": -18.15,
+  "rate": "+0%",
+  "listened": false
+}

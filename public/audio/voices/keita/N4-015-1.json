@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-015",
+  "exampleIndex": 0,
+  "text": "毎日、日本語で日記を書くことにしました。",
+  "speechText": "毎日、日本語で日記を書くことにしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 62,
+  "signature": "88fdaa40faf13cff1c5aa61cb19dd84ee4899b5814b705e35553768ad055c56a",
+  "src": "/audio/voices/keita/N4-015-1.mp3",
+  "srt": "/audio/voices/keita/N4-015-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "b0ccff724417bae209e4b19147ec9f9dbb2d03814cd24bb0377c297df0f673a9",
+  "peakPcm": 27863,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

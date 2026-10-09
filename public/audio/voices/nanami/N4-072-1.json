@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-072",
+  "exampleIndex": 0,
+  "text": "名前を書くだけで、申し込めます。",
+  "speechText": "名前を書くだけで、申し込めます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 90,
+  "signature": "e8a4d26b8ae434b2b1b1cd0ca230245ea584660697a205aee6bd3ce4ea162b2a",
+  "src": "/audio/voices/nanami/N4-072-1.mp3",
+  "srt": "/audio/voices/nanami/N4-072-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "af9b005507150a78ce59f8511be06ce4d4ade75a6ee5cdee69e042d8a0f74033",
+  "peakPcm": 22459,
+  "rmsDbfs": -17.69,
+  "rate": "+0%",
+  "listened": false
+}

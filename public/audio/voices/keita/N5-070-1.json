@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-070",
+  "exampleIndex": 0,
+  "text": "どうして日本語を勉強していますか。",
+  "speechText": "どうして日本語を勉強していますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 44,
+  "signature": "9a72c3e475659f02d4c7b392a402cc8cb54d29748c244d99e0a7b679b21557df",
+  "src": "/audio/voices/keita/N5-070-1.mp3",
+  "srt": "/audio/voices/keita/N5-070-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "ebdb824a2fba4fcbbd233c052b5547f66431d89e3e5985b3c71bf9112ef7e520",
+  "peakPcm": 21674,
+  "rmsDbfs": -19.43,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-073",
+  "exampleIndex": 0,
+  "text": "朝御飯を食べないことがあります。",
+  "speechText": "朝御飯を食べないことがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 91,
+  "signature": "a122dbd9e88bb57763cac63be4fa354c227eafd3fc14555e7adf4a42dd884f57",
+  "src": "/audio/voices/keita/N4-073-1.mp3",
+  "srt": "/audio/voices/keita/N4-073-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "ac55fb0ce441d363968b251bbe020349081190ae61fe1a7d0e270974dae9ef45",
+  "peakPcm": 23616,
+  "rmsDbfs": -21.24,
+  "rate": "+0%",
+  "listened": false
+}

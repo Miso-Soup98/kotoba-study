@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-033",
+  "exampleIndex": 0,
+  "text": "荷物を持ちましょうか。",
+  "speechText": "荷物を持ちましょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 26,
+  "signature": "583a1776827bdc332c4d77e6b1b3e818a072827ef1354d65da4fcd504197caa0",
+  "src": "/audio/voices/nanami/N5-033-1.mp3",
+  "srt": "/audio/voices/nanami/N5-033-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "3bb5b9c399149ddcc879149d9d94c74640ed40cd0032082f76fb6de75675140e",
+  "peakPcm": 22748,
+  "rmsDbfs": -18.37,
+  "rate": "+0%",
+  "listened": false
+}

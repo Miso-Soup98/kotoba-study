@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-025",
+  "exampleIndex": 1,
+  "text": "先生が丁寧に説明してくれました。",
+  "speechText": "先生が丁寧に説明してくれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 67,
+  "signature": "354ee60ef73678c9ba7c7f37b202d26d6c6c2e5facbec3a8729630269f6fa906",
+  "src": "/audio/voices/keita/N4-025-2.mp3",
+  "srt": "/audio/voices/keita/N4-025-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "97f44a67dc5f2130d0e37a501e608646a67a38f51ffe7d36addafe7e1b11006b",
+  "peakPcm": 20238,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

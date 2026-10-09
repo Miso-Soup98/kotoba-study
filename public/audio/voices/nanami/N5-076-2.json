@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-076",
+  "exampleIndex": 1,
+  "text": "昨日はあまり眠れませんでした。",
+  "speechText": "昨日はあまり眠れませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 47,
+  "signature": "49494c4f28c96153c573e160af646a1bed5334afa7ea82f39271ae217979ba97",
+  "src": "/audio/voices/nanami/N5-076-2.mp3",
+  "srt": "/audio/voices/nanami/N5-076-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "a21c857cb4c0b154061328d21225fdf436f5e19d44271a0d536eb46f396c30e7",
+  "peakPcm": 20435,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

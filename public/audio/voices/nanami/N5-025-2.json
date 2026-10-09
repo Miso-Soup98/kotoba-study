@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-025",
+  "exampleIndex": 1,
+  "text": "少し待ってください。",
+  "speechText": "少し待ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 22,
+  "signature": "f64faaed15ba31734a3e1c4fbf208252fefb8cc9b2cd4b8721091eececf15e80",
+  "src": "/audio/voices/nanami/N5-025-2.mp3",
+  "srt": "/audio/voices/nanami/N5-025-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "331e4ea054ddf576bc18a98aa9dc7fbc72f90dfea5d69d1fd022887f127674c9",
+  "peakPcm": 20722,
+  "rmsDbfs": -19.39,
+  "rate": "+0%",
+  "listened": false
+}

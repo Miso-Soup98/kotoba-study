@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-035",
+  "exampleIndex": 1,
+  "text": "隣の部屋は静かなようです。",
+  "speechText": "隣の部屋は静かなようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 72,
+  "signature": "c261e292385f268b98a44bf43d191f13af17d4188f0596c3b256123eba419275",
+  "src": "/audio/voices/nanami/N4-035-2.mp3",
+  "srt": "/audio/voices/nanami/N4-035-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "a5f8babf448e65b7b006241a8cb4ea3451816cf2f26826676d46c401902b7472",
+  "peakPcm": 21997,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

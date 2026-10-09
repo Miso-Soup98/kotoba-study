@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-073",
+  "exampleIndex": 0,
+  "text": "朝御飯を食べないことがあります。",
+  "speechText": "朝御飯を食べないことがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 91,
+  "signature": "ea043fa9cde8e69a7b82fd3471e2349785353238c3d1d19a08be2bb8489ade90",
+  "src": "/audio/voices/nanami/N4-073-1.mp3",
+  "srt": "/audio/voices/nanami/N4-073-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "ffbbbb8fa102fda1829abee0e4f79e96a5e6e279f9e1cabe5b3f08b0995608ae",
+  "peakPcm": 22017,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

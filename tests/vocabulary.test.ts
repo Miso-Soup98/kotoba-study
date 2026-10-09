@@ -5,6 +5,8 @@ import { rebuild, combineEvents, mergeCache } from "../lib/study/model.ts";
 import { eventSchema } from "../lib/study/validation.ts";
 import { matchesVocabulary, parseVocabularyWord, vocabularyChanges, VOCABULARY_VERSION, vocabularyWordSchema, type VocabularyWord, type VocabularyCatalog } from "../lib/vocabulary/schema.ts";
 import type { StudyEvent } from "../lib/study/types.ts";
+import { correctedVocabularySnapshot } from "../lib/vocabulary/corrections.ts";
+import corrections from "../lib/vocabulary/saved-word-corrections.json" with { type: "json" };
 const word: VocabularyWord = { id: "lex:openjlpt:123456abcd", text: "会う", reading: "あう", meaning: "见面", source: "lex:openjlpt:123456abcd",
   original: "OpenJLPT N5", level: "N5", version: VOCABULARY_VERSION, meaningZh: "见面", meaningEn: ["to meet"], chineseSenses: ["见面"],
   chineseStatus: "dictionary-candidate", learningStatus: "ready", contentNote: "", pos: ["v5u", "vi"],
@@ -93,7 +95,7 @@ test("dictionary cross-references and edit notices never become Chinese definiti
     for (const row of JSON.parse(readFileSync(root + shard, "utf8"))) {
       words.set(row.id, row);
       for (const meaning of [row.meaningZh, ...row.chineseSenses]) {
-        assert.ok(!/^【[^】]+】$/.test(meaning.trim()) && !/以下(?:詞條尚未創建|词条尚未创建)/.test(meaning), row.id);
+        assert.ok(!/^【[^】]+】$/.test(meaning.trim()) && !/Template:|=+\s*日[语語]\s*=+|以下(?:詞條尚未創建|词条尚未创建)/i.test(meaning), row.id);
       }
     }
   }
@@ -106,4 +108,45 @@ test("dictionary cross-references and edit notices never become Chinese definiti
   assert.equal(ambiguous.chineseStatus, "missing");
   assert.equal(ambiguous.meaning, "英文：copper coin");
   assert.throws(() => vocabularyChanges(ambiguous, "enroll", rebuild([])));
+});
+
+test("reviewed definitions repair saved snapshots without rewriting events or resetting FSRS", () => {
+  const previous: VocabularyWord[] = JSON.parse(readFileSync("public/data/vocabulary/v06-20261010-r1/N5-001.json", "utf8"));
+  const original = previous.find(w => w.id === "lex:openjlpt:60dd63379e")!;
+  assert.match(original.meaningZh, /我/);
+  const snapshot = JSON.stringify(original);
+  const events: StudyEvent[] = [
+    { ...event("vocabulary_word", snapshot, 1), entity: original.id },
+    { ...event("enroll", true, 2), entity: original.id },
+    { ...event("review", 3, 3), entity: original.id, base: null },
+  ];
+  const model = rebuild(events);
+  assert.match(model.vocabularyWords[original.id].meaningZh, /那边/);
+  assert.equal(model.vocabularyWords[original.id].version, VOCABULARY_VERSION);
+  assert.equal(model.cards[original.id].card.reps, 1);
+  assert.equal(model.cards[original.id].revision, events[2].id);
+  assert.equal(model.cards[original.id].enrolled, true);
+  assert.equal(events[0].value, snapshot);
+  const changedIdentity = { ...original, reading: "ほか" };
+  assert.deepEqual(correctedVocabularySnapshot(changedIdentity), changedIdentity);
+  const newer = { ...original, version: "v99-future", meaningZh: "将来经核对的释义" };
+  assert.deepEqual(correctedVocabularySnapshot(newer), newer);
+});
+
+test("every saved correction exactly reproduces its current published word", () => {
+  const oldRoot = "public/data/vocabulary/v06-20261010-r1/";
+  const newRoot = `public/data/vocabulary/${VOCABULARY_VERSION}/`;
+  const catalog: VocabularyCatalog = JSON.parse(readFileSync(newRoot + "index.json", "utf8"));
+  const ids = new Set(Object.keys(corrections.words));
+  let checked = 0;
+  for (const shard of new Set(catalog.words.map(w => w.shard))) {
+    const previous: VocabularyWord[] = JSON.parse(readFileSync(oldRoot + shard, "utf8"));
+    const current: VocabularyWord[] = JSON.parse(readFileSync(newRoot + shard, "utf8"));
+    for (const before of previous) if (ids.has(before.id)) {
+      assert.deepEqual(correctedVocabularySnapshot(before), current.find(w => w.id === before.id));
+      checked++;
+    }
+  }
+  assert.equal(checked, ids.size);
+  assert.ok(checked > 250);
 });

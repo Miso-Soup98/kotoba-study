@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-035",
+  "exampleIndex": 0,
+  "text": "ここで泳いではいけません。",
+  "speechText": "ここで泳いではいけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 27,
+  "signature": "4b3f48f0adccf12efbe42c523ff782c2dddca01d3dcfded624620e3796140676",
+  "src": "/audio/voices/nanami/N5-035-1.mp3",
+  "srt": "/audio/voices/nanami/N5-035-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "57cf4ede931e30f9d66833db64e797b1ee7c69b9313e9f6aa1729b3e5c10b5b9",
+  "peakPcm": 21310,
+  "rmsDbfs": -16.92,
+  "rate": "+0%",
+  "listened": false
+}

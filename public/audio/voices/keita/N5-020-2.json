@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-020",
+  "exampleIndex": 1,
+  "text": "先生は親切で、説明も丁寧です。",
+  "speechText": "先生は親切で、説明も丁寧です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 19,
+  "signature": "6d890ad12cce691f70ead87c222d312feb8d10eca9e7ea33cf4d09d43eacad0f",
+  "src": "/audio/voices/keita/N5-020-2.mp3",
+  "srt": "/audio/voices/keita/N5-020-2.srt",
+  "durationSeconds": 4.008,
+  "bytes": 24048,
+  "sha256": "9fc1e8126a78d8061e6252f5195cfaa5174dd363a805b3b4c39634b467355425",
+  "peakPcm": 20664,
+  "rmsDbfs": -20.55,
+  "rate": "+0%",
+  "listened": false
+}

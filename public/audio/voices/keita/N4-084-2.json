@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-084",
+  "exampleIndex": 1,
+  "text": "大切なのは毎日続けることです。",
+  "speechText": "大切なのは毎日続けることです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 96,
+  "signature": "48480686e49a67c35865e1a2440edb91a2ee48629ac6a728e2e3b72dd2d1080e",
+  "src": "/audio/voices/keita/N4-084-2.mp3",
+  "srt": "/audio/voices/keita/N4-084-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "da22624da6c739c581b1abc7ac8fa752a2be5b1a9e0733eb1bba90f46bec2ba4",
+  "peakPcm": 23980,
+  "rmsDbfs": -21.56,
+  "rate": "+0%",
+  "listened": false
+}

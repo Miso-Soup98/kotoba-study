@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-009",
+  "exampleIndex": 1,
+  "text": "忙しくても、朝ご飯は食べます。",
+  "speechText": "忙しくても、朝ご飯は食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 59,
+  "signature": "a34895ffed34f8700fb476fc1c925335ce959dd60f828e555672387761947dec",
+  "src": "/audio/voices/nanami/N4-009-2.mp3",
+  "srt": "/audio/voices/nanami/N4-009-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "50ebf32ae8c9aaa77d564a0ee7e78b86b80caaf31b6990a50a58337f76999380",
+  "peakPcm": 24165,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

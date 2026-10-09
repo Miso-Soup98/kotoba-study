@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-115",
+  "exampleIndex": 0,
+  "text": "果物の中で、何が好きですか。",
+  "speechText": "果物の中で、何が好きですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 112,
+  "signature": "d034c11775d17232eecc3af8d373fe74633af4db989bef5138381cf7f8bbafab",
+  "src": "/audio/voices/nanami/N4-115-1.mp3",
+  "srt": "/audio/voices/nanami/N4-115-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "3e57b3f8e3da765937552bb2ce0c440dd715bb121f0e13a3e70f1e57fcf15967",
+  "peakPcm": 20451,
+  "rmsDbfs": -18.46,
+  "rate": "+0%",
+  "listened": false
+}

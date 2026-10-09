@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-023",
+  "exampleIndex": 0,
+  "text": "友達に手紙をもらいました。",
+  "speechText": "友達に手紙をもらいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 66,
+  "signature": "572b50feb518b3b92bfe377469ac090c692e841a8b143d72cd6075f1ea49e20f",
+  "src": "/audio/voices/nanami/N4-023-1.mp3",
+  "srt": "/audio/voices/nanami/N4-023-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "581d423f339e10b0f5065950f8274b7485435906c6d0535ad4a28869f1aea7d7",
+  "peakPcm": 21687,
+  "rmsDbfs": -18.35,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-128",
+  "exampleIndex": 0,
+  "text": "今日はそんなに寒くありません。",
+  "speechText": "今日はそんなに寒くありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 119,
+  "signature": "667e2ec3493dfcfef0a6b764e446d5033c5a40e665bfcf6bd4c6031e1b89a8a0",
+  "src": "/audio/voices/nanami/N4-128-1.mp3",
+  "srt": "/audio/voices/nanami/N4-128-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "65ad7e73760ee96f19aa32b3dc62c65da4bf4bbf464a4118313a36342d0d57ff",
+  "peakPcm": 20854,
+  "rmsDbfs": -17.4,
+  "rate": "+0%",
+  "listened": false
+}

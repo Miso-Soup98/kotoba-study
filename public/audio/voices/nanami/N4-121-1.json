@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-121",
+  "exampleIndex": 0,
+  "text": "名前、または番号を書いてください。",
+  "speechText": "名前、または番号を書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 115,
+  "signature": "dc300f4567e1c8fdf923f326ee34a853ff148f59354fee4bb4bc2c046a036d8f",
+  "src": "/audio/voices/nanami/N4-121-1.mp3",
+  "srt": "/audio/voices/nanami/N4-121-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "bb879cd70d9e74faafd88451564774f411fa7527b13af6220324e37847d43cdc",
+  "peakPcm": 20656,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

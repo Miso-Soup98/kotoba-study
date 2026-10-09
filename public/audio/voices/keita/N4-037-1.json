@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-037",
+  "exampleIndex": 0,
+  "text": "友達は来月引っ越すらしいです。",
+  "speechText": "友達は来月引っ越すらしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 73,
+  "signature": "3f94034793e73e7b42486d2340773d75f8e8713729ed177c1e77c748f29404ee",
+  "src": "/audio/voices/keita/N4-037-1.mp3",
+  "srt": "/audio/voices/keita/N4-037-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "420bfd7df19e6e57a8fd8abc48e61d776e39d4750ca99ea5c645b3048a456ffc",
+  "peakPcm": 23192,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

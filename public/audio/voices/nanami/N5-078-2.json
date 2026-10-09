@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-078",
+  "exampleIndex": 1,
+  "text": "早く家に帰りたいなあ。",
+  "speechText": "早く家に帰りたいなあ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 48,
+  "signature": "5126947b1d753e97186cda145c7a712b869116e808c6e55fa99678a64cecff50",
+  "src": "/audio/voices/nanami/N5-078-2.mp3",
+  "srt": "/audio/voices/nanami/N5-078-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "9e3102b0df85f7cd691e8402ba5b963b33ce3d8992b64e0f404eed622dd30af7",
+  "peakPcm": 20222,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

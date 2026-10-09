@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-044",
+  "exampleIndex": 1,
+  "text": "今日は早く帰らせてください。",
+  "speechText": "今日は早く帰らせてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 76,
+  "signature": "fade53de3e23bc2bc85eb37504a84c6b64e62aeb333e4ac378d059c1087b83d3",
+  "src": "/audio/voices/nanami/N4-044-2.mp3",
+  "srt": "/audio/voices/nanami/N4-044-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "af7189feb1fa1422157a3ed28f8640ccf39d7f043622ec26bfe34a68ac3435ac",
+  "peakPcm": 21843,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

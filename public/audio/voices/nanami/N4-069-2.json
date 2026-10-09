@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-069",
+  "exampleIndex": 1,
+  "text": "雨は一晩中降り続けました。",
+  "speechText": "雨は一晩中降り続けました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 89,
+  "signature": "733e181ae87be8bfb5052fc6cdfa13499af4b2b3acf6f11d8e6ee43186424d98",
+  "src": "/audio/voices/nanami/N4-069-2.mp3",
+  "srt": "/audio/voices/nanami/N4-069-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "25ca6eb279319d0f4daf1291a9ce9d2ceacbac9943cbaffed6768d56b29c4e97",
+  "peakPcm": 23195,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-039",
+  "exampleIndex": 0,
+  "text": "暑いから、窓を開けます。",
+  "speechText": "暑いから、窓を開けます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 29,
+  "signature": "8567e10d2540fc4a6b3150a6cb99e6113b4f7016bf2ce3846b7c90d285e02085",
+  "src": "/audio/voices/nanami/N5-039-1.mp3",
+  "srt": "/audio/voices/nanami/N5-039-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "0bab2468123ce32d6a7b13801e206e0f82931145545b0b0bb336e18622df68ef",
+  "peakPcm": 19909,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

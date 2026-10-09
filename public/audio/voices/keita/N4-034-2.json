@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-034",
+  "exampleIndex": 1,
+  "text": "子供が楽しそうに遊んでいます。",
+  "speechText": "子供が楽しそうに遊んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 71,
+  "signature": "4fa5505ef61bcc213784da86cf31d4106e6be745bd169941d912061c10f3aa4f",
+  "src": "/audio/voices/keita/N4-034-2.mp3",
+  "srt": "/audio/voices/keita/N4-034-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "a56d930bdcca5f0108fd9fbb38dd32aabc8a11d3e502e2be9e7221e74a0d75b3",
+  "peakPcm": 24818,
+  "rmsDbfs": -20.1,
+  "rate": "+0%",
+  "listened": false
+}

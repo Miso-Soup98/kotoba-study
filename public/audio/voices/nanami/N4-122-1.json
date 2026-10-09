@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-122",
+  "exampleIndex": 0,
+  "text": "明日はきっと晴れます。",
+  "speechText": "明日はきっと晴れます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 116,
+  "signature": "5c94efcfb9f341003421f17f2b3e3b08ae28e2e8a599c9dcb345997fe83b65dd",
+  "src": "/audio/voices/nanami/N4-122-1.mp3",
+  "srt": "/audio/voices/nanami/N4-122-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "a3fe86a8828b2fb69f544e3ce76b071de143ff2051120def4b69f8459a8843c9",
+  "peakPcm": 22577,
+  "rmsDbfs": -18.82,
+  "rate": "+0%",
+  "listened": false
+}

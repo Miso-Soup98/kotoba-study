@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-085",
+  "exampleIndex": 0,
+  "text": "弟は背が高いです。",
+  "speechText": "弟は背が高いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 52,
+  "signature": "2d3a83bdb8f84bba2ea35dba70150efcb486eac52577e45bb4d74d7bda44d83e",
+  "src": "/audio/voices/nanami/N5-085-1.mp3",
+  "srt": "/audio/voices/nanami/N5-085-1.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "4d5b8f1692b86c124a8736bb6b75e9dcea4f60b4d23932050388f1b6787898f9",
+  "peakPcm": 21876,
+  "rmsDbfs": -17.2,
+  "rate": "+0%",
+  "listened": false
+}

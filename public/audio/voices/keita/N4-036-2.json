@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-036",
+  "exampleIndex": 1,
+  "text": "この雲は猫みたいな形です。",
+  "speechText": "この雲は猫みたいな形です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 72,
+  "signature": "d4656a8314851b8d6d872a7d52bdf4c5663c25947abe3c186e22a6fda1701ab5",
+  "src": "/audio/voices/keita/N4-036-2.mp3",
+  "srt": "/audio/voices/keita/N4-036-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "2e56bf664810fb575fc99499b38baf08d9cab0bae2f8b78a7ecf0ea4934d0d30",
+  "peakPcm": 21887,
+  "rmsDbfs": -20.56,
+  "rate": "+0%",
+  "listened": false
+}

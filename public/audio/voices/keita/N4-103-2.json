@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-103",
+  "exampleIndex": 1,
+  "text": "昨日も説明したじゃないか。",
+  "speechText": "昨日も説明したじゃないか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 106,
+  "signature": "0d21edc3de08eb0a59ac72c9b1b0fd51ba1e086384027d2f94aef1a867165594",
+  "src": "/audio/voices/keita/N4-103-2.mp3",
+  "srt": "/audio/voices/keita/N4-103-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "d49c9d7ccf13afbeb99b444358fca547f2f044022b750051fc0dcc918ae7d6bd",
+  "peakPcm": 19267,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

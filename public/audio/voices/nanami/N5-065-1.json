@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-065",
+  "exampleIndex": 0,
+  "text": "休みの日は本を読んだり、散歩したりします。",
+  "speechText": "休みの日は本を読んだり、散歩したりします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 42,
+  "signature": "538ca7e667668c9db187060d011e5162d13017c61de10447ca6383dd98a5da94",
+  "src": "/audio/voices/nanami/N5-065-1.mp3",
+  "srt": "/audio/voices/nanami/N5-065-1.srt",
+  "durationSeconds": 4.392,
+  "bytes": 26352,
+  "sha256": "5c34d63f0839a9b1151ba5ae7477eff3c0f86b0fd6b55d8f50ee04a0f5c77ac7",
+  "peakPcm": 22783,
+  "rmsDbfs": -18.33,
+  "rate": "+0%",
+  "listened": false
+}

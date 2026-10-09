@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-038",
+  "exampleIndex": 1,
+  "text": "今日は休みのはずです。",
+  "speechText": "今日は休みのはずです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 73,
+  "signature": "bce3b979fcea50e9a09e456ad9de8936c6213bd5ad35da769c624a349cb42b7e",
+  "src": "/audio/voices/nanami/N4-038-2.mp3",
+  "srt": "/audio/voices/nanami/N4-038-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "6b8dec1623032f19afafa4cd83ee1dea7130a047d1e92602b9ea8aeafb1b74c7",
+  "peakPcm": 22151,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

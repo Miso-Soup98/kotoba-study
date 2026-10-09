@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-051",
+  "exampleIndex": 1,
+  "text": "名前の書き方が分かりません。",
+  "speechText": "名前の書き方が分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 80,
+  "signature": "90c9649ae5192929e51623145f06b518c40c20cb2d499543734d3c764bd2e768",
+  "src": "/audio/voices/keita/N4-051-2.mp3",
+  "srt": "/audio/voices/keita/N4-051-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "ca720648b86ad3d0c8e90a59574ac418b701c6f5919c8c02f9d57ffa39bae935",
+  "peakPcm": 24537,
+  "rmsDbfs": -21.19,
+  "rate": "+0%",
+  "listened": false
+}

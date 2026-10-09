@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-029",
+  "exampleIndex": 1,
+  "text": "新しい靴を買いたいです。",
+  "speechText": "新しい靴を買いたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 24,
+  "signature": "2fdbf8893225b1b63495215aee81c7df27aa9c7e992feeaac6a9b907e39f8167",
+  "src": "/audio/voices/keita/N5-029-2.mp3",
+  "srt": "/audio/voices/keita/N5-029-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "8af24295b78f8706ba2ac66d4c58311e45030ffcf332e8241f6b4ad420c18182",
+  "peakPcm": 25195,
+  "rmsDbfs": -21.21,
+  "rate": "+0%",
+  "listened": false
+}

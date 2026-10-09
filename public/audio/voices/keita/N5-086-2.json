@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-086",
+  "exampleIndex": 1,
+  "text": "お茶と水では、どちらがいいですか。",
+  "speechText": "お茶と水では、どちらがいいですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 52,
+  "signature": "fb086688f7f1613b1eede36e754b3be9ec48c14cdbdf7a12e8dce87e2bae2d98",
+  "src": "/audio/voices/keita/N5-086-2.mp3",
+  "srt": "/audio/voices/keita/N5-086-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "5d0fee89f27cb569d865c07e6dabf9d9a84430b54b8c57bf6dc68f9d7e25c737",
+  "peakPcm": 24521,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

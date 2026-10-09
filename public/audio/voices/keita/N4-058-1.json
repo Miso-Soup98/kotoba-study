@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-058",
+  "exampleIndex": 0,
+  "text": "私が寝ている間に、雨がやみました。",
+  "speechText": "私が寝ている間に、雨がやみました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 83,
+  "signature": "80e03b1c8de59edbe3eeac2be1dc9d03900c712ce6b99ae658a3793ccbd8793e",
+  "src": "/audio/voices/keita/N4-058-1.mp3",
+  "srt": "/audio/voices/keita/N4-058-1.srt",
+  "durationSeconds": 3.672,
+  "bytes": 22032,
+  "sha256": "fba9ed605fff7fbbebaf00b6dfd3a07623590caff116a9a1a6d77ce3e356c637",
+  "peakPcm": 22285,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

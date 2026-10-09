@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-010",
+  "exampleIndex": 0,
+  "text": "たくさん勉強したのに、合格できませんでした。",
+  "speechText": "たくさん勉強したのに、合格できませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 59,
+  "signature": "c4b98b4ca1433002997a0abbd4eaf67ae9ec70574982f67786ec9f1787e3daf0",
+  "src": "/audio/voices/keita/N4-010-1.mp3",
+  "srt": "/audio/voices/keita/N4-010-1.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "8069f425fcbd0f50a8b46cfebbba0795155312e6ca088dc64d777cdbe70479c3",
+  "peakPcm": 22917,
+  "rmsDbfs": -20.02,
+  "rate": "+0%",
+  "listened": false
+}

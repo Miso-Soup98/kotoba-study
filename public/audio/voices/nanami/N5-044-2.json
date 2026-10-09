@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-044",
+  "exampleIndex": 1,
+  "text": "会議の前に資料を読みました。",
+  "speechText": "会議の前に資料を読みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 31,
+  "signature": "40f04141bada86bf6eb89f768594750af780a3090d455cb945206e5a3e08e47d",
+  "src": "/audio/voices/nanami/N5-044-2.mp3",
+  "srt": "/audio/voices/nanami/N5-044-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "640ddbd84417fcf54580529c871fdee6149dd7bd6155eeb0bb1849e4445e2ed0",
+  "peakPcm": 19913,
+  "rmsDbfs": -17.17,
+  "rate": "+0%",
+  "listened": false
+}

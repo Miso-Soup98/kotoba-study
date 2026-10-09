@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-064",
+  "exampleIndex": 1,
+  "text": "集合は九時にしましょう。",
+  "speechText": "集合は九時にしましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 41,
+  "signature": "87e070755bc25e610848140943e11e4d06b7d9c585f95136e75c9e1f66efa929",
+  "src": "/audio/voices/nanami/N5-064-2.mp3",
+  "srt": "/audio/voices/nanami/N5-064-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "67a83531d7de8a3bc6e2440490bba5ba31489f25cea37b0f57ecb13c5a01bd32",
+  "peakPcm": 22852,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

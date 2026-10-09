@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-074",
+  "exampleIndex": 1,
+  "text": "この町は静かです。そして、便利です。",
+  "speechText": "この町は静かです。そして、便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 46,
+  "signature": "916ac43abce1b5de9360251ab79ee45eb3c6e5697542ec98e5bd78814197cbed",
+  "src": "/audio/voices/nanami/N5-074-2.mp3",
+  "srt": "/audio/voices/nanami/N5-074-2.srt",
+  "durationSeconds": 4.896,
+  "bytes": 29376,
+  "sha256": "9d05229d4aee8f65b0da2bf71b48c882c0967fb210feaf4513837ac6a3adb57d",
+  "peakPcm": 20766,
+  "rmsDbfs": -18.74,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-037",
+  "exampleIndex": 0,
+  "text": "明日は早く起きなくてもいいです。",
+  "speechText": "明日は早く起きなくてもいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 28,
+  "signature": "1cf014be4d1213f4c7bb7e6db96d970f0221d1a03832fd3ce51165fbef9e11ed",
+  "src": "/audio/voices/nanami/N5-037-1.mp3",
+  "srt": "/audio/voices/nanami/N5-037-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "ad2c9966ce952ab29973a5766c8ea3d3ef4dbfe7effbe54a75ae177a4981d47c",
+  "peakPcm": 22238,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

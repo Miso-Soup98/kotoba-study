@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-010",
+  "exampleIndex": 0,
+  "text": "たくさん勉強したのに、合格できませんでした。",
+  "speechText": "たくさん勉強したのに、合格できませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 59,
+  "signature": "adf9693126664b8a1d361ed90a88512e438e2e8c625d98fed39ce32a2c8c33eb",
+  "src": "/audio/voices/nanami/N4-010-1.mp3",
+  "srt": "/audio/voices/nanami/N4-010-1.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "a85d20a115a943aeb13ad6c2f06d1cc25977b1f2d15dc0f46da33a38895b13e2",
+  "peakPcm": 21962,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

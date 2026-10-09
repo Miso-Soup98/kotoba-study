@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-046",
+  "exampleIndex": 1,
+  "text": "会議は午後三時の予定です。",
+  "speechText": "会議は午後三時の予定です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 77,
+  "signature": "edd6c39b605fa6a7434da1345633f82fa3fcd68fdd0b1664efe9cc94f4ddb0d1",
+  "src": "/audio/voices/keita/N4-046-2.mp3",
+  "srt": "/audio/voices/keita/N4-046-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "86bdbd523080aada16a559be6b81030f860bcf5ec4652432a39d583428e779f1",
+  "peakPcm": 21071,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

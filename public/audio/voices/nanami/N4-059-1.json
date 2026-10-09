@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-059",
+  "exampleIndex": 0,
+  "text": "食事の後で薬を飲みます。",
+  "speechText": "食事の後で薬を飲みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 84,
+  "signature": "aebc7514a47189651856349f75b433bd347c4642f095918ad6fe2aa0e80e1796",
+  "src": "/audio/voices/nanami/N4-059-1.mp3",
+  "srt": "/audio/voices/nanami/N4-059-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "3d1c475237f2fe68e1dd8136bcb24fd386caec07879ca20ae46ccda00b44d64a",
+  "peakPcm": 21164,
+  "rmsDbfs": -17.94,
+  "rate": "+0%",
+  "listened": false
+}

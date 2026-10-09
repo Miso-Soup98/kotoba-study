@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-014",
+  "exampleIndex": 1,
+  "text": "明日の授業は行わないことになりました。",
+  "speechText": "明日の授業は行わないことになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 61,
+  "signature": "4e36b16acac9c14dff73ec50dd8723c77bdc2992b0154f96f4f358a820aab2ff",
+  "src": "/audio/voices/nanami/N4-014-2.mp3",
+  "srt": "/audio/voices/nanami/N4-014-2.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "9d7ff09f74d29b5ce6ac210ac695931024367580c46fd2d273244c63a6c2d78f",
+  "peakPcm": 21827,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

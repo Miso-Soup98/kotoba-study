@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-108",
+  "exampleIndex": 0,
+  "text": "この机は木で作られています。",
+  "speechText": "この机は木で作られています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 109,
+  "signature": "9a8057d1ac691c67965cb80458957bc4133de4d3c779c25937f85ca17c1b00ae",
+  "src": "/audio/voices/nanami/N4-108-1.mp3",
+  "srt": "/audio/voices/nanami/N4-108-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "d6617ae18d2a65643753689bce52cdb086aac90c59b60dfe401571ec70784685",
+  "peakPcm": 21569,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

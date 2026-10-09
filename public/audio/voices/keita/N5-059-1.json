@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-059",
+  "exampleIndex": 0,
+  "text": "この部屋は隣の部屋より広いです。",
+  "speechText": "この部屋は隣の部屋より広いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 39,
+  "signature": "82a2692a377fb058ca0ea154c7c0745640b85d58af5d552f858bccf13b56a493",
+  "src": "/audio/voices/keita/N5-059-1.mp3",
+  "srt": "/audio/voices/keita/N5-059-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "9328217c8c0f99d21039953d67b030eeae6cd0d09846a91b0afe2605627a91be",
+  "peakPcm": 23707,
+  "rmsDbfs": -20.06,
+  "rate": "+0%",
+  "listened": false
+}

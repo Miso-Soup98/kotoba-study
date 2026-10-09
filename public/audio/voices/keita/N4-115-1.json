@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-115",
+  "exampleIndex": 0,
+  "text": "果物の中で、何が好きですか。",
+  "speechText": "果物の中で、何が好きですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 112,
+  "signature": "b96f5fb7630d8461266891345c3d1ee70e4cf5b287b673995ee322439921f19f",
+  "src": "/audio/voices/keita/N4-115-1.mp3",
+  "srt": "/audio/voices/keita/N4-115-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "47224f07a6da37b02968c2d14a0bbebe46c610ab00afffb5fc3ae7fbca555e4b",
+  "peakPcm": 25809,
+  "rmsDbfs": -20.95,
+  "rate": "+0%",
+  "listened": false
+}

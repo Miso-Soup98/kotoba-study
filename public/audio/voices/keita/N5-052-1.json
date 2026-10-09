@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-052",
+  "exampleIndex": 0,
+  "text": "今日は寒いですね。",
+  "speechText": "今日は寒いですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 35,
+  "signature": "e8f71fe5f455e25b634d62de020c743619783cf034defa3f416c2a5d350d6b14",
+  "src": "/audio/voices/keita/N5-052-1.mp3",
+  "srt": "/audio/voices/keita/N5-052-1.srt",
+  "durationSeconds": 2.088,
+  "bytes": 12528,
+  "sha256": "2e3e07bd359c07b0b3099cd5b985a6f58976f2f45c6755e897c59345fce4d402",
+  "peakPcm": 21140,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

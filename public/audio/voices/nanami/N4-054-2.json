@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-054",
+  "exampleIndex": 1,
+  "text": "私が窓を開けました。",
+  "speechText": "私が窓を開けました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 81,
+  "signature": "0dcbe3e9957b2c1797f469c682e7dae603dce426c7036fea0b659cd3e5381829",
+  "src": "/audio/voices/nanami/N4-054-2.mp3",
+  "srt": "/audio/voices/nanami/N4-054-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "ac8242b1fb425b1d002eab3fde8c52b2c016bfef147a94906e89396c58072bfd",
+  "peakPcm": 20669,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

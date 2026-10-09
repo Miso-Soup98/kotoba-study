@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-126",
+  "exampleIndex": 1,
+  "text": "さすがに一晩では全部読めません。",
+  "speechText": "さすがに一晩では全部読めません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 118,
+  "signature": "ddd8816ef20e956aca50be8c4c6d8a81516f5d31f0f8be934702c119a0db1baf",
+  "src": "/audio/voices/keita/N4-126-2.mp3",
+  "srt": "/audio/voices/keita/N4-126-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "5af7a5e0bf09b784591d49d81ff9e268f79cd8eab6cd0c0a0ad868e2a46d0a0a",
+  "peakPcm": 24459,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-009",
+  "exampleIndex": 1,
+  "text": "忙しくても、朝ご飯は食べます。",
+  "speechText": "忙しくても、朝ご飯は食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 59,
+  "signature": "dccdc2d1260b473f87504b5f3996160c309470c8c9f02bb48a2cb2ab5d8f8e17",
+  "src": "/audio/voices/keita/N4-009-2.mp3",
+  "srt": "/audio/voices/keita/N4-009-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "14e45b65c508d7c6207ac25c7415548cc89b0b83d9d86b8e6a43f1bf7831efa9",
+  "peakPcm": 23765,
+  "rmsDbfs": -21.78,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-101",
+  "exampleIndex": 1,
+  "text": "危ないから、動くな。",
+  "speechText": "危ないから、動くな。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 105,
+  "signature": "be8334a1837df773ac3aa3d2a68635a86e84d7c219ab0e0f67cbf636844f23f9",
+  "src": "/audio/voices/keita/N4-101-2.mp3",
+  "srt": "/audio/voices/keita/N4-101-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "be485772ce10f4ead484f0bbc1466399309bb2aab7fc2db9bb0c3f14a64695e1",
+  "peakPcm": 22776,
+  "rmsDbfs": -21.27,
+  "rate": "+0%",
+  "listened": false
+}

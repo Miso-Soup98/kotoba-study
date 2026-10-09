@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-059",
+  "exampleIndex": 1,
+  "text": "宿題を終えた後で、映画を見ました。",
+  "speechText": "宿題を終えた後で、映画を見ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 84,
+  "signature": "130f27d12c3005669de1cf30d59307f14920d0a49f03ad4fa1b35a269732a193",
+  "src": "/audio/voices/keita/N4-059-2.mp3",
+  "srt": "/audio/voices/keita/N4-059-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "2fa9b465d546e146b81f48ad6a6d7976ff43c6bc2e311e83684c20f85f21d9cc",
+  "peakPcm": 23508,
+  "rmsDbfs": -19.47,
+  "rate": "+0%",
+  "listened": false
+}

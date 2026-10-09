@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-008",
+  "exampleIndex": 1,
+  "text": "月曜日に会議があります。",
+  "speechText": "月曜日に会議があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 13,
+  "signature": "413e93e00304363eb763c3348161fbe08e2a09c4cda7f6497fb07b4332a424e3",
+  "src": "/audio/voices/keita/N5-008-2.mp3",
+  "srt": "/audio/voices/keita/N5-008-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "74fd699c6870e779b3dce45dd830bdcfef4efabf9f77a258c8a54ed2549783f1",
+  "peakPcm": 21183,
+  "rmsDbfs": -21.32,
+  "rate": "+0%",
+  "listened": false
+}

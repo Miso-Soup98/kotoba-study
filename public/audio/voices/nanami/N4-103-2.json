@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-103",
+  "exampleIndex": 1,
+  "text": "昨日も説明したじゃないか。",
+  "speechText": "昨日も説明したじゃないか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 106,
+  "signature": "e9c9bcfd0abad01df2b9efb73a4cb3b3b5bbde88d5011ae93b3326b17859e264",
+  "src": "/audio/voices/nanami/N4-103-2.mp3",
+  "srt": "/audio/voices/nanami/N4-103-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "8a964df6c0cf594e635992138cab1516b08b8e1b03179f2ae8d5ec855c31cecd",
+  "peakPcm": 20422,
+  "rmsDbfs": -18.8,
+  "rate": "+0%",
+  "listened": false
+}

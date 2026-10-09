@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-071",
+  "exampleIndex": 1,
+  "text": "休みの日は寝てばかりいます。",
+  "speechText": "休みの日は寝てばかりいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 90,
+  "signature": "feedcdd84c31e9c9f4b42fec6886172a8483268785cc49df26468069a4467fed",
+  "src": "/audio/voices/nanami/N4-071-2.mp3",
+  "srt": "/audio/voices/nanami/N4-071-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "e25dded343d497dac86840d18ac80db25004ac9b9272f6c9e77d1324717969e4",
+  "peakPcm": 21901,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-016",
+  "exampleIndex": 0,
+  "text": "日本語の新聞が読めるようになりました。",
+  "speechText": "日本語の新聞が読めるようになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 62,
+  "signature": "a46d7928ace999097a62b9835e79f39a21549885321c2781912853527b026ef3",
+  "src": "/audio/voices/keita/N4-016-1.mp3",
+  "srt": "/audio/voices/keita/N4-016-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "54e11b208c08445889e8871beedf724d168f533bdf0f4a7b49c2dbd3e72dfa4b",
+  "peakPcm": 18749,
+  "rmsDbfs": -19.21,
+  "rate": "+0%",
+  "listened": false
+}

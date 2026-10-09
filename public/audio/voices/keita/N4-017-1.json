@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-017",
+  "exampleIndex": 0,
+  "text": "毎日、少し歩くようにしています。",
+  "speechText": "毎日、少し歩くようにしています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 63,
+  "signature": "f3ccf4a7b065c76a34e28ab8a9cb6cd846b6d3007f3bc0865e1414a9c32b2265",
+  "src": "/audio/voices/keita/N4-017-1.mp3",
+  "srt": "/audio/voices/keita/N4-017-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "bd7fd51c5eb5dabc20f53b52cb349760357aea0438d0264b9f37c57d2c457a7b",
+  "peakPcm": 25819,
+  "rmsDbfs": -21.52,
+  "rate": "+0%",
+  "listened": false
+}

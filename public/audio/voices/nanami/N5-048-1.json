@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-048",
+  "exampleIndex": 0,
+  "text": "今日は一時間だけ勉強します。",
+  "speechText": "今日は一時間だけ勉強します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 33,
+  "signature": "40d2d306c16f9879955ef8e054843f11d5b88c159e619ecfe31f92cf10be3987",
+  "src": "/audio/voices/nanami/N5-048-1.mp3",
+  "srt": "/audio/voices/nanami/N5-048-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "787daa32622a4cf96e1fefe71853e27bcbc35b1cc427eab99a417c6b8221c4f9",
+  "peakPcm": 21210,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

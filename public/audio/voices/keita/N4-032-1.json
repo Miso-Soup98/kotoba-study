@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-032",
+  "exampleIndex": 0,
+  "text": "明日は少し遅れるかもしれません。",
+  "speechText": "明日は少し遅れるかもしれません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 70,
+  "signature": "c9fcf50d6b600ffb96234d9f9945947aad1067c5762e71f1534b09f13be68ea4",
+  "src": "/audio/voices/keita/N4-032-1.mp3",
+  "srt": "/audio/voices/keita/N4-032-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "99613d65c0785a9af9d85bedde5853fc520e17f5b07584423ca1ec19db56abd7",
+  "peakPcm": 22497,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

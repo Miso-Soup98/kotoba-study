@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-013",
+  "exampleIndex": 0,
+  "text": "来年、就職するつもりです。",
+  "speechText": "来年、就職するつもりです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 61,
+  "signature": "fbab1eec7228ff9226b269bf328d096449a7f509d174785d9c2792730ebe58a5",
+  "src": "/audio/voices/keita/N4-013-1.mp3",
+  "srt": "/audio/voices/keita/N4-013-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "f97319df7e40f28707ec17f3c4b2d77c0c8341e810bb480f349735306f9bb918",
+  "peakPcm": 26373,
+  "rmsDbfs": -22.28,
+  "rate": "+0%",
+  "listened": false
+}

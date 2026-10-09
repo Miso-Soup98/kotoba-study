@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-070",
+  "exampleIndex": 1,
+  "text": "靴を履いたまま入らないでください。",
+  "speechText": "靴を履いたまま入らないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 89,
+  "signature": "497fe759a1521abb3db3861c1faf4c98b2bb7cb4c7573a928c2ee254fda469ae",
+  "src": "/audio/voices/nanami/N4-070-2.mp3",
+  "srt": "/audio/voices/nanami/N4-070-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "b68441527d0cfbfc57206687659500aa45ba7215f87186baf41d41b0d857ba33",
+  "peakPcm": 20617,
+  "rmsDbfs": -18.26,
+  "rate": "+0%",
+  "listened": false
+}

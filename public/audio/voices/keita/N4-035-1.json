@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-035",
+  "exampleIndex": 0,
+  "text": "誰もいないので、会議は終わったようです。",
+  "speechText": "誰もいないので、会議は終わったようです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 72,
+  "signature": "5eb98db33e5c02ee9b37d51885bf6d84dc7f42746d62fbe6c9d3610a5d432050",
+  "src": "/audio/voices/keita/N4-035-1.mp3",
+  "srt": "/audio/voices/keita/N4-035-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "d73d3668cdb3312ecb975a67d8d3068573721a124db0f9688941560d8f2508a4",
+  "peakPcm": 26757,
+  "rmsDbfs": -20.66,
+  "rate": "+0%",
+  "listened": false
+}

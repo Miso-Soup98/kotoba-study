@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-012",
+  "exampleIndex": 0,
+  "text": "机の上に本があります。",
+  "speechText": "机の上に本があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 15,
+  "signature": "6a33cdd3eebf569ba1c23d1df8f966daaaa6ab23c0124fdcce2422d00ee75181",
+  "src": "/audio/voices/keita/N5-012-1.mp3",
+  "srt": "/audio/voices/keita/N5-012-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "4bc9285744414184e2351fcbeff453c0eab819126e3d4845f2ed803bf6f724e9",
+  "peakPcm": 19972,
+  "rmsDbfs": -19.45,
+  "rate": "+0%",
+  "listened": false
+}

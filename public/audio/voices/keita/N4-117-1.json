@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-117",
+  "exampleIndex": 0,
+  "text": "犬を散歩に連れていってやりました。",
+  "speechText": "犬を散歩に連れていってやりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 113,
+  "signature": "72e03d8f471ffac03bda65fdfb498139ba52d2ef1d94a7ac045a72a8d35bdb0e",
+  "src": "/audio/voices/keita/N4-117-1.mp3",
+  "srt": "/audio/voices/keita/N4-117-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "57f0e4a4bfe0b4985a3c6356f29053e486368619e83c5a91705a7bbf274222c5",
+  "peakPcm": 20074,
+  "rmsDbfs": -20.45,
+  "rate": "+0%",
+  "listened": false
+}

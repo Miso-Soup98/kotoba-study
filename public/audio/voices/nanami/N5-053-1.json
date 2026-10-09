@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-053",
+  "exampleIndex": 0,
+  "text": "これは誰の本ですか。",
+  "speechText": "これは誰の本ですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 36,
+  "signature": "36eb8cc2733d32d9325110dca8e953fd2fd77a4935197ca297b2583b748f593b",
+  "src": "/audio/voices/nanami/N5-053-1.mp3",
+  "srt": "/audio/voices/nanami/N5-053-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "ff426f1baa8105350381f6da16ec1c433646b4cff7c4325c75d47b003e0144ae",
+  "peakPcm": 20793,
+  "rmsDbfs": -18.09,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-085",
+  "exampleIndex": 1,
+  "text": "参加できないということですね。",
+  "speechText": "参加できないということですね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 97,
+  "signature": "343cf8ffe3361be1209414077f28ac1d045e5217bedf7bb5cf9e1114c1f8b7eb",
+  "src": "/audio/voices/nanami/N4-085-2.mp3",
+  "srt": "/audio/voices/nanami/N4-085-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "43ed757eeda286410511452d435d943f11c64234feb258edb7b8197057655e4b",
+  "peakPcm": 20221,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

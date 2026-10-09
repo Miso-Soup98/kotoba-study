@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-122",
+  "exampleIndex": 0,
+  "text": "明日はきっと晴れます。",
+  "speechText": "明日はきっと晴れます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 116,
+  "signature": "b2968c47a6a558ce2446425c54b1efc8bfd51cb0aaeec012f2cea8646099bdb0",
+  "src": "/audio/voices/keita/N4-122-1.mp3",
+  "srt": "/audio/voices/keita/N4-122-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "70d9e13a52efa369236d64b86d05f27aebc5e00770c48c04b1505df7b275e895",
+  "peakPcm": 23861,
+  "rmsDbfs": -22.49,
+  "rate": "+0%",
+  "listened": false
+}

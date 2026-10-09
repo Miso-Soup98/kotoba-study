@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-107",
+  "exampleIndex": 1,
+  "text": "休みは読書とか散歩とかをします。",
+  "speechText": "休みは読書とか散歩とかをします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 108,
+  "signature": "e33634008fb408b4967881aa58a9dd3a670e62662fd73f14aeed67e7b5fa8a4a",
+  "src": "/audio/voices/keita/N4-107-2.mp3",
+  "srt": "/audio/voices/keita/N4-107-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "29f391a8c55e4ab3a73b5ab0b7a80c173c5abd18ab838134be0b5aaa7e0bf2df",
+  "peakPcm": 23325,
+  "rmsDbfs": -21.3,
+  "rate": "+0%",
+  "listened": false
+}

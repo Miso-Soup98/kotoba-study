@@ -56,6 +56,28 @@ class OverlayTest(unittest.TestCase):
         result = module.apply_learning_overlays(copy.deepcopy(self.article), [], [], [report])
         self.assertEqual(set(result["review"]), {"reviewedAt", "remainingIssues", "sourceHeadingJapanese"})
 
+    def test_text_audit_marks_uncertain_fields_without_claiming_pdf_verification(self):
+        review = {"articleId": self.article["id"], "reviewedAt": "2026-10-10", "method": "text-audit",
+                  "remainingIssues": ["译文缺段"], "paragraphNotes": {"p1": "译文缺段"},
+                  "glossaryNotes": {"0": {"note": "词头不完整", "blockLookup": True}}}
+        result = module.apply_learning_overlays(copy.deepcopy(self.article), [], [], [review])
+        self.assertEqual(result["review"]["method"], "text-audit")
+        self.assertEqual(result["paragraphs"][0]["reviewNote"], "译文缺段")
+        self.assertTrue(result["glossary"][0]["uncertainTerm"])
+        self.assertNotIn("paragraphNotes", result["review"])
+        self.assertNotIn("reviewNote", self.article["paragraphs"][0])
+        with self.assertRaises(ValueError):
+            module.apply_learning_overlays(copy.deepcopy(self.article), [], [], [review | {"paragraphNotes": {"bad": "错误目标"}}])
+
+    def test_reading_only_correction_does_not_certify_an_uncertain_term(self):
+        original = {"term": "欠け", "reading": "かげ", "meaning": "残文", "uncertainTerm": True}
+        article = {"id": "ted-new-001", "paragraphs": [], "glossary": [original]}
+        record = {"id": "test-reading", "articleId": article["id"], "kind": "glossary", "glossaryIndex": 0,
+                  "original": original, "correctedReading": "かけ", "keepTermUncertainty": True}
+        result = module.apply_article(article, [record])
+        self.assertTrue(result["glossary"][0]["uncertainTerm"])
+        self.assertTrue(result["glossary"][0]["reviewRequired"])
+
 
 if __name__ == "__main__":
     unittest.main()

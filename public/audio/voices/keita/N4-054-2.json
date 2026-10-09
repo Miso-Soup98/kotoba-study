@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-054",
+  "exampleIndex": 1,
+  "text": "私が窓を開けました。",
+  "speechText": "私が窓を開けました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 81,
+  "signature": "c4ef3d4212b85346f3403e1e86cca7fff59265f7f02215577162a73b1799e9b9",
+  "src": "/audio/voices/keita/N4-054-2.mp3",
+  "srt": "/audio/voices/keita/N4-054-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "8afc4e744e38193da3a137f3252682092460730ca0d2bbfdb089674d1d99311b",
+  "peakPcm": 24023,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

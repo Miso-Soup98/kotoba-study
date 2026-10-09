@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-021",
+  "exampleIndex": 0,
+  "text": "名前を大きく書いてください。",
+  "speechText": "名前を大きく書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 20,
+  "signature": "be123dd426a177cf95c3edf857dc7162cbf1ff327f22c48c654e1e52c754350b",
+  "src": "/audio/voices/nanami/N5-021-1.mp3",
+  "srt": "/audio/voices/nanami/N5-021-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "02e6ea3122410c558dde86eb3784833483905b2cdc843d22483fc416bce1e7a1",
+  "peakPcm": 21538,
+  "rmsDbfs": -17.0,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-017",
+  "exampleIndex": 1,
+  "text": "授業に遅れないようにしています。",
+  "speechText": "授業に遅れないようにしています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 63,
+  "signature": "f0af16bc82a3f1b68af9db3f8fb85b84aa4fff69d614e7958b60154af31b67fc",
+  "src": "/audio/voices/keita/N4-017-2.mp3",
+  "srt": "/audio/voices/keita/N4-017-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "73cffbe712fd266a0941f0d4cfb1e5ab0b8d1c5cccc5165ff49cf82e6d529721",
+  "peakPcm": 21330,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

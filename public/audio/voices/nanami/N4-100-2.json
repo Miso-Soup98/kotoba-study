@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-100",
+  "exampleIndex": 1,
+  "text": "名前をここに書きなさい。",
+  "speechText": "名前をここに書きなさい。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 105,
+  "signature": "2f2675b23b7a8470a66b901fbb7f93a8a6c8fec8745e75ef0e41cd6797ecaefb",
+  "src": "/audio/voices/nanami/N4-100-2.mp3",
+  "srt": "/audio/voices/nanami/N4-100-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "2646e152906a04590431577afc233cb244ef779028c2277ad6e9afd78f20247c",
+  "peakPcm": 21435,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

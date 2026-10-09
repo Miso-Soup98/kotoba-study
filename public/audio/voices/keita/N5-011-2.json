@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-011",
+  "exampleIndex": 1,
+  "text": "日本語で名前を書いてください。",
+  "speechText": "日本語で名前を書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 15,
+  "signature": "484dee96d606412026b3d3929161089699fb71621961e0f98299c795731da87a",
+  "src": "/audio/voices/keita/N5-011-2.mp3",
+  "srt": "/audio/voices/keita/N5-011-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "c7bed15f7c0b3b66e9ba96b74540b3313de85791ea737271d22d774200cb9f71",
+  "peakPcm": 23285,
+  "rmsDbfs": -19.79,
+  "rate": "+0%",
+  "listened": false
+}

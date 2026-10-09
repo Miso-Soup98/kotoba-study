@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-049",
+  "exampleIndex": 0,
+  "text": "小さい字は読みにくいです。",
+  "speechText": "小さい字は読みにくいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 79,
+  "signature": "316337d21e278fbef89701b967c014240be19ebef09367543a741cc17ccfb0c8",
+  "src": "/audio/voices/keita/N4-049-1.mp3",
+  "srt": "/audio/voices/keita/N4-049-1.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "fdebc32d03522ebb0772af33a0aaf15ccec57c57072a35c45794c4d4f0180489",
+  "peakPcm": 18025,
+  "rmsDbfs": -20.9,
+  "rate": "+0%",
+  "listened": false
+}

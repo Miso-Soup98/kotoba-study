@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-079",
+  "exampleIndex": 1,
+  "text": "赤いのをください。",
+  "speechText": "赤いのをください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 49,
+  "signature": "6b2bd859006be7cda29e916836b172ae195801018f3b4c73c71d46cee869218b",
+  "src": "/audio/voices/keita/N5-079-2.mp3",
+  "srt": "/audio/voices/keita/N5-079-2.srt",
+  "durationSeconds": 2.04,
+  "bytes": 12240,
+  "sha256": "2d16660aef54b795ecb07bd7fc438dc5e07801edf5051428ecfa70f752151fbe",
+  "peakPcm": 24843,
+  "rmsDbfs": -21.26,
+  "rate": "+0%",
+  "listened": false
+}

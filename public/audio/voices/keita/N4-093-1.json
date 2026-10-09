@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-093",
+  "exampleIndex": 0,
+  "text": "質問はございますか。",
+  "speechText": "質問はございますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 101,
+  "signature": "07f09064110e86200f9a496b8173949e1faf71b26cba0e73d2bc1c4c4f309c5d",
+  "src": "/audio/voices/keita/N4-093-1.mp3",
+  "srt": "/audio/voices/keita/N4-093-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "49bc7c140438e1522269be101f0aa5a49fde240766e9f004d162f970d9d93cbe",
+  "peakPcm": 20756,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

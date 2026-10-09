@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-011",
+  "exampleIndex": 1,
+  "text": "窓を閉めるのを忘れました。",
+  "speechText": "窓を閉めるのを忘れました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 60,
+  "signature": "12a5a00d706c7c28ce9d4330085779dc64c2fbf70f66c87ccbb42de5f6ae5c7b",
+  "src": "/audio/voices/keita/N4-011-2.mp3",
+  "srt": "/audio/voices/keita/N4-011-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "bf78e99c4d0812544c5f76fcbebcda5baa2c20b67dc8f381d72c1bdf66c8bd24",
+  "peakPcm": 26092,
+  "rmsDbfs": -20.4,
+  "rate": "+0%",
+  "listened": false
+}

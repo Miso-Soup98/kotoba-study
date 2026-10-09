@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-116",
+  "exampleIndex": 1,
+  "text": "家族の大切さが分かりました。",
+  "speechText": "家族の大切さが分かりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 113,
+  "signature": "3f1885703bc5faaeab406962d3c247da417fa458ea0cba7ad9dec4b3f74175c4",
+  "src": "/audio/voices/nanami/N4-116-2.mp3",
+  "srt": "/audio/voices/nanami/N4-116-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "6aeee949459feb425ed9ada2a78d9c35e0a5cb13ca5c9bfce2175184d2462348",
+  "peakPcm": 21532,
+  "rmsDbfs": -18.42,
+  "rate": "+0%",
+  "listened": false
+}

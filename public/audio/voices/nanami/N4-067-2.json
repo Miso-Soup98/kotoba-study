@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-067",
+  "exampleIndex": 1,
+  "text": "赤ちゃんが泣き出しました。",
+  "speechText": "赤ちゃんが泣き出しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 88,
+  "signature": "349ea56ab9e2abde6df7190b19d508944844c0b773d90d44b8244d2c4d83e5d6",
+  "src": "/audio/voices/nanami/N4-067-2.mp3",
+  "srt": "/audio/voices/nanami/N4-067-2.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "9ec1724270df7fa679004a9481eec43b0632b4c1ee0d7820a93397fd65c552bf",
+  "peakPcm": 22465,
+  "rmsDbfs": -19.66,
+  "rate": "+0%",
+  "listened": false
+}

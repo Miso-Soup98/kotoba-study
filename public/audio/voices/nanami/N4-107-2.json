@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-107",
+  "exampleIndex": 1,
+  "text": "休みは読書とか散歩とかをします。",
+  "speechText": "休みは読書とか散歩とかをします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 108,
+  "signature": "3b35b23106c07ce99a8a0dbccffab4c26853c48d769ecd83ae3c325cf76e76bb",
+  "src": "/audio/voices/nanami/N4-107-2.mp3",
+  "srt": "/audio/voices/nanami/N4-107-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "eccebd3082e4635f6b2ca486358794ec40c86a2e5fad6db0fd0a32e0214bc122",
+  "peakPcm": 23214,
+  "rmsDbfs": -18.45,
+  "rate": "+0%",
+  "listened": false
+}

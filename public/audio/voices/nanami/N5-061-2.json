@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-061",
+  "exampleIndex": 1,
+  "text": "妹は猫が好きです。",
+  "speechText": "妹は猫が好きです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 40,
+  "signature": "68efcbbe1f20d5819834e53f99c2e26e26bfb43a2d9fd5665f86eead37afa31a",
+  "src": "/audio/voices/nanami/N5-061-2.mp3",
+  "srt": "/audio/voices/nanami/N5-061-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "84732ba24f1641096e78ea69d46f32db4c8fe4d337c9c7d265ea5eaac111585e",
+  "peakPcm": 20405,
+  "rmsDbfs": -17.82,
+  "rate": "+0%",
+  "listened": false
+}

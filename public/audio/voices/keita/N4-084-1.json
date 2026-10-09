@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-084",
+  "exampleIndex": 0,
+  "text": "私が来たのは昨日です。",
+  "speechText": "私が来たのは昨日です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 96,
+  "signature": "16efd4fc06f61415b22c8cc4b2e9ce980a46ab31362cb5ba621f562d9ed99063",
+  "src": "/audio/voices/keita/N4-084-1.mp3",
+  "srt": "/audio/voices/keita/N4-084-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "b1467ebe57d72f076eea04d9dc3691d51e4757d5739a1c1064be20916c06f6f9",
+  "peakPcm": 22461,
+  "rmsDbfs": -21.49,
+  "rate": "+0%",
+  "listened": false
+}

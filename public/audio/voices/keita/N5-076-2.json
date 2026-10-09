@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-076",
+  "exampleIndex": 1,
+  "text": "昨日はあまり眠れませんでした。",
+  "speechText": "昨日はあまり眠れませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 47,
+  "signature": "e8932515067015adcc11f9bf88579b8a41dce4d3898bda2076f59f0438afea6f",
+  "src": "/audio/voices/keita/N5-076-2.mp3",
+  "srt": "/audio/voices/keita/N5-076-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "23b99813020b7bc8b2af47693a17188f93a75f02dd988d42af0d8db91f36d6b0",
+  "peakPcm": 21614,
+  "rmsDbfs": -19.46,
+  "rate": "+0%",
+  "listened": false
+}

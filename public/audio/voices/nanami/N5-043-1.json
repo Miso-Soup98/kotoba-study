@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-043",
+  "exampleIndex": 0,
+  "text": "手を洗ってから、ご飯を食べます。",
+  "speechText": "手を洗ってから、ご飯を食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 31,
+  "signature": "2338521b92eb4f0d16fc64db555d198c0b89c086ad420b708a91237530c83080",
+  "src": "/audio/voices/nanami/N5-043-1.mp3",
+  "srt": "/audio/voices/nanami/N5-043-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "0a87e92c5a9a0011b3ef555d7d44af577638b27798d01d0dc78c34a23264c9dd",
+  "peakPcm": 22210,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

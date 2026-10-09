@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-041",
+  "exampleIndex": 0,
+  "text": "私は弟に携帯を壊されました。",
+  "speechText": "私は弟に携帯を壊されました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 75,
+  "signature": "fe91b9d1916b62c737ecf3906136efe2adcafe018b823fb140be223229f25127",
+  "src": "/audio/voices/nanami/N4-041-1.mp3",
+  "srt": "/audio/voices/nanami/N4-041-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "d0f77e51238e416f7132e9fc055054fcc2d54e02e43169fd6a6ab48014fc6508",
+  "peakPcm": 21124,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false
+}

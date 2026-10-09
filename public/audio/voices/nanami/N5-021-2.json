@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-021",
+  "exampleIndex": 1,
+  "text": "静かに話してください。",
+  "speechText": "静かに話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 20,
+  "signature": "ed08b45b26434ac065789d7fe1e6440d49e1d8d8348ef503b3890648c2ad9594",
+  "src": "/audio/voices/nanami/N5-021-2.mp3",
+  "srt": "/audio/voices/nanami/N5-021-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "698a53ad6e600bae3995f19ed55bc0a1a5032213f270d2a6452eff7d96c89eee",
+  "peakPcm": 20498,
+  "rmsDbfs": -19.27,
+  "rate": "+0%",
+  "listened": false
+}

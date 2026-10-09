@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-118",
+  "exampleIndex": 0,
+  "text": "この町は第二の故郷だと言ってもいいです。",
+  "speechText": "この町は第二のふるさとだと言ってもいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 114,
+  "signature": "ddc4ad0cb51b316549fdd421eb13c66f31f365038baa7c15b8e24d11760194eb",
+  "src": "/audio/voices/nanami/N4-118-1.mp3",
+  "srt": "/audio/voices/nanami/N4-118-1.srt",
+  "durationSeconds": 4.08,
+  "bytes": 24480,
+  "sha256": "3dd361ee4092348dbc594681dca1a576f492d90840f740bf4bc45b469d563df7",
+  "peakPcm": 20477,
+  "rmsDbfs": -17.62,
+  "rate": "+0%",
+  "listened": false
+}

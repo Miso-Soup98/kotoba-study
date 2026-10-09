@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-124",
+  "exampleIndex": 1,
+  "text": "急に予定が変わりました。",
+  "speechText": "急に予定が変わりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 117,
+  "signature": "0929d95005a9a4b844fcb1b146061fa301f683c3fdfe4bbaf660865efc063cbd",
+  "src": "/audio/voices/keita/N4-124-2.mp3",
+  "srt": "/audio/voices/keita/N4-124-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "4a9188ce118b446d5fdb97fc35d4eba4fcc7c2c20b29601ffd54e36dde96ff1a",
+  "peakPcm": 21708,
+  "rmsDbfs": -19.6,
+  "rate": "+0%",
+  "listened": false
+}

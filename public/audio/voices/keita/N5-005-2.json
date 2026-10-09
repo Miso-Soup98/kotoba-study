@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-005",
+  "exampleIndex": 1,
+  "text": "日本語の授業は午後です。",
+  "speechText": "日本語の授業は午後です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 12,
+  "signature": "ab98ca36d2f516389fc16750d290d9f01020a401a7f930707156d0f3a67a7016",
+  "src": "/audio/voices/keita/N5-005-2.mp3",
+  "srt": "/audio/voices/keita/N5-005-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "b90ef117d4c08cbd1c81fb23972ea769bb9f2b0f51b60d1506b7985e7e77a5af",
+  "peakPcm": 22051,
+  "rmsDbfs": -19.42,
+  "rate": "+0%",
+  "listened": false
+}

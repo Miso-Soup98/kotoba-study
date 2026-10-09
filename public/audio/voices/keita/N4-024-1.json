@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-024",
+  "exampleIndex": 0,
+  "text": "友達に日本語を教えてあげました。",
+  "speechText": "友達に日本語を教えてあげました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 66,
+  "signature": "14e17c1070ac072507339701e832b51a06107dbd2ce7d36949eb4880e5a6f499",
+  "src": "/audio/voices/keita/N4-024-1.mp3",
+  "srt": "/audio/voices/keita/N4-024-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "cce24da536f6571d14eff6f194a1ff7ada54274adf590c02a63697d01f0dca15",
+  "peakPcm": 21347,
+  "rmsDbfs": -19.49,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-062",
+  "exampleIndex": 1,
+  "text": "ちょうど宿題が終わったところです。",
+  "speechText": "ちょうど宿題が終わったところです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 85,
+  "signature": "46d6e4e8991adf0d0ec14a87540cb30eda4d879ea2fb811c5af7c439dcd255cd",
+  "src": "/audio/voices/keita/N4-062-2.mp3",
+  "srt": "/audio/voices/keita/N4-062-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "2d708dec890d59f94fa608554967c425184ba7f74ccc4c565022072eceed84d9",
+  "peakPcm": 24158,
+  "rmsDbfs": -19.59,
+  "rate": "+0%",
+  "listened": false
+}

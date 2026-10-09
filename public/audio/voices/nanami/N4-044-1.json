@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-044",
+  "exampleIndex": 0,
+  "text": "少し考えさせてください。",
+  "speechText": "少し考えさせてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 76,
+  "signature": "cb158182c9d75880f33c5f5287e8f4deb5047ce0d2035ad567b112cfad4b0e9f",
+  "src": "/audio/voices/nanami/N4-044-1.mp3",
+  "srt": "/audio/voices/nanami/N4-044-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "8892903e1b106e2c972374e47d3e79f076772bb12c09b05c1367f49a90129693",
+  "peakPcm": 19930,
+  "rmsDbfs": -19.62,
+  "rate": "+0%",
+  "listened": false
+}

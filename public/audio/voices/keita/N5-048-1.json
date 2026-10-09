@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-048",
+  "exampleIndex": 0,
+  "text": "今日は一時間だけ勉強します。",
+  "speechText": "今日は一時間だけ勉強します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 33,
+  "signature": "edf7a9d8163c175ff3a93a49bd77b41665d174cac4221b0560d51d9ce04818ea",
+  "src": "/audio/voices/keita/N5-048-1.mp3",
+  "srt": "/audio/voices/keita/N5-048-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "23aa8343ee251b4c70624d1d6f75fc7e70170c2032a04c240a466c9e173ec6d9",
+  "peakPcm": 21587,
+  "rmsDbfs": -20.43,
+  "rate": "+0%",
+  "listened": false
+}

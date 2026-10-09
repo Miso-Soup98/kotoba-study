@@ -1,0 +1,38 @@
+{
+  "reviewedOn": "2026-10-10",
+  "method": "AI-assisted text review",
+  "questionCount": 132,
+  "reviewedFields": [
+    "prompt",
+    "options",
+    "answerIndex",
+    "explanation",
+    "passage",
+    "transcript"
+  ],
+  "changes": [
+    {
+      "id": "n2-v05-p-grammar-11",
+      "field": "explanation",
+      "original": "①正确：参加也好不参加也好，两种情况都需明日前回复。②表示伴随变化，不用于并列相反选项。③表示名副其实的评价。④表示跨时间或范围，不能接这组相反决定。",
+      "corrected": "①正确：参加也好不参加也好，两种情况都需最迟明天回复。②表示伴随变化，不用于并列相反选项。③表示名副其实的评价。④表示跨时间或范围，不能接这组相反决定。",
+      "reason": "まで／までに的截止日含当日，避免“日前”造成提前一天的误解。"
+    },
+    {
+      "id": "n2-v05-d-reading-06",
+      "field": "explanation",
+      "original": "①申请期限已过，不能等直播结束。②十五日是观看期限，不是报名期限。③录制不含问答场面，也无此购买安排。④正确：先在七日前报名，再于十五日前观看。",
+      "corrected": "①申请期限已过，不能等直播结束。②十五日是观看期限，不是报名期限。③录制不含问答场面，也无此购买安排。④正确：最迟七日报名，并在截至十五日的可观看期间内观看。",
+      "reason": "まで／までに的截止日含当日，避免“日前”造成提前一天的误解。"
+    }
+  ],
+  "answerKeysChanged": false,
+  "audioListened": false,
+  "publicTedPatternsRead": 36,
+  "contextLessonsRead": 24,
+  "limits": [
+    "未逐段试听训练录音",
+    "未声称N2官方完整考点或完整模拟卷",
+    "TED原文事实未做全面核实"
+  ]
+}

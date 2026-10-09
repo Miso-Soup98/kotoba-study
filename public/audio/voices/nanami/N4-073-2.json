@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-073",
+  "exampleIndex": 1,
+  "text": "仕事で京都へ行くことがあります。",
+  "speechText": "仕事で京都へ行くことがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 91,
+  "signature": "83546921c45e9f1a816c8c5dede9a4311bac20dc6731748b30461b536748067c",
+  "src": "/audio/voices/nanami/N4-073-2.mp3",
+  "srt": "/audio/voices/nanami/N4-073-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "f88c225b160c750d3ad9cf5a7abf92e5f5051f1e2c152afde31bd24ad56c39cc",
+  "peakPcm": 21343,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

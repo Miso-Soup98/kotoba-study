@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-049",
+  "exampleIndex": 1,
+  "text": "この容器は割れにくいです。",
+  "speechText": "この容器は割れにくいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 79,
+  "signature": "2fa0410c2e83779032a419d6029db1f7e537682925e50a09086776f29e405ae6",
+  "src": "/audio/voices/nanami/N4-049-2.mp3",
+  "srt": "/audio/voices/nanami/N4-049-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "0f35d406745c127a35ffbb9233b0488cd637b36cd0050998c227f3d2fc9abd21",
+  "peakPcm": 20942,
+  "rmsDbfs": -17.25,
+  "rate": "+0%",
+  "listened": false
+}

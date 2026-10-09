@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-114",
+  "exampleIndex": 1,
+  "text": "財布がないのに気がつきました。",
+  "speechText": "財布がないのに気がつきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 112,
+  "signature": "6c5fb1d1070ba3ed1ab8e83bf583feb23d45d601c39bc2045681cb3f24cf9fe0",
+  "src": "/audio/voices/keita/N4-114-2.mp3",
+  "srt": "/audio/voices/keita/N4-114-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "51003edcf9e3c392ba651a332f907aa0e342a4d57b01b7b3a6b2ee338854c3cb",
+  "peakPcm": 23761,
+  "rmsDbfs": -21.06,
+  "rate": "+0%",
+  "listened": false
+}

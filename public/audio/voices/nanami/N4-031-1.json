@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-031",
+  "exampleIndex": 0,
+  "text": "金曜日までに書類を出してください。",
+  "speechText": "金曜日までに書類を出してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 70,
+  "signature": "8e84b06ffcfe1eccfa0805c69f18366274722d06744c833d655842ec629c810e",
+  "src": "/audio/voices/nanami/N4-031-1.mp3",
+  "srt": "/audio/voices/nanami/N4-031-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "056f7854287a1224004b5b936640734d7367340224c38b150480ec1e844797c9",
+  "peakPcm": 19098,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-057",
+  "exampleIndex": 1,
+  "text": "夏休みの間、祖父の家にいました。",
+  "speechText": "夏休みの間、祖父の家にいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 83,
+  "signature": "4cf9bccc099a4ee4fce0d047d0f437a4b733416becf6159bacad732f20dc7183",
+  "src": "/audio/voices/nanami/N4-057-2.mp3",
+  "srt": "/audio/voices/nanami/N4-057-2.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "0625a3832aa73c6fad9c073e3a58fd49d566e3bcf1ecaa5602e11c96268ef001",
+  "peakPcm": 21226,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

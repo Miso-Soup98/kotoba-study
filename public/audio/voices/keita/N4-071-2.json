@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-071",
+  "exampleIndex": 1,
+  "text": "休みの日は寝てばかりいます。",
+  "speechText": "休みの日は寝てばかりいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 90,
+  "signature": "226944e8311882b67745709a2f6e73f2e408e45a1ca27b907fd278ebf9549c31",
+  "src": "/audio/voices/keita/N4-071-2.mp3",
+  "srt": "/audio/voices/keita/N4-071-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "e96a1cd20e886c326ed6b853b5c0ccc13353bcbcc6cf1b19bd6d5281c576b0f7",
+  "peakPcm": 20659,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

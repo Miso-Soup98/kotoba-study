@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-017",
+  "exampleIndex": 0,
+  "text": "昨日は雨でした。",
+  "speechText": "昨日は雨でした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 18,
+  "signature": "3b3142cb63df44f4432f3525d0de1f386dc65d7334845d5c80d82b767d7465b5",
+  "src": "/audio/voices/keita/N5-017-1.mp3",
+  "srt": "/audio/voices/keita/N5-017-1.srt",
+  "durationSeconds": 1.992,
+  "bytes": 11952,
+  "sha256": "18cf941bc8e2c8c65e6784cfde61463adc8fea610ec94f2baf99013e4709fc14",
+  "peakPcm": 20737,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

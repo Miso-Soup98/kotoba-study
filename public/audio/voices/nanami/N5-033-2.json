@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-033",
+  "exampleIndex": 1,
+  "text": "そろそろ帰りましょうか。",
+  "speechText": "そろそろ帰りましょうか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 26,
+  "signature": "7e57578336ea16b19511307b3891268078cb177836551e61bd46eb7bb5d7e209",
+  "src": "/audio/voices/nanami/N5-033-2.mp3",
+  "srt": "/audio/voices/nanami/N5-033-2.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "c08d402923abf70075cdaae9751146351f3af6870b924b10d8c09f8b15933e5b",
+  "peakPcm": 22208,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

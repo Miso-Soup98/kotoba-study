@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-050",
+  "exampleIndex": 0,
+  "text": "喉が痛くて、話しづらいです。",
+  "speechText": "喉が痛くて、話しづらいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 79,
+  "signature": "673981daffac26ae39582b09a1c810bcd405c28c05f6d5ee0b6a5273fb7b0417",
+  "src": "/audio/voices/keita/N4-050-1.mp3",
+  "srt": "/audio/voices/keita/N4-050-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "5bbd57d2ea33588706b4119cf6e6b6cc3cff85b46564628aa4ba78e3ced5e7de",
+  "peakPcm": 24573,
+  "rmsDbfs": -21.25,
+  "rate": "+0%",
+  "listened": false
+}

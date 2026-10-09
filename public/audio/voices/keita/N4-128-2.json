@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-128",
+  "exampleIndex": 1,
+  "text": "どうしてそんなに急いでいるんですか。",
+  "speechText": "どうしてそんなに急いでいるんですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 119,
+  "signature": "ad535281ec35e5961e0f301babc7fef2fedb5141c4828a387f79997dc96d4ca5",
+  "src": "/audio/voices/keita/N4-128-2.mp3",
+  "srt": "/audio/voices/keita/N4-128-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "9dab83a4d48b1dc445dbe4f3722dfb4b95684abb980d120d4ada4fe0298661a2",
+  "peakPcm": 22187,
+  "rmsDbfs": -20.19,
+  "rate": "+0%",
+  "listened": false
+}

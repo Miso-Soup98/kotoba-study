@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-069",
+  "exampleIndex": 1,
+  "text": "この漢字はどう読みますか。",
+  "speechText": "この漢字はどう読みますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 44,
+  "signature": "01d71724a3e1f817306fa6bcb05e0051a3b13078ed028fdb63a61b0afd6199fc",
+  "src": "/audio/voices/nanami/N5-069-2.mp3",
+  "srt": "/audio/voices/nanami/N5-069-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "b54b088c28794d29cfd316e72fbfee9533ff6548161b732a531e295975c8779a",
+  "peakPcm": 22188,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

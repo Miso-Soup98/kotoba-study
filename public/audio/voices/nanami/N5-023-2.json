@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-023",
+  "exampleIndex": 1,
+  "text": "友達と映画を見ました。",
+  "speechText": "友達と映画を見ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 21,
+  "signature": "f1a7378938fe557d4716e4652972a83b2bbc94be7980e0ff90b9a25b4310d80a",
+  "src": "/audio/voices/nanami/N5-023-2.mp3",
+  "srt": "/audio/voices/nanami/N5-023-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "7187fe498106bff3b587a12cb87431795b739e8490a0de2cde8cd9e9d2ccfb98",
+  "peakPcm": 21698,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

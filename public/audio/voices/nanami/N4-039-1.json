@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-039",
+  "exampleIndex": 0,
+  "text": "鍵を持っていないので、部屋に入れるはずがありません。",
+  "speechText": "鍵を持っていないので、部屋にはいれるはずがありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 74,
+  "signature": "d864e88139346dcceae311418f355fe96a0a9323d887ca2487d91f5fd6f5b651",
+  "src": "/audio/voices/nanami/N4-039-1.mp3",
+  "srt": "/audio/voices/nanami/N4-039-1.srt",
+  "durationSeconds": 4.608,
+  "bytes": 27648,
+  "sha256": "19b8bdc1e5dc3a9ee60cff2371f6983c9f2f6a65aa7377ccb057a9b31983d911",
+  "peakPcm": 20508,
+  "rmsDbfs": -16.85,
+  "rate": "+0%",
+  "listened": false
+}

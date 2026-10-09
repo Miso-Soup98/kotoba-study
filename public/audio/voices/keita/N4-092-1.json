@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-092",
+  "exampleIndex": 0,
+  "text": "私は張と申します。",
+  "speechText": "私はちょうと申します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 100,
+  "signature": "6e765d6fa63fa6b65f96601c285f37d4bd4551bebb5b43c33026e3016c3e0255",
+  "src": "/audio/voices/keita/N4-092-1.mp3",
+  "srt": "/audio/voices/keita/N4-092-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "633538b6d21444ad8d6550317489a03f4fdeaa79c889bfd0370c7a1419c0c8bd",
+  "peakPcm": 23432,
+  "rmsDbfs": -21.23,
+  "rate": "+0%",
+  "listened": false
+}

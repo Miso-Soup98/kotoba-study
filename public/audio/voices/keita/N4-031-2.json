@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-031",
+  "exampleIndex": 1,
+  "text": "寝るまでに宿題を終わらせます。",
+  "speechText": "寝るまでに宿題を終わらせます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 70,
+  "signature": "2bbec77f7a78d8b672ffb6887042a2018913799488066bf24b426d6972ca6c63",
+  "src": "/audio/voices/keita/N4-031-2.mp3",
+  "srt": "/audio/voices/keita/N4-031-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "e8169c48458e89b6c15b643f82ae059b5b8c735e2be456c942ca23dc6a0a2ad7",
+  "peakPcm": 23570,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

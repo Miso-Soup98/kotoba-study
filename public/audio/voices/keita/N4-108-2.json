@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-108",
+  "exampleIndex": 1,
+  "text": "味噌は大豆から作られます。",
+  "speechText": "味噌は大豆から作られます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 109,
+  "signature": "fa4cb8a42becfaa05b5b8cf446804981562437b98625aa9068be4495a1887679",
+  "src": "/audio/voices/keita/N4-108-2.mp3",
+  "srt": "/audio/voices/keita/N4-108-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "53cb89e24ba3222939b237abacdac49b6b0054213ccb05a48c6245ed861d6656",
+  "peakPcm": 21614,
+  "rmsDbfs": -21.58,
+  "rate": "+0%",
+  "listened": false
+}

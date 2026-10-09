@@ -70,6 +70,13 @@ def clean_text(value) -> str:
     return value.strip() if isinstance(value, str) else ""
 
 
+def is_definition(value: str) -> bool:
+    # Editorial headings and unresolved wiki templates are never word meanings.
+    return bool(value.strip()) and not re.search(
+        r'Template:|模板[:：]|以下.{0,12}(?:尚未|未創建|未创建)|'
+        r'=+\s*(?:日语|日語|日本語)\s*=+|^【[^】]+】$|^\[[^\]]+\]$', value.strip(), re.I)
+
+
 def kana_reading(value: str) -> str:
     value = hira(value).strip()
     return value if value and re.fullmatch(r"[ぁ-ゖー・\s]+", value) else ""
@@ -159,7 +166,7 @@ def compact_record(record: dict) -> dict | None:
         glosses = []
         for value in sense.get("glosses", []):
             gloss, old_readings, old_notes, old_pos = legacy_gloss(clean_text(value))
-            if gloss:
+            if is_definition(gloss):
                 glosses.append(gloss)
             readings.extend(old_readings)
             legacy_notes.extend(old_notes)
@@ -266,7 +273,7 @@ class Enricher:
     def lookup(self, article: dict, surface: str, lemma: str, reading: str, pos: tuple[str, ...], counter_context: bool = False) -> tuple[dict | None, str]:
         lemma_reading = reading if lemma == surface else self.base_reading(lemma)
         for term, expected in unique([(lemma, lemma_reading), (surface, reading)]):
-            matches = [g for g in article.get("glossary", []) if not g.get("uncertainTerm") and g.get("term") == term and clean_text(g.get("meaning")) and (not g.get("reading") or not expected or hira(g["reading"]) == expected)]
+            matches = [g for g in article.get("glossary", []) if not g.get("uncertainTerm") and not g.get("displayHidden") and g.get("term") == term and is_definition(clean_text(g.get("meaning"))) and (not g.get("reading") or not expected or hira(g["reading"]) == expected)]
             if matches:
                 meanings = unique(clean_text(g["meaning"]) for g in matches)
                 usage = unique([self.usage(pos), *(clean_text(g.get("usage")) for g in matches)])

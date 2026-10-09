@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-034",
+  "exampleIndex": 0,
+  "text": "この料理はおいしそうです。",
+  "speechText": "この料理はおいしそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 71,
+  "signature": "c8490d4d79145a963c21e98b226b5234887e96071a13431c69146181d6975fce",
+  "src": "/audio/voices/keita/N4-034-1.mp3",
+  "srt": "/audio/voices/keita/N4-034-1.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "888b238a471a8ce49ad6ab39da3a76b2bc560cc2e731caa3088c1ad9735856b4",
+  "peakPcm": 19612,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

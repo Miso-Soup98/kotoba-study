@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-129",
+  "exampleIndex": 1,
+  "text": "それで、最後はどうなったんですか。",
+  "speechText": "それで、最後はどうなったんですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 119,
+  "signature": "c7d93568e5176357e2fa36b0c4f4fd13cf88675df7fc71ec2f2179609534391c",
+  "src": "/audio/voices/nanami/N4-129-2.mp3",
+  "srt": "/audio/voices/nanami/N4-129-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "67dae02c73174579d7b82d9e2334310eef54ac822640d72a265fc76876ff09fb",
+  "peakPcm": 21480,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

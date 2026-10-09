@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-047",
+  "exampleIndex": 1,
+  "text": "このパンを二つください。",
+  "speechText": "このパンを二つください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 33,
+  "signature": "155db55f38a16c7574e0f38a5e1a24dd6abaa8fc094aaacc824cb32e3deffb9f",
+  "src": "/audio/voices/keita/N5-047-2.mp3",
+  "srt": "/audio/voices/keita/N5-047-2.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "777fe1b289c123386c2d6780be4c06683070f73e73f70234310607ecb0133e68",
+  "peakPcm": 21591,
+  "rmsDbfs": -21.28,
+  "rate": "+0%",
+  "listened": false
+}

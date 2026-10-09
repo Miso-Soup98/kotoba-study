@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-048",
+  "exampleIndex": 0,
+  "text": "この靴は歩きやすいです。",
+  "speechText": "この靴は歩きやすいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 78,
+  "signature": "39be6bfd394fe2172f7665d39111223a9dc1d300752a34c1afed342db4200786",
+  "src": "/audio/voices/keita/N4-048-1.mp3",
+  "srt": "/audio/voices/keita/N4-048-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "9be004e56d7c5d8e2157311bf2f800751b0b648093462368cac5610077e19912",
+  "peakPcm": 20872,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

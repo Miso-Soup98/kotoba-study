@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-029",
+  "exampleIndex": 1,
+  "text": "地図を見ながら、駅まで歩きました。",
+  "speechText": "地図を見ながら、駅まで歩きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 69,
+  "signature": "f308eb747c6f6282cd695025baae4b7a86ff1f928f1b4b4fcc3f54b91ff3a358",
+  "src": "/audio/voices/nanami/N4-029-2.mp3",
+  "srt": "/audio/voices/nanami/N4-029-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "f502f4115103806fd338bde0231220d6ccd767241b83700b7ddfdd7388d70ec3",
+  "peakPcm": 20114,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-040",
+  "exampleIndex": 0,
+  "text": "この店は小さいですが、便利です。",
+  "speechText": "この店は小さいですが、便利です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 29,
+  "signature": "eab1d329e5c060eb97fe614dd408ded9a53dc19bcf3d0fdab0ed8915f32ddc75",
+  "src": "/audio/voices/keita/N5-040-1.mp3",
+  "srt": "/audio/voices/keita/N5-040-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "97d07409a5ee4b3cc9cd6b1e1408b8af1c8211f19b123236d6626585a0711ba7",
+  "peakPcm": 24177,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

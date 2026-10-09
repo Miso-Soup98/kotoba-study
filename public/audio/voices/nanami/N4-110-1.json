@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-110",
+  "exampleIndex": 0,
+  "text": "二時間おきに休憩します。",
+  "speechText": "二時間おきに休憩します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 110,
+  "signature": "5ef2b2d105a0ef4984133e9785c6c015fa918116696cf36d9804f305740b2d8d",
+  "src": "/audio/voices/nanami/N4-110-1.mp3",
+  "srt": "/audio/voices/nanami/N4-110-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "eea51d94d84e75c1c0ea32288814b59d7dc82625db8dc60c45212369d5d3e13d",
+  "peakPcm": 21013,
+  "rmsDbfs": -17.51,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-048",
+  "exampleIndex": 1,
+  "text": "この道は雨の後、滑りやすくなります。",
+  "speechText": "この道は雨の後、滑りやすくなります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 78,
+  "signature": "785ffc3ea244fa38d3af555797b9e9878e38256a97f8906e74032b63599ac0d3",
+  "src": "/audio/voices/nanami/N4-048-2.mp3",
+  "srt": "/audio/voices/nanami/N4-048-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "f0f165135184f91f5b19e3c4ad6cdf63592b0d23ddb70ae81f3fb4b5988f0c5e",
+  "peakPcm": 21196,
+  "rmsDbfs": -17.34,
+  "rate": "+0%",
+  "listened": false
+}

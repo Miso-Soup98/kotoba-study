@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-085",
+  "exampleIndex": 0,
+  "text": "明日は休みだということを忘れていました。",
+  "speechText": "明日は休みだということを忘れていました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 97,
+  "signature": "69ac1a805821ddabbd4dd194b2a6097fbc7cb1011eef8723c080655b900bcae5",
+  "src": "/audio/voices/keita/N4-085-1.mp3",
+  "srt": "/audio/voices/keita/N4-085-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "10d6c2b0c995b38ecf2d6424205e32b70ebf13a07713d913b0a0e816b35b96d6",
+  "peakPcm": 23558,
+  "rmsDbfs": -20.49,
+  "rate": "+0%",
+  "listened": false
+}

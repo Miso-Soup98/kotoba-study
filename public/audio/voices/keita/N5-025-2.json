@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-025",
+  "exampleIndex": 1,
+  "text": "少し待ってください。",
+  "speechText": "少し待ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 22,
+  "signature": "93b16f614a50297872f48d7b82f29caec0784773055ebbfde3086bed9287c175",
+  "src": "/audio/voices/keita/N5-025-2.mp3",
+  "srt": "/audio/voices/keita/N5-025-2.srt",
+  "durationSeconds": 2.112,
+  "bytes": 12672,
+  "sha256": "03161b57adf7da42160963ba67f39e6c29e83617a9f82514bd7c6d872055014e",
+  "peakPcm": 21872,
+  "rmsDbfs": -23.4,
+  "rate": "+0%",
+  "listened": false
+}

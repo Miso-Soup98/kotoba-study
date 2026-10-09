@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-028",
+  "exampleIndex": 1,
+  "text": "ここでは大きな声で話さないでほしいです。",
+  "speechText": "ここでは大きな声で話さないでほしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 68,
+  "signature": "16c22d686f9acb8525a70e38c1939a4c8e709f6e1edc77d98b9df4e6e8e15978",
+  "src": "/audio/voices/nanami/N4-028-2.mp3",
+  "srt": "/audio/voices/nanami/N4-028-2.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "e7c762a989714859bd345dd7e324c0843b37682f1dbde359417626f233b6f291",
+  "peakPcm": 21776,
+  "rmsDbfs": -16.99,
+  "rate": "+0%",
+  "listened": false
+}

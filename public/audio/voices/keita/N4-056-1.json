@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-056",
+  "exampleIndex": 0,
+  "text": "財布が見つからなくて、困っています。",
+  "speechText": "財布が見つからなくて、困っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 82,
+  "signature": "608edbb4f6973561084b14d7a247abb03e3ce39aa48b3b1f25933b271e2ace84",
+  "src": "/audio/voices/keita/N4-056-1.mp3",
+  "srt": "/audio/voices/keita/N4-056-1.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "30d70754a87b435232d51c84ac907099566cc9fc59cdd76e6d718848aa76cc7d",
+  "peakPcm": 25094,
+  "rmsDbfs": -21.61,
+  "rate": "+0%",
+  "listened": false
+}

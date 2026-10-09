@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-041",
+  "exampleIndex": 0,
+  "text": "今日は頭が痛いんです。",
+  "speechText": "今日は頭が痛いんです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 30,
+  "signature": "0cf8a57907ced3be8be8681a4cf9d131f0b0eedc40e299f15e0d81e8bb9ded51",
+  "src": "/audio/voices/keita/N5-041-1.mp3",
+  "srt": "/audio/voices/keita/N5-041-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "7b425d8c207bd2474807b28b63613d98b30c7f10392f2e12a399fb54f23ca083",
+  "peakPcm": 21580,
+  "rmsDbfs": -20.32,
+  "rate": "+0%",
+  "listened": false
+}

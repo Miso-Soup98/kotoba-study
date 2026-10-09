@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-113",
+  "exampleIndex": 0,
+  "text": "バスがなかなか来ません。",
+  "speechText": "バスがなかなか来ません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 111,
+  "signature": "9e767ee2aa1851a55a56218c02d0b7943b19795742e4eed73753140176ddd6c0",
+  "src": "/audio/voices/nanami/N4-113-1.mp3",
+  "srt": "/audio/voices/nanami/N4-113-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "97232643a1b637eefc94a51d7c6075613f6d2c8b9aeb4ef9efc1e807bb9b9ed0",
+  "peakPcm": 23665,
+  "rmsDbfs": -18.8,
+  "rate": "+0%",
+  "listened": false
+}

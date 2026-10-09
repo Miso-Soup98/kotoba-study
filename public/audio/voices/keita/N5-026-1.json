@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-026",
+  "exampleIndex": 0,
+  "text": "ここで写真を撮らないでください。",
+  "speechText": "ここで写真を撮らないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 22,
+  "signature": "514995553d5f730f5dfd01ae1f2d5df84fb5dd2f87d5c9beb0ceb822747bbae1",
+  "src": "/audio/voices/keita/N5-026-1.mp3",
+  "srt": "/audio/voices/keita/N5-026-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "41a9a1e751021f691850e5cad8ff15218933ed4adc16ffc091d22c42d973c067",
+  "peakPcm": 22835,
+  "rmsDbfs": -19.83,
+  "rate": "+0%",
+  "listened": false
+}

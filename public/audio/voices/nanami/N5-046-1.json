@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-046",
+  "exampleIndex": 0,
+  "text": "昼ご飯を食べに行きます。",
+  "speechText": "昼ご飯を食べに行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 32,
+  "signature": "8ce81c7186181b157dabd96e780fb69e20425b85b04600411c6c0917942bf30c",
+  "src": "/audio/voices/nanami/N5-046-1.mp3",
+  "srt": "/audio/voices/nanami/N5-046-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "c533c4433015085896c2a2508ffba007b0e791ae7f0b899c8d0a277ee54a28a5",
+  "peakPcm": 20235,
+  "rmsDbfs": -18.54,
+  "rate": "+0%",
+  "listened": false
+}

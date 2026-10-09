@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-058",
+  "exampleIndex": 1,
+  "text": "明日か明後日に行きます。",
+  "speechText": "明日か明後日に行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 38,
+  "signature": "11b35e96a4c8f08bdc46063b9db50d02284abdc5bb657a286859dc0f3ac80cef",
+  "src": "/audio/voices/nanami/N5-058-2.mp3",
+  "srt": "/audio/voices/nanami/N5-058-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "ef899929b9aa2caa9572ff01a9d6bf899a367c68f360c25089601600da050ba9",
+  "peakPcm": 21202,
+  "rmsDbfs": -18.36,
+  "rate": "+0%",
+  "listened": false
+}

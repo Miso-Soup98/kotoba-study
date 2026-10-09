@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-050",
+  "exampleIndex": 0,
+  "text": "まだ雨が降っています。",
+  "speechText": "まだ雨が降っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 34,
+  "signature": "abe41f994aa5ee928b028f1c0c1d98377c55a4b6a6588f7aef9d541daa774802",
+  "src": "/audio/voices/nanami/N5-050-1.mp3",
+  "srt": "/audio/voices/nanami/N5-050-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "2baa42688dbcc8e498d97a82c6f35b3777433aeb22a1c9cad2f1b29cb7c6c84d",
+  "peakPcm": 21856,
+  "rmsDbfs": -18.3,
+  "rate": "+0%",
+  "listened": false
+}

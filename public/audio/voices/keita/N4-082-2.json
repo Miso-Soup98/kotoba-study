@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-082",
+  "exampleIndex": 1,
+  "text": "早く病院へ行ってよかったです。",
+  "speechText": "早く病院へ行ってよかったです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 95,
+  "signature": "4dc28d8d93afea64c3b04ffddd523eecc05fe23e6edd4929420e12165821cf13",
+  "src": "/audio/voices/keita/N4-082-2.mp3",
+  "srt": "/audio/voices/keita/N4-082-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "e608b6a11c871ae3b0bc7d6bf54240bce2c4b5b9e6963a650482cc6b041b7426",
+  "peakPcm": 22504,
+  "rmsDbfs": -20.13,
+  "rate": "+0%",
+  "listened": false
+}

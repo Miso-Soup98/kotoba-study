@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-011",
+  "exampleIndex": 1,
+  "text": "日本語で名前を書いてください。",
+  "speechText": "日本語で名前を書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 15,
+  "signature": "91380efeb4be127e43591d7239dfb8763604ce2b43f37d0394be8bc27216803d",
+  "src": "/audio/voices/nanami/N5-011-2.mp3",
+  "srt": "/audio/voices/nanami/N5-011-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "6580930073d9d0387337c8a5eda95630492455f92a209bd6a4cc295147911095",
+  "peakPcm": 22493,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

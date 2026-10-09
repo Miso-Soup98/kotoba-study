@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-067",
+  "exampleIndex": 0,
+  "text": "急に雨が降り出しました。",
+  "speechText": "急に雨が降り出しました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 88,
+  "signature": "a18d421d872ab9f622936d45ea3fcaf7b17ea6a50f6a74680f9dc7bc10a1a6cd",
+  "src": "/audio/voices/nanami/N4-067-1.mp3",
+  "srt": "/audio/voices/nanami/N4-067-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "124fd9fb6b37a33a08e0abcbec056567077146f1a5c0eb0d29c2090016a3aa2a",
+  "peakPcm": 22399,
+  "rmsDbfs": -19.48,
+  "rate": "+0%",
+  "listened": false
+}

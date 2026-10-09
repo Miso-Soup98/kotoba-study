@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-015",
+  "exampleIndex": 1,
+  "text": "今日は無理をしないことにします。",
+  "speechText": "今日は無理をしないことにします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 62,
+  "signature": "7c8a00831700d340fabd4bf675c1c1a5fcf1c92fc3c316fea28ac33f49eac0f9",
+  "src": "/audio/voices/keita/N4-015-2.mp3",
+  "srt": "/audio/voices/keita/N4-015-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "967a03d383853d2fe845d1b4c8579e36d801632a0cd7da9a6350e2c202f9e25b",
+  "peakPcm": 22393,
+  "rmsDbfs": -20.07,
+  "rate": "+0%",
+  "listened": false
+}

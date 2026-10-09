@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-038",
+  "exampleIndex": 1,
+  "text": "少し遅れるので、先に始めてください。",
+  "speechText": "少し遅れるので、先に始めてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 28,
+  "signature": "d74f317f951bd454c6ade111ce97f2bd4d9e73eb39b3a17fd624c4bd8f842e62",
+  "src": "/audio/voices/nanami/N5-038-2.mp3",
+  "srt": "/audio/voices/nanami/N5-038-2.srt",
+  "durationSeconds": 4.032,
+  "bytes": 24192,
+  "sha256": "64f3724823a53d75d9d89289e736a7c9ea12e98e86f5743374f6eea97131e636",
+  "peakPcm": 23126,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

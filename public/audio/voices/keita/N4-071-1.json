@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-071",
+  "exampleIndex": 0,
+  "text": "弟は肉ばかり食べます。",
+  "speechText": "弟は肉ばかり食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 90,
+  "signature": "206d02539bbb2d9e115b8807819b45c3f8a92c0eec78d2c01c70b91acd750e3a",
+  "src": "/audio/voices/keita/N4-071-1.mp3",
+  "srt": "/audio/voices/keita/N4-071-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "44e7141947801e9ec6e12a66e05d329aad8e2f020cdec24884be7fd7bd4314d8",
+  "peakPcm": 23319,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

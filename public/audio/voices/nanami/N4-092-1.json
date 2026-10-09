@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-092",
+  "exampleIndex": 0,
+  "text": "私は張と申します。",
+  "speechText": "私はちょうと申します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 100,
+  "signature": "62646c9e146957a5156b24e54238e216c5f69a102c63bddfa360e9a784569bd9",
+  "src": "/audio/voices/nanami/N4-092-1.mp3",
+  "srt": "/audio/voices/nanami/N4-092-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "25823b7bb9292e0df2d30b8327df75d7d1e72877168736ae5878e548e0dd5b23",
+  "peakPcm": 20142,
+  "rmsDbfs": -18.13,
+  "rate": "+0%",
+  "listened": false
+}

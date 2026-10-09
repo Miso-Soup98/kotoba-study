@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-078",
+  "exampleIndex": 0,
+  "text": "今日は暑いなあ。",
+  "speechText": "今日は暑いなあ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 48,
+  "signature": "b3b51ffd33a8b429efb023ccaf96edb00c980b49faf7f958546301c0e22138c5",
+  "src": "/audio/voices/keita/N5-078-1.mp3",
+  "srt": "/audio/voices/keita/N5-078-1.srt",
+  "durationSeconds": 1.92,
+  "bytes": 11520,
+  "sha256": "90be80093fe28b0a671bd5d4f17f71eee36cac6350120c58d93f60cfaf125a39",
+  "peakPcm": 20430,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

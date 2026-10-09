@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-054",
+  "exampleIndex": 0,
+  "text": "この靴は少し大きいです。",
+  "speechText": "この靴は少し大きいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 36,
+  "signature": "5d5539e111a7ba219389a88812b82efd437677154ad090c47a81fc736c799164",
+  "src": "/audio/voices/nanami/N5-054-1.mp3",
+  "srt": "/audio/voices/nanami/N5-054-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "39928fce473854529d413637bcce75bee4158f14679b739ff81d258058c2aa14",
+  "peakPcm": 23431,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-025",
+  "exampleIndex": 1,
+  "text": "先生が丁寧に説明してくれました。",
+  "speechText": "先生が丁寧に説明してくれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 67,
+  "signature": "01af9655e339c58ad3e73566d306809dadd7350bd9dc404c4b173e003fa0b1f5",
+  "src": "/audio/voices/nanami/N4-025-2.mp3",
+  "srt": "/audio/voices/nanami/N4-025-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "88cd1c3009ece24a1f5a7f6728be9ad0cc9e04cd06ac67fa237870be294d3166",
+  "peakPcm": 20420,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-012",
+  "exampleIndex": 1,
+  "text": "明日、試験があります。",
+  "speechText": "明日、試験があります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 15,
+  "signature": "add1fdb046faf0c73e09a01a9634daed7fc5c8d51ca0ef27fc3e4910bacbdb3c",
+  "src": "/audio/voices/keita/N5-012-2.mp3",
+  "srt": "/audio/voices/keita/N5-012-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "3177e2e948149b8737e91e340997e67cc20628cd064aabc6a290d1690c97918e",
+  "peakPcm": 24375,
+  "rmsDbfs": -22.37,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-080",
+  "exampleIndex": 1,
+  "text": "教室に学生が五人います。",
+  "speechText": "教室に学生が五人います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 49,
+  "signature": "9461f7857563e77615269e5e6361de7965cd03dd782ddfec4abd3680686002e3",
+  "src": "/audio/voices/nanami/N5-080-2.mp3",
+  "srt": "/audio/voices/nanami/N5-080-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "99c39ef857f120b2654ea4d54b20516cd8b73fb5732b7ad92c38aa136f8f739c",
+  "peakPcm": 20211,
+  "rmsDbfs": -17.37,
+  "rate": "+0%",
+  "listened": false
+}

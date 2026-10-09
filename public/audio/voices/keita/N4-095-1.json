@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-095",
+  "exampleIndex": 0,
+  "text": "留学するために、お金を貯めています。",
+  "speechText": "留学するために、お金を貯めています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 102,
+  "signature": "e4160994d84bfcc5361d41e33746d09a45377a5fad837794424bb5c75fc920c1",
+  "src": "/audio/voices/keita/N4-095-1.mp3",
+  "srt": "/audio/voices/keita/N4-095-1.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "415f9df68d1410ba3ba633b0ab89b2b9662313c9b6661cbffd61e57d54f0a956",
+  "peakPcm": 22573,
+  "rmsDbfs": -20.29,
+  "rate": "+0%",
+  "listened": false
+}

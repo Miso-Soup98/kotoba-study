@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-122",
+  "exampleIndex": 1,
+  "text": "先生もきっと喜ぶでしょう。",
+  "speechText": "先生もきっと喜ぶでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 116,
+  "signature": "f36dd2540e9b576fdd0a7be10dec1d18675ffa049fa17adb77d6016709fbf29b",
+  "src": "/audio/voices/keita/N4-122-2.mp3",
+  "srt": "/audio/voices/keita/N4-122-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "be724867946495094eb5a03644e000168a47aba9b4bbfaa6c6cce7c5d317a425",
+  "peakPcm": 21781,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

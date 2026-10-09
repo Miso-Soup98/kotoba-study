@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-047",
+  "exampleIndex": 0,
+  "text": "昨日は食べすぎました。",
+  "speechText": "昨日は食べすぎました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 78,
+  "signature": "09eba1ed3f1cc9b34ac6869c7dc15f93120ec0f1a0326a4145df24f51df91e38",
+  "src": "/audio/voices/keita/N4-047-1.mp3",
+  "srt": "/audio/voices/keita/N4-047-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "ab637bf653b8a0b3322eb787a34544437f9b5f4462118d600ab9ebbcfe810070",
+  "peakPcm": 19756,
+  "rmsDbfs": -20.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-051",
+  "exampleIndex": 0,
+  "text": "この道具の使い方を教えてください。",
+  "speechText": "この道具の使い方を教えてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 80,
+  "signature": "418483201d23a6cd908dbb525267359aeb9768b42a77d7b3a86eda3af3899f68",
+  "src": "/audio/voices/nanami/N4-051-1.mp3",
+  "srt": "/audio/voices/nanami/N4-051-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "13ebcb57ad8e2397d247c33d2f504769dad8894e7123b8085cfd3ad8e08e4dc4",
+  "peakPcm": 20735,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

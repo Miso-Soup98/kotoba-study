@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-046",
+  "exampleIndex": 1,
+  "text": "友達が遊びに来ました。",
+  "speechText": "友達が遊びに来ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 32,
+  "signature": "e40b749d549bba6e7775604f298c953b5c0409b3e2accf0103d9762195df7ee7",
+  "src": "/audio/voices/nanami/N5-046-2.mp3",
+  "srt": "/audio/voices/nanami/N5-046-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "69ed8edda4356c5651fa1f4ee7ca3fbb7168c8bb27978e75824a226577567b43",
+  "peakPcm": 21583,
+  "rmsDbfs": -18.74,
+  "rate": "+0%",
+  "listened": false
+}

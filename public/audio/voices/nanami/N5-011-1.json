@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-011",
+  "exampleIndex": 0,
+  "text": "箸でご飯を食べます。",
+  "speechText": "箸でご飯を食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 15,
+  "signature": "b1ac47aefb997bec3e6d6659f9e56f5b9c84a970801163265370943e9dc42be5",
+  "src": "/audio/voices/nanami/N5-011-1.mp3",
+  "srt": "/audio/voices/nanami/N5-011-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "52cd6ad70037d5587193785129d2620ef1718d7770d41530d6e14c672f715fdd",
+  "peakPcm": 20893,
+  "rmsDbfs": -18.72,
+  "rate": "+0%",
+  "listened": false
+}

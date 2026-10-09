@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-031",
+  "exampleIndex": 1,
+  "text": "明日、図書館へ行きませんか。",
+  "speechText": "明日、図書館へ行きませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 25,
+  "signature": "6e45a57678bdf1da28dc3c512a01f6c8c4dfddcb5a210c48f6b8a46f7793c6ed",
+  "src": "/audio/voices/nanami/N5-031-2.mp3",
+  "srt": "/audio/voices/nanami/N5-031-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "9423bdd115ca18a69e688dd373091e64444016bace086ca84db07d16a308a166",
+  "peakPcm": 21169,
+  "rmsDbfs": -19.03,
+  "rate": "+0%",
+  "listened": false
+}

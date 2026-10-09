@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-023",
+  "exampleIndex": 0,
+  "text": "パンと卵を買います。",
+  "speechText": "パンと卵を買います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 21,
+  "signature": "7ab4c3a66f04c37001f2a6ea0e0443e7cfd6d266cb7b27bcee30b1fd88f9a6e4",
+  "src": "/audio/voices/keita/N5-023-1.mp3",
+  "srt": "/audio/voices/keita/N5-023-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "2271a71745b6afaa43e808e0dc311312577a41208f71b04332c0aef675b299c9",
+  "peakPcm": 21903,
+  "rmsDbfs": -21.25,
+  "rate": "+0%",
+  "listened": false
+}

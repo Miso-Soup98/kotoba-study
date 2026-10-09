@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-039",
+  "exampleIndex": 0,
+  "text": "鍵を持っていないので、部屋に入れるはずがありません。",
+  "speechText": "鍵を持っていないので、部屋にはいれるはずがありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 74,
+  "signature": "afacedbfb0a88dd2e0b5ad1e980f989d0066fd81df50551c1d6a0d7261638126",
+  "src": "/audio/voices/keita/N4-039-1.mp3",
+  "srt": "/audio/voices/keita/N4-039-1.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "754ae46812061dc6ac0cd00b39e2e7919f2522c595bff2cf3800387bc1c45d1e",
+  "peakPcm": 24877,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

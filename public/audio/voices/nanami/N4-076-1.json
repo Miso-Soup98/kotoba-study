@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-076",
+  "exampleIndex": 0,
+  "text": "台所からいい匂いがします。",
+  "speechText": "台所からいい匂いがします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 92,
+  "signature": "be9b9ab3590b23396ea80246098bf0f0e08371689f6758f253a481958a99fea7",
+  "src": "/audio/voices/nanami/N4-076-1.mp3",
+  "srt": "/audio/voices/nanami/N4-076-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "0f72ede899d991e5164e7dec3bad6df9788cd2a4c6895266801238a01601ae06",
+  "peakPcm": 20403,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

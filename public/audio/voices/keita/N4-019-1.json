@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-019",
+  "exampleIndex": 0,
+  "text": "会議の前に資料を読んでおきます。",
+  "speechText": "会議の前に資料を読んでおきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 64,
+  "signature": "9df1b05f00b894f95ba779f29834eba496fd52b90bc539e2303098c4c231c957",
+  "src": "/audio/voices/keita/N4-019-1.mp3",
+  "srt": "/audio/voices/keita/N4-019-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "12f8941b29c6268af938e16a46bf8e9db418aa5f1466046f7cf2c576340a53d6",
+  "peakPcm": 20986,
+  "rmsDbfs": -20.08,
+  "rate": "+0%",
+  "listened": false
+}

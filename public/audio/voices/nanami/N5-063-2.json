@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-063",
+  "exampleIndex": 1,
+  "text": "弟は大学生になりました。",
+  "speechText": "弟は大学生になりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 41,
+  "signature": "188fad00b6617a840f9b65bb96b929f0d546d22b528dfbc867228f66d3eb3dfb",
+  "src": "/audio/voices/nanami/N5-063-2.mp3",
+  "srt": "/audio/voices/nanami/N5-063-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "d7fea9eeda82748d803bba3b46dbff173b7894bd16dcdd30ee3179b8c40c9298",
+  "peakPcm": 22081,
+  "rmsDbfs": -16.87,
+  "rate": "+0%",
+  "listened": false
+}

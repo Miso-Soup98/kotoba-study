@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-017",
+  "exampleIndex": 1,
+  "text": "授業に遅れないようにしています。",
+  "speechText": "授業に遅れないようにしています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 63,
+  "signature": "94c40bfb4f71d99ae28f96c555623e02b4bdc33b512cdb4cecd609ece40e220d",
+  "src": "/audio/voices/nanami/N4-017-2.mp3",
+  "srt": "/audio/voices/nanami/N4-017-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "8dce4c7c339f57881bcdf2a8eb9bc1fb2d640805b53157775ce9d37718099cc0",
+  "peakPcm": 21225,
+  "rmsDbfs": -17.54,
+  "rate": "+0%",
+  "listened": false
+}

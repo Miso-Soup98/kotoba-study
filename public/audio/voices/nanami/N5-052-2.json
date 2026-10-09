@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-052",
+  "exampleIndex": 1,
+  "text": "この店は安いですよ。",
+  "speechText": "この店は安いですよ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 35,
+  "signature": "15e1ace83000935a9443500d358d3810376c83e5da20f21a4fc55b57fd26d95c",
+  "src": "/audio/voices/nanami/N5-052-2.mp3",
+  "srt": "/audio/voices/nanami/N5-052-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "266e2f5d99cf6fbf531b27fbd093288884a830af6e56f5232f5f9804ab348335",
+  "peakPcm": 21576,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

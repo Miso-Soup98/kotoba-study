@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-063",
+  "exampleIndex": 1,
+  "text": "弟は大学生になりました。",
+  "speechText": "弟は大学生になりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 41,
+  "signature": "d55ec04b2e0d22880fedb8c9d2d1831324e978fcb9ae4b11efd1258d3be56ab7",
+  "src": "/audio/voices/keita/N5-063-2.mp3",
+  "srt": "/audio/voices/keita/N5-063-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "48b0d24ba62e72f3c77ce29a017af0faad2c16fb3ac909021a7d6dea98b41b57",
+  "peakPcm": 21217,
+  "rmsDbfs": -20.22,
+  "rate": "+0%",
+  "listened": false
+}

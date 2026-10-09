@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-020",
+  "exampleIndex": 1,
+  "text": "この本は今日、読んでしまいます。",
+  "speechText": "この本は今日、読んでしまいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 64,
+  "signature": "8fb8dbbc4c1c7f762f107a6d13dc4e40de5812e7d26fab207bc4d26df32911cd",
+  "src": "/audio/voices/keita/N4-020-2.mp3",
+  "srt": "/audio/voices/keita/N4-020-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "98d0be954a749bb09a61f217b90c9ce35290f7c57a3b4f1e0fadd10aa4a3557c",
+  "peakPcm": 21511,
+  "rmsDbfs": -20.34,
+  "rate": "+0%",
+  "listened": false
+}

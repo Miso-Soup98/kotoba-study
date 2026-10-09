@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-074",
+  "exampleIndex": 0,
+  "text": "朝ご飯を食べました。それから、学校へ行きました。",
+  "speechText": "朝ご飯を食べました。それから、学校へ行きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 46,
+  "signature": "fae6ec706b8db91941e6c16ee42bc836203ada039caaa88293d9807f32451ad6",
+  "src": "/audio/voices/nanami/N5-074-1.mp3",
+  "srt": "/audio/voices/nanami/N5-074-1.srt",
+  "durationSeconds": 5.52,
+  "bytes": 33120,
+  "sha256": "47feb781a14b0516b4b95160a8aa18b58aad81de8a885ebc9fb8fb54db66eb36",
+  "peakPcm": 20542,
+  "rmsDbfs": -18.32,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-042",
+  "exampleIndex": 0,
+  "text": "朝ご飯を食べて、学校へ行きます。",
+  "speechText": "朝ご飯を食べて、学校へ行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 30,
+  "signature": "5530c5f3409affe209c103e9542320af65bb580130e5ab17d0a68f9e4dba3e02",
+  "src": "/audio/voices/nanami/N5-042-1.mp3",
+  "srt": "/audio/voices/nanami/N5-042-1.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "04bd06e0c2789748ada635de2d47ff4877c5dc638fe396fe0651bd46fb357c38",
+  "peakPcm": 20813,
+  "rmsDbfs": -17.27,
+  "rate": "+0%",
+  "listened": false
+}

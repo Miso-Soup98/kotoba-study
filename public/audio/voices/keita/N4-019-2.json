@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-019",
+  "exampleIndex": 1,
+  "text": "窓は開けておいてください。",
+  "speechText": "窓は開けておいてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 64,
+  "signature": "3a360f9678313dedd16c66e839f75d7974c7a72e8e409999592e0467e2b5f935",
+  "src": "/audio/voices/keita/N4-019-2.mp3",
+  "srt": "/audio/voices/keita/N4-019-2.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "3b0b5d60aae0b7aee3c0a1ab983f7c8f84d2c41239e8fb72a5428493672455f8",
+  "peakPcm": 25297,
+  "rmsDbfs": -20.79,
+  "rate": "+0%",
+  "listened": false
+}

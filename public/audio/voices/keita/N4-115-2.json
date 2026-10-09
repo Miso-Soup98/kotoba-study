@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-115",
+  "exampleIndex": 1,
+  "text": "三人の中で、姉が一番背が高いです。",
+  "speechText": "三人の中で、姉が一番背が高いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 112,
+  "signature": "f026c51ec867e68a45638a074d7a429e53c3972851f2a26551ca2434128d8007",
+  "src": "/audio/voices/keita/N4-115-2.mp3",
+  "srt": "/audio/voices/keita/N4-115-2.srt",
+  "durationSeconds": 4.056,
+  "bytes": 24336,
+  "sha256": "66c074ec1138452e2a64ce891fcd6136337c43fd18b6afa6d8c441b9f955619b",
+  "peakPcm": 24375,
+  "rmsDbfs": -20.66,
+  "rate": "+0%",
+  "listened": false
+}

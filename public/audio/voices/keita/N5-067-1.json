@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-067",
+  "exampleIndex": 0,
+  "text": "明日は晴れるでしょう。",
+  "speechText": "明日は晴れるでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 43,
+  "signature": "5a020f99ccaf50b613480711cd72ad68faf632ebb43461a6a53a48ac4f58b9e9",
+  "src": "/audio/voices/keita/N5-067-1.mp3",
+  "srt": "/audio/voices/keita/N5-067-1.srt",
+  "durationSeconds": 2.232,
+  "bytes": 13392,
+  "sha256": "48b0ec02938e7c4ccf370e3dd7c7c737c2ef030a3006ccd1c0e97ecee338e87b",
+  "peakPcm": 23245,
+  "rmsDbfs": -21.59,
+  "rate": "+0%",
+  "listened": false
+}

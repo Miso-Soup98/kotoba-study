@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-018",
+  "exampleIndex": 1,
+  "text": "先生に聞いてみます。",
+  "speechText": "先生に聞いてみます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 63,
+  "signature": "45c0e90e1d6d3b762543e48b92f64321c6e57d4b2c81fb7cf5d6a0ad61d06e24",
+  "src": "/audio/voices/nanami/N4-018-2.mp3",
+  "srt": "/audio/voices/nanami/N4-018-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "64653819fb5cee6224d06e4c4cb210233747a3ddcbb45bedba325f7d84089c32",
+  "peakPcm": 20574,
+  "rmsDbfs": -17.37,
+  "rate": "+0%",
+  "listened": false
+}

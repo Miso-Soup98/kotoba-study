@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-052",
+  "exampleIndex": 1,
+  "text": "会議が何時に始まるか教えてください。",
+  "speechText": "会議が何時に始まるか教えてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 80,
+  "signature": "12a8e1df9cbb92285d8670c82b925d3ab2ae7d6709408292ebe1ec10cca23162",
+  "src": "/audio/voices/keita/N4-052-2.mp3",
+  "srt": "/audio/voices/keita/N4-052-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "2c87567ab85da44a0a5b102ee172456bf07e9e6351038bb147fda105934ef204",
+  "peakPcm": 20674,
+  "rmsDbfs": -21.39,
+  "rate": "+0%",
+  "listened": false
+}

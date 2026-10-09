@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-024",
+  "exampleIndex": 0,
+  "text": "九時から五時まで働きます。",
+  "speechText": "九時から五時まで働きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 21,
+  "signature": "c0c8e0cef99f5f82401bb7c48d30f69d270e61ac48274c91d7d491c91ccc17aa",
+  "src": "/audio/voices/keita/N5-024-1.mp3",
+  "srt": "/audio/voices/keita/N5-024-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "8857122095ad831f391789088205c95ded8af240fd0c417a5f2550765947c5ab",
+  "peakPcm": 23020,
+  "rmsDbfs": -22.39,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-127",
+  "exampleIndex": 0,
+  "text": "長い仕事がやっと終わりました。",
+  "speechText": "長い仕事がやっと終わりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 118,
+  "signature": "b30105a46b51aa73817135b6fb2b497069ffeed0654451f032f08d882798dcb9",
+  "src": "/audio/voices/keita/N4-127-1.mp3",
+  "srt": "/audio/voices/keita/N4-127-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "1548fc70dbf71bebb0e72de08c0fa4b684ad457fbff421dbca3927cf1c136700",
+  "peakPcm": 23433,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

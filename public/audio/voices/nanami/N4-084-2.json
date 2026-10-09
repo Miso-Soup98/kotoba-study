@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-084",
+  "exampleIndex": 1,
+  "text": "大切なのは毎日続けることです。",
+  "speechText": "大切なのは毎日続けることです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 96,
+  "signature": "dd4c2f6250b7fb4d49a4a810e2cdfee8a46c9678aa60771d670e692743754bdb",
+  "src": "/audio/voices/nanami/N4-084-2.mp3",
+  "srt": "/audio/voices/nanami/N4-084-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "dbe6597890f04f635619e691277d261e780438d6a27c89fbf0b61f69dc52b5d5",
+  "peakPcm": 22828,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

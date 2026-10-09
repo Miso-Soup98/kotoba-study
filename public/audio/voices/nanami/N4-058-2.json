@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-058",
+  "exampleIndex": 1,
+  "text": "留守の間に荷物が届きました。",
+  "speechText": "留守の間に荷物が届きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 83,
+  "signature": "f9b47124ac2eeffed0c79cc6011c6b2d5edb1903e70185decfcc0721b6ebdf79",
+  "src": "/audio/voices/nanami/N4-058-2.mp3",
+  "srt": "/audio/voices/nanami/N4-058-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "3c37bc79b85af9886804a72ade126abff7bf79661f76805fb8e75e0121ab1722",
+  "peakPcm": 20502,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

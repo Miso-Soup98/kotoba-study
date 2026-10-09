@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-102",
+  "exampleIndex": 1,
+  "text": "先生に、もっと読めと言われました。",
+  "speechText": "先生に、もっと読めと言われました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 106,
+  "signature": "effbbded7fbfa769796604a039b3117301353f84fd1095b6db95c2ba995d0c31",
+  "src": "/audio/voices/nanami/N4-102-2.mp3",
+  "srt": "/audio/voices/nanami/N4-102-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "0194116b5500d80eeec53df1319dfdc0b4abaef6ba6178d2a1f5f66345b08596",
+  "peakPcm": 21554,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

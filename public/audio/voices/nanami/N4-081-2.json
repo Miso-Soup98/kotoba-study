@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-081",
+  "exampleIndex": 1,
+  "text": "試験に受かって、うれしいです。",
+  "speechText": "試験に受かって、うれしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 95,
+  "signature": "522a6bf4f8d0ceb9a38a3d3f110c76cbd8edfbd3a215ced3d71811d5ecdba601",
+  "src": "/audio/voices/nanami/N4-081-2.mp3",
+  "srt": "/audio/voices/nanami/N4-081-2.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "1fdbb88580ddb80f30818352200e71cb56359c5e7837d657825ab537393d5614",
+  "peakPcm": 22034,
+  "rmsDbfs": -18.19,
+  "rate": "+0%",
+  "listened": false
+}

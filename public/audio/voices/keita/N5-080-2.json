@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-080",
+  "exampleIndex": 1,
+  "text": "教室に学生が五人います。",
+  "speechText": "教室に学生が五人います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 49,
+  "signature": "222adf4bfd85272d29d5a21f8ac2530b9f03966ab711b0821e594c0c42d89973",
+  "src": "/audio/voices/keita/N5-080-2.mp3",
+  "srt": "/audio/voices/keita/N5-080-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "caac9eb9afecb40afa27363af2b21bd095cdcb3e600604aca273ef82ae19319b",
+  "peakPcm": 21743,
+  "rmsDbfs": -20.17,
+  "rate": "+0%",
+  "listened": false
+}

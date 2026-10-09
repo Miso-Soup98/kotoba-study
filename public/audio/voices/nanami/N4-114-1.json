@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-114",
+  "exampleIndex": 0,
+  "text": "間違いに気がつきました。",
+  "speechText": "間違いに気がつきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 112,
+  "signature": "68cbafeb6693794c852a55f705b863bb0a6b0e6ec3c406f144f764a715372992",
+  "src": "/audio/voices/nanami/N4-114-1.mp3",
+  "srt": "/audio/voices/nanami/N4-114-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "caae8ddc60f2e8f7582d2ad27b11c2b8b2a1f2a74c556ce54b83d895f556526f",
+  "peakPcm": 20891,
+  "rmsDbfs": -19.16,
+  "rate": "+0%",
+  "listened": false
+}

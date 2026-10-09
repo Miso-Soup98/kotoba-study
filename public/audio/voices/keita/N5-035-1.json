@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-035",
+  "exampleIndex": 0,
+  "text": "ここで泳いではいけません。",
+  "speechText": "ここで泳いではいけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 27,
+  "signature": "1dc6b4f6b8eac9052f8f01bba29e88a69fca0211d71e35d181a2e88fa4238388",
+  "src": "/audio/voices/keita/N5-035-1.mp3",
+  "srt": "/audio/voices/keita/N5-035-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "558ad24d9c8f6884a5fb117a605e7f252b1ec304db0f74359e04ded5931100cc",
+  "peakPcm": 23083,
+  "rmsDbfs": -19.1,
+  "rate": "+0%",
+  "listened": false
+}

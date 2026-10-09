@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-036",
+  "exampleIndex": 1,
+  "text": "もう帰らないといけません。",
+  "speechText": "もう帰らないといけません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 27,
+  "signature": "aa6f28b457b1442fbe551741a499e75ce36e7420e777aa169bb4423496b15dab",
+  "src": "/audio/voices/keita/N5-036-2.mp3",
+  "srt": "/audio/voices/keita/N5-036-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "73fae6a3cb13a6e3c2ec8c91e9066077b2500ef3325f5d71ba67493d464b4148",
+  "peakPcm": 21967,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

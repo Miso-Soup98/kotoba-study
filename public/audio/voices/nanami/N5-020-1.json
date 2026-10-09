@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-020",
+  "exampleIndex": 0,
+  "text": "この部屋は広くて明るいです。",
+  "speechText": "この部屋は広くて明るいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 19,
+  "signature": "4ea27eae3b59f613564d739357192fd9d79907b46339dec274d8d1e7017d5eef",
+  "src": "/audio/voices/nanami/N5-020-1.mp3",
+  "srt": "/audio/voices/nanami/N5-020-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "72d0059462fc8b4fa9563562d9cd3df182f7b5069e223abd08f72d5b63a0522d",
+  "peakPcm": 20753,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-085",
+  "exampleIndex": 0,
+  "text": "明日は休みだということを忘れていました。",
+  "speechText": "明日は休みだということを忘れていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 97,
+  "signature": "435b59966a79d6d12df48500d3798968d373e2f78c58be18197274683f1a21c3",
+  "src": "/audio/voices/nanami/N4-085-1.mp3",
+  "srt": "/audio/voices/nanami/N4-085-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "c13ac40f7d845febea6483b0cd32b74e5054b88c30cd4b7370f5e6f9cc72245d",
+  "peakPcm": 20679,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

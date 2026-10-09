@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-079",
+  "exampleIndex": 0,
+  "text": "子供が犬を怖がっています。",
+  "speechText": "子供が犬を怖がっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 94,
+  "signature": "b7d11fff0a7814c0cabc2135ffc5358fbad71c64910c794691f2393077da4d07",
+  "src": "/audio/voices/nanami/N4-079-1.mp3",
+  "srt": "/audio/voices/nanami/N4-079-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "ef95cea6d70909182f4c066320df0f4c0a2bbf88cfcf20366a8ff0404b0888c7",
+  "peakPcm": 21906,
+  "rmsDbfs": -17.06,
+  "rate": "+0%",
+  "listened": false
+}

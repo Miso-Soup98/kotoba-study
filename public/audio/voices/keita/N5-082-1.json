@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-082",
+  "exampleIndex": 0,
+  "text": "駅まで十分ぐらいかかります。",
+  "speechText": "駅までじゅっぷんぐらいかかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 50,
+  "signature": "4144210438fca3f36cce33f61c8e8ca0eaf1ecaec8cade0a37fc059c63aefa8d",
+  "src": "/audio/voices/keita/N5-082-1.mp3",
+  "srt": "/audio/voices/keita/N5-082-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "6747bc66eee3cd0129d75c3a2258552d69659ab1aab47107cab5fc154a7e1965",
+  "peakPcm": 23409,
+  "rmsDbfs": -20.76,
+  "rate": "+0%",
+  "listened": false
+}

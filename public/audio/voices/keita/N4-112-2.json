@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-112",
+  "exampleIndex": 1,
+  "text": "読むのは得意ですが、話すのは苦手です。",
+  "speechText": "読むのは得意ですが、話すのは苦手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 111,
+  "signature": "dc12b9debe759e5079d0c905cd3c5fa28f0fa2b5665945fb676d7b7d36335ffb",
+  "src": "/audio/voices/keita/N4-112-2.mp3",
+  "srt": "/audio/voices/keita/N4-112-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "dd7637a211e7826af5163aae07f3f38a6ed24dc0b7d9418b5327ddb7ea50c1ee",
+  "peakPcm": 23305,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

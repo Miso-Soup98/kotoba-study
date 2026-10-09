@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-059",
+  "exampleIndex": 1,
+  "text": "昨日より今日のほうが寒いです。",
+  "speechText": "昨日より今日のほうが寒いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 39,
+  "signature": "f7fd93d85444d28f3a7b567b7220e72c985e15647ccbd1098e4cb81b72a35c03",
+  "src": "/audio/voices/nanami/N5-059-2.mp3",
+  "srt": "/audio/voices/nanami/N5-059-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "506938a46177c1248a9e406d094a8b328bc2268f0a3bbcddc7fe1b47d20e72c8",
+  "peakPcm": 19136,
+  "rmsDbfs": -17.49,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-010",
+  "exampleIndex": 1,
+  "text": "駅で友達に会いました。",
+  "speechText": "駅で友達に会いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 14,
+  "signature": "7ee3cda86fdff4ae02327e6559609231622d060c6b71b54ded863b8db4a59529",
+  "src": "/audio/voices/keita/N5-010-2.mp3",
+  "srt": "/audio/voices/keita/N5-010-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "0dbe969b4a1a8a03e1a1efe031aeb0e7034cde7e5c8760c4c617ee8d66af5417",
+  "peakPcm": 23339,
+  "rmsDbfs": -21.7,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-053",
+  "exampleIndex": 1,
+  "text": "机に資料が置いてあります。",
+  "speechText": "机に資料が置いてあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 81,
+  "signature": "e58077aa81dd4533c4fb3e6036fb219f701cf66698a06694c66109b9850d99e0",
+  "src": "/audio/voices/keita/N4-053-2.mp3",
+  "srt": "/audio/voices/keita/N4-053-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "eddb18856d9001e44d46567394fd21c00018678e8e6043c0f9d4b10a340db87a",
+  "peakPcm": 22988,
+  "rmsDbfs": -19.73,
+  "rate": "+0%",
+  "listened": false
+}

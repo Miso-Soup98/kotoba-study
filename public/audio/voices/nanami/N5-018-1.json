@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-018",
+  "exampleIndex": 0,
+  "text": "この本は面白いです。",
+  "speechText": "この本は面白いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 18,
+  "signature": "58c2c0e656a925416cb41c607b6a8ebb5410ed5d33e9f938cab8d7130a9486a0",
+  "src": "/audio/voices/nanami/N5-018-1.mp3",
+  "srt": "/audio/voices/nanami/N5-018-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "3dd0dc5db02dfeae95ddcaa1e16f736dff94850bf368a2e5047e14399eb603e5",
+  "peakPcm": 22321,
+  "rmsDbfs": -17.93,
+  "rate": "+0%",
+  "listened": false
+}

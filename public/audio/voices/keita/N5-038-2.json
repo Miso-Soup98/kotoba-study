@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-038",
+  "exampleIndex": 1,
+  "text": "少し遅れるので、先に始めてください。",
+  "speechText": "少し遅れるので、先に始めてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 28,
+  "signature": "fe6aa3d820d0e2706bc314f99f93fa2e386e9f5ce38bc2181bd5fdf64e8cc8d0",
+  "src": "/audio/voices/keita/N5-038-2.mp3",
+  "srt": "/audio/voices/keita/N5-038-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "27151981e9500203dddac3fa22fda36c9884cfb9a6f78fc270593b21ae7ec0ec",
+  "peakPcm": 22679,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

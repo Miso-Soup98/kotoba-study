@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-077",
+  "exampleIndex": 0,
+  "text": "お名前を教えてください。",
+  "speechText": "お名前を教えてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 48,
+  "signature": "aeb12f9bf7cc1119d5df47e6745402f99d35c547aaf9185bea8284a4fbe1f019",
+  "src": "/audio/voices/keita/N5-077-1.mp3",
+  "srt": "/audio/voices/keita/N5-077-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "d88a48da90583d8436018e9f5df5ed24fe30af180924efe6da6d796a36e260f5",
+  "peakPcm": 23426,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

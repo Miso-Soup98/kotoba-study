@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-073",
+  "exampleIndex": 1,
+  "text": "何度も練習しました。しかし、まだ難しいです。",
+  "speechText": "何度も練習しました。しかし、まだ難しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 46,
+  "signature": "b69d9b83151317d6cef64112b7d815875b412f1ea11ea2db5bd89c920f7d2e8a",
+  "src": "/audio/voices/nanami/N5-073-2.mp3",
+  "srt": "/audio/voices/nanami/N5-073-2.srt",
+  "durationSeconds": 5.616,
+  "bytes": 33696,
+  "sha256": "b8bf6efc00f27ef713005746f4060b67eed3bdd80b7976bfcbf69ef8b9d98a8c",
+  "peakPcm": 21700,
+  "rmsDbfs": -18.53,
+  "rate": "+0%",
+  "listened": false
+}

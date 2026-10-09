@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-053",
+  "exampleIndex": 0,
+  "text": "これは誰の本ですか。",
+  "speechText": "これは誰の本ですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 36,
+  "signature": "e593294de72cd3bb674864dcfde39d35e4c0235b3aae5fe3d01135f009c97741",
+  "src": "/audio/voices/keita/N5-053-1.mp3",
+  "srt": "/audio/voices/keita/N5-053-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "17a92620aebe2689ae021e3353a34865d4fbffd75078689d043cc58339a91396",
+  "peakPcm": 25420,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

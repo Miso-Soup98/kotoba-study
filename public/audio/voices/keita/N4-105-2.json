@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-105",
+  "exampleIndex": 1,
+  "text": "あの店は今日も休みかしら。",
+  "speechText": "あの店は今日も休みかしら。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 107,
+  "signature": "dd15be6d7ef46287e020c0defc2de5b77882575701b45fefbef32381823008ac",
+  "src": "/audio/voices/keita/N4-105-2.mp3",
+  "srt": "/audio/voices/keita/N4-105-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "ef7e09cef8f2bfe418530a6e020b484336b9343f9db332b113a4b5d0917f47f3",
+  "peakPcm": 22889,
+  "rmsDbfs": -20.29,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-039",
+  "exampleIndex": 1,
+  "text": "あの店が今日開いているはずがない。",
+  "speechText": "あの店が今日あいているはずがない。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 74,
+  "signature": "635e4329d3fe2120b83bde8471b16054e103d21d18a0fd9d41b1fb56e288a38e",
+  "src": "/audio/voices/keita/N4-039-2.mp3",
+  "srt": "/audio/voices/keita/N4-039-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "f958fd9a965320d202146b9cf46883225718d6187964a2dae4a7defbbdae5341",
+  "peakPcm": 21824,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

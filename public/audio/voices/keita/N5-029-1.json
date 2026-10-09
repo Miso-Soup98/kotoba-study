@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-029",
+  "exampleIndex": 0,
+  "text": "週末はゆっくり休みたいです。",
+  "speechText": "週末はゆっくり休みたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 24,
+  "signature": "0c77074d75e3af7262574053b83411f4d3c4c42eeddb3de9edaecec6c343ed1c",
+  "src": "/audio/voices/keita/N5-029-1.mp3",
+  "srt": "/audio/voices/keita/N5-029-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "9fe16202cbe6f42d39481bacfbb6f2290d322fd1eb1cae0458c2636071381491",
+  "peakPcm": 20820,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

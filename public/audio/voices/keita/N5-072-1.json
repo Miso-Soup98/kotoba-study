@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-072",
+  "exampleIndex": 0,
+  "text": "分からないことは、何でも聞いてください。",
+  "speechText": "分からないことは、何でも聞いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 45,
+  "signature": "cdbcafe463f52b5fe6ee5ef45b97e8516b23d616f5471ae42667e63d2d73ba94",
+  "src": "/audio/voices/keita/N5-072-1.mp3",
+  "srt": "/audio/voices/keita/N5-072-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "a8918bc93dae522b5d1bd43c802ce101b1301053d603fd8f9003a346abcefe6b",
+  "peakPcm": 25802,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

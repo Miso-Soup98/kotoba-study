@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-097",
+  "exampleIndex": 0,
+  "text": "私は寒がりです。",
+  "speechText": "私は寒がりです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 103,
+  "signature": "2242703599ac28a609e5bb85be9ebb91af8d06a5ec99d9d1ac909b96d8789490",
+  "src": "/audio/voices/keita/N4-097-1.mp3",
+  "srt": "/audio/voices/keita/N4-097-1.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "6210c4051f355798622977f57b2dfe8cc25f128f739b401bdea5f1dbc2331a98",
+  "peakPcm": 24517,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

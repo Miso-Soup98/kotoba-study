@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-048",
+  "exampleIndex": 1,
+  "text": "見るだけで、買いません。",
+  "speechText": "見るだけで、買いません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 33,
+  "signature": "ec9123e7ef05896e42fcd7b281670cb2c4ef662625853adda1c8d162831c3181",
+  "src": "/audio/voices/keita/N5-048-2.mp3",
+  "srt": "/audio/voices/keita/N5-048-2.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "92de8e6f147c83299e10d7fc370784e8b4815ae96a75936097d9618ad053e23c",
+  "peakPcm": 24575,
+  "rmsDbfs": -22.03,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-046",
+  "exampleIndex": 1,
+  "text": "友達が遊びに来ました。",
+  "speechText": "友達が遊びに来ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 32,
+  "signature": "c2aac484f54bdaf4de7b101c4f335bb0f99b4f8c51add055a9fdfc57fca271ee",
+  "src": "/audio/voices/keita/N5-046-2.mp3",
+  "srt": "/audio/voices/keita/N5-046-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "e8370cc8db328003dfa3954a894cc59d803705d3b0723183d1aad4a9d1e06877",
+  "peakPcm": 22760,
+  "rmsDbfs": -21.05,
+  "rate": "+0%",
+  "listened": false
+}

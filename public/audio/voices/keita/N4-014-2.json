@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-014",
+  "exampleIndex": 1,
+  "text": "明日の授業は行わないことになりました。",
+  "speechText": "明日の授業は行わないことになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 61,
+  "signature": "80f3ef5715ab5c03bb41f0c4a2e58a6b778b0f9e124ddce6cb62351a97158d7d",
+  "src": "/audio/voices/keita/N4-014-2.mp3",
+  "srt": "/audio/voices/keita/N4-014-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "9d64f7d1672b72c60b9c9ec357fc8972fc35fb6301688450d20b80766f45dcbf",
+  "peakPcm": 23633,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

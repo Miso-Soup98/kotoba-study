@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-095",
+  "exampleIndex": 0,
+  "text": "留学するために、お金を貯めています。",
+  "speechText": "留学するために、お金を貯めています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 102,
+  "signature": "84981b30da6d536bf896aa49a9c99d50e4aa116b66e271441e6797a1ef57a0c4",
+  "src": "/audio/voices/nanami/N4-095-1.mp3",
+  "srt": "/audio/voices/nanami/N4-095-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "d460c154cbac1edfebf045c91dd879cb2005b63407708d1b2171856d2133fe6d",
+  "peakPcm": 21829,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

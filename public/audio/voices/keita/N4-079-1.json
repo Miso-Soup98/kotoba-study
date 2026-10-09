@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-079",
+  "exampleIndex": 0,
+  "text": "子供が犬を怖がっています。",
+  "speechText": "子供が犬を怖がっています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 94,
+  "signature": "01a7e62a25b4b1028879d7a0bcaae2154e9c106b08c1acde7c4b8dc0bb2e65d4",
+  "src": "/audio/voices/keita/N4-079-1.mp3",
+  "srt": "/audio/voices/keita/N4-079-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "b5027461f35aa3e0f2d310a55718d14556b31e991fb478b2c96ed843119fe946",
+  "peakPcm": 25044,
+  "rmsDbfs": -19.3,
+  "rate": "+0%",
+  "listened": false
+}

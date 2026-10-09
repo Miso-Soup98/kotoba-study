@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-066",
+  "exampleIndex": 0,
+  "text": "疲れているなら、少し休んだほうがいいです。",
+  "speechText": "疲れているなら、少し休んだほうがいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 42,
+  "signature": "ed7659b9efb15d7215dcef1f4e55d80b8a60082e109724c1d9ccc05e79f8335b",
+  "src": "/audio/voices/keita/N5-066-1.mp3",
+  "srt": "/audio/voices/keita/N5-066-1.srt",
+  "durationSeconds": 3.96,
+  "bytes": 23760,
+  "sha256": "43ae2f2002df0bc37d2a2a47b3b18b50931e991fa74543af08d269c29c13eafc",
+  "peakPcm": 25109,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

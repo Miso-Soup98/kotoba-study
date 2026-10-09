@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-074",
+  "exampleIndex": 0,
+  "text": "申請には写真が必要です。",
+  "speechText": "申請には写真が必要です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 91,
+  "signature": "9871db5c68bc05aab5805ffd475f82d4476e39481bed02f2894a99c3e952cc72",
+  "src": "/audio/voices/keita/N4-074-1.mp3",
+  "srt": "/audio/voices/keita/N4-074-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "fa7d2f3847008e6762d985aa1bce709a5f350f4f7274e63afbc41a120282ea4c",
+  "peakPcm": 20281,
+  "rmsDbfs": -20.46,
+  "rate": "+0%",
+  "listened": false
+}

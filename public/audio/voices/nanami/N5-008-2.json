@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-008",
+  "exampleIndex": 1,
+  "text": "月曜日に会議があります。",
+  "speechText": "月曜日に会議があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 13,
+  "signature": "252b559e31d3e6bf68f43813d595c3f19823666f314b4f150d16b619ebf5b617",
+  "src": "/audio/voices/nanami/N5-008-2.mp3",
+  "srt": "/audio/voices/nanami/N5-008-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "88163bf66b7b9b025c82a9e8715146a804683cf80ef4b0e35f294d9ecbb2147c",
+  "peakPcm": 20863,
+  "rmsDbfs": -17.71,
+  "rate": "+0%",
+  "listened": false
+}

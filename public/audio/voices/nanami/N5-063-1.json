@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-063",
+  "exampleIndex": 0,
+  "text": "最近、寒くなりました。",
+  "speechText": "最近、寒くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 41,
+  "signature": "e2ec1444af75ce5394c63d6e377651859741f794485305ca70c95363c13aa6d5",
+  "src": "/audio/voices/nanami/N5-063-1.mp3",
+  "srt": "/audio/voices/nanami/N5-063-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "e1211d300cc9cebad1bee078773d98045dc27bfd5d1ade7485bc5b63a1109c93",
+  "peakPcm": 19623,
+  "rmsDbfs": -18.44,
+  "rate": "+0%",
+  "listened": false
+}

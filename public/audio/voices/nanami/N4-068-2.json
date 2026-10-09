@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-068",
+  "exampleIndex": 1,
+  "text": "御飯を食べ終わったら、出かけます。",
+  "speechText": "御飯を食べ終わったら、出かけます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 88,
+  "signature": "4df3f014b22a2b069fcf247b433c266d254541b6bc9b2de8dd73b7aba6a53ab6",
+  "src": "/audio/voices/nanami/N4-068-2.mp3",
+  "srt": "/audio/voices/nanami/N4-068-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "1c94d43e8e8d1cc8e06eefcd03ad83a177876301b3001142230d55fee7e06304",
+  "peakPcm": 22357,
+  "rmsDbfs": -17.47,
+  "rate": "+0%",
+  "listened": false
+}

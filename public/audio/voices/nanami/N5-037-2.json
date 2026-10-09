@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-037",
+  "exampleIndex": 1,
+  "text": "全部食べなくてもいいですよ。",
+  "speechText": "全部食べなくてもいいですよ。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 28,
+  "signature": "0d66c1ec96df7a129265b1434679c1c7fd9044ce78277bc59ea78eab7f73c267",
+  "src": "/audio/voices/nanami/N5-037-2.mp3",
+  "srt": "/audio/voices/nanami/N5-037-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "dc560fcaea4d3249afbd3817230c8f1f645a8026c2bb725fce47ed51d9a0e2c6",
+  "peakPcm": 21632,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

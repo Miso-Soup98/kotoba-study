@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-031",
+  "exampleIndex": 0,
+  "text": "一緒に昼ご飯を食べませんか。",
+  "speechText": "一緒に昼ご飯を食べませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 25,
+  "signature": "4681249c3c1e781cb2e2e10a689ca630d78405d526fa31d56d47227e03a34c7a",
+  "src": "/audio/voices/keita/N5-031-1.mp3",
+  "srt": "/audio/voices/keita/N5-031-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "36d34a89fd3e43ec08a3979e67c1fc125c175c72b62ef69b152f90159daf0ccd",
+  "peakPcm": 21098,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

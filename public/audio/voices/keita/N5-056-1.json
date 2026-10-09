@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-056",
+  "exampleIndex": 0,
+  "text": "何か飲みたいです。",
+  "speechText": "何か飲みたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 37,
+  "signature": "4b515265ec818eacf07fcf9598dccdb3eaa18476bda2b6c384e59e0cfe2475b3",
+  "src": "/audio/voices/keita/N5-056-1.mp3",
+  "srt": "/audio/voices/keita/N5-056-1.srt",
+  "durationSeconds": 2.136,
+  "bytes": 12816,
+  "sha256": "67f68cad4ae01f1d332438fce4a828647d9149c6bf8106845120a6e24376b97b",
+  "peakPcm": 25311,
+  "rmsDbfs": -22.36,
+  "rate": "+0%",
+  "listened": false
+}

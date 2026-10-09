@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-100",
+  "exampleIndex": 0,
+  "text": "早く寝なさい。",
+  "speechText": "早く寝なさい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 105,
+  "signature": "ae51b7eedc01ab511025d1585666fd7523148a3dde5399babe4c15843485f87e",
+  "src": "/audio/voices/keita/N4-100-1.mp3",
+  "srt": "/audio/voices/keita/N4-100-1.srt",
+  "durationSeconds": 1.872,
+  "bytes": 11232,
+  "sha256": "be2e7d99106446f3e5b5fddb40978099750121be4063950519cd45740ce831df",
+  "peakPcm": 22506,
+  "rmsDbfs": -22.22,
+  "rate": "+0%",
+  "listened": false
+}

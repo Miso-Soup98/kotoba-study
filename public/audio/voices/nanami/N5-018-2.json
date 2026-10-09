@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-018",
+  "exampleIndex": 1,
+  "text": "昨日は寒くなかったです。",
+  "speechText": "昨日は寒くなかったです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 18,
+  "signature": "dd91c082adf48ceb88f9444772c797a68b23ee8deb1af3337f0becd5712e9873",
+  "src": "/audio/voices/nanami/N5-018-2.mp3",
+  "srt": "/audio/voices/nanami/N5-018-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "2a991a80bc602cda527a49580732335c10b7433bdfd439880d66d006bc81c567",
+  "peakPcm": 21093,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

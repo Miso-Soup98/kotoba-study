@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-106",
+  "exampleIndex": 1,
+  "text": "今日は学校が休みなのかい。",
+  "speechText": "今日は学校が休みなのかい。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 108,
+  "signature": "50a2189a715e793acbf9ccb7706488d9c5008bf37ac74418dfe4d15d61ef3ecf",
+  "src": "/audio/voices/nanami/N4-106-2.mp3",
+  "srt": "/audio/voices/nanami/N4-106-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "6bac1db5294cc047e60f301527633d0f74e62f051a551ab5579abd16ddb59809",
+  "peakPcm": 22005,
+  "rmsDbfs": -16.9,
+  "rate": "+0%",
+  "listened": false
+}

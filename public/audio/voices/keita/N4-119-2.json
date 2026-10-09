@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-119",
+  "exampleIndex": 1,
+  "text": "何度も失敗しました。それでも、続けます。",
+  "speechText": "何度も失敗しました。それでも、続けます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 114,
+  "signature": "d36b1774cc57eb484495de2a92a57ae94d8407cbeeb873817287ca6f3a1da4b5",
+  "src": "/audio/voices/keita/N4-119-2.mp3",
+  "srt": "/audio/voices/keita/N4-119-2.srt",
+  "durationSeconds": 4.944,
+  "bytes": 29664,
+  "sha256": "04f4bc432101d0f411de3d18f879a46421db6d777a11ae805fa2a96bbd984c95",
+  "peakPcm": 24302,
+  "rmsDbfs": -21.36,
+  "rate": "+0%",
+  "listened": false
+}

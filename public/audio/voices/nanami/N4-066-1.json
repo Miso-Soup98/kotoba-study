@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-066",
+  "exampleIndex": 0,
+  "text": "去年、日本語を勉強し始めました。",
+  "speechText": "去年、日本語を勉強し始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 87,
+  "signature": "17cb1c792d32d67ab91ff74c5465b90b4056aebf3cf01ca9f86f18606ae2a23e",
+  "src": "/audio/voices/nanami/N4-066-1.mp3",
+  "srt": "/audio/voices/nanami/N4-066-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "f7045cb998cbe8dad4797242e55365d96cc6f9454085bd94fd9e1f850acf44c6",
+  "peakPcm": 20589,
+  "rmsDbfs": -17.76,
+  "rate": "+0%",
+  "listened": false
+}

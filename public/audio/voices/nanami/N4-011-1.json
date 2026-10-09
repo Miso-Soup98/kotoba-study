@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-011",
+  "exampleIndex": 0,
+  "text": "毎日歩くことは大切です。",
+  "speechText": "毎日歩くことは大切です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 60,
+  "signature": "31364c035e0a3f0923c84528378ce27199f6642b1ee08af876dc61a330bb797b",
+  "src": "/audio/voices/nanami/N4-011-1.mp3",
+  "srt": "/audio/voices/nanami/N4-011-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "19e9c1f4d0a516e76ef5b60f7c1b381865868437bae5c988dd4713d190161e9d",
+  "peakPcm": 21705,
+  "rmsDbfs": -18.41,
+  "rate": "+0%",
+  "listened": false
+}

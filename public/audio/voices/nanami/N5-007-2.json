@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-007",
+  "exampleIndex": 1,
+  "text": "駅はどこですか。",
+  "speechText": "駅はどこですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 13,
+  "signature": "50d96a179d771f0d4dcc7f8baa9b26550092a9f82c6bc42adf0741c713f4521c",
+  "src": "/audio/voices/nanami/N5-007-2.mp3",
+  "srt": "/audio/voices/nanami/N5-007-2.srt",
+  "durationSeconds": 2.232,
+  "bytes": 13392,
+  "sha256": "e98439ad89b0d2237d51bd09de4a3a82226a2ce571df4280f81b4c2896c47e71",
+  "peakPcm": 21609,
+  "rmsDbfs": -18.85,
+  "rate": "+0%",
+  "listened": false
+}

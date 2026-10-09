@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-128",
+  "exampleIndex": 0,
+  "text": "今日はそんなに寒くありません。",
+  "speechText": "今日はそんなに寒くありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 119,
+  "signature": "8bc2ec57951481d0d35bac94b6c744aa3af46af8759265145a39e2f2668f7303",
+  "src": "/audio/voices/keita/N4-128-1.mp3",
+  "srt": "/audio/voices/keita/N4-128-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "cb7164e03dd624b8a872b2a1096123a0ed3a1fa34662ce13d6cebf8ce8c66a39",
+  "peakPcm": 21044,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

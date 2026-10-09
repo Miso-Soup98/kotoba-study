@@ -4,6 +4,7 @@ const ASSETS = [
   "/data/grammar.json",
   "/data/n2-weekly-curriculum.json",
   "/data/question-sets/n2-2026-09-v05.json",
+  "/data/question-sets/n2-2026-10-r1.json",
   "/manifest.webmanifest",
   "/favicon.svg",
   "/icon-192.png",

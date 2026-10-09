@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-089",
+  "exampleIndex": 0,
+  "text": "先生は研究室にいらっしゃいます。",
+  "speechText": "先生は研究室にいらっしゃいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 99,
+  "signature": "490989f93a0f3abb301f47953d6def2916587cbb3537ffc020091a7f516abb8d",
+  "src": "/audio/voices/nanami/N4-089-1.mp3",
+  "srt": "/audio/voices/nanami/N4-089-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "420d4a4247cf2def6d47e72fcf2585a9aded6f54b35025eecf3c27cc4270e8ad",
+  "peakPcm": 20896,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

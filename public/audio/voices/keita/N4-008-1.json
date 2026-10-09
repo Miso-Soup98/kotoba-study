@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-008",
+  "exampleIndex": 0,
+  "text": "このボタンを押すと、電気がつきます。",
+  "speechText": "このボタンを押すと、電気がつきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 58,
+  "signature": "183c71aeed09f2964204fef89d422e01394681ca44f5a6bf71d3cf369da6b64e",
+  "src": "/audio/voices/keita/N4-008-1.mp3",
+  "srt": "/audio/voices/keita/N4-008-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "f304dce64d44ed8ba64fa3ae1b1f03aad10b507d6fe5b26c87c8381c3c6ec674",
+  "peakPcm": 25258,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

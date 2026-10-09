@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-049",
+  "exampleIndex": 0,
+  "text": "財布に千円しかありません。",
+  "speechText": "財布に千円しかありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 34,
+  "signature": "a5369a6ff40af71d58d18fb02a01b1df6d0510a917dd7661167535d486a13c87",
+  "src": "/audio/voices/keita/N5-049-1.mp3",
+  "srt": "/audio/voices/keita/N5-049-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "8efc05ff1150bf604183d19c3b02c6b8707de6a8b3cb93012d943482b8321fd8",
+  "peakPcm": 22416,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

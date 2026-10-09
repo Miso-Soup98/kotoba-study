@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-005",
+  "exampleIndex": 0,
+  "text": "雨が降ったら、家にいます。",
+  "speechText": "雨が降ったら、家にいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 57,
+  "signature": "213f502f03a3712df314d181afb121ca2b7e61fd651a2511e275a80133398708",
+  "src": "/audio/voices/keita/N4-005-1.mp3",
+  "srt": "/audio/voices/keita/N4-005-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "a8df19ca1bbc8f1700df914a0c8581e3c4f1f2f8938ce4acc714f1750e9f734c",
+  "peakPcm": 24647,
+  "rmsDbfs": -21.76,
+  "rate": "+0%",
+  "listened": false
+}

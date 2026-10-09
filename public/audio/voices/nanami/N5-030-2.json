@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-030",
+  "exampleIndex": 1,
+  "text": "今は何も欲しくありません。",
+  "speechText": "今は何も欲しくありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 24,
+  "signature": "a6d363685a5d551caf6bfab5c4f331b68256ceeb352b2d8533c4ddf5b873019e",
+  "src": "/audio/voices/nanami/N5-030-2.mp3",
+  "srt": "/audio/voices/nanami/N5-030-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "53e3fccc919920d144049a5428903638a3b0893ad332b61eabd2b6a86fc02a3f",
+  "peakPcm": 21171,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

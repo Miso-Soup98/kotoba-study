@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-090",
+  "exampleIndex": 0,
+  "text": "こちらでお待ちください。",
+  "speechText": "こちらでお待ちください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 99,
+  "signature": "a02abf58d290a484826770835a70d1d2c6a1c5513d03089ce9996a0428deeca6",
+  "src": "/audio/voices/keita/N4-090-1.mp3",
+  "srt": "/audio/voices/keita/N4-090-1.srt",
+  "durationSeconds": 2.208,
+  "bytes": 13248,
+  "sha256": "a5ba3474efcdc20e0524af4f8a6b1f8264c0cd83e093ecc58c55194306b98349",
+  "peakPcm": 22645,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

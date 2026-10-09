@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-022",
+  "exampleIndex": 0,
+  "text": "昨日買った本を読んでいます。",
+  "speechText": "昨日買った本を読んでいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 20,
+  "signature": "782af8884aba3cd33864d5ba6b39a46a197e16e8d9d5aa219be7e981ef89ddfd",
+  "src": "/audio/voices/keita/N5-022-1.mp3",
+  "srt": "/audio/voices/keita/N5-022-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "147584e466c49e92187606be24ae05e24b8957d936c1e1e78a64615132f22515",
+  "peakPcm": 20181,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

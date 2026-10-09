@@ -50,7 +50,7 @@ def checked_records(records):
         article_id = record.get("articleId", "")
         if not re.fullmatch(r"ted-(?:new|old)-\d{3}", article_id):
             raise ValueError("Invalid article id")
-        if record.get("kind") not in {"paragraph", "glossary"}:
+        if record.get("kind") not in {"paragraph", "glossary", "title"}:
             raise ValueError("Unsupported correction kind")
         groups[article_id].append(record)
     return groups
@@ -66,7 +66,12 @@ def apply_article(raw, records):
     # stable and making repeated builds against the source deterministic.
     ordered = sorted(records, key=lambda r: r.get("operation") == "insert-missing-glossary")
     for record in ordered:
-        if record["kind"] == "paragraph":
+        if record["kind"] == "title":
+            target_id = ("title", 0)
+            if article["title"] != record.get("original", {}).get("title") or not record.get("title"):
+                raise ValueError("Stale or empty title correction")
+            article["title"] = record["title"]
+        elif record["kind"] == "paragraph":
             target_id = ("paragraph", record["paragraphId"])
             matches = [p for p in article["paragraphs"] if p["id"] == record["paragraphId"]]
             if len(matches) != 1:
@@ -101,11 +106,11 @@ def apply_article(raw, records):
             entry = article["glossary"][index]
             if entry != record.get("original"):
                 raise ValueError(f"Source glossary changed since review: {record['id']}")
-            for corrected, field in (("correctedTerm", "term"), ("correctedReading", "reading"), ("correctedMeaning", "meaning")):
+            for corrected, field in (("correctedTerm", "term"), ("correctedReading", "reading"), ("correctedMeaning", "meaning"), ("correctedUsage", "usage")):
                 if corrected in record:
                     entry[field] = record[corrected]
-            entry["reviewRequired"] = False
-            if "uncertainTerm" in entry:
+            entry["reviewRequired"] = bool(record.get("keepTermUncertainty") and entry.get("uncertainTerm"))
+            if "uncertainTerm" in entry and not record.get("keepTermUncertainty"):
                 entry["uncertainTerm"] = False
             entry["reviewStatus"] = "checked-correction"
             entry.setdefault("correctionIds", []).append(record["id"])
@@ -167,7 +172,18 @@ def apply_learning_overlays(article, alignments, lessons, reviews):
         article["contextLessons"] = copy.deepcopy(selected)
     review = next((r for r in reviews if r.get("articleId") == article["id"]), None)
     if review:
-        article["review"] = {key: copy.deepcopy(review[key]) for key in ("reviewedAt", "remainingIssues", "sourceHeadingJapanese") if key in review}
+        article["review"] = {key: copy.deepcopy(review[key]) for key in ("reviewedAt", "remainingIssues", "sourceHeadingJapanese", "method") if key in review}
+        for pid, note in review.get("paragraphNotes", {}).items():
+            if pid not in paragraphs or not isinstance(note, str):
+                raise ValueError("Invalid paragraph review note")
+            paragraphs[pid]["reviewNote"] = note
+        for index, item in review.get("glossaryNotes", {}).items():
+            if not str(index).isdecimal() or not 0 <= int(index) < len(article["glossary"]):
+                raise ValueError("Invalid glossary review note")
+            glossary = article["glossary"][int(index)]
+            glossary["reviewNote"] = item["note"]
+            if item.get("blockLookup"):
+                glossary["uncertainTerm"] = True
     return article
 
 
@@ -179,6 +195,11 @@ def build(args):
     alignments = read_json(args.alignments) if getattr(args, "alignments", None) else []
     lessons = read_json(args.context_lessons) if getattr(args, "context_lessons", None) else []
     reviews = read_json(args.review_report).get("articles", []) if getattr(args, "review_report", None) else []
+    for review in reviews:
+        article_id = review.get("articleId", "")
+        if not re.fullmatch(r"ted-(?:new|old)-\d{3}", article_id):
+            raise ValueError("Invalid reviewed article id")
+        groups.setdefault(article_id, [])
     # Validate every correction against its source before writing any outputs.
     sources, pending = {}, []
     for article_id, records in sorted(groups.items()):
@@ -188,7 +209,7 @@ def build(args):
         if raw.get("id") != article_id:
             raise ValueError(f"Source article id mismatch: {article_id}")
         sources[path] = data
-        article = apply_learning_overlays(apply_article(raw, records), alignments, lessons, reviews)
+        article = apply_learning_overlays(apply_article(raw, records) if records else copy.deepcopy(raw), alignments, lessons, reviews)
         pending.append((raw, article, records, sha256(data)))
     module = load_enricher(args.enricher)
 

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-066",
+  "exampleIndex": 1,
+  "text": "夜は食べすぎないほうがいいです。",
+  "speechText": "夜は食べすぎないほうがいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 42,
+  "signature": "268d227c4852e7a3a13af02a194583bbf317d9037213d4885736d12c5adcf921",
+  "src": "/audio/voices/nanami/N5-066-2.mp3",
+  "srt": "/audio/voices/nanami/N5-066-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "512cbb71fef509021456ed12349ace8dad26b35e08585977d16c3a140c8902e8",
+  "peakPcm": 20366,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

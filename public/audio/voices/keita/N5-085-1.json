@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-085",
+  "exampleIndex": 0,
+  "text": "弟は背が高いです。",
+  "speechText": "弟は背が高いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 52,
+  "signature": "a8a5d830f3a4ab7b67d7bde80c751e13738f67d494d9965545209f9425758373",
+  "src": "/audio/voices/keita/N5-085-1.mp3",
+  "srt": "/audio/voices/keita/N5-085-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "da5d6f804606e43ce05720ce22d9191cce710a3e1e8f4e50c38d523064af71bf",
+  "peakPcm": 22549,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

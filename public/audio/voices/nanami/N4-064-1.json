@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-064",
+  "exampleIndex": 0,
+  "text": "飲み物を買ってきます。",
+  "speechText": "飲み物を買ってきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 86,
+  "signature": "fc18822fab65b50d972ceaa9cbeee69d575b0b95402c7c91972900316bc86bb1",
+  "src": "/audio/voices/nanami/N4-064-1.mp3",
+  "srt": "/audio/voices/nanami/N4-064-1.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "1fb77756c5fd2e5879ea1b950e5a9cab256a0f3561fc40809c20f9db96d18d68",
+  "peakPcm": 22430,
+  "rmsDbfs": -18.64,
+  "rate": "+0%",
+  "listened": false
+}

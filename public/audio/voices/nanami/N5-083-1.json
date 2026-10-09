@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-083",
+  "exampleIndex": 0,
+  "text": "毎朝、公園を歩きます。",
+  "speechText": "毎朝、公園を歩きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 51,
+  "signature": "baf016f1e408e129f9eaa015bd969e182743e0fe7b4f65380e5b5e58751ead1c",
+  "src": "/audio/voices/nanami/N5-083-1.mp3",
+  "srt": "/audio/voices/nanami/N5-083-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "bf68806f5cca565dea105da70222f106da00be98121d10bd374f168c04798cdd",
+  "peakPcm": 21923,
+  "rmsDbfs": -16.9,
+  "rate": "+0%",
+  "listened": false
+}

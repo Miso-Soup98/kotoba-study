@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-101",
+  "exampleIndex": 0,
+  "text": "ここに車を止めるな。",
+  "speechText": "ここに車を止めるな。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 105,
+  "signature": "26d88a7e70d1da5508a038fa90a57b9f151fa50307e6bae5e62fbef581489bf0",
+  "src": "/audio/voices/nanami/N4-101-1.mp3",
+  "srt": "/audio/voices/nanami/N4-101-1.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "224a837da08e64e5898c06935c98d5466b2c40548bcc590f05fb99e9904510be",
+  "peakPcm": 20585,
+  "rmsDbfs": -17.3,
+  "rate": "+0%",
+  "listened": false
+}

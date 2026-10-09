@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-036",
+  "exampleIndex": 1,
+  "text": "もう帰らないといけません。",
+  "speechText": "もう帰らないといけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 27,
+  "signature": "a326c0640809c2f0c1b913a09e2ebaf84bce7f808a05bde62039fd01532f9f14",
+  "src": "/audio/voices/nanami/N5-036-2.mp3",
+  "srt": "/audio/voices/nanami/N5-036-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "0db1d97d3e3d49bd7c8bdbdaa09271c20733b0ced2d5e6cf3765ce6e5381cb70",
+  "peakPcm": 20880,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

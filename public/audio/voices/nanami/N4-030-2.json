@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-030",
+  "exampleIndex": 1,
+  "text": "雨も降っているし、今日は出かけません。",
+  "speechText": "雨も降っているし、今日は出かけません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 69,
+  "signature": "35d1646284449fd48c468603e703ddff1c3d41f620dec0fb0935ef451c2d5d2d",
+  "src": "/audio/voices/nanami/N4-030-2.mp3",
+  "srt": "/audio/voices/nanami/N4-030-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "c49669771cf2ab4aab7a78de13cde0ebe959e6f008bfdb79c6877baafba2bfae",
+  "peakPcm": 20653,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

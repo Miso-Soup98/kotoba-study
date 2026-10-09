@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-005",
+  "exampleIndex": 1,
+  "text": "駅に着いたら、電話してください。",
+  "speechText": "駅に着いたら、電話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 57,
+  "signature": "9154f70d95c3c0f9cd0866f453946b95330fd3c9bb7f19d54a6e968c1e792c70",
+  "src": "/audio/voices/nanami/N4-005-2.mp3",
+  "srt": "/audio/voices/nanami/N4-005-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "01ab244ed6b63ccf5d8a69da564a78ee8347f615831b49ec38cea857532506b6",
+  "peakPcm": 21342,
+  "rmsDbfs": -18.19,
+  "rate": "+0%",
+  "listened": false
+}

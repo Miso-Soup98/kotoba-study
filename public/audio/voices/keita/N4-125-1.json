@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-125",
+  "exampleIndex": 0,
+  "text": "さっき先生に会いました。",
+  "speechText": "さっき先生に会いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 117,
+  "signature": "0a6f5ced3bd287445fbb22924a0ea078f404590312862ba5be35a2d5123832fe",
+  "src": "/audio/voices/keita/N4-125-1.mp3",
+  "srt": "/audio/voices/keita/N4-125-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "6f5bc551c883909864dc22e641728de00e3bbbbb177ba4b77a620b0f37484862",
+  "peakPcm": 21505,
+  "rmsDbfs": -21.59,
+  "rate": "+0%",
+  "listened": false
+}

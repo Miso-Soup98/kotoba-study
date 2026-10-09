@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-067",
+  "exampleIndex": 0,
+  "text": "急に雨が降り出しました。",
+  "speechText": "急に雨が降り出しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 88,
+  "signature": "1ac909895e8bdef942676efc97ccfa0e655c516041a3f7e5cdce038b434492aa",
+  "src": "/audio/voices/keita/N4-067-1.mp3",
+  "srt": "/audio/voices/keita/N4-067-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "bb1f54a35bd3b808a69355358e1cca07bdf4936c396830e7641c80e2bee0e38d",
+  "peakPcm": 22920,
+  "rmsDbfs": -19.85,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-29T00:37:15+00:00",
-  "mode": "generation-and-verification",
+  "checkedAt": "2026-10-09T23:40:56+00:00",
+  "mode": "offline-verification",
   "python": "3.13.12",
   "platform": "Windows",
   "dependencies": {

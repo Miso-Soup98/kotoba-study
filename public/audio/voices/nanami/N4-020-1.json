@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-020",
+  "exampleIndex": 0,
+  "text": "財布を忘れてしまいました。",
+  "speechText": "財布を忘れてしまいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 64,
+  "signature": "d2f18cd48966e1e4a723e836c436f2dd50487b9111a80b20e5a8359e5a91747b",
+  "src": "/audio/voices/nanami/N4-020-1.mp3",
+  "srt": "/audio/voices/nanami/N4-020-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "2c3f5cb4c5284e9bc7679522c91b53c534bbd4c8b5f9f2bbfe6d2e921840fdf9",
+  "peakPcm": 22646,
+  "rmsDbfs": -18.48,
+  "rate": "+0%",
+  "listened": false
+}

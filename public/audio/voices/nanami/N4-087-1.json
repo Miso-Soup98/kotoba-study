@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-087",
+  "exampleIndex": 0,
+  "text": "田中さんは明日来るって言っていました。",
+  "speechText": "田中さんは明日来るって言っていました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 98,
+  "signature": "de46b8d9d5cef34e1662246e6f462e0919f4b9e7bc46f691b7efe087e2820021",
+  "src": "/audio/voices/nanami/N4-087-1.mp3",
+  "srt": "/audio/voices/nanami/N4-087-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "abf201c25901fe7a84dc7bc5a5487b7cccd5d5f21203c0f078ec58a47873000c",
+  "peakPcm": 20581,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

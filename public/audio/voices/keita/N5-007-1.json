@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-007",
+  "exampleIndex": 0,
+  "text": "明日は休みですか。",
+  "speechText": "明日は休みですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 13,
+  "signature": "3737422acc97fba52a50410da6b26e8daa34b7ad992ce5deffa3851a3091cb35",
+  "src": "/audio/voices/keita/N5-007-1.mp3",
+  "srt": "/audio/voices/keita/N5-007-1.srt",
+  "durationSeconds": 2.208,
+  "bytes": 13248,
+  "sha256": "ac1992f040684c79d1fb0392811ed17240930d4e3359ac121e9b9f90951bdfe7",
+  "peakPcm": 24365,
+  "rmsDbfs": -21.79,
+  "rate": "+0%",
+  "listened": false
+}

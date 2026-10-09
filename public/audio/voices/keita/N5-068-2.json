@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-068",
+  "exampleIndex": 1,
+  "text": "明日の午後はどうですか。",
+  "speechText": "明日の午後はどうですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 43,
+  "signature": "d24cdc57ef42d78c20a89644244dfe0a210d4ee1444056dbd8cc06fb3844bf42",
+  "src": "/audio/voices/keita/N5-068-2.mp3",
+  "srt": "/audio/voices/keita/N5-068-2.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "b80af22a058a9feb49cc73dfd8e7fdd8750f5b13d3917c9c32abbf413a510963",
+  "peakPcm": 22462,
+  "rmsDbfs": -19.78,
+  "rate": "+0%",
+  "listened": false
+}

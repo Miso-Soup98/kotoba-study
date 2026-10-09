@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-021",
+  "exampleIndex": 0,
+  "text": "名前を大きく書いてください。",
+  "speechText": "名前を大きく書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 20,
+  "signature": "b23084086bd29a11ac383b004c0fc41b1d4956d9f717161dd0dd2358d77042d0",
+  "src": "/audio/voices/keita/N5-021-1.mp3",
+  "srt": "/audio/voices/keita/N5-021-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "b155a36f0420bf6ad60355a38e17be0a509d3ed7444e021fbdfe278fbe690db3",
+  "peakPcm": 24702,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

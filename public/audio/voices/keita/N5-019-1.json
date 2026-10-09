@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-019",
+  "exampleIndex": 0,
+  "text": "静かな部屋で寝ます。",
+  "speechText": "静かな部屋で寝ます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 19,
+  "signature": "a5ff9d6146fa6532db61b885cf01cfd31543e9dd1f33b870ccbb652a8701d091",
+  "src": "/audio/voices/keita/N5-019-1.mp3",
+  "srt": "/audio/voices/keita/N5-019-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "38069abbadf7c2af960fd369173400105a546681dfc2c3ef252d5b75c8f162b7",
+  "peakPcm": 22778,
+  "rmsDbfs": -22.41,
+  "rate": "+0%",
+  "listened": false
+}

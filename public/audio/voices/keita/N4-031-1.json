@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-031",
+  "exampleIndex": 0,
+  "text": "金曜日までに書類を出してください。",
+  "speechText": "金曜日までに書類を出してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 70,
+  "signature": "d8703b48961feb82783321e3e2d72e621ed1bc4e73dd23b1de732e9fd6c7726b",
+  "src": "/audio/voices/keita/N4-031-1.mp3",
+  "srt": "/audio/voices/keita/N4-031-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "092ad999bef19ef063a180e8f834391fcc486f8a0ddc7642fbe6a6059aef76b2",
+  "peakPcm": 19222,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

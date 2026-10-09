@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-110",
+  "exampleIndex": 1,
+  "text": "一行おきに書いてください。",
+  "speechText": "いちぎょうおきに書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 110,
+  "signature": "57de68bc05d3de96a938aa35bd187974ddc738f7ef10027e14530c4fa384f79d",
+  "src": "/audio/voices/nanami/N4-110-2.mp3",
+  "srt": "/audio/voices/nanami/N4-110-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "4fc8f648217c3504f48658238b5bddf6335e305b349b5faeea6981cc4e4d5f59",
+  "peakPcm": 20889,
+  "rmsDbfs": -18.49,
+  "rate": "+0%",
+  "listened": false
+}

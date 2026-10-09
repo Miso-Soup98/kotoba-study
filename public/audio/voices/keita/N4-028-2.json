@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-028",
+  "exampleIndex": 1,
+  "text": "ここでは大きな声で話さないでほしいです。",
+  "speechText": "ここでは大きな声で話さないでほしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 68,
+  "signature": "961e2f7c2e558dc8aec80d9d99b5a9205d515ae3dcc453cd49558d3f92b0add2",
+  "src": "/audio/voices/keita/N4-028-2.mp3",
+  "srt": "/audio/voices/keita/N4-028-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "ed92e8a4acc116c3500e92b788eeb1c47c2e4d0078b22094e799d5cabeabd633",
+  "peakPcm": 22516,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

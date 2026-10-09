@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-085",
+  "exampleIndex": 1,
+  "text": "この部屋は窓が大きいです。",
+  "speechText": "この部屋は窓が大きいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 52,
+  "signature": "439b576421869da85930636406ea0a261bb8389329fbc08f0868bc3e6cbbcc30",
+  "src": "/audio/voices/nanami/N5-085-2.mp3",
+  "srt": "/audio/voices/nanami/N5-085-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "b4ac82cdb315a74e5a02b04634bf6c27424a3c73d97851adf10ec640768e1647",
+  "peakPcm": 20800,
+  "rmsDbfs": -17.19,
+  "rate": "+0%",
+  "listened": false
+}

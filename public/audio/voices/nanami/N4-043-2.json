@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-043",
+  "exampleIndex": 1,
+  "text": "子供のころ、毎日野菜を食べさせられました。",
+  "speechText": "子供のころ、毎日野菜を食べさせられました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 76,
+  "signature": "dfe2f3016a6a6832460a01a2bfe1ae7445cd5980858cb855a7abd927f0fc851a",
+  "src": "/audio/voices/nanami/N4-043-2.mp3",
+  "srt": "/audio/voices/nanami/N4-043-2.srt",
+  "durationSeconds": 4.416,
+  "bytes": 26496,
+  "sha256": "331577f457c021b217ff0ee0e5cfe92e47228813c232e239b6c0fd18e24ebef4",
+  "peakPcm": 20401,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-113",
+  "exampleIndex": 1,
+  "text": "この漢字がなかなか覚えられません。",
+  "speechText": "この漢字がなかなか覚えられません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 111,
+  "signature": "4bdc1ccc5bbb896091fc4001f31673798ea36410bc363b74eb7b6eb37759affe",
+  "src": "/audio/voices/keita/N4-113-2.mp3",
+  "srt": "/audio/voices/keita/N4-113-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "3732a547e5f5f8a4b5d9ab2a83293395cb70204d7631e36800951acc2d03267c",
+  "peakPcm": 18864,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

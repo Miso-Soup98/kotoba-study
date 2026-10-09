@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-046",
+  "exampleIndex": 0,
+  "text": "来週、京都へ行く予定です。",
+  "speechText": "来週、京都へ行く予定です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 77,
+  "signature": "c0d84280ea19cecd610ad2298707c84dc1a8bb98bbf8ad882ea5c28176c7ecf9",
+  "src": "/audio/voices/keita/N4-046-1.mp3",
+  "srt": "/audio/voices/keita/N4-046-1.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "a1a489c7d07830bbe56e1accb1e97b1d5a81afd7488a7914b6be60c77090e087",
+  "peakPcm": 26014,
+  "rmsDbfs": -22.03,
+  "rate": "+0%",
+  "listened": false
+}

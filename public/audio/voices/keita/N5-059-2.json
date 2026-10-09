@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-059",
+  "exampleIndex": 1,
+  "text": "昨日より今日のほうが寒いです。",
+  "speechText": "昨日より今日のほうが寒いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 39,
+  "signature": "50d3716ae3826f3588d627c87d444580c6c17e0a99cba87392cfc19f96884097",
+  "src": "/audio/voices/keita/N5-059-2.mp3",
+  "srt": "/audio/voices/keita/N5-059-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "b5f260aae4bf101c3bcab331e835e967c5adde8334eab5ea5ec3d1f651519cf7",
+  "peakPcm": 18983,
+  "rmsDbfs": -19.68,
+  "rate": "+0%",
+  "listened": false
+}

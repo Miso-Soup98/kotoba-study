@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-052",
+  "exampleIndex": 1,
+  "text": "この店は安いですよ。",
+  "speechText": "この店は安いですよ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 35,
+  "signature": "83172c0a7bc81729c6a1c3167d2593c49ae3e5b07f2ed5fce8f98489f141583f",
+  "src": "/audio/voices/keita/N5-052-2.mp3",
+  "srt": "/audio/voices/keita/N5-052-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "c8ffbd60ffa057258df58e84e26daad324a2164e71be21cc91cd63716057d2d4",
+  "peakPcm": 21161,
+  "rmsDbfs": -20.3,
+  "rate": "+0%",
+  "listened": false
+}
