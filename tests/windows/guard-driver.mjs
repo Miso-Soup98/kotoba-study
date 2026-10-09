@@ -44,6 +44,7 @@ const limits = {
   LogDirectory: logDirectory,
 };
 if (mode === 'preflight') limits.MinAvailableMiB = 1_048_576;
+if (mode === 'commit-preflight') limits.MaxCommitPercent = 1;
 if (mode === 'output-limit') limits.MaxOutputMiB = 1;
 
 try {
