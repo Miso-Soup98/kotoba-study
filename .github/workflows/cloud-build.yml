@@ -1,5 +1,4 @@
-# Prepared configuration, intentionally inactive outside .github/workflows/.
-# Move to .github/workflows/cloud-build.yml after GitHub workflow authorization.
+# Build artifacts only. Production deployment stays in the Sites release flow.
 name: Cloud build (no deployment)
 
 on:

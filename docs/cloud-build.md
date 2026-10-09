@@ -1,20 +1,20 @@
 # 用云端构建减少本机负担
 
-2026-10-10：配置已准备，尚未启用或在云端运行，正式站点未更新。当前GitHub登录有`repo`权限，没有`workflow`权限；按GitHub要求，新建工作流需额外授权。配置暂存在[cloud-build.workflow.yml](ci/cloud-build.workflow.yml)，不会因为普通代码推送自动运行。
+2026-10-10：维护者已授权使用GitHub云端构建并发布新版。工作流已移至[cloud-build.yml](../.github/workflows/cloud-build.yml)，在开发分支推送时执行检查和构建，不自动部署。实际构建与发布结果记录在`VERIFICATION.md`。
 
 建议使用GitHub Actions标准Linux机器完成安装、串行测试、类型检查和生产构建，现有Sites负责托管。学习记录、ChatGPT登录和私人TED继续留在原站点；云构建只读取已公开的仓库，不需要Sites令牌、生产密钥或私人资料。公开仓库的标准托管runner计算免费；这里只使用标准`ubuntu-24.04`，不选择收费的大型runner，构建包保留1天。[GitHub计费说明](https://docs.github.com/en/billing/concepts/product-billing/github-actions)
 
 ## 启用前的唯一账号准备
 
-由仓库所有者确认GitHub工作流授权。以下命令会进入官方授权流程，不应把任何令牌发到聊天或写入仓库：
+首次启用需要仓库所有者确认GitHub工作流授权；本项目维护者已完成。以后其他贡献者如需更新工作流，以下命令会进入官方授权流程，不应把任何令牌发到聊天或写入仓库：
 
 ```powershell
 gh auth refresh -h github.com -s workflow
 ```
 
-这是GitHub对新增工作流文件的权限要求，不是网站发布审批，也不是内存限制。授权完成后，将模板移动到`.github/workflows/cloud-build.yml`并提交推送开发分支，首次由限定分支的push事件执行。`workflow_dispatch`需工作流已进入默认分支才可从界面手动运行。[OAuth权限说明](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/scopes-for-oauth-apps)、[手动运行说明](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/manually-run-a-workflow)
+这是GitHub对新增工作流文件的权限要求，不是网站发布审批，也不是内存限制。限定开发分支的push事件可触发首次执行。`workflow_dispatch`需工作流已进入默认分支才可从界面手动运行。[OAuth权限说明](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/scopes-for-oauth-apps)、[手动运行说明](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/manually-run-a-workflow)
 
-工作流仅有源码读取权限；动作版本固定提交、不保留checkout凭据、不读生产secrets，不会自动部署。此模板尚未经过实际Linux云构建，不能把语法检查当作构建验收。
+工作流仅有源码读取权限；动作版本固定提交、不保留checkout凭据、不读生产secrets，不会自动部署。每次发布应以实际成功的Linux构建结果为准，不能把语法检查当作构建验收。
 
 ## 构建成功后的发布
 
