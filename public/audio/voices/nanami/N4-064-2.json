@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-064",
+  "exampleIndex": 1,
+  "text": "日本語が少し分かってきました。",
+  "speechText": "日本語が少し分かってきました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 86,
+  "signature": "98659d43f5db6a784a20bfe014a7715bae37664a6cc51bac31305cac8d043558",
+  "src": "/audio/voices/nanami/N4-064-2.mp3",
+  "srt": "/audio/voices/nanami/N4-064-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "91ec195ca0d78db822679b91c29f9feae690675b4a5f38a60d4775a7bf84fbef",
+  "peakPcm": 21353,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-078",
+  "exampleIndex": 1,
+  "text": "最後まで自分らしく話してください。",
+  "speechText": "最後まで自分らしく話してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 93,
+  "signature": "1bfea1e652f995af80f7b87655b3e337568202e13765b6d56b0af8fde6b1f1f0",
+  "src": "/audio/voices/keita/N4-078-2.mp3",
+  "srt": "/audio/voices/keita/N4-078-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "404ee4f6248797cc135c34a5ecbf3333287ee5472bc0b83ab76d4e66f957a051",
+  "peakPcm": 22740,
+  "rmsDbfs": -20.46,
+  "rate": "+0%",
+  "listened": false
+}

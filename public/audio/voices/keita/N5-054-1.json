@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-054",
+  "exampleIndex": 0,
+  "text": "この靴は少し大きいです。",
+  "speechText": "この靴は少し大きいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 36,
+  "signature": "7208bd4340be250d2ae234e7dadd41b25ee14a231c33cccb1a26c0cf89a138a4",
+  "src": "/audio/voices/keita/N5-054-1.mp3",
+  "srt": "/audio/voices/keita/N5-054-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "93a5611ede1e567e635eaa113071e3f12cf09868f0aabdb697071331d412edd7",
+  "peakPcm": 20692,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

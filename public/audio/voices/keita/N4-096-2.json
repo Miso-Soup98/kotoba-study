@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-096",
+  "exampleIndex": 1,
+  "text": "母は夕食を作っているところです。",
+  "speechText": "母は夕食を作っているところです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 102,
+  "signature": "00ab00ce1b91e07249c9274e05630587777eebe126a7be1f8160a0507447e03e",
+  "src": "/audio/voices/keita/N4-096-2.mp3",
+  "srt": "/audio/voices/keita/N4-096-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "0f7a9f4137c8a78de8f30506da6cc1f181adfabc2214aade07517bc3c831c439",
+  "peakPcm": 22021,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

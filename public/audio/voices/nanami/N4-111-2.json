@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-111",
+  "exampleIndex": 1,
+  "text": "一日で本を三冊も読みました。",
+  "speechText": "一日で本を三冊も読みました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 110,
+  "signature": "81a95ace1e0690e74a8e311c0cb62012ffac870b1585d9a4c49b5e286b1e3e3d",
+  "src": "/audio/voices/nanami/N4-111-2.mp3",
+  "srt": "/audio/voices/nanami/N4-111-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "54a4d49c42d993354a383eb3fa2039c6486ee4f695936a189b0970d0886ef88e",
+  "peakPcm": 23427,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

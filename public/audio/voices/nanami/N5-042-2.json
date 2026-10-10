@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-042",
+  "exampleIndex": 1,
+  "text": "駅で降りて、少し歩きました。",
+  "speechText": "駅で降りて、少し歩きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 30,
+  "signature": "bcdb08b6426cf70fb78ba0c4c5936b0a0008fa7c2dbb71243ab40e556e9d75c8",
+  "src": "/audio/voices/nanami/N5-042-2.mp3",
+  "srt": "/audio/voices/nanami/N5-042-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "9e4c561fa8622a1a1952f376d4232f9db0801018c7e165e5075558aba5059f4c",
+  "peakPcm": 21304,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-011",
+  "exampleIndex": 1,
+  "text": "窓を閉めるのを忘れました。",
+  "speechText": "窓を閉めるのを忘れました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 60,
+  "signature": "9d8e136e3ac91d705398fb48f4884072ae64d347ef73a984e62875651f46643b",
+  "src": "/audio/voices/nanami/N4-011-2.mp3",
+  "srt": "/audio/voices/nanami/N4-011-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "9093be7d0825d5b547e50b69aab74095b97c795aec1d946a81c09754918ca009",
+  "peakPcm": 20203,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

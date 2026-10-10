@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-121",
+  "exampleIndex": 1,
+  "text": "現金または銀行振込で払えます。",
+  "speechText": "現金または銀行振込で払えます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 115,
+  "signature": "9d766531b5bf03642d020783d3491b22c203a02fd7d0a25d1d99d5273abc2ca1",
+  "src": "/audio/voices/nanami/N4-121-2.mp3",
+  "srt": "/audio/voices/nanami/N4-121-2.srt",
+  "durationSeconds": 3.912,
+  "bytes": 23472,
+  "sha256": "725d63aa55583e75ba5f072cb9d1ed95c8f11b949c25799ac698c388f3c61435",
+  "peakPcm": 21713,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-047",
+  "exampleIndex": 0,
+  "text": "水をください。",
+  "speechText": "水をください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 33,
+  "signature": "e9a68e893267c4740c5ed80f268d531ff12f5d8cb6840bc2fb79e70bb21e7b97",
+  "src": "/audio/voices/nanami/N5-047-1.mp3",
+  "srt": "/audio/voices/nanami/N5-047-1.srt",
+  "durationSeconds": 2.016,
+  "bytes": 12096,
+  "sha256": "0795c04e75d57ef5947d8806654edd3e6a1aee711b922546c6e152fa2de3aea5",
+  "peakPcm": 22394,
+  "rmsDbfs": -18.65,
+  "rate": "+0%",
+  "listened": false
+}

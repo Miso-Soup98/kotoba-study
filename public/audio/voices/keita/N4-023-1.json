@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-023",
+  "exampleIndex": 0,
+  "text": "友達に手紙をもらいました。",
+  "speechText": "友達に手紙をもらいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 66,
+  "signature": "f2122184747ef2d3172a4e316bcba6f31185a48a03a8d0e805153d27c6430e6f",
+  "src": "/audio/voices/keita/N4-023-1.mp3",
+  "srt": "/audio/voices/keita/N4-023-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "3d1fa031416543422637ad345a40925fe98373db7a19d51b9a3701f8a0455652",
+  "peakPcm": 22370,
+  "rmsDbfs": -20.03,
+  "rate": "+0%",
+  "listened": false
+}

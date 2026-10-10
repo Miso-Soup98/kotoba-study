@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-057",
+  "exampleIndex": 0,
+  "text": "机に本やノートがあります。",
+  "speechText": "机に本やノートがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 38,
+  "signature": "05e61bc42a5593b000e7b015d430100d9e6ccac60bec30224ba30de121d2428e",
+  "src": "/audio/voices/keita/N5-057-1.mp3",
+  "srt": "/audio/voices/keita/N5-057-1.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "751ad21fadd411cb48a3ac460541f083fe609208b59434c13a05b08dd2bf22f1",
+  "peakPcm": 19649,
+  "rmsDbfs": -19.56,
+  "rate": "+0%",
+  "listened": false
+}

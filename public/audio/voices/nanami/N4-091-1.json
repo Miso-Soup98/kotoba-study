@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-091",
+  "exampleIndex": 0,
+  "text": "荷物をお持ちします。",
+  "speechText": "荷物をお持ちします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 100,
+  "signature": "aed7706bd6326abe315a7023a948ddd4a9641b053fb61c470082534302340410",
+  "src": "/audio/voices/nanami/N4-091-1.mp3",
+  "srt": "/audio/voices/nanami/N4-091-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "afad28537a1f5e26aaad6d91d29d3693f6cc15a1f09eedff05d148aa1d2a1f03",
+  "peakPcm": 21425,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

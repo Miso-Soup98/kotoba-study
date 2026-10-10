@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-022",
+  "exampleIndex": 0,
+  "text": "友達が写真をくれました。",
+  "speechText": "友達が写真をくれました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 65,
+  "signature": "e5760f3746f1d22ab549237871982bf31a4e7ad6cfe711115ffd27fc77b397ac",
+  "src": "/audio/voices/nanami/N4-022-1.mp3",
+  "srt": "/audio/voices/nanami/N4-022-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "51ef5943c5d4878697928e44bcbecf29a884ab873e1c14700e43a3e39338c034",
+  "peakPcm": 19085,
+  "rmsDbfs": -19.08,
+  "rate": "+0%",
+  "listened": false
+}

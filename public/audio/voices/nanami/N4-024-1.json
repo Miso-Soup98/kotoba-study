@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-024",
+  "exampleIndex": 0,
+  "text": "友達に日本語を教えてあげました。",
+  "speechText": "友達に日本語を教えてあげました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 66,
+  "signature": "2f425d01c311235995f31e75dd39808f44e7874e5335250b7bab659d745d6dc3",
+  "src": "/audio/voices/nanami/N4-024-1.mp3",
+  "srt": "/audio/voices/nanami/N4-024-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "11591d223227736231fc0094044d95d8768aa7f0f6149491d961f2128fd5ebc9",
+  "peakPcm": 21373,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

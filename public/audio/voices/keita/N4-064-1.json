@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-064",
+  "exampleIndex": 0,
+  "text": "飲み物を買ってきます。",
+  "speechText": "飲み物を買ってきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 86,
+  "signature": "104281727593e4daaae6b4d745ac1c1725eaf513dfb62d6d46512af0de2c642b",
+  "src": "/audio/voices/keita/N4-064-1.mp3",
+  "srt": "/audio/voices/keita/N4-064-1.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "b5e8909a475c1a47d30b87f399da34cea0ac964c94319d084f98032e0a3d6fc5",
+  "peakPcm": 18396,
+  "rmsDbfs": -21.17,
+  "rate": "+0%",
+  "listened": false
+}

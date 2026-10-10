@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-058",
+  "exampleIndex": 1,
+  "text": "明日か明後日に行きます。",
+  "speechText": "明日か明後日に行きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 38,
+  "signature": "201d6cd3298e06897ee81bbad9650cb2d51ec1e687583fb399c84cbee941c527",
+  "src": "/audio/voices/keita/N5-058-2.mp3",
+  "srt": "/audio/voices/keita/N5-058-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "687f7fc36fd7bc6278d1adbe20bce07737c5c59c6ae74f4f6641a05bda0b5bf1",
+  "peakPcm": 22449,
+  "rmsDbfs": -22.54,
+  "rate": "+0%",
+  "listened": false
+}

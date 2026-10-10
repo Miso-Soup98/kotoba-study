@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-046",
+  "exampleIndex": 0,
+  "text": "来週、京都へ行く予定です。",
+  "speechText": "来週、京都へ行く予定です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 77,
+  "signature": "9d0e9eca88dfabea433e85670399dfaa813b6d9753e1a3554fd7b738f9073ff6",
+  "src": "/audio/voices/nanami/N4-046-1.mp3",
+  "srt": "/audio/voices/nanami/N4-046-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "28f27e01ee564592b2eac6e3712b2484779987e89c09909e64ee4aeb5a85c0a0",
+  "peakPcm": 20223,
+  "rmsDbfs": -17.48,
+  "rate": "+0%",
+  "listened": false
+}

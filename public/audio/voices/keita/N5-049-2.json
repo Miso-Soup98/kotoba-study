@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-049",
+  "exampleIndex": 1,
+  "text": "今日は私しか来ません。",
+  "speechText": "今日は私しか来ません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 34,
+  "signature": "abe12a849859257ab45675815e703d3c2bdf56a27400852e4110d10657f92d2b",
+  "src": "/audio/voices/keita/N5-049-2.mp3",
+  "srt": "/audio/voices/keita/N5-049-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "b0da0f2cf1f52828718d0f638b71a94a4cbe61e3895115c2146eb208991c1ec2",
+  "peakPcm": 21607,
+  "rmsDbfs": -21.25,
+  "rate": "+0%",
+  "listened": false
+}

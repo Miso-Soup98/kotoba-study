@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-066",
+  "exampleIndex": 1,
+  "text": "夜は食べすぎないほうがいいです。",
+  "speechText": "夜は食べすぎないほうがいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 42,
+  "signature": "f664739b8c8ce975d2d8f287b044026581f266215cd94611a0cb6eef450f9228",
+  "src": "/audio/voices/keita/N5-066-2.mp3",
+  "srt": "/audio/voices/keita/N5-066-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "f361c9b7704019652c8204fa40f98626b22ed1e259b4bf539cb544c4e48e4e07",
+  "peakPcm": 21400,
+  "rmsDbfs": -20.05,
+  "rate": "+0%",
+  "listened": false
+}

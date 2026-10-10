@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-098",
+  "exampleIndex": 1,
+  "text": "この二つのうち、どちらが好きですか。",
+  "speechText": "この二つのうち、どちらが好きですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 103,
+  "signature": "21ac741bc49179b07dc8c22b022e9a2d7ca188acc80869daeb710f2c8bd448be",
+  "src": "/audio/voices/keita/N4-098-2.mp3",
+  "srt": "/audio/voices/keita/N4-098-2.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "1de1015d8d6815975bcc9345f16f8bd0c120af87d5d43ca66c2ca3b25c2ed50b",
+  "peakPcm": 24094,
+  "rmsDbfs": -21.67,
+  "rate": "+0%",
+  "listened": false
+}

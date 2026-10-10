@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-068",
+  "exampleIndex": 0,
+  "text": "この本は昨日読み終わりました。",
+  "speechText": "この本は昨日読み終わりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 88,
+  "signature": "3924405fa17fd1a726aeebc7f1dd8da819f935826a922f05c61f71b68c3ccf18",
+  "src": "/audio/voices/keita/N4-068-1.mp3",
+  "srt": "/audio/voices/keita/N4-068-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "4400e91b8d7ba5ad0018912330c9a5a56dbfc67fb93129b8303ad5eb5f23edd1",
+  "peakPcm": 20526,
+  "rmsDbfs": -19.49,
+  "rate": "+0%",
+  "listened": false
+}

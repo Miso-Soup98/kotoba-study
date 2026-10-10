@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-044",
+  "exampleIndex": 0,
+  "text": "少し考えさせてください。",
+  "speechText": "少し考えさせてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 76,
+  "signature": "5004065f3c6c6f324122cf99747619195af52131282522a579d956fa6904da50",
+  "src": "/audio/voices/keita/N4-044-1.mp3",
+  "srt": "/audio/voices/keita/N4-044-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "3f96c654a9aa4fd6d11a07a6a6cafc1ac63c45590fb15a588f8d964a93124aac",
+  "peakPcm": 21144,
+  "rmsDbfs": -21.67,
+  "rate": "+0%",
+  "listened": false
+}

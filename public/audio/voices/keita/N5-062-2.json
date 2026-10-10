@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-062",
+  "exampleIndex": 1,
+  "text": "私は絵を描くのが下手です。",
+  "speechText": "私は絵を描くのが下手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 40,
+  "signature": "47a7a3afbf7e48d60280d6b8912f6752b4e815814973eff410cb8000163ca7e2",
+  "src": "/audio/voices/keita/N5-062-2.mp3",
+  "srt": "/audio/voices/keita/N5-062-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "90c1b67277570d70c383ede655b7dd34082e923dfb0060a25c3c624c81e4c293",
+  "peakPcm": 23057,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

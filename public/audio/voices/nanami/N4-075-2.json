@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-075",
+  "exampleIndex": 1,
+  "text": "部屋をきれいにしました。",
+  "speechText": "部屋をきれいにしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 92,
+  "signature": "fd1655f54ccb673df9c946309e7ab37dc045cd832199076d3580c528ac345cc0",
+  "src": "/audio/voices/nanami/N4-075-2.mp3",
+  "srt": "/audio/voices/nanami/N4-075-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "e8c5a054c098dd6493cff93d9ab479c6a0cbb84434f92d000961faa156e16657",
+  "peakPcm": 20915,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

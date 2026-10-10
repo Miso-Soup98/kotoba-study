@@ -43,17 +43,16 @@ function setup(timeout = 15000) {
     player: new FileAudio(() => media as unknown as HTMLAudioElement, timeout),
   };
 }
-test("all 1648 voice clips cover N3/N2 and preserve the original six N5/N4 lessons", () => {
+test("all 2488 voice clips cover every N5–N2 lesson", () => {
   assert.deepEqual(voiceIndex, manifest, "Run scripts/prepare-voice-index.mjs after generating audio.");
-  const covered = corpus.entries.filter(e => e.level === "N3" || e.level === "N2" ||
-    ["N5-001", "N5-002", "N5-003", "N4-001", "N4-002", "N4-003"].includes(e.id));
-  assert.equal(covered.length, 412);
-  assert.equal(manifest.clips.length, 1648);
+  const covered = corpus.entries;
+  assert.equal(covered.length, 622);
+  assert.equal(manifest.clips.length, 2488);
   assert.equal(
     new Set(
       manifest.clips.map((c) => `${c.entryId}/${c.voice}/${c.exampleIndex}`),
     ).size,
-    1648,
+    2488,
   );
   for (const source of covered) for (const voice of ["nanami", "keita"]) for (const index of [0, 1])
     assert.ok(manifest.clips.some(clip => clip.entryId === source.id && clip.voice === voice && clip.exampleIndex === index), `${source.id}/${voice}/${index}`);

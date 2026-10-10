@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-013",
+  "exampleIndex": 1,
+  "text": "先生は研究室にいます。",
+  "speechText": "先生は研究室にいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 16,
+  "signature": "104f6809f6b2f00f81f93808b2fb0c60dd8d904086082df7ee0ecd178c683fe6",
+  "src": "/audio/voices/nanami/N5-013-2.mp3",
+  "srt": "/audio/voices/nanami/N5-013-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "d41bea2b1413f04bacf125bde0167ae8576f5d4ddae6868102a5554c255c3275",
+  "peakPcm": 22961,
+  "rmsDbfs": -17.17,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-014",
+  "exampleIndex": 0,
+  "text": "来月、別の部屋に移ることになりました。",
+  "speechText": "来月、別の部屋に移ることになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 61,
+  "signature": "b26954ee14a639f0e3de03470cd4bee87099d281af1b04b256854463546d4784",
+  "src": "/audio/voices/keita/N4-014-1.mp3",
+  "srt": "/audio/voices/keita/N4-014-1.srt",
+  "durationSeconds": 3.84,
+  "bytes": 23040,
+  "sha256": "ee4116754c1e60004d7ac798b9ee5a025501aced35a70c9217020bd624114714",
+  "peakPcm": 27658,
+  "rmsDbfs": -21.35,
+  "rate": "+0%",
+  "listened": false
+}

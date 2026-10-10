@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-113",
+  "exampleIndex": 0,
+  "text": "バスがなかなか来ません。",
+  "speechText": "バスがなかなか来ません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 111,
+  "signature": "2c58c19ec33f0d658ec3c346dc26ba3fc982eb94e0bc374bab540a52418d028e",
+  "src": "/audio/voices/keita/N4-113-1.mp3",
+  "srt": "/audio/voices/keita/N4-113-1.srt",
+  "durationSeconds": 2.328,
+  "bytes": 13968,
+  "sha256": "cb7fcfd54c5b7286bdaab5c46d36f3a16971eedfa7f912ec164d3135d5eb9fc2",
+  "peakPcm": 24447,
+  "rmsDbfs": -23.28,
+  "rate": "+0%",
+  "listened": false
+}

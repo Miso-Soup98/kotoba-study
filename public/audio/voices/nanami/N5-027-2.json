@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-027",
+  "exampleIndex": 1,
+  "text": "弟は本を読んでいます。",
+  "speechText": "弟は本を読んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 23,
+  "signature": "91081e8ad8a9b3c9b8e92c0bb6a94aae07a51b39b53fcb7068805b7db899a02a",
+  "src": "/audio/voices/nanami/N5-027-2.mp3",
+  "srt": "/audio/voices/nanami/N5-027-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "19c8377c68868615bcfaff7eb5cd2516a53d857abd8251dded55d33963b30e88",
+  "peakPcm": 21912,
+  "rmsDbfs": -16.71,
+  "rate": "+0%",
+  "listened": false
+}

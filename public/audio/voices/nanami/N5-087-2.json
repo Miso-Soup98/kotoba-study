@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-087",
+  "exampleIndex": 1,
+  "text": "今日は全然寒くないです。",
+  "speechText": "今日は全然寒くないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 53,
+  "signature": "d2b3aaa4aa7c5a3d81773175d2cbf6c30932642ad284a1af71639cb9184b2c92",
+  "src": "/audio/voices/nanami/N5-087-2.mp3",
+  "srt": "/audio/voices/nanami/N5-087-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "8de70ec4364b6de5bf73189e6a71049386db13f86b0e1a4c52510ccec5c18598",
+  "peakPcm": 21052,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

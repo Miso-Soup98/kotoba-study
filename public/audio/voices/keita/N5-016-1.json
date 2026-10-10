@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-016",
+  "exampleIndex": 0,
+  "text": "私は会社員ではありません。",
+  "speechText": "私は会社員ではありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 17,
+  "signature": "9f645f5815cf024580ce858626794904809638ea5c5370160efb3c6d528a92df",
+  "src": "/audio/voices/keita/N5-016-1.mp3",
+  "srt": "/audio/voices/keita/N5-016-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "e7ca6165279d87458da548256e0eb77d1a0d7ef79df8b6407f70df4514a639f6",
+  "peakPcm": 21979,
+  "rmsDbfs": -21.03,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,6410 @@
+[
+  {
+    "id": "lex:openjlpt:4f134c9b38",
+    "text": "後",
+    "reading": "あと",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "afterwards"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1269320,
+    "referenceEnglish": [
+      "behind",
+      "rear",
+      "after",
+      "later",
+      "remainder",
+      "the rest",
+      "more (e.g. five more minutes)",
+      "left",
+      "also",
+      "in addition",
+      "descendant",
+      "successor",
+      "heir",
+      "after one's death",
+      "past",
+      "previous"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:eac7a22620",
+    "text": "いただきます",
+    "reading": "いただきます",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "expression of gratitude before meals"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1410800,
+    "referenceEnglish": [
+      "thank you (for the meal just served)",
+      "I receive (this meal)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ae5d1778d1",
+    "text": "おまわりさん",
+    "reading": "おまわりさん",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "friendly term for policeman"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1002120,
+    "referenceEnglish": [
+      "police officer"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0ce2b98d3b",
+    "text": "かける",
+    "reading": "かける",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to call by phone"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1207610,
+    "referenceEnglish": [
+      "to hang up (e.g. a coat, a picture on the wall)",
+      "to let hang",
+      "to suspend (from)",
+      "to hoist (e.g. sail)",
+      "to raise (e.g. flag)",
+      "to put on (e.g. a blanket)",
+      "to put on top of",
+      "to cover",
+      "to lay",
+      "to spread",
+      "to put on (glasses, etc.)",
+      "to wear (a necklace, etc.)",
+      "to make (a call)",
+      "to spend (time, money)",
+      "to expend",
+      "to use"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d106dac023",
+    "text": "嫌い",
+    "reading": "きらい",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "hate"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1257240,
+    "referenceEnglish": [
+      "disliked",
+      "hated",
+      "disagreeable",
+      "tendency",
+      "smack (of)",
+      "touch (of)",
+      "distinction",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a9191729e3",
+    "text": "ごちそうさま",
+    "reading": "ごちそうさま",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "feast"
+    ],
+    "meaningZh": "“御馳走様”的假名写法，意为感谢款待",
+    "jmdictId": 1270520,
+    "referenceEnglish": [
+      "thank you (for the meal)",
+      "that was a delicious meal",
+      "thank you (for displaying lovey-dovey behaviour)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f586d7d023",
+    "text": "コピーする",
+    "reading": "コピーする",
+    "level": "N5",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "to copy"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1050590,
+    "referenceEnglish": [
+      "copy",
+      "photocopy",
+      "book jacket blurb",
+      "(advertising) slogan"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:61994485cb",
+    "text": "困る",
+    "reading": "こまる",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be worried"
+    ],
+    "meaningZh": "为难，难办",
+    "jmdictId": 1289590,
+    "referenceEnglish": [
+      "to be troubled",
+      "to have difficulty",
+      "to be in a fix",
+      "to be at a loss",
+      "to be stumped",
+      "to be embarrassed",
+      "to be bothered",
+      "to be inconvenienced",
+      "to be annoyed",
+      "to be badly off",
+      "to be hard up",
+      "to be in straitened circumstances"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0a1f511640",
+    "text": "さようなら",
+    "reading": "さようなら",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "good-bye"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1291050,
+    "referenceEnglish": [
+      "farewell",
+      "adieu",
+      "goodbye",
+      "so long"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:20cbecd474",
+    "text": "好き",
+    "reading": "すき",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "likeable"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1277450,
+    "referenceEnglish": [
+      "liking",
+      "being fond of",
+      "to one's liking",
+      "to one's taste",
+      "preferred",
+      "favourite",
+      "liking (romantically)",
+      "being in love with",
+      "beloved",
+      "faddism",
+      "eccentricity",
+      "as one likes",
+      "as it suits one",
+      "lecherous",
+      "lustful",
+      "salacious"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b48d0c99d4",
+    "text": "せっけん",
+    "reading": "せっけん",
+    "level": "N5",
+    "reasons": [
+      "known-soap-thrift-homophone-mismatch"
+    ],
+    "meaningEn": [
+      "economy"
+    ],
+    "meaningZh": "节俭；节省；勤俭",
+    "jmdictId": 1386220,
+    "referenceEnglish": [
+      "economy",
+      "thrift"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:501df34d31",
+    "text": "掃除",
+    "reading": "そうじ",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to clean",
+      "to sweep"
+    ],
+    "meaningZh": "清掃污穢",
+    "jmdictId": 1399790,
+    "referenceEnglish": [
+      "cleaning",
+      "sweeping",
+      "dusting",
+      "scrubbing"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d33540fe8e",
+    "text": "では",
+    "reading": "では",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "with that..."
+    ],
+    "meaningZh": null,
+    "jmdictId": 1008450,
+    "referenceEnglish": [
+      "then",
+      "well",
+      "so",
+      "well then",
+      "bye then",
+      "at",
+      "in",
+      "by",
+      "with",
+      "using",
+      "if not ...",
+      "unless ..."
+    ]
+  },
+  {
+    "id": "lex:openjlpt:558866ef86",
+    "text": "何",
+    "reading": "なん",
+    "level": "N5",
+    "reasons": [
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "what"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1577100,
+    "referenceEnglish": [
+      "what",
+      "you-know-what",
+      "that thing",
+      "whatsit",
+      "whachamacallit",
+      "what's-his-name",
+      "what's-her-name",
+      "penis",
+      "(one's) thing",
+      "dick",
+      "(not) at all",
+      "(not) in the slightest",
+      "what?",
+      "huh?",
+      "hey!",
+      "come on!"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2f01adebd7",
+    "text": "温い",
+    "reading": "ぬるい",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "luke warm"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1183300,
+    "referenceEnglish": [
+      "lukewarm",
+      "tepid",
+      "lenient"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d980cb1531",
+    "text": "ゆっくりと",
+    "reading": "ゆっくりと",
+    "level": "N5",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "slowly"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1013050,
+    "referenceEnglish": [
+      "slowly",
+      "unhurriedly",
+      "without haste",
+      "leisurely",
+      "at one's leisure",
+      "easily (e.g. in time)",
+      "well",
+      "sufficiently",
+      "amply",
+      "with time to spare",
+      "well (e.g. sleep)",
+      "comfortably"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ecee43eb04",
+    "text": "分かる",
+    "reading": "わかる",
+    "level": "N5",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be understood"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1606560,
+    "referenceEnglish": [
+      "to understand",
+      "to comprehend",
+      "to grasp",
+      "to see",
+      "to get",
+      "to follow",
+      "to become clear",
+      "to be known",
+      "to be discovered",
+      "to be realized (realised)",
+      "to be found out",
+      "to make sense",
+      "I know!",
+      "I think so too!"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c3c3ac9f48",
+    "text": "あいさつする",
+    "reading": "あいさつする",
+    "level": "N4",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation",
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to greet"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1151120,
+    "referenceEnglish": [
+      "greeting",
+      "greetings",
+      "salutation",
+      "salute",
+      "polite set phrase used when meeting or parting from someone",
+      "speech (congratulatory or appreciative)",
+      "address",
+      "reply",
+      "response",
+      "courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.)",
+      "revenge",
+      "retaliation",
+      "a fine thing to say",
+      "dialoging (with another Zen practitioner to ascertain their level of enlightenment)",
+      "relationship (between people)",
+      "connection"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:52a79a5d69",
+    "text": "案内",
+    "reading": "あんない",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to guide"
+    ],
+    "meaningZh": "引導",
+    "jmdictId": 1154860,
+    "referenceEnglish": [
+      "guidance",
+      "leading (the way)",
+      "showing around",
+      "information",
+      "notice",
+      "notification",
+      "announcement (of a visitor's arrival)",
+      "informing (someone) of a visitor's arrival",
+      "invitation",
+      "acquaintance",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:da4198f39c",
+    "text": "以外",
+    "reading": "いがい",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "with the exception of"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1155090,
+    "referenceEnglish": [
+      "excluding",
+      "except (for)",
+      "apart from",
+      "other than",
+      "besides",
+      "in addition to",
+      "outside (a boundary, scope, etc.)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:11222e25b5",
+    "text": "売り場",
+    "reading": "うりば",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "place where things are sold"
+    ],
+    "meaningZh": "賣場；櫃台",
+    "jmdictId": 1588550,
+    "referenceEnglish": [
+      "selling area",
+      "counter",
+      "section",
+      "department",
+      "sales floor",
+      "favorable time to sell",
+      "good time to sell"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:44f33984fb",
+    "text": "運転",
+    "reading": "うんてん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to drive"
+    ],
+    "meaningZh": "驾驶",
+    "jmdictId": 1172830,
+    "referenceEnglish": [
+      "operation (of a machine)",
+      "running",
+      "working",
+      "driving (a vehicle)",
+      "use (of capital, funds, etc.)",
+      "management",
+      "investment"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5ceed9165d",
+    "text": "遠慮",
+    "reading": "えんりょ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be reserved",
+      "to be restrained"
+    ],
+    "meaningZh": "远虑",
+    "jmdictId": 1178450,
+    "referenceEnglish": [
+      "reserve",
+      "constraint",
+      "restraint",
+      "modesty",
+      "diffidence",
+      "hesitation",
+      "holding back",
+      "discretion",
+      "tact",
+      "thoughtfulness",
+      "declining",
+      "refraining",
+      "forethought",
+      "foresight"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e5e5899ce2",
+    "text": "おかげ",
+    "reading": "おかげ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "owing to"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1001640,
+    "referenceEnglish": [
+      "grace (of God)",
+      "benevolence (of Buddha)",
+      "blessing",
+      "assistance",
+      "help",
+      "aid",
+      "effects",
+      "influence"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:eb615955c8",
+    "text": "お見舞い",
+    "reading": "おみまい",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "calling on someone who is ill",
+      "enquiry"
+    ],
+    "meaningZh": "探望",
+    "jmdictId": 1001870,
+    "referenceEnglish": [
+      "visit (to someone affected by illness or misfortune)",
+      "call",
+      "inquiry (about someone's health)",
+      "expression of sympathy",
+      "letter of inquiry",
+      "letter of sympathy",
+      "get-well letter",
+      "gift (in token of one's sympathy)",
+      "dealing (a hit)",
+      "striking (a blow)",
+      "landing (an attack)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:89927b8fa1",
+    "text": "家内",
+    "reading": "かない",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "housewife"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1192420,
+    "referenceEnglish": [
+      "(my) wife",
+      "inside the home",
+      "one's family"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fcca18b129",
+    "text": "規則",
+    "reading": "きそく",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "regulations"
+    ],
+    "meaningZh": "规章，规则，规范，规程。",
+    "jmdictId": 1223021,
+    "referenceEnglish": [
+      "rule",
+      "regulation"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8fb005254a",
+    "text": "けがする",
+    "reading": "けがする",
+    "level": "N4",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation",
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to injure"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1200220,
+    "referenceEnglish": [
+      "injury",
+      "wound",
+      "mistake",
+      "accident",
+      "loss"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:511cbf9eee",
+    "text": "決して",
+    "reading": "けっして",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "never"
+    ],
+    "meaningZh": "決不，一定不",
+    "jmdictId": 1254130,
+    "referenceEnglish": [
+      "(not) ever",
+      "(not) by any means",
+      "(not) in the least",
+      "(not) in any way",
+      "(not) at all"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:063c94089d",
+    "text": "けんかする",
+    "reading": "けんかする",
+    "level": "N4",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "to quarrel"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1257040,
+    "referenceEnglish": [
+      "quarrel",
+      "brawl",
+      "fight",
+      "squabble",
+      "scuffle",
+      "argument"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:aa95e437a0",
+    "text": "郊外",
+    "reading": "こうがい",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "outskirts"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1282490,
+    "referenceEnglish": [
+      "suburb",
+      "residential area on the outskirt of a city",
+      "commuter belt"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ce133477e7",
+    "text": "故障",
+    "reading": "こしょう",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to break-down"
+    ],
+    "meaningZh": "（機械等的）故障，損壞，異常狀態",
+    "jmdictId": 1267180,
+    "referenceEnglish": [
+      "fault",
+      "trouble",
+      "breakdown",
+      "failure",
+      "being out of order",
+      "damage (to a part of the body)",
+      "injury",
+      "hurt",
+      "problem",
+      "hitch",
+      "obstacle",
+      "hindrance",
+      "objection",
+      "protest"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6243a1575b",
+    "text": "残念",
+    "reading": "ざんねん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "disappointment"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1304680,
+    "referenceEnglish": [
+      "regrettable",
+      "unfortunate",
+      "disappointing",
+      "vexing"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ecb83e16fd",
+    "text": "支度",
+    "reading": "したく",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to prepare"
+    ],
+    "meaningZh": "准备",
+    "jmdictId": 1310260,
+    "referenceEnglish": [
+      "preparation",
+      "arrangements"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:93f910e281",
+    "text": "出席",
+    "reading": "しゅっせき",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to attend"
+    ],
+    "meaningZh": "到場參加",
+    "jmdictId": 1339460,
+    "referenceEnglish": [
+      "attendance",
+      "presence",
+      "appearance"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c614552d23",
+    "text": "出発",
+    "reading": "しゅっぱつ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to depart"
+    ],
+    "meaningZh": "出發",
+    "jmdictId": 1340000,
+    "referenceEnglish": [
+      "departure",
+      "leaving",
+      "setting off"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6ce523bcb6",
+    "text": "準備",
+    "reading": "じゅんび",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to prepare"
+    ],
+    "meaningZh": "準備，提前做好的安排、籌備",
+    "jmdictId": 1341670,
+    "referenceEnglish": [
+      "preparation",
+      "arrangements",
+      "getting ready",
+      "provision",
+      "setup",
+      "reserving"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6111e87e72",
+    "text": "招待",
+    "reading": "しょうたい",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to invite"
+    ],
+    "meaningZh": "邀請",
+    "jmdictId": 1349610,
+    "referenceEnglish": [
+      "invitation"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c904982ded",
+    "text": "親切",
+    "reading": "しんせつ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "kindness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1365250,
+    "referenceEnglish": [
+      "kind",
+      "gentle",
+      "considerate",
+      "generous",
+      "friendly",
+      "nice"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7817c4eed6",
+    "text": "生活",
+    "reading": "せいかつ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to live"
+    ],
+    "meaningZh": "生物為生存和發展而進行的活動的總稱",
+    "jmdictId": 1378860,
+    "referenceEnglish": [
+      "life",
+      "living",
+      "livelihood",
+      "(one's) living"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:75acde1d68",
+    "text": "生産",
+    "reading": "せいさん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to produce"
+    ],
+    "meaningZh": "生產，製造",
+    "jmdictId": 1378990,
+    "referenceEnglish": [
+      "production",
+      "manufacture"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:554ab81272",
+    "text": "そう",
+    "reading": "そう",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "really"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1006610,
+    "referenceEnglish": [
+      "appearing that",
+      "seeming that",
+      "looking like",
+      "having the appearance of"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:aa663833e4",
+    "text": "相談",
+    "reading": "そうだん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to discuss"
+    ],
+    "meaningZh": "商量，商議，磋商",
+    "jmdictId": 1401210,
+    "referenceEnglish": [
+      "consultation",
+      "discussion",
+      "discussing",
+      "asking (someone) for advice"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:67c8e8ac31",
+    "text": "それで",
+    "reading": "それで",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "because of that"
+    ],
+    "meaningZh": "(用以承前启后) 因此，因而，所以。",
+    "jmdictId": 1007000,
+    "referenceEnglish": [
+      "so",
+      "therefore",
+      "and",
+      "(and) then"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9c96fd3cb4",
+    "text": "棚",
+    "reading": "たな",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "shelves"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1416700,
+    "referenceEnglish": [
+      "shelf",
+      "ledge",
+      "rack",
+      "trellis"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:06aec1d647",
+    "text": "為",
+    "reading": "ため",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "in order to"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1157080,
+    "referenceEnglish": [
+      "good",
+      "advantage",
+      "benefit",
+      "welfare",
+      "sake",
+      "purpose",
+      "objective",
+      "aim",
+      "consequence",
+      "result",
+      "effect",
+      "affecting",
+      "regarding",
+      "concerning"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:83a456da88",
+    "text": "チェックする",
+    "reading": "チェックする",
+    "level": "N4",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "to check"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1077550,
+    "referenceEnglish": [
+      "check (pattern)",
+      "plaid",
+      "check",
+      "inspection",
+      "examination",
+      "looking over",
+      "scrutinizing",
+      "check (mark)",
+      "tick",
+      "marking with a check",
+      "checking off",
+      "ticking",
+      "checking (something) out",
+      "following (with interest)",
+      "keeping one's eye on",
+      "keeping a close watch on"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a1db204b87",
+    "text": "続く",
+    "reading": "つづく",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be continued"
+    ],
+    "meaningZh": "继续",
+    "jmdictId": 1405790,
+    "referenceEnglish": [
+      "to continue",
+      "to last",
+      "to go on",
+      "to continue (without a break)",
+      "to be unbroken",
+      "to occur again and again",
+      "to lead to",
+      "to connect to",
+      "to adjoin",
+      "to come after",
+      "to follow",
+      "to succeed",
+      "to rank next to",
+      "to hold out",
+      "to keep",
+      "to last"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0319cd1801",
+    "text": "連れる",
+    "reading": "つれる",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to lead"
+    ],
+    "meaningZh": "结伴、同行",
+    "jmdictId": 1559290,
+    "referenceEnglish": [
+      "to take (someone) with one",
+      "to bring along",
+      "to go with",
+      "to be accompanied by"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fa043680e3",
+    "text": "適当",
+    "reading": "てきとう",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "suitability"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1437450,
+    "referenceEnglish": [
+      "suitable",
+      "proper",
+      "appropriate",
+      "adequate",
+      "fit",
+      "fair",
+      "perfunctory",
+      "half-minded",
+      "sloppy",
+      "lazy",
+      "careless",
+      "noncommittal",
+      "unreliable",
+      "irresponsible",
+      "haphazard"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bc1e0c2895",
+    "text": "届ける",
+    "reading": "とどける",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to reach"
+    ],
+    "meaningZh": "1. (文件等)送到。；2. 申报，呈报。",
+    "jmdictId": 1457210,
+    "referenceEnglish": [
+      "to deliver",
+      "to forward",
+      "to send",
+      "to report",
+      "to notify",
+      "to file notice (to the authorities)",
+      "to give notice",
+      "to register"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1200266b8d",
+    "text": "泊まる",
+    "reading": "とまる",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to lodge at"
+    ],
+    "meaningZh": "投宿，住宿",
+    "jmdictId": 1474850,
+    "referenceEnglish": [
+      "to stay at (e.g. hotel)",
+      "to be docked",
+      "to be berthed",
+      "to be moored"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ccfefc657c",
+    "text": "どんどん",
+    "reading": "どんどん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "more and more"
+    ],
+    "meaningZh": "咚咚",
+    "jmdictId": 1009320,
+    "referenceEnglish": [
+      "drumming (noise)",
+      "beating",
+      "pounding",
+      "banging",
+      "booming",
+      "stamping",
+      "rapidly",
+      "quickly",
+      "steadily",
+      "continuously",
+      "one after the other",
+      "in succession"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:178daf8296",
+    "text": "入院",
+    "reading": "にゅういん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to hospitalise"
+    ],
+    "meaningZh": "入院",
+    "jmdictId": 1465720,
+    "referenceEnglish": [
+      "hospitalization",
+      "hospitalisation"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:433da13afb",
+    "text": "入学",
+    "reading": "にゅうがく",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to enter school or university"
+    ],
+    "meaningZh": "入學",
+    "jmdictId": 1465850,
+    "referenceEnglish": [
+      "admission (to a school or university)",
+      "entrance",
+      "enrolment",
+      "enrollment",
+      "matriculation"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9de5a5daff",
+    "text": "ねっしん",
+    "reading": "ねっしん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "enthusiasm"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1467910,
+    "referenceEnglish": [
+      "zealous",
+      "enthusiastic",
+      "ardent",
+      "fervent",
+      "keen",
+      "eager"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:88a295c433",
+    "text": "拝見",
+    "reading": "はいけん",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "(humble) to look at"
+    ],
+    "meaningZh": "拜读，拜见。",
+    "jmdictId": 1472270,
+    "referenceEnglish": [
+      "seeing",
+      "looking at"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ab4a88a2c0",
+    "text": "びっくりする",
+    "reading": "びっくりする",
+    "level": "N4",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "to be surprised"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1226360,
+    "referenceEnglish": [
+      "to be surprised",
+      "to be amazed",
+      "to be frightened",
+      "to be astonished",
+      "to get startled",
+      "to jump",
+      "surprise (e.g. surprise party)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1d83ae6a5a",
+    "text": "複雑",
+    "reading": "ふくざつ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "complexity",
+      "complication"
+    ],
+    "meaningZh": "複雜的，不簡單或不直觀的",
+    "jmdictId": 1501350,
+    "referenceEnglish": [
+      "complex",
+      "complicated",
+      "intricate",
+      "mixed (feelings)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fceb1b247e",
+    "text": "ぶどう",
+    "reading": "ぶどう",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "grapes"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1499230,
+    "referenceEnglish": [
+      "grape",
+      "grapevine"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fcf790e186",
+    "text": "味噌",
+    "reading": "みそ",
+    "level": "N4",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "bean paste"
+    ],
+    "meaningZh": "以黃豆為原料，加入米麴菌等發酵而成的日式調味料",
+    "jmdictId": 1527040,
+    "referenceEnglish": [
+      "miso",
+      "fermented condiment usu. made from soybeans",
+      "innards (from crabs, shrimps, etc.) resembling miso",
+      "key point",
+      "main point",
+      "good part (of something)",
+      "weakling",
+      "weak person",
+      "try"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2c62d0aba0",
+    "text": "行き",
+    "reading": "いき",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "going"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1578790,
+    "referenceEnglish": [
+      "the way there",
+      "outbound leg",
+      "outbound trip",
+      "departing leg",
+      "bound for ...",
+      "outbound ticket"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8822903a55",
+    "text": "異常",
+    "reading": "いじょう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "strangeness",
+      "abnormality",
+      "disorder"
+    ],
+    "meaningZh": "异常，反常，不正常。",
+    "jmdictId": 1157760,
+    "referenceEnglish": [
+      "abnormal",
+      "unusual",
+      "extraordinary",
+      "remarkable",
+      "uncommon"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9620d69897",
+    "text": "偉大",
+    "reading": "いだい",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "greatness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1155920,
+    "referenceEnglish": [
+      "great",
+      "grand",
+      "magnificent",
+      "outstanding",
+      "mighty"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:99f743f623",
+    "text": "いらいら",
+    "reading": "いらいら",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "getting nervous",
+      "irritation"
+    ],
+    "meaningZh": "著急，焦躁（和と (to)連用）",
+    "jmdictId": 1587700,
+    "referenceEnglish": [
+      "to get irritated",
+      "to get annoyed",
+      "to be on the edge",
+      "to fret",
+      "to lose patience"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5514dc4a90",
+    "text": "引退",
+    "reading": "いんたい",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "retire"
+    ],
+    "meaningZh": "退休",
+    "jmdictId": 1169610,
+    "referenceEnglish": [
+      "retirement"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ed41514a67",
+    "text": "売れる",
+    "reading": "うれる",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be sold"
+    ],
+    "meaningZh": "暢銷",
+    "jmdictId": 1473960,
+    "referenceEnglish": [
+      "to sell (well)",
+      "to be well known",
+      "to be popular",
+      "to be famous"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9c851c43f7",
+    "text": "御",
+    "reading": "お",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "honourable"
+    ],
+    "meaningZh": "敬語前綴",
+    "jmdictId": 2826528,
+    "referenceEnglish": [
+      "honorific/polite/humble prefix"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:25a3345e54",
+    "text": "おそらく",
+    "reading": "おそらく",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "perhaps"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1236650,
+    "referenceEnglish": [
+      "probably",
+      "(most) likely",
+      "in all likelihood",
+      "I suspect",
+      "I dare say",
+      "I'm afraid"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7942f6b1d6",
+    "text": "思わず",
+    "reading": "おもわず",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "unintentional",
+      "spontaneous"
+    ],
+    "meaningZh": "不由得，无意识地。",
+    "jmdictId": 1309460,
+    "referenceEnglish": [
+      "unconsciously",
+      "involuntarily",
+      "instinctively",
+      "reflexively",
+      "spontaneously",
+      "unintentionally",
+      "in spite of oneself"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d171dfcac5",
+    "text": "温暖",
+    "reading": "おんだん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "warmth"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1183480,
+    "referenceEnglish": [
+      "warm",
+      "mild",
+      "temperate"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1ad5c766ea",
+    "text": "可",
+    "reading": "か",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "passable"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1190710,
+    "referenceEnglish": [
+      "acceptable",
+      "satisfactory",
+      "allowed",
+      "permitted",
+      "approval",
+      "being in favour",
+      "(a) vote in favour",
+      "aye",
+      "Pass (grade)",
+      "Fair",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1a56358cae",
+    "text": "確実",
+    "reading": "かくじつ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "certainty",
+      "reliability",
+      "soundness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1205830,
+    "referenceEnglish": [
+      "certain",
+      "sure",
+      "definite",
+      "reliable",
+      "sound",
+      "solid",
+      "safe",
+      "secure"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8c7a0c5f8b",
+    "text": "菓子",
+    "reading": "かし",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "pastry"
+    ],
+    "meaningZh": "点心，糕点。",
+    "jmdictId": 1195670,
+    "referenceEnglish": [
+      "confectionery",
+      "sweets",
+      "candy",
+      "cake"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:51ed2ee220",
+    "text": "完全",
+    "reading": "かんぜん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "perfection",
+      "completeness"
+    ],
+    "meaningZh": "完全，齊全，完備",
+    "jmdictId": 1211510,
+    "referenceEnglish": [
+      "perfect",
+      "complete"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:939f77d3f0",
+    "text": "教科書",
+    "reading": "きょうかしょ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "text book"
+    ],
+    "meaningZh": "教科書",
+    "jmdictId": 1237020,
+    "referenceEnglish": [
+      "textbook",
+      "coursebook",
+      "schoolbook"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d207be5049",
+    "text": "共通",
+    "reading": "きょうつう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "commonness",
+      "community"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1234700,
+    "referenceEnglish": [
+      "common",
+      "shared",
+      "mutual",
+      "to be common (to)",
+      "to be shared (by)",
+      "-wide"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:def0fe1435",
+    "text": "臭い",
+    "reading": "くさい",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "odour",
+      "scent",
+      "smell",
+      "stench"
+    ],
+    "meaningZh": "1. 臭。；2. 可疑。",
+    "jmdictId": 1333150,
+    "referenceEnglish": [
+      "stinking",
+      "smelly",
+      "suspicious",
+      "fishy",
+      "hammy (acting)",
+      "over-the-top",
+      "cheesy",
+      "clumsy",
+      "unskilled",
+      "(overly) gamey",
+      "strong-tasting",
+      "smelling of",
+      "looking like",
+      "appearing like",
+      "smacking of",
+      "-ish"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e73cc9df41",
+    "text": "具体",
+    "reading": "ぐたい",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "concrete",
+      "tangible",
+      "material"
+    ],
+    "meaningZh": "具體",
+    "jmdictId": 1245020,
+    "referenceEnglish": [
+      "concreteness",
+      "embodiment"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:08ca0a613f",
+    "text": "苦労",
+    "reading": "くろう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "troubles",
+      "hardships"
+    ],
+    "meaningZh": "1. 辛苦。；2. 操心，担心。",
+    "jmdictId": 1244680,
+    "referenceEnglish": [
+      "trouble",
+      "hardship",
+      "difficulty",
+      "labour",
+      "labor",
+      "toil",
+      "pains",
+      "anxiety",
+      "worry",
+      "concern",
+      "cares"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8fa27fc74c",
+    "text": "高価",
+    "reading": "こうか",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "high price"
+    ],
+    "meaningZh": "高价。",
+    "jmdictId": 1283300,
+    "referenceEnglish": [
+      "highly priced",
+      "expensive",
+      "valuable",
+      "costly"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8d527d10b8",
+    "text": "腰",
+    "reading": "こし",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "hip"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1288340,
+    "referenceEnglish": [
+      "lower back",
+      "waist",
+      "hips",
+      "lumbar region",
+      "body (of hair, noodles, paper, etc.)",
+      "resilience",
+      "spring"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9923ca40cb",
+    "text": "支える",
+    "reading": "ささえる",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be blocked",
+      "to choke",
+      "to be obstructed"
+    ],
+    "meaningZh": "支撐",
+    "jmdictId": 1310090,
+    "referenceEnglish": [
+      "to support",
+      "to prop",
+      "to sustain",
+      "to underlay",
+      "to hold up",
+      "to defend",
+      "to hold at bay",
+      "to stem",
+      "to check"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a12afe6e3d",
+    "text": "出身",
+    "reading": "しゅっしん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "graduate from",
+      "come from"
+    ],
+    "meaningZh": "故鄉，出生地",
+    "jmdictId": 1339260,
+    "referenceEnglish": [
+      "one's origin (e.g. city, country, parentage, school)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3c936d0cf2",
+    "text": "条件",
+    "reading": "じょうけん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "conditions",
+      "terms"
+    ],
+    "meaningZh": "條文，條款",
+    "jmdictId": 1356510,
+    "referenceEnglish": [
+      "condition",
+      "term",
+      "requirement",
+      "qualification",
+      "prerequisite"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:59f54d8eb5",
+    "text": "正直",
+    "reading": "しょうじき",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "honesty",
+      "integrity",
+      "frankness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1377590,
+    "referenceEnglish": [
+      "honest",
+      "frank",
+      "candid",
+      "straightforward",
+      "honestly",
+      "frankly"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c8ba548f8f",
+    "text": "少年",
+    "reading": "しょうねん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "boys",
+      "juveniles"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1349170,
+    "referenceEnglish": [
+      "boy",
+      "juvenile",
+      "child"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:50463fe8e3",
+    "text": "食品",
+    "reading": "しょくひん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "commodity",
+      "foodstuff"
+    ],
+    "meaningZh": "食物",
+    "jmdictId": 1358600,
+    "referenceEnglish": [
+      "food",
+      "food products",
+      "foodstuffs"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:88947a7f87",
+    "text": "書物",
+    "reading": "しょもつ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "books"
+    ],
+    "meaningZh": "書，書籍，圖書",
+    "jmdictId": 1344150,
+    "referenceEnglish": [
+      "book",
+      "volume"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:df0df5a923",
+    "text": "真剣",
+    "reading": "しんけん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "seriousness",
+      "earnestness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1363650,
+    "referenceEnglish": [
+      "serious",
+      "earnest",
+      "real sword (as opposed to a wooden practice weapon)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1e0d006e02",
+    "text": "慎重",
+    "reading": "しんちょう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "discretion",
+      "prudence"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1361110,
+    "referenceEnglish": [
+      "careful",
+      "cautious",
+      "prudent",
+      "discreet",
+      "deliberate"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e957aa6df9",
+    "text": "済ませる",
+    "reading": "すませる",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be finished"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1295040,
+    "referenceEnglish": [
+      "to finish",
+      "to make an end of",
+      "to get through with",
+      "to let end",
+      "to make do (with)",
+      "to manage (with)",
+      "to resolve",
+      "to settle",
+      "to bring to a conclusion"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1e518ce28e",
+    "text": "退屈",
+    "reading": "たいくつ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "tedium",
+      "boredom"
+    ],
+    "meaningZh": "單調、乏味",
+    "jmdictId": 1596750,
+    "referenceEnglish": [
+      "tedious",
+      "boring",
+      "dull",
+      "uninteresting",
+      "tiresome",
+      "monotonous",
+      "to feel bored",
+      "to get bored (with)",
+      "to get tired (of)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c1ec09619d",
+    "text": "互い",
+    "reading": "たがい",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "mutual",
+      "reciprocal"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1268770,
+    "referenceEnglish": [
+      "each other",
+      "one another"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c98a6b2988",
+    "text": "単純",
+    "reading": "たんじゅん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "simplicity"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1417550,
+    "referenceEnglish": [
+      "simple",
+      "plain",
+      "uncomplicated",
+      "straightforward",
+      "simple-minded",
+      "naive"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:27c52f37c2",
+    "text": "適用",
+    "reading": "てきよう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "applying"
+    ],
+    "meaningZh": "适用，应用。",
+    "jmdictId": 1437500,
+    "referenceEnglish": [
+      "application (of a rule, law, method, etc.)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ab3d3e2bd7",
+    "text": "同一",
+    "reading": "どういつ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "identity",
+      "sameness",
+      "similarity"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1451900,
+    "referenceEnglish": [
+      "identical",
+      "same",
+      "one and the same",
+      "equal",
+      "fair",
+      "equal treatment",
+      "without discrimination"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b0fe689407",
+    "text": "突然",
+    "reading": "とつぜん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "abruptly",
+      "suddenly",
+      "unexpectedly",
+      "all at once"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1457040,
+    "referenceEnglish": [
+      "abrupt",
+      "sudden",
+      "unexpected"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:89564cdaf0",
+    "text": "共に",
+    "reading": "ともに",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "sharing with",
+      "participate in"
+    ],
+    "meaningZh": "一同，共同，一起",
+    "jmdictId": 1234260,
+    "referenceEnglish": [
+      "together",
+      "jointly",
+      "at the same time",
+      "with",
+      "as ...",
+      "including",
+      "along with",
+      "both"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c03a75fe96",
+    "text": "熱中",
+    "reading": "ねっちゅう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "nuts!",
+      "enthusiasm",
+      "zeal",
+      "mania"
+    ],
+    "meaningZh": "入迷，著迷",
+    "jmdictId": 1467950,
+    "referenceEnglish": [
+      "being enthusiastic about",
+      "being wild about",
+      "being absorbed in",
+      "being engrossed in",
+      "being devoted to"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8ae84a079b",
+    "text": "能",
+    "reading": "のう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "being skilled in",
+      "nicely",
+      "properly"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1470120,
+    "referenceEnglish": [
+      "talent",
+      "gift",
+      "function",
+      "noh (theatre)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:01d17e5891",
+    "text": "農民",
+    "reading": "のうみん",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "farmers",
+      "peasants"
+    ],
+    "meaningZh": "以農業為職業的人",
+    "jmdictId": 1470770,
+    "referenceEnglish": [
+      "farmer",
+      "peasant"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e512ff0725",
+    "text": "裸",
+    "reading": "はだか",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "naked",
+      "nude"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1547600,
+    "referenceEnglish": [
+      "nakedness",
+      "nudity",
+      "bareness",
+      "nakedness",
+      "baldness",
+      "being uncovered",
+      "being penniless",
+      "concealing nothing",
+      "openness"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:620d3a74b1",
+    "text": "服装",
+    "reading": "ふくそう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "garments"
+    ],
+    "meaningZh": "服裝",
+    "jmdictId": 1500970,
+    "referenceEnglish": [
+      "attire",
+      "dress",
+      "clothes",
+      "clothing",
+      "costume",
+      "garb"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:692f5c5fae",
+    "text": "不思議",
+    "reading": "ふしぎ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "mystery",
+      "curiosity"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1492570,
+    "referenceEnglish": [
+      "wonderful",
+      "marvelous",
+      "strange",
+      "incredible",
+      "amazing",
+      "curious",
+      "miraculous",
+      "mysterious",
+      "strangely enough",
+      "oddly enough",
+      "for some reason",
+      "curiously"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f5a2f8eace",
+    "text": "豊富",
+    "reading": "ほうふ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "abundance",
+      "wealth",
+      "plenty",
+      "bounty"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1518180,
+    "referenceEnglish": [
+      "abundant",
+      "plentiful",
+      "rich",
+      "ample"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:20410e72ff",
+    "text": "ぼんやり",
+    "reading": "ぼんやり",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "absent-minded",
+      "block-head",
+      "dim",
+      "faint",
+      "vague"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1011920,
+    "referenceEnglish": [
+      "dimly",
+      "faintly",
+      "indistinctly",
+      "vaguely",
+      "absentmindedly",
+      "vacantly",
+      "carelessly",
+      "idly",
+      "aimlessly",
+      "absence of mind",
+      "fool",
+      "blockhead",
+      "dunce"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4f949d1f9d",
+    "text": "豆",
+    "reading": "まめ",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "beans",
+      "peas"
+    ],
+    "meaningZh": "豆子",
+    "jmdictId": 1450030,
+    "referenceEnglish": [
+      "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses)",
+      "bean",
+      "pea",
+      "soya bean (Glycine max)",
+      "soybean",
+      "soy",
+      "female genitalia (esp. the clitoris)",
+      "kidney",
+      "small",
+      "miniature",
+      "baby",
+      "midget",
+      "small-scale",
+      "child"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:59d7b934c6",
+    "text": "回り",
+    "reading": "まわり",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "circumference",
+      "surroundings",
+      "circulation"
+    ],
+    "meaningZh": null,
+    "jmdictId": 2800530,
+    "referenceEnglish": [
+      "rotation",
+      "making the rounds",
+      "spreading",
+      "effect",
+      "efficacy",
+      "by way of",
+      "via",
+      "round",
+      "turn",
+      "size",
+      "12-year period",
+      "12-year age difference"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:62682a6308",
+    "text": "ミス",
+    "reading": "ミス",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "miss (mistake, error, failure)",
+      "Miss"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1130650,
+    "referenceEnglish": [
+      "mistake",
+      "error",
+      "blunder"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e866d19dae",
+    "text": "無視",
+    "reading": "むし",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "disregard",
+      "ignore"
+    ],
+    "meaningZh": "藐視，忽視；小看",
+    "jmdictId": 1530020,
+    "referenceEnglish": [
+      "disregarding",
+      "ignoring"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:013c3a92d2",
+    "text": "物音",
+    "reading": "ものおと",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "sounds"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1502420,
+    "referenceEnglish": [
+      "noise",
+      "sound"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8f41bba826",
+    "text": "有効",
+    "reading": "ゆうこう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "validity",
+      "availability",
+      "effectiveness"
+    ],
+    "meaningZh": "有效。",
+    "jmdictId": 1541290,
+    "referenceEnglish": [
+      "valid",
+      "effective",
+      "yuko (judo)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9c2ecc46b9",
+    "text": "優秀",
+    "reading": "ゆうしゅう",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "superiority",
+      "excellence"
+    ],
+    "meaningZh": "优秀。",
+    "jmdictId": 1539230,
+    "referenceEnglish": [
+      "superior",
+      "excellent",
+      "brilliant",
+      "outstanding"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a3e1ac6ec4",
+    "text": "よると",
+    "reading": "よると",
+    "level": "N3",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation",
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "according to"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1168660,
+    "referenceEnglish": [
+      "to be due to",
+      "to be caused by",
+      "to depend on",
+      "to turn on",
+      "to be based on",
+      "to come from",
+      "to be based at (a location, an organization)",
+      "to be headquartered at"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b0fe98d49c",
+    "text": "陸",
+    "reading": "りく",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "six (used in legal documents)"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1550980,
+    "referenceEnglish": [
+      "land",
+      "shore"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:67153e2a31",
+    "text": "連続",
+    "reading": "れんぞく",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "serial",
+      "consecutive",
+      "continuity",
+      "continuing"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1559610,
+    "referenceEnglish": [
+      "continuation",
+      "succession",
+      "series",
+      "sequence",
+      "continuous"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b1861d938a",
+    "text": "わがまま",
+    "reading": "わがまま",
+    "level": "N3",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "selfishness",
+      "egoism",
+      "wilfulness",
+      "disobedience",
+      "whim"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1197020,
+    "referenceEnglish": [
+      "selfish",
+      "egoist",
+      "self-indulgent",
+      "wilful",
+      "willful"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:28ba375980",
+    "text": "一段と",
+    "reading": "いちだんと",
+    "level": "N2",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "greater",
+      "more",
+      "further",
+      "still more"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:a86f29464a",
+    "text": "佚",
+    "reading": "いつ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "be lost",
+      "peace",
+      "hide",
+      "mistake",
+      "beautiful",
+      "in turn"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1585390,
+    "referenceEnglish": [
+      "being comfortable",
+      "relaxing"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3db8531d3b",
+    "text": "いっていらっしゃい",
+    "reading": "いっていらっしゃい",
+    "level": "N2",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "see you later",
+      "take care (said to someone leaving home)"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:1cda943bec",
+    "text": "引力",
+    "reading": "いんりょく",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "gravity"
+    ],
+    "meaningZh": "吸引力，重力",
+    "jmdictId": 1169720,
+    "referenceEnglish": [
+      "attraction (e.g. magnetic, gravitation)",
+      "affinity",
+      "gravitational pull",
+      "attractiveness",
+      "magnetism"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:159326fcca",
+    "text": "うろうろ",
+    "reading": "うろうろ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "loiteringly",
+      "aimless wandering"
+    ],
+    "meaningZh": "晃荡着，漫无目的地",
+    "jmdictId": 1001060,
+    "referenceEnglish": [
+      "restlessly",
+      "aimlessly",
+      "without purpose",
+      "to loiter",
+      "to drift",
+      "to hang about doing nothing",
+      "to wander aimlessly",
+      "to be restless",
+      "to be restless",
+      "to fuss",
+      "to be in a fidget"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:91b50bd069",
+    "text": "おげんきで",
+    "reading": "おげんきで",
+    "level": "N2",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "take care",
+      "stay well (said when parting)"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:321ba5716a",
+    "text": "おまちください",
+    "reading": "おまちください",
+    "level": "N2",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "Please wait a moment"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:9ceaaec557",
+    "text": "学級",
+    "reading": "がっきゅう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "grade in school"
+    ],
+    "meaningZh": "班級",
+    "jmdictId": 1206680,
+    "referenceEnglish": [
+      "(school) class"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ad1e1c4b93",
+    "text": "乾燥",
+    "reading": "かんそう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "dry",
+      "arid",
+      "insipid",
+      "dehydrated"
+    ],
+    "meaningZh": "乾燥，缺乏水分",
+    "jmdictId": 1209920,
+    "referenceEnglish": [
+      "dryness",
+      "aridity",
+      "drying (e.g. clothes)",
+      "dehydration",
+      "desiccation",
+      "insipidity"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:61e0e71518",
+    "text": "関東",
+    "reading": "かんとう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "eastern half of Japan",
+      "including Tokyo"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1216010,
+    "referenceEnglish": [
+      "Kantō (region comprising Tokyo and surrounding prefectures)",
+      "Kantō (eastern half of Japan; during the feudal era)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c306cf0616",
+    "text": "休講",
+    "reading": "きゅうこう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "lecture cancelled"
+    ],
+    "meaningZh": "停止授课，不上课。",
+    "jmdictId": 1227780,
+    "referenceEnglish": [
+      "cancellation (of a lecture, class, etc.)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8c84e62b9c",
+    "text": "強化",
+    "reading": "きょうか",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "strengthen",
+      "intensify",
+      "reinforce",
+      "solidify"
+    ],
+    "meaningZh": "强化，加强，巩固。",
+    "jmdictId": 1236200,
+    "referenceEnglish": [
+      "strengthening",
+      "intensifying",
+      "reinforcement",
+      "enhancement",
+      "solidification",
+      "reinforcement"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ffd3c9c0d7",
+    "text": "斬る",
+    "reading": "きる",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to behead",
+      "to murder"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1304400,
+    "referenceEnglish": [
+      "to kill (a human) using a blade (sword, machete, knife, etc.)",
+      "to slice (off)",
+      "to lop (off)",
+      "to cut (off)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5f2c3ba54c",
+    "text": "工夫",
+    "reading": "くふう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "labourer",
+      "worker"
+    ],
+    "meaningZh": "手段，辦法",
+    "jmdictId": 1278220,
+    "referenceEnglish": [
+      "devising (a way)",
+      "contriving",
+      "inventing",
+      "thinking up",
+      "figuring out",
+      "coming up with",
+      "working out",
+      "device",
+      "design",
+      "idea",
+      "plan",
+      "invention",
+      "dedication to spiritual improvement (esp. through Zen meditation)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f302afd38b",
+    "text": "下品",
+    "reading": "げひん",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "vulgarity",
+      "meanness",
+      "indecency",
+      "coarseness"
+    ],
+    "meaningZh": "下流，卑鄙。",
+    "jmdictId": 1186230,
+    "referenceEnglish": [
+      "vulgar",
+      "indecent",
+      "coarse",
+      "crude"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5a40e5dbe9",
+    "text": "謙虚",
+    "reading": "けんきょ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "modesty",
+      "humility"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1260190,
+    "referenceEnglish": [
+      "modest",
+      "humble"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7aceba5b88",
+    "text": "交差",
+    "reading": "こうさ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "cross"
+    ],
+    "meaningZh": "交叉",
+    "jmdictId": 1271970,
+    "referenceEnglish": [
+      "crossing",
+      "intersection",
+      "(genetic) crossing over"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:44e8eb23ad",
+    "text": "合理",
+    "reading": "ごうり",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "rational"
+    ],
+    "meaningZh": "合乎道理，有道理",
+    "jmdictId": 1285330,
+    "referenceEnglish": [
+      "rationality"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:feb110fb03",
+    "text": "ごぞんじですか",
+    "reading": "ごぞんじですか",
+    "level": "N2",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "do you know? (honorific)"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:a761bdb540",
+    "text": "在学",
+    "reading": "ざいがく",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "(enrolled) in school"
+    ],
+    "meaningZh": "在校學習",
+    "jmdictId": 1296440,
+    "referenceEnglish": [
+      "attending (school, college, etc.)",
+      "being enrolled",
+      "being a student"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2360f93615",
+    "text": "刺身",
+    "reading": "さしみ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "sliced raw fish"
+    ],
+    "meaningZh": "生魚片",
+    "jmdictId": 1306570,
+    "referenceEnglish": [
+      "sashimi (raw sliced fish, shellfish or crustaceans)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d374033b31",
+    "text": "しいんと",
+    "reading": "しいんと",
+    "level": "N2",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation",
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "silent (as the grave)",
+      "(deathly) quiet"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1310740,
+    "referenceEnglish": [
+      "cause of death"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:592126446a",
+    "text": "実感",
+    "reading": "じっかん",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "feelings (actual, true)"
+    ],
+    "meaningZh": "体会，(真)实感。",
+    "jmdictId": 1320920,
+    "referenceEnglish": [
+      "real feeling",
+      "actual feeling",
+      "to actually feel",
+      "to have a real feeling (that ...)",
+      "to experience personally"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ebca1fdaa7",
+    "text": "障子",
+    "reading": "しょうじ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "paper sliding door"
+    ],
+    "meaningZh": "（日本式房屋的）拉门，隔扇",
+    "jmdictId": 1352090,
+    "referenceEnglish": [
+      "shoji (paper sliding door)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:545014d791",
+    "text": "乗車",
+    "reading": "じょうしゃ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "taking a train",
+      "entraining"
+    ],
+    "meaningZh": "1. 乘车，上车。；2. 所乘的车。",
+    "jmdictId": 1355270,
+    "referenceEnglish": [
+      "boarding (a train, bus, etc.)",
+      "getting into (e.g. a taxi)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c99bd9459c",
+    "text": "整備",
+    "reading": "せいび",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "adjustment",
+      "completion",
+      "consolidation"
+    ],
+    "meaningZh": "备齐，保养，维修。",
+    "jmdictId": 1376240,
+    "referenceEnglish": [
+      "maintenance",
+      "servicing",
+      "putting in place",
+      "development",
+      "improvement",
+      "preparation",
+      "provision",
+      "equipping",
+      "outfitting"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6e9b4bc52c",
+    "text": "率直",
+    "reading": "そっちょく",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "frankness",
+      "candour",
+      "openheartedness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1596570,
+    "referenceEnglish": [
+      "frank",
+      "candid",
+      "straightforward",
+      "openhearted",
+      "direct",
+      "outspoken"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:84fe109bdf",
+    "text": "そのほか",
+    "reading": "そのほか",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "otherwise"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1006900,
+    "referenceEnglish": [
+      "the rest",
+      "the others",
+      "in addition (to that)",
+      "besides that",
+      "other than that",
+      "and other ...",
+      "and so forth",
+      "and the like",
+      "and what have you",
+      "et cetera"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:eda767b81b",
+    "text": "タイア",
+    "reading": "タイア",
+    "level": "N2",
+    "reasons": [
+      "uncommon-or-irregular-reading"
+    ],
+    "meaningEn": [
+      "tire",
+      "tyre"
+    ],
+    "meaningZh": "轮胎；车胎",
+    "jmdictId": 1076120,
+    "referenceEnglish": [
+      "tire",
+      "tyre"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:34b4191f3c",
+    "text": "ダム",
+    "reading": "ダム",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "dumb"
+    ],
+    "meaningZh": "堤壩，水壩",
+    "jmdictId": 1077140,
+    "referenceEnglish": [
+      "dam"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e74bba8aa5",
+    "text": "抽象",
+    "reading": "ちゅうしょう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "abstract"
+    ],
+    "meaningZh": "抽象",
+    "jmdictId": 1426190,
+    "referenceEnglish": [
+      "abstraction"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d421260438",
+    "text": "中途",
+    "reading": "ちゅうと",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "in the middle",
+      "half-way"
+    ],
+    "meaningZh": "中途，半途。",
+    "jmdictId": 1425030,
+    "referenceEnglish": [
+      "halfway",
+      "midway",
+      "partway",
+      "mid-course"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:049cebeff8",
+    "text": "務める",
+    "reading": "つとめる",
+    "level": "N2",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "to serve",
+      "to fill a post",
+      "to serve under",
+      "to work (for)"
+    ],
+    "meaningZh": "擔任",
+    "jmdictId": 2872052,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:f52c85beb6",
+    "text": "出来上がり",
+    "reading": "できあがり",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "be finished",
+      "ready",
+      "made for",
+      "cut out"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1340600,
+    "referenceEnglish": [
+      "completion",
+      "finish",
+      "workmanship",
+      "result",
+      "outcome"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b4e3b45b3f",
+    "text": "統計",
+    "reading": "とうけい",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "scattering",
+      "a scatter",
+      "dispersion"
+    ],
+    "meaningZh": "統計",
+    "jmdictId": 1449710,
+    "referenceEnglish": [
+      "statistics"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:88c7c412dd",
+    "text": "登場",
+    "reading": "とうじょう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "entry (on stage)"
+    ],
+    "meaningZh": "1. 上场，登台。；2. 上市。",
+    "jmdictId": 1444800,
+    "referenceEnglish": [
+      "entrance (on the stage)",
+      "appearance (in a book, film, etc.)",
+      "appearance (on the scene)",
+      "arrival (on the market)",
+      "emergence",
+      "introduction",
+      "advent"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bfd161e29b",
+    "text": "透明",
+    "reading": "とうめい",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "transparency",
+      "cleanness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1450590,
+    "referenceEnglish": [
+      "transparent",
+      "clear"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:12db97070d",
+    "text": "斜め",
+    "reading": "ななめ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "obliqueness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1322400,
+    "referenceEnglish": [
+      "slanting",
+      "tilted",
+      "sloping",
+      "diagonal",
+      "oblique",
+      "distorted (feeling)",
+      "slanted (e.g. view of the world)",
+      "bad (mood)",
+      "amiss",
+      "awry"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:37a4d0c9b3",
+    "text": "卑怯",
+    "reading": "ひきょう",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "cowardice",
+      "meanness",
+      "unfairness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1482710,
+    "referenceEnglish": [
+      "cowardly",
+      "craven",
+      "unfair",
+      "mean",
+      "sneaky",
+      "dirty",
+      "dastardly"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f412accc0e",
+    "text": "平気",
+    "reading": "へいき",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "coolness",
+      "calmness",
+      "composure",
+      "unconcern"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1507180,
+    "referenceEnglish": [
+      "cool",
+      "calm",
+      "composed",
+      "unconcerned",
+      "nonchalant",
+      "unmoved",
+      "indifferent",
+      "all right",
+      "fine",
+      "OK",
+      "okay"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a2d96b6d4b",
+    "text": "隔てる",
+    "reading": "へだてる",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be shut out"
+    ],
+    "meaningZh": "1. 隔，隔开。；2. 离间。",
+    "jmdictId": 1206360,
+    "referenceEnglish": [
+      "to separate (by distance, time, etc.)",
+      "to isolate",
+      "to partition",
+      "to divide",
+      "to interpose",
+      "to have between",
+      "to alienate",
+      "to estrange"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d75bb986c5",
+    "text": "別々",
+    "reading": "べつべつ",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "separately",
+      "individually"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1603290,
+    "referenceEnglish": [
+      "separate",
+      "respective",
+      "different"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f28930bb60",
+    "text": "放る",
+    "reading": "ほうる",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to let go"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1516530,
+    "referenceEnglish": [
+      "to throw",
+      "to fling",
+      "to hurl",
+      "to toss",
+      "to neglect",
+      "to abandon",
+      "to leave alone",
+      "to give up on",
+      "to leave undone",
+      "to leave unfinished"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bfe15d1832",
+    "text": "交ぜる",
+    "reading": "まぜる",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be mixed",
+      "to be blended with"
+    ],
+    "meaningZh": "1. 掺和，混入。；2. 搅拌。",
+    "jmdictId": 1290310,
+    "referenceEnglish": [
+      "to mix",
+      "to stir",
+      "to blend"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5cf71aab8a",
+    "text": "まぶた",
+    "reading": "まぶた",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "eyelids"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1569920,
+    "referenceEnglish": [
+      "eyelid"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:251266e6d5",
+    "text": "やたらに",
+    "reading": "やたらに",
+    "level": "N2",
+    "reasons": [
+      "surface-needs-confirmation",
+      "reading-needs-confirmation"
+    ],
+    "meaningEn": [
+      "randomly",
+      "recklessly",
+      "blindly"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1537780,
+    "referenceEnglish": [
+      "indiscriminately",
+      "blindly",
+      "at random",
+      "recklessly",
+      "thoughtlessly",
+      "excessively",
+      "profusely",
+      "indiscriminate",
+      "random",
+      "excessive"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a0b0016c62",
+    "text": "酔っ払い",
+    "reading": "よっぱらい",
+    "level": "N2",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "drunkard"
+    ],
+    "meaningZh": "醉鬼，醉漢",
+    "jmdictId": 1372660,
+    "referenceEnglish": [
+      "drunk person",
+      "(a) drunk",
+      "being drunk",
+      "getting drunk"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:69bb692c2b",
+    "text": "敢えて",
+    "reading": "あえて",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "dare (to do)",
+      "challenge (to do)"
+    ],
+    "meaningZh": "特意，故意，敢於…，硬是…",
+    "jmdictId": 1212850,
+    "referenceEnglish": [
+      "purposely (of something needless, unexpected or seemingly counterproductive, etc.)",
+      "daringly (doing something)",
+      "deliberately",
+      "intentionally",
+      "not necessarily",
+      "not particularly",
+      "not especially",
+      "definitely not"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:61a475aebb",
+    "text": "あられ",
+    "reading": "あられ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "kind of cookie",
+      "cartoon character"
+    ],
+    "meaningZh": "霰",
+    "jmdictId": 1574100,
+    "referenceEnglish": [
+      "hail (esp. hailballs under 5 mm)",
+      "graupel",
+      "dicing",
+      "small cubes",
+      "roasted mochi pieces (usu. flavoured with soy sauce, etc.)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:75012ef36e",
+    "text": "経緯",
+    "reading": "いきさつ",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "details",
+      "whole story",
+      "sequence of events",
+      "particulars",
+      "how it started",
+      "how things got this way"
+    ],
+    "meaningZh": "（事情的）发展，原委，来龙去脉",
+    "jmdictId": 2873066,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:2427a8f4e6",
+    "text": "移行",
+    "reading": "いこう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "switching over to"
+    ],
+    "meaningZh": "1. 過渡，移動，轉變，移交。；2. 進位。",
+    "jmdictId": 1158240,
+    "referenceEnglish": [
+      "transition",
+      "changeover",
+      "switchover",
+      "shift",
+      "transfer (of powers, weight, etc.)",
+      "shift (e.g. of centre of gravity)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:65258065e5",
+    "text": "委託",
+    "reading": "いたく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "consign (goods (for sale) to a firm)",
+      "entrust (person with something)",
+      "commit"
+    ],
+    "meaningZh": "委托，托付。",
+    "jmdictId": 1156160,
+    "referenceEnglish": [
+      "entrusting (something to a person)",
+      "consignment (of goods)",
+      "putting in someone's charge",
+      "trust",
+      "commission"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4f60e61ae2",
+    "text": "一見",
+    "reading": "いちげん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "unfamiliar",
+      "never before met"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1727890,
+    "referenceEnglish": [
+      "first visit to inn, restaurant, etc. without an introduction"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1d578a6738",
+    "text": "一定",
+    "reading": "いちじょう",
+    "level": "N1",
+    "reasons": [
+      "archaic-reading-needs-context"
+    ],
+    "meaningEn": [
+      "fixed",
+      "settled",
+      "definite",
+      "uniform",
+      "regularized",
+      "defined",
+      "standardized",
+      "certain",
+      "prescribed"
+    ],
+    "meaningZh": null,
+    "jmdictId": 2859332,
+    "referenceEnglish": [
+      "veritably",
+      "verily",
+      "to be sure",
+      "certainly",
+      "certain",
+      "inevitable",
+      "definite"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:312c69ed58",
+    "text": "一様",
+    "reading": "いちよう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "uniformity",
+      "evenness",
+      "similarity",
+      "equality",
+      "impartiality"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1167130,
+    "referenceEnglish": [
+      "uniform",
+      "equal",
+      "even",
+      "the same",
+      "identical",
+      "common",
+      "ordinary",
+      "usual"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e190e9818a",
+    "text": "一律",
+    "reading": "いちりつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "evenness",
+      "uniformity",
+      "monotony",
+      "equality"
+    ],
+    "meaningZh": "一律，一样，同样。",
+    "jmdictId": 1167250,
+    "referenceEnglish": [
+      "uniform",
+      "even",
+      "across-the-board",
+      "equal"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1e2cd74d5d",
+    "text": "卯",
+    "reading": "う",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "fourth sign of Chinese zodiac (The Hare, 5am-7am, east, February)"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1576460,
+    "referenceEnglish": [
+      "the Rabbit (fourth sign of the Chinese zodiac)",
+      "the Hare",
+      "hour of the Rabbit (around 6am, 5-7am, or 6-8am)",
+      "east",
+      "second month in the lunar calendar"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4014e54a17",
+    "text": "浮気",
+    "reading": "うわき",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "flighty",
+      "fickle",
+      "wanton",
+      "unfaithful"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1497450,
+    "referenceEnglish": [
+      "extramarital sex",
+      "affair",
+      "fooling around",
+      "infidelity",
+      "wantonness",
+      "unfaithfulness",
+      "inconstancy",
+      "fickleness",
+      "caprice"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5da1033412",
+    "text": "会",
+    "reading": "え",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "understanding"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1198160,
+    "referenceEnglish": [
+      "gathering (esp. Buddhist, festive, etc.)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c21a451e73",
+    "text": "円滑",
+    "reading": "えんかつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "harmony",
+      "smoothness"
+    ],
+    "meaningZh": "圆滑，顺利。",
+    "jmdictId": 1576570,
+    "referenceEnglish": [
+      "smooth",
+      "undisturbed",
+      "uninterrupted",
+      "harmonious"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a24b6a05b0",
+    "text": "円満",
+    "reading": "えんまん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "perfection",
+      "harmony",
+      "peace",
+      "smoothness",
+      "completeness",
+      "satisfaction",
+      "integrity"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1176200,
+    "referenceEnglish": [
+      "harmonious",
+      "peaceful",
+      "happy",
+      "amicable",
+      "smooth",
+      "free from trouble"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e3025feafa",
+    "text": "臆病",
+    "reading": "おくびょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "cowardice",
+      "timidity"
+    ],
+    "meaningZh": "胆怯，胆小",
+    "jmdictId": 1182790,
+    "referenceEnglish": [
+      "cowardly",
+      "timid",
+      "easily frightened"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8fa321af86",
+    "text": "夥しい",
+    "reading": "おびただしい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "abundantly",
+      "innumerably"
+    ],
+    "meaningZh": "非常，严重，剧烈 （尤用负面意）",
+    "jmdictId": 1565840,
+    "referenceEnglish": [
+      "large number",
+      "innumerable",
+      "great many",
+      "immense",
+      "vast",
+      "abundant"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:679dc60eb0",
+    "text": "疎か",
+    "reading": "おろそか",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "neglect",
+      "negligence",
+      "carelessness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1396630,
+    "referenceEnglish": [
+      "negligent",
+      "neglectful",
+      "careless",
+      "remiss"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:cd8e0693bd",
+    "text": "改定",
+    "reading": "かいてい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "reform"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1201040,
+    "referenceEnglish": [
+      "revision (of a rule, price, etc.)",
+      "alteration",
+      "change"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:904529718c",
+    "text": "華奢",
+    "reading": "かしゃ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "luxury",
+      "pomp",
+      "delicate",
+      "slender",
+      "gorgeous"
+    ],
+    "meaningZh": "豪華奢侈",
+    "jmdictId": 2764440,
+    "referenceEnglish": [
+      "lavish",
+      "luxurious",
+      "showy",
+      "gaudy"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ed378b5868",
+    "text": "兼ねて",
+    "reading": "かねて",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "simultaneously"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1542850,
+    "referenceEnglish": [
+      "previously",
+      "already",
+      "for some time",
+      "for quite a while"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b84686d05e",
+    "text": "過密",
+    "reading": "かみつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "crowded"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1196460,
+    "referenceEnglish": [
+      "overcrowding",
+      "congestion",
+      "overpopulation",
+      "crammed (schedule)",
+      "congested",
+      "busy",
+      "tight"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b6d0a7d9d0",
+    "text": "絡む",
+    "reading": "からむ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to entangle",
+      "to entwine"
+    ],
+    "meaningZh": "1. 缠绕，绊。；2. 纠缠。",
+    "jmdictId": 1548520,
+    "referenceEnglish": [
+      "to twine",
+      "to get tangled",
+      "to get entangled",
+      "to get caught (in)",
+      "to be involved (e.g. of money in a matter)",
+      "to get involved (in)",
+      "to be a factor (in)",
+      "to have an influence",
+      "to pick a quarrel (with)",
+      "to find fault (with)",
+      "to pester",
+      "to hassle"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8d1c155181",
+    "text": "簡易",
+    "reading": "かんい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "simplicity",
+      "easiness",
+      "quasi-"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1214270,
+    "referenceEnglish": [
+      "simple",
+      "simplified",
+      "easy",
+      "plain"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:32936b686e",
+    "text": "簡潔",
+    "reading": "かんけつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "brevity",
+      "conciseness",
+      "simplicity"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1214290,
+    "referenceEnglish": [
+      "concise",
+      "brief",
+      "succinct",
+      "compact (style)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3a51656702",
+    "text": "頑固",
+    "reading": "がんこ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "stubbornness",
+      "obstinacy"
+    ],
+    "meaningZh": "1. 固执，顽固。",
+    "jmdictId": 1217680,
+    "referenceEnglish": [
+      "stubborn",
+      "obstinate",
+      "pigheaded"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:337e74cd80",
+    "text": "カンニング",
+    "reading": "カンニング",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "cunning",
+      "cheat"
+    ],
+    "meaningZh": "考試作弊",
+    "jmdictId": 1039490,
+    "referenceEnglish": [
+      "cheating (on an examination)",
+      "cribbing"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7ab6d50625",
+    "text": "気障",
+    "reading": "きざ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "affectation",
+      "conceit",
+      "snobbery"
+    ],
+    "meaningZh": "服饰、动作等 令人讨厌。",
+    "jmdictId": 1222310,
+    "referenceEnglish": [
+      "affected",
+      "smug",
+      "pompous",
+      "conceited",
+      "snobby",
+      "pretentious"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b0868ed2cd",
+    "text": "記述",
+    "reading": "きじゅつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "describing",
+      "descriptor"
+    ],
+    "meaningZh": "描述，描寫",
+    "jmdictId": 1223280,
+    "referenceEnglish": [
+      "description",
+      "account"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:91fdffaf48",
+    "text": "貴族",
+    "reading": "きぞく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "noble",
+      "aristocrat"
+    ],
+    "meaningZh": "貴族",
+    "jmdictId": 1223550,
+    "referenceEnglish": [
+      "nobility",
+      "aristocracy",
+      "peerage"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9d306d1477",
+    "text": "生真面目",
+    "reading": "きまじめ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "too serious",
+      "person who is too serious",
+      "honesty",
+      "sincerity"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1379150,
+    "referenceEnglish": [
+      "overserious",
+      "deeply sincere",
+      "very earnest"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f5a08cfe03",
+    "text": "郷里",
+    "reading": "きょうり",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "birth-place",
+      "home town"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1238540,
+    "referenceEnglish": [
+      "hometown",
+      "birthplace"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c7c6864d64",
+    "text": "勤勉",
+    "reading": "きんべん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "industry",
+      "diligence"
+    ],
+    "meaningZh": "勤奋，勤勉。",
+    "jmdictId": 1241060,
+    "referenceEnglish": [
+      "diligent",
+      "hard-working",
+      "industrious"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d447b34a14",
+    "text": "掲載",
+    "reading": "けいさい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "appearance (e.g. article in paper)"
+    ],
+    "meaningZh": "登载，刊登。",
+    "jmdictId": 1250610,
+    "referenceEnglish": [
+      "publication (e.g. of an article in a newspaper)",
+      "carrying (e.g. a story)",
+      "running (e.g. a serial)",
+      "insertion (e.g. of an advertisement)",
+      "printing",
+      "posting (e.g. on the web)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d777353b7e",
+    "text": "傑",
+    "reading": "けつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "excellence"
+    ],
+    "meaningZh": null,
+    "jmdictId": 2836694,
+    "referenceEnglish": [
+      "the top (e.g. top ten)",
+      "the best"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:578447ed67",
+    "text": "乾",
+    "reading": "けん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "heaven",
+      "emperor"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1577540,
+    "referenceEnglish": [
+      "qian (one of the trigrams of the I Ching: heaven, northwest)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2daaf50b4d",
+    "text": "現像",
+    "reading": "げんぞう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "developing (film)"
+    ],
+    "meaningZh": "〈摄〉显影。",
+    "jmdictId": 1263800,
+    "referenceEnglish": [
+      "development (of film)",
+      "photographic processing"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b55001be10",
+    "text": "減点",
+    "reading": "げんてん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "subtract",
+      "give a demerit"
+    ],
+    "meaningZh": "扣分。",
+    "jmdictId": 1263290,
+    "referenceEnglish": [
+      "subtracting points",
+      "deducting points",
+      "points deducted"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b8978362b1",
+    "text": "賢明",
+    "reading": "けんめい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "wisdom",
+      "intelligence",
+      "prudence"
+    ],
+    "meaningZh": "贤明，高明。",
+    "jmdictId": 1260320,
+    "referenceEnglish": [
+      "wise",
+      "sensible",
+      "well-advised",
+      "intelligent",
+      "sagacious",
+      "prudent"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a017bb3c0c",
+    "text": "御",
+    "reading": "ご",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "go-",
+      "honourable"
+    ],
+    "meaningZh": "敬語前綴",
+    "jmdictId": 1270190,
+    "referenceEnglish": [
+      "honorific/polite/humble prefix",
+      "honorific suffix"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:24113c7b64",
+    "text": "煌々と",
+    "reading": "こうこうと",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "brilliantly",
+      "brightly"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:c63f69eadd",
+    "text": "購読",
+    "reading": "こうどく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "subscription (e.g. magazine)"
+    ],
+    "meaningZh": "訂閱",
+    "jmdictId": 1282420,
+    "referenceEnglish": [
+      "buying and reading (book, magazine, etc.)",
+      "subscribing (incl. free subscriptions)",
+      "taking (e.g. newspaper)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6b5d95aa03",
+    "text": "交付",
+    "reading": "こうふ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "delivering",
+      "furnishing (with copies)"
+    ],
+    "meaningZh": "送交",
+    "jmdictId": 1272520,
+    "referenceEnglish": [
+      "delivery",
+      "issuance",
+      "handing over",
+      "granting"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e68dcc56e0",
+    "text": "小柄",
+    "reading": "こがら",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "short (build)"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1348770,
+    "referenceEnglish": [
+      "small build",
+      "small stature",
+      "petite",
+      "small pattern"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:26bcaec009",
+    "text": "事によると",
+    "reading": "ことによると",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "depending on the circumstances"
+    ],
+    "meaningZh": null,
+    "jmdictId": 2773660,
+    "referenceEnglish": [
+      "possibly",
+      "maybe",
+      "perhaps"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d3a2b00ef3",
+    "text": "細やか",
+    "reading": "こまやか",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "friendly"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1295550,
+    "referenceEnglish": [
+      "tender",
+      "warm",
+      "caring",
+      "thoughtful",
+      "meticulous",
+      "detailed",
+      "attentive",
+      "deep (of a colour)",
+      "thick (e.g. fog)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:896f36ec1e",
+    "text": "指図",
+    "reading": "さしず",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "instruction",
+      "mandate"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1309850,
+    "referenceEnglish": [
+      "directions",
+      "instructions",
+      "orders",
+      "command"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fc4763325c",
+    "text": "然も",
+    "reading": "さも",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "with gusto",
+      "with satisfaction"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1394700,
+    "referenceEnglish": [
+      "really (seem, appear, etc.)",
+      "truly",
+      "evidently",
+      "in that way"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f5d9fdc3f4",
+    "text": "残酷",
+    "reading": "ざんこく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "cruelty",
+      "harshness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1304600,
+    "referenceEnglish": [
+      "cruel",
+      "brutal",
+      "ruthless",
+      "merciless",
+      "inhuman"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:0730229418",
+    "text": "産出",
+    "reading": "さんしゅつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "yield",
+      "produce"
+    ],
+    "meaningZh": "生產，出產",
+    "jmdictId": 1303810,
+    "referenceEnglish": [
+      "production",
+      "output",
+      "turning out",
+      "extraction (e.g. of minerals)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:299764879b",
+    "text": "しきたり",
+    "reading": "しきたり",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "customs"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1594160,
+    "referenceEnglish": [
+      "custom",
+      "convention",
+      "tradition",
+      "mores",
+      "conventional practice"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4b1e1efe84",
+    "text": "質素",
+    "reading": "しっそ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "simplicity",
+      "modesty",
+      "frugality"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1320710,
+    "referenceEnglish": [
+      "simple",
+      "plain",
+      "modest",
+      "frugal",
+      "reserved"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:49b24ec6dc",
+    "text": "実態",
+    "reading": "じったい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "truth",
+      "fact"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1321360,
+    "referenceEnglish": [
+      "true state",
+      "actual condition",
+      "reality"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:192cd7a066",
+    "text": "嫋か",
+    "reading": "しなやか",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "supple",
+      "flexible",
+      "elastic"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:ddff5ba694",
+    "text": "修士",
+    "reading": "しゅうし",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "Masters degree program"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1332020,
+    "referenceEnglish": [
+      "master's (degree)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:62919df179",
+    "text": "出社",
+    "reading": "しゅっしゃ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "arrival (in a country, at work, etc.)"
+    ],
+    "meaningZh": "到公司 上班。",
+    "jmdictId": 1339150,
+    "referenceEnglish": [
+      "going to work (e.g. in the morning)",
+      "coming to work"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bb5c203cbf",
+    "text": "樹立",
+    "reading": "じゅりつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "establish",
+      "create"
+    ],
+    "meaningZh": "建立，創建",
+    "jmdictId": 1330410,
+    "referenceEnglish": [
+      "establishment",
+      "founding",
+      "setting (a record)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:c261df67ce",
+    "text": "徐々",
+    "reading": "じょじょ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "gradually",
+      "steadily",
+      "quietly",
+      "slowly",
+      "soon"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1345600,
+    "referenceEnglish": [
+      "slow",
+      "gradual",
+      "steady",
+      "calm",
+      "composed",
+      "relaxed"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:159906d23f",
+    "text": "皺",
+    "reading": "しわ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "wrinkles",
+      "creases"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1569740,
+    "referenceEnglish": [
+      "wrinkle",
+      "crease",
+      "ripple"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a55ef652d7",
+    "text": "人材",
+    "reading": "じんざい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "man of talent"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1367760,
+    "referenceEnglish": [
+      "capable person",
+      "talented person",
+      "human resources",
+      "personnel"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8598ddba78",
+    "text": "心情",
+    "reading": "しんじょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "mentality"
+    ],
+    "meaningZh": "心情。",
+    "jmdictId": 1360720,
+    "referenceEnglish": [
+      "sentiment",
+      "emotions",
+      "one's feelings",
+      "one's heart"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5c66cff518",
+    "text": "擦れ違い",
+    "reading": "すれちがい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "chance encounter"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1298930,
+    "referenceEnglish": [
+      "passing each other",
+      "missing (meeting) each other",
+      "failing to meet",
+      "(being at) cross purposes",
+      "discrepancy",
+      "disagreement"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:339518d459",
+    "text": "切開",
+    "reading": "せっかい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "clearing (land)",
+      "opening up",
+      "cutting through"
+    ],
+    "meaningZh": "切开。",
+    "jmdictId": 1384980,
+    "referenceEnglish": [
+      "incision",
+      "operation",
+      "section"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bf875a6a76",
+    "text": "善良",
+    "reading": "ぜんりょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "goodness",
+      "excellence",
+      "virtue"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1394560,
+    "referenceEnglish": [
+      "good (person, nature, etc.)",
+      "good-natured",
+      "virtuous",
+      "honest"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d5031a76b9",
+    "text": "相応",
+    "reading": "そうおう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "suitability",
+      "fitness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1400840,
+    "referenceEnglish": [
+      "suitable",
+      "appropriate",
+      "befitting",
+      "becoming",
+      "adequate",
+      "reasonable",
+      "proper",
+      "conjoining",
+      "association",
+      "samprayukta"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:17426e635b",
+    "text": "素朴",
+    "reading": "そぼく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "simplicity",
+      "artlessness",
+      "naivete"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1397390,
+    "referenceEnglish": [
+      "simple",
+      "artless",
+      "naive",
+      "unsophisticated"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4d13045508",
+    "text": "染まる",
+    "reading": "そまる",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to dye"
+    ],
+    "meaningZh": "染色，染成。",
+    "jmdictId": 1391100,
+    "referenceEnglish": [
+      "to be dyed",
+      "to be tainted",
+      "to be infected",
+      "to be stained",
+      "to be steeped"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b2fea90627",
+    "text": "其れ共",
+    "reading": "それとも",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "or",
+      "or else"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:822df1580e",
+    "text": "対処",
+    "reading": "たいしょ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "deal with",
+      "cope"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1410070,
+    "referenceEnglish": [
+      "dealing with",
+      "coping with"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6fab55f8fd",
+    "text": "対等",
+    "reading": "たいとう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "equivalent"
+    ],
+    "meaningZh": "对等，平等。",
+    "jmdictId": 1410250,
+    "referenceEnglish": [
+      "equality (esp. of status)",
+      "equal footing",
+      "equal terms"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8ee5c7c8db",
+    "text": "立方",
+    "reading": "たちかた",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "dancing (geisha)"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1551810,
+    "referenceEnglish": [
+      "way of standing",
+      "dancer (in a Japanese dance performance)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8ddba4675b",
+    "text": "給う",
+    "reading": "たまう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to receive",
+      "to grant"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1230220,
+    "referenceEnglish": [
+      "to give",
+      "to do ..."
+    ]
+  },
+  {
+    "id": "lex:openjlpt:b70211c5e0",
+    "text": "多様",
+    "reading": "たよう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "diversity",
+      "variety"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1408100,
+    "referenceEnglish": [
+      "diverse",
+      "various"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f31c4cf8e7",
+    "text": "着手",
+    "reading": "ちゃくしゅ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "embarkation",
+      "launch"
+    ],
+    "meaningZh": "着手。",
+    "jmdictId": 1423060,
+    "referenceEnglish": [
+      "starting work (on)",
+      "setting to work (on)",
+      "setting about (doing)",
+      "beginning",
+      "commencing",
+      "embarking on",
+      "commencing (a crime)",
+      "playing (a move)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:05dfa1ae82",
+    "text": "忠実",
+    "reading": "ちゅうじつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "fidelity",
+      "faithfulness"
+    ],
+    "meaningZh": "忠实，诚实。",
+    "jmdictId": 1012210,
+    "referenceEnglish": [
+      "faithful",
+      "devoted",
+      "loyal",
+      "honest",
+      "true"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:8814988b80",
+    "text": "中腹",
+    "reading": "ちゅうっぱら",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "irritated",
+      "offended"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:200363d3b2",
+    "text": "中和",
+    "reading": "ちゅうわ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "neutralize",
+      "counteract"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1425670,
+    "referenceEnglish": [
+      "neutralization",
+      "neutralisation",
+      "neutralization (e.g. of a poison)",
+      "counteraction"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1a43d6fb73",
+    "text": "腸",
+    "reading": "ちょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "guts",
+      "bowels",
+      "intestines"
+    ],
+    "meaningZh": "腸子；腸胃",
+    "jmdictId": 1428960,
+    "referenceEnglish": [
+      "intestine",
+      "bowel"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:553d0c1010",
+    "text": "追及",
+    "reading": "ついきゅう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "gaining on",
+      "carrying out",
+      "solving (crime)"
+    ],
+    "meaningZh": "1. 追上，追赶。；2. 追究。",
+    "jmdictId": 1432480,
+    "referenceEnglish": [
+      "investigation (e.g. into someone's guilt)",
+      "questioning",
+      "pressing",
+      "hounding",
+      "pinning down",
+      "catching up",
+      "overtaking"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:286333828b",
+    "text": "墜落",
+    "reading": "ついらく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "falling",
+      "crashing"
+    ],
+    "meaningZh": "坠落，掉下。",
+    "jmdictId": 1432240,
+    "referenceEnglish": [
+      "fall",
+      "crash (of an aircraft)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f7acf9c5b4",
+    "text": "努めて",
+    "reading": "つとめて",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "make an effort!",
+      "work hard!"
+    ],
+    "meaningZh": "尽量，尽可能。",
+    "jmdictId": 1445110,
+    "referenceEnglish": [
+      "as much as possible",
+      "as far as possible",
+      "to the best of one's ability",
+      "diligently"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:3d2ff7e701",
+    "text": "適宜",
+    "reading": "てきぎ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "suitability"
+    ],
+    "meaningZh": "1. 适宜，合适。",
+    "jmdictId": 1437380,
+    "referenceEnglish": [
+      "suitable",
+      "appropriate",
+      "fitting",
+      "proper",
+      "appropriately",
+      "accordingly",
+      "as required",
+      "at one's discretion"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e1ea2bb61d",
+    "text": "出直し",
+    "reading": "でなおし",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "adjustment",
+      "touch up"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1339740,
+    "referenceEnglish": [
+      "starting from scratch",
+      "making a fresh start",
+      "redoing",
+      "calling again",
+      "visiting again"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:10919d474c",
+    "text": "転換",
+    "reading": "てんかん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "convert",
+      "divert"
+    ],
+    "meaningZh": "改變，變換，轉換",
+    "jmdictId": 1441080,
+    "referenceEnglish": [
+      "conversion",
+      "diversion",
+      "changeover",
+      "commutation",
+      "switchover"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:02783d9713",
+    "text": "丁々",
+    "reading": "とうとう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "clashing of swords",
+      "felling of trees",
+      "ringing of an ax"
+    ],
+    "meaningZh": null,
+    "jmdictId": 2857308,
+    "referenceEnglish": [
+      "with a chopping sound (of an axe)",
+      "with a thump (when hammering a post into the ground)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:13a335defb",
+    "text": "同封",
+    "reading": "どうふう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "enclosure (e.g. in a letter)"
+    ],
+    "meaningZh": "附在信里。",
+    "jmdictId": 1453340,
+    "referenceEnglish": [
+      "enclosing (e.g. with a letter)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:9ed26e130c",
+    "text": "土俵",
+    "reading": "どひょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "arena"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1445550,
+    "referenceEnglish": [
+      "(wrestling) ring",
+      "forum (e.g. for discussion)",
+      "sandbag",
+      "gabion"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:4ec7fe1166",
+    "text": "何々",
+    "reading": "どれどれ",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "which (emphatic)"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:ff9d085860",
+    "text": "鈍感",
+    "reading": "どんかん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "thickheadedness",
+      "stolidity"
+    ],
+    "meaningZh": "不敏感，迟钝。",
+    "jmdictId": 1457600,
+    "referenceEnglish": [
+      "thickheaded",
+      "insensitive",
+      "dull",
+      "thick-skinned"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:26e6475d25",
+    "text": "滑らか",
+    "reading": "なめらか",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "smoothness",
+      "glassiness"
+    ],
+    "meaningZh": "1. 滑溜，光滑。",
+    "jmdictId": 1208560,
+    "referenceEnglish": [
+      "smooth (of a surface)",
+      "glassy",
+      "velvety",
+      "soft",
+      "smooth (of an action, proceedings, etc.)",
+      "fluent (speech)",
+      "fluid",
+      "trouble-free",
+      "continuously differentiable"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:a8b71cab9b",
+    "text": "捻じれる",
+    "reading": "ねじれる",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to twist",
+      "to wrench",
+      "to screw"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1600150,
+    "referenceEnglish": [
+      "to get twisted",
+      "to get crooked",
+      "to get warped",
+      "to become twisted (of a mind, relationship, etc.)",
+      "to become warped",
+      "to become perverse",
+      "to become contrary",
+      "to become troubled",
+      "to become complicated",
+      "to become strained"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:64e8f7eda0",
+    "text": "熱量",
+    "reading": "ねつりょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "temperature"
+    ],
+    "meaningZh": "熱量",
+    "jmdictId": 1468010,
+    "referenceEnglish": [
+      "quantity of heat (e.g. in calories, BTU, etc.)",
+      "heat value",
+      "calorific value",
+      "(degree of) enthusiasm",
+      "zeal",
+      "passion"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:48a804961e",
+    "text": "根回し",
+    "reading": "ねまわし",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "making necessary arrangements"
+    ],
+    "meaningZh": "1. (为使移植的树木成活)剪掉须根。；2. (为了达到某种目的)事先说好。",
+    "jmdictId": 1290090,
+    "referenceEnglish": [
+      "laying the groundwork",
+      "behind-the-scenes maneuvering",
+      "consensus-building process",
+      "digging around the roots of a tree (before transplanting)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:6a7773d61c",
+    "text": "年長",
+    "reading": "ねんちょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "seniority"
+    ],
+    "meaningZh": "年歲大，年長。",
+    "jmdictId": 1469030,
+    "referenceEnglish": [
+      "senior",
+      "older",
+      "third-year kindergarten student"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:58a5941703",
+    "text": "馬鹿馬鹿しい",
+    "reading": "ばかばかしい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "stupid"
+    ],
+    "meaningZh": "十分愚蠢的",
+    "jmdictId": 1471740,
+    "referenceEnglish": [
+      "absurd",
+      "ridiculous",
+      "silly",
+      "ludicrous",
+      "nonsensical",
+      "asinine",
+      "foolish"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7444ba3ed5",
+    "text": "発芽",
+    "reading": "はつが",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "burgeoning"
+    ],
+    "meaningZh": "发芽",
+    "jmdictId": 1477190,
+    "referenceEnglish": [
+      "germination",
+      "sprouting",
+      "budding"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:52a27aec4f",
+    "text": "発病",
+    "reading": "はつびょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "attack (disease)"
+    ],
+    "meaningZh": "發病，生病",
+    "jmdictId": 1477870,
+    "referenceEnglish": [
+      "onset of an illness",
+      "falling ill"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:85bfcd7326",
+    "text": "反発",
+    "reading": "はんぱつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "repelling",
+      "rebound",
+      "recover",
+      "oppose"
+    ],
+    "meaningZh": "1. 反弹。",
+    "jmdictId": 1480890,
+    "referenceEnglish": [
+      "opposition",
+      "rebellion",
+      "revolt",
+      "resistance",
+      "backlash",
+      "refusal",
+      "rebounding",
+      "recoiling",
+      "repulsion",
+      "rally (e.g. in stock prices)",
+      "recovery"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:21d892acef",
+    "text": "番目",
+    "reading": "ばんめ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "cardinal number suffix"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1482410,
+    "referenceEnglish": [
+      "the nth ...",
+      "divisions of a kabuki performance"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:eb729b5f01",
+    "text": "悲惨",
+    "reading": "ひさん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "misery"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1483290,
+    "referenceEnglish": [
+      "disastrous",
+      "tragic",
+      "miserable",
+      "wretched",
+      "pitiful",
+      "woeful",
+      "outrageous"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:096c8b698e",
+    "text": "未",
+    "reading": "ひつじ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "eighth sign of Chinese zodiac (The Ram, 1pm-3pm, south-southwest, June)"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1527090,
+    "referenceEnglish": [
+      "the Sheep (eighth sign of the Chinese zodiac)",
+      "the Ram",
+      "the Goat",
+      "hour of the Sheep (around 2pm, 1-3pm, or 2-4pm)",
+      "south-southwest",
+      "sixth month of the lunar calendar"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:d8165931bc",
+    "text": "頻繁",
+    "reading": "ひんぱん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "frequency"
+    ],
+    "meaningZh": "頻繁的，次數多的",
+    "jmdictId": 1491050,
+    "referenceEnglish": [
+      "frequent",
+      "incessant"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ddc46fb610",
+    "text": "不順",
+    "reading": "ふじゅん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "irregularity",
+      "unseasonableness"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1492810,
+    "referenceEnglish": [
+      "irregular",
+      "unseasonable",
+      "changeable",
+      "unsettled",
+      "abnormal"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7911dfc293",
+    "text": "仏",
+    "reading": "ふつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "French"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1501740,
+    "referenceEnglish": [
+      "France"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:55f4daa66e",
+    "text": "無難",
+    "reading": "ぶなん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "safety",
+      "security"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1530750,
+    "referenceEnglish": [
+      "safe (e.g. choice)",
+      "secure",
+      "innocuous",
+      "inoffensive",
+      "acceptable",
+      "passable",
+      "satisfactory",
+      "adequate",
+      "faultless",
+      "without flaw"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:2e2b2bb861",
+    "text": "不憫",
+    "reading": "ふびん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "pity",
+      "compassion"
+    ],
+    "meaningZh": "可憐",
+    "jmdictId": 1602810,
+    "referenceEnglish": [
+      "poor",
+      "pitiful",
+      "piteous",
+      "pitiable"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f6810ec488",
+    "text": "普遍",
+    "reading": "ふへん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "universality",
+      "ubiquity",
+      "omnipresence"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1602820,
+    "referenceEnglish": [
+      "universal",
+      "general",
+      "ubiquitous",
+      "omnipresent"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ad9000928d",
+    "text": "震わせる",
+    "reading": "ふるわせる",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be shaking",
+      "to be trembling"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1366330,
+    "referenceEnglish": [
+      "to (make something) quiver",
+      "to shake",
+      "to tremble",
+      "to vibrate"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5f87b1f4e5",
+    "text": "無礼",
+    "reading": "ぶれい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "impolite",
+      "rude"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1531060,
+    "referenceEnglish": [
+      "rudeness",
+      "impoliteness",
+      "discourtesy",
+      "insolence"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f832961b4a",
+    "text": "紛失",
+    "reading": "ふんしつ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "losing something"
+    ],
+    "meaningZh": "丢失，遗夫。",
+    "jmdictId": 1505050,
+    "referenceEnglish": [
+      "loss",
+      "going missing"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:be2f217a46",
+    "text": "閉口",
+    "reading": "へいこう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "shut mouth"
+    ],
+    "meaningZh": "1. 闭口，闭口无言。；2. 为难，无法应对。；3. 折服，认输。",
+    "jmdictId": 1508660,
+    "referenceEnglish": [
+      "to be stumped",
+      "to be at a loss",
+      "to be at one's wits' end",
+      "to be nonplussed",
+      "to be fed up",
+      "to be tired (of)",
+      "to be unable to bear",
+      "to be annoyed"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:507250c924",
+    "text": "ベストセラー",
+    "reading": "ベストセラー",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "best-seller"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1119560,
+    "referenceEnglish": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:817825c9b9",
+    "text": "封建",
+    "reading": "ほうけん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "feudalistic"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1499620,
+    "referenceEnglish": [
+      "feudalism"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:1e8904b5b7",
+    "text": "保守",
+    "reading": "ほしゅ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "conservative",
+      "maintaining"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1513750,
+    "referenceEnglish": [
+      "maintenance",
+      "conservatism",
+      "conservativeness",
+      "conservation"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f907fc3a9b",
+    "text": "没収",
+    "reading": "ぼっしゅう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "forfeited"
+    ],
+    "meaningZh": "充公，徵收",
+    "jmdictId": 1521990,
+    "referenceEnglish": [
+      "seizure",
+      "confiscation",
+      "impounding",
+      "sequestration",
+      "forfeiture"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:633a98a624",
+    "text": "ほっと",
+    "reading": "ほっと",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "feel relieved"
+    ],
+    "meaningZh": "叹气",
+    "jmdictId": 1011660,
+    "referenceEnglish": [
+      "with a feeling of relief",
+      "with a sigh of relief",
+      "deeply (sigh)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:e482d02cda",
+    "text": "本格",
+    "reading": "ほんかく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "propriety",
+      "fundamental rules"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1522310,
+    "referenceEnglish": [
+      "original method",
+      "original procedure",
+      "genuine way (of doing something)"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:5e72c71c76",
+    "text": "埋蔵",
+    "reading": "まいぞう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "buried property",
+      "treasure trove"
+    ],
+    "meaningZh": "埋藏",
+    "jmdictId": 1524560,
+    "referenceEnglish": [
+      "burying in the ground",
+      "having underground deposits"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:12610e01b7",
+    "text": "待ち遠しい",
+    "reading": "まちどおしい",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "looking forward to"
+    ],
+    "meaningZh": "久盼，要等很久，眼巴巴地盼着。",
+    "jmdictId": 1410480,
+    "referenceEnglish": [
+      "longed-for",
+      "anxiously awaited"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:fa2a840942",
+    "text": "まとめ",
+    "reading": "まとめ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "settlement",
+      "conclusion"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1440920,
+    "referenceEnglish": [
+      "summary",
+      "recapitulation",
+      "aggregation"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:cfaa0c9c42",
+    "text": "導く",
+    "reading": "みちびく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "to be guided",
+      "to be shown"
+    ],
+    "meaningZh": "引導，指導，教導",
+    "jmdictId": 1453680,
+    "referenceEnglish": [
+      "to guide",
+      "to lead",
+      "to show the way",
+      "to conduct",
+      "to derive",
+      "to deduce"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:edaccd91e0",
+    "text": "無口",
+    "reading": "むくち",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "reticence"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1529940,
+    "referenceEnglish": [
+      "taciturn",
+      "reticent",
+      "quiet",
+      "silent",
+      "untalkative"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:7f1212c5b6",
+    "text": "明瞭",
+    "reading": "めいりょう",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "clarity"
+    ],
+    "meaningZh": "明了",
+    "jmdictId": 1532620,
+    "referenceEnglish": [
+      "clear",
+      "plain",
+      "distinct",
+      "obvious",
+      "evident",
+      "articulate"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:f3d5f7044e",
+    "text": "問",
+    "reading": "もん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "problem",
+      "question"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1634040,
+    "referenceEnglish": [
+      "counter for questions"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bd3e76856f",
+    "text": "矢鱈に",
+    "reading": "やたらに",
+    "level": "N1",
+    "reasons": [
+      "no-reference-entry"
+    ],
+    "meaningEn": [
+      "randomly",
+      "recklessly",
+      "blindly"
+    ],
+    "meaningZh": null,
+    "jmdictId": null,
+    "referenceEnglish": []
+  },
+  {
+    "id": "lex:openjlpt:9bfec07e36",
+    "text": "勇敢",
+    "reading": "ゆうかん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "bravery",
+      "heroism",
+      "gallantry"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1539730,
+    "referenceEnglish": [
+      "brave",
+      "courageous",
+      "gallant",
+      "valiant",
+      "heroic"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:ce08ad9623",
+    "text": "有力",
+    "reading": "ゆうりょく",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "influence",
+      "prominence",
+      "potent"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1541710,
+    "referenceEnglish": [
+      "influential",
+      "prominent",
+      "leading",
+      "strong",
+      "powerful",
+      "likely",
+      "plausible",
+      "promising",
+      "convincing",
+      "substantial"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:bbecf30aea",
+    "text": "類似",
+    "reading": "るいじ",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "analogous"
+    ],
+    "meaningZh": "类似，相似。",
+    "jmdictId": 1556100,
+    "referenceEnglish": [
+      "resemblance",
+      "similarity",
+      "likeness",
+      "analogy"
+    ]
+  },
+  {
+    "id": "lex:openjlpt:47aa9c6d11",
+    "text": "冷淡",
+    "reading": "れいたん",
+    "level": "N1",
+    "reasons": [
+      "english-meaning-no-reference-overlap"
+    ],
+    "meaningEn": [
+      "coolness",
+      "indifference"
+    ],
+    "meaningZh": null,
+    "jmdictId": 1557150,
+    "referenceEnglish": [
+      "cool",
+      "indifferent",
+      "apathetic",
+      "half-hearted",
+      "cold",
+      "cold-hearted",
+      "heartless",
+      "unkind"
+    ]
+  }
+]

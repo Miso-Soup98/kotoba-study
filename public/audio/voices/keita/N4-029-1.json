@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-029",
+  "exampleIndex": 0,
+  "text": "音楽を聞きながら、料理をします。",
+  "speechText": "音楽を聞きながら、料理をします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 69,
+  "signature": "7383dedf51f0576cbfc9461822d2ae12861c44f8346602b596e341b94f31a6b5",
+  "src": "/audio/voices/keita/N4-029-1.mp3",
+  "srt": "/audio/voices/keita/N4-029-1.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "ee679889bfab2975aaf3030745a7f7a3667f1f72926f42a1828d6965401fda2b",
+  "peakPcm": 24604,
+  "rmsDbfs": -20.26,
+  "rate": "+0%",
+  "listened": false
+}

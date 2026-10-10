@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-060",
+  "exampleIndex": 1,
+  "text": "遅れる場合は、電話してください。",
+  "speechText": "遅れる場合は、電話してください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 84,
+  "signature": "153fbf4c2b5e734cf13887aa7a6896eb21520cc1788ad66293c43d60ae108b48",
+  "src": "/audio/voices/nanami/N4-060-2.mp3",
+  "srt": "/audio/voices/nanami/N4-060-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "a37ca9229c5b66427bbb32616cccd82fbd7fec2b2e76e6d6216fcac1873a8375",
+  "peakPcm": 22311,
+  "rmsDbfs": -17.42,
+  "rate": "+0%",
+  "listened": false
+}

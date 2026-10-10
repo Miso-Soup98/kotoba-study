@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-055",
+  "exampleIndex": 0,
+  "text": "ここで待ってください。",
+  "speechText": "ここで待ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 37,
+  "signature": "ccd254c4d3f730a30eacf839ea3387263345aa346328fbdae9edef4032b41bc2",
+  "src": "/audio/voices/keita/N5-055-1.mp3",
+  "srt": "/audio/voices/keita/N5-055-1.srt",
+  "durationSeconds": 2.088,
+  "bytes": 12528,
+  "sha256": "8d5313102611c889420bf453d27187aae631663abf736c9e93d40b7af9d55862",
+  "peakPcm": 23646,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

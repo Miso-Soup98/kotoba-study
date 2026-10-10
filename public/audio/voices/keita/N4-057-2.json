@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-057",
+  "exampleIndex": 1,
+  "text": "夏休みの間、祖父の家にいました。",
+  "speechText": "夏休みの間、祖父の家にいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 83,
+  "signature": "5708d28cfe2c7348d65ebcf33b0e040d697bd14a78782c2e535c8a3e5fe7d2ba",
+  "src": "/audio/voices/keita/N4-057-2.mp3",
+  "srt": "/audio/voices/keita/N4-057-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "1e4f1c764a3727fe62607f2b6478fa864b4901ba697c9d5c5da52a0fd0a50301",
+  "peakPcm": 23147,
+  "rmsDbfs": -20.91,
+  "rate": "+0%",
+  "listened": false
+}

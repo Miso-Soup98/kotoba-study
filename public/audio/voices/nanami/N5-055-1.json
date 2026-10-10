@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-055",
+  "exampleIndex": 0,
+  "text": "ここで待ってください。",
+  "speechText": "ここで待ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 37,
+  "signature": "6301495a1f1dd2e90507514705d1d834f0a6015cf1182e8a6f73602bf7ed516f",
+  "src": "/audio/voices/nanami/N5-055-1.mp3",
+  "srt": "/audio/voices/nanami/N5-055-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "0e7d4b1f7e8f9e84167c23f64330b107edad33e00543544dbfa7acb0fa44c434",
+  "peakPcm": 23080,
+  "rmsDbfs": -18.95,
+  "rate": "+0%",
+  "listened": false
+}

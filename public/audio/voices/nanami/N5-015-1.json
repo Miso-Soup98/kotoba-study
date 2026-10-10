@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-015",
+  "exampleIndex": 0,
+  "text": "明日は家で勉強する。",
+  "speechText": "明日は家で勉強する。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 17,
+  "signature": "e947be00e822a440816dfbe26606beebc938c84d51ed3c66263d7b0cf8068d04",
+  "src": "/audio/voices/nanami/N5-015-1.mp3",
+  "srt": "/audio/voices/nanami/N5-015-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "936c2df038829965230a6866e6569567e3226aa94a006821183c481fef56f2a5",
+  "peakPcm": 20945,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

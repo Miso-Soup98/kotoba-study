@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-042",
+  "exampleIndex": 1,
+  "text": "駅で降りて、少し歩きました。",
+  "speechText": "駅で降りて、少し歩きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 30,
+  "signature": "c9130354ad07949aa81c63eddd3ab53be40159ba287d95cc67af5e39bdd9a33a",
+  "src": "/audio/voices/keita/N5-042-2.mp3",
+  "srt": "/audio/voices/keita/N5-042-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "e5021b518130900ec7db7f98dde630f00ae04871163be5a560c4a3f191b60ed1",
+  "peakPcm": 22462,
+  "rmsDbfs": -22.17,
+  "rate": "+0%",
+  "listened": false
+}

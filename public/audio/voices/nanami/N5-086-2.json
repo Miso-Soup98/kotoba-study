@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-086",
+  "exampleIndex": 1,
+  "text": "お茶と水では、どちらがいいですか。",
+  "speechText": "お茶と水では、どちらがいいですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 52,
+  "signature": "4fdee9d14ce90dd5ecbf0916472780e8bfe25c39ca02dc6c7cb26ba661eb59ae",
+  "src": "/audio/voices/nanami/N5-086-2.mp3",
+  "srt": "/audio/voices/nanami/N5-086-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "832942abfbf640586d62be3fb8721fe705d8607f1e177e93a2bce982ab9fe6ea",
+  "peakPcm": 21002,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

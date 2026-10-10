@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-014",
+  "exampleIndex": 0,
+  "text": "来月、別の部屋に移ることになりました。",
+  "speechText": "来月、別の部屋に移ることになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 61,
+  "signature": "fcdf754ca440e1d161c40fa2cdbc7c97c43484b78288cd8d2a571f799a89b9ae",
+  "src": "/audio/voices/nanami/N4-014-1.mp3",
+  "srt": "/audio/voices/nanami/N4-014-1.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "eb2fa66e1b3b66df07f0e30fac258702204b2ea7164c88f4ec086c9e579f668e",
+  "peakPcm": 21399,
+  "rmsDbfs": -17.91,
+  "rate": "+0%",
+  "listened": false
+}

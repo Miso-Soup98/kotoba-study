@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-062",
+  "exampleIndex": 1,
+  "text": "ちょうど宿題が終わったところです。",
+  "speechText": "ちょうど宿題が終わったところです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 85,
+  "signature": "19603f910fdcf005496405f2909c355fca858f554c632fc70329c4e256ee804e",
+  "src": "/audio/voices/nanami/N4-062-2.mp3",
+  "srt": "/audio/voices/nanami/N4-062-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "7eceaec0b824d71faa20c367e0409c62be4c1da0751fdabaa9d065a5ef864184",
+  "peakPcm": 20568,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

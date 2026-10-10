@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-057",
+  "exampleIndex": 1,
+  "text": "休みの日は掃除や洗濯をします。",
+  "speechText": "休みの日は掃除や洗濯をします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 38,
+  "signature": "a9f55937269e54588071f01d9b9c1044c0513e8f50aa6fd5c39e687435f355bf",
+  "src": "/audio/voices/keita/N5-057-2.mp3",
+  "srt": "/audio/voices/keita/N5-057-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "cb0267696ba165063fb927cfbf31b7ed4e5e7e0558e635703587780198cd643c",
+  "peakPcm": 22138,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

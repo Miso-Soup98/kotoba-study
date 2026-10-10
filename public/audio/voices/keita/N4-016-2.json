@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-016",
+  "exampleIndex": 1,
+  "text": "最近、早く寝るようになりました。",
+  "speechText": "最近、早く寝るようになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 62,
+  "signature": "dec581909583f7d480a81c20a5f2f21ff16f4088f6c83798cb5eee923a0f70be",
+  "src": "/audio/voices/keita/N4-016-2.mp3",
+  "srt": "/audio/voices/keita/N4-016-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "7ae60316d5062ddcdc92057117d26edb16144343f9d08b602a6c55fb61144c2d",
+  "peakPcm": 24146,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

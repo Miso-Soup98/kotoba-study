@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-103",
+  "exampleIndex": 0,
+  "text": "ここから海が見えるじゃないですか。",
+  "speechText": "ここから海が見えるじゃないですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 106,
+  "signature": "db9f3f67fe44fe8b0b010dc11fac00a2f50e00bb57083c5cdce8169b821fe74a",
+  "src": "/audio/voices/nanami/N4-103-1.mp3",
+  "srt": "/audio/voices/nanami/N4-103-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "60142f1ccc91de095ae35446ac8270ce5aa4b7f1ab71b747dc4d695044365fe3",
+  "peakPcm": 21523,
+  "rmsDbfs": -17.84,
+  "rate": "+0%",
+  "listened": false
+}

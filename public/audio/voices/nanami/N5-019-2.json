@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-019",
+  "exampleIndex": 1,
+  "text": "この町は便利です。",
+  "speechText": "この町は便利です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 19,
+  "signature": "c6c38cf31c7d26de845f7df3438e2f506e46e6506d95d3b526c32940981f0c8d",
+  "src": "/audio/voices/nanami/N5-019-2.mp3",
+  "srt": "/audio/voices/nanami/N5-019-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "fec7a5da696dce5fb50ae6a3b8fa2ec0feaad2f510356c6038efe21bf92f2ff9",
+  "peakPcm": 19353,
+  "rmsDbfs": -18.07,
+  "rate": "+0%",
+  "listened": false
+}

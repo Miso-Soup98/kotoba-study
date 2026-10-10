@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-049",
+  "exampleIndex": 1,
+  "text": "今日は私しか来ません。",
+  "speechText": "今日は私しか来ません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 34,
+  "signature": "18c3063781a331bcdab85708610a8963358e3c22423aad10543d703f2d06e050",
+  "src": "/audio/voices/nanami/N5-049-2.mp3",
+  "srt": "/audio/voices/nanami/N5-049-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "032c46501e93477e8c871769c99a966cb2bc0d256f3f6022b50c571ca10941a8",
+  "peakPcm": 21800,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-013",
+  "exampleIndex": 1,
+  "text": "先生は研究室にいます。",
+  "speechText": "先生は研究室にいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 16,
+  "signature": "2a4b7e41b05c2faeba4240a8166497ba77990c0869657e93af5ffea6764b0b65",
+  "src": "/audio/voices/keita/N5-013-2.mp3",
+  "srt": "/audio/voices/keita/N5-013-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "d55ad667f97e651d5c5040fb98758386699dd1e60dda5a73f285568d21619189",
+  "peakPcm": 22034,
+  "rmsDbfs": -20.59,
+  "rate": "+0%",
+  "listened": false
+}

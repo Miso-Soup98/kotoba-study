@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-035",
+  "exampleIndex": 1,
+  "text": "その箱を開けちゃいけない。",
+  "speechText": "その箱を開けちゃいけない。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 27,
+  "signature": "beff76983d657d2a0b006a5a14317051c8f554adb20bec0ad76b1385ce83ed00",
+  "src": "/audio/voices/nanami/N5-035-2.mp3",
+  "srt": "/audio/voices/nanami/N5-035-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "9fc626b8154465bd33f686853603e09be766d2bcb0a807c3957dd1692b44d36e",
+  "peakPcm": 20145,
+  "rmsDbfs": -17.43,
+  "rate": "+0%",
+  "listened": false
+}

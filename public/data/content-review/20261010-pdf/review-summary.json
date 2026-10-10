@@ -1,0 +1,33 @@
+{
+  "version": "0.6.2",
+  "vocabulary": {
+    "version": "v06-20261010-r3",
+    "reviewed": 263,
+    "needsReview": 0,
+    "words": 7811,
+    "chinese": 7806,
+    "englishFallback": 5
+  },
+  "ted": {
+    "reviewedArticles": 278,
+    "pendingArticlesBefore": 278,
+    "originalIssuesReviewed": 465,
+    "originalIssuesTotal": 465,
+    "remainingIssues": 23,
+    "articlesWithRemainingIssues": 19,
+    "pageImagesReviewed": 498,
+    "corrections": 2591,
+    "alignmentOperations": 253,
+    "pdfAndSourceHashesVerified": true,
+    "audioListened": false,
+    "rebuiltArticles": 300,
+    "tokensRoundTripped": 102398,
+    "visibleUncertainGlossary": 0
+  },
+  "limitations": [
+    "Counts describe review of the 465 pending PDF issues, not full verification of every factual claim or automatic token reading.",
+    "23 remaining source ambiguities require original audio or upstream sources.",
+    "Private TED text and detailed corrections are excluded from the public repository.",
+    "No audio listening review in this release."
+  ]
+}

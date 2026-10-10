@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-037",
+  "exampleIndex": 1,
+  "text": "全部食べなくてもいいですよ。",
+  "speechText": "全部食べなくてもいいですよ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 28,
+  "signature": "2574bf08ea8167a289958014c6e5e98f2ce569b9f645483fa1a9681f571511c8",
+  "src": "/audio/voices/keita/N5-037-2.mp3",
+  "srt": "/audio/voices/keita/N5-037-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "f9af35aeb038047418ae5c024fe76430220f712e8cd3329190bb351af1dabbfb",
+  "peakPcm": 23234,
+  "rmsDbfs": -21.08,
+  "rate": "+0%",
+  "listened": false
+}

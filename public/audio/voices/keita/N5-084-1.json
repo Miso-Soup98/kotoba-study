@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-084",
+  "exampleIndex": 0,
+  "text": "先生に質問します。",
+  "speechText": "先生に質問します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 51,
+  "signature": "6964e2c240d10ea50395d7565249cff855512f33f8ee0bfd3abab24117583c6f",
+  "src": "/audio/voices/keita/N5-084-1.mp3",
+  "srt": "/audio/voices/keita/N5-084-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "fceb8311276d25e96f2ef1e05c1f93eddd8789fa83e4d3e1a127732c148c5b71",
+  "peakPcm": 21538,
+  "rmsDbfs": -21.3,
+  "rate": "+0%",
+  "listened": false
+}

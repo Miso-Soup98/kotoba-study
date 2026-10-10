@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-108",
+  "exampleIndex": 1,
+  "text": "味噌は大豆から作られます。",
+  "speechText": "味噌は大豆から作られます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 109,
+  "signature": "7e2979071b172cdc59392a30b0ee25ab8722d7389538a27d32b0de38f2b44b55",
+  "src": "/audio/voices/nanami/N4-108-2.mp3",
+  "srt": "/audio/voices/nanami/N4-108-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "ed397933c5b4994857a091f6a66e767fbf0be183bd433e6aca1b38f172327af9",
+  "peakPcm": 21213,
+  "rmsDbfs": -18.33,
+  "rate": "+0%",
+  "listened": false
+}

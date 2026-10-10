@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-093",
+  "exampleIndex": 0,
+  "text": "質問はございますか。",
+  "speechText": "質問はございますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 101,
+  "signature": "5c4dbcb2d22e0879e55bdace1ecffa2edc7aefb42c7d6e3d81f597a4a061cc8f",
+  "src": "/audio/voices/nanami/N4-093-1.mp3",
+  "srt": "/audio/voices/nanami/N4-093-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "a1df4a732d14e5e74b3fd32bd41b508a00f8132df11772e9f1bfc73090225b29",
+  "peakPcm": 21023,
+  "rmsDbfs": -18.54,
+  "rate": "+0%",
+  "listened": false
+}

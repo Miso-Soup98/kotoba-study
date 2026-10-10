@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-019",
+  "exampleIndex": 0,
+  "text": "会議の前に資料を読んでおきます。",
+  "speechText": "会議の前に資料を読んでおきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 64,
+  "signature": "c662b662f4b9f720939e9bc80d0b5e489b540b64aa5152e4554989a7e024c715",
+  "src": "/audio/voices/nanami/N4-019-1.mp3",
+  "srt": "/audio/voices/nanami/N4-019-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "f2d8e5bd93b39591565ad940a473eab3c8bfb72d89a888344e23f792d21dee81",
+  "peakPcm": 21211,
+  "rmsDbfs": -17.07,
+  "rate": "+0%",
+  "listened": false
+}

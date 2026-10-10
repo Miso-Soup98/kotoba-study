@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-015",
+  "exampleIndex": 0,
+  "text": "毎日、日本語で日記を書くことにしました。",
+  "speechText": "毎日、日本語で日記を書くことにしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 62,
+  "signature": "7836b97dd964d0905286f400d4137d1c1b9ca965c7bdc70a2b69b8e969fa735e",
+  "src": "/audio/voices/nanami/N4-015-1.mp3",
+  "srt": "/audio/voices/nanami/N4-015-1.srt",
+  "durationSeconds": 4.272,
+  "bytes": 25632,
+  "sha256": "1b027dff94a7aa4d2d18d732f136e1b513b80febb7a54dad05d6f07903575c49",
+  "peakPcm": 21681,
+  "rmsDbfs": -17.5,
+  "rate": "+0%",
+  "listened": false
+}

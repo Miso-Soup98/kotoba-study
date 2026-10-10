@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-045",
+  "exampleIndex": 0,
+  "text": "暇なとき、本を読みます。",
+  "speechText": "暇なとき、本を読みます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 32,
+  "signature": "7a26a341e714ba6302e4aa905c55b9ff72d9d4b30122d73340ce51f83596521c",
+  "src": "/audio/voices/keita/N5-045-1.mp3",
+  "srt": "/audio/voices/keita/N5-045-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "b5f9f3f6e1c9711aec52c051cf1cc97d5704da1fe1fa4851721c3db8b29042b7",
+  "peakPcm": 27069,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-034",
+  "exampleIndex": 1,
+  "text": "答えは日本語でもいいです。",
+  "speechText": "答えは日本語でもいいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 26,
+  "signature": "1aa50a9cd7513522f622fffa1a361d7b82ae14aa1629aaf29b6bc1b563f0f220",
+  "src": "/audio/voices/nanami/N5-034-2.mp3",
+  "srt": "/audio/voices/nanami/N5-034-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "ba88f5a4c1ba53ae8a01f0d36359f3bcb717d615e7037895c292a06586537860",
+  "peakPcm": 21023,
+  "rmsDbfs": -17.97,
+  "rate": "+0%",
+  "listened": false
+}

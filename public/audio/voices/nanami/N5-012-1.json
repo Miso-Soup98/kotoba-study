@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-012",
+  "exampleIndex": 0,
+  "text": "机の上に本があります。",
+  "speechText": "机の上に本があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 15,
+  "signature": "2ea7604390788ce6df6f361227464078bfc21850dd1727356152f7965b18cd06",
+  "src": "/audio/voices/nanami/N5-012-1.mp3",
+  "srt": "/audio/voices/nanami/N5-012-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "ebbf2322b98dc0ad143f697be500b7e0a18efb0b19e857546b0a3d98a56026ba",
+  "peakPcm": 17559,
+  "rmsDbfs": -18.84,
+  "rate": "+0%",
+  "listened": false
+}

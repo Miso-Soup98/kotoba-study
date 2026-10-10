@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-016",
+  "exampleIndex": 0,
+  "text": "私は会社員ではありません。",
+  "speechText": "私は会社員ではありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 17,
+  "signature": "70de4109f53f1c4075f1f3fd6ceedb4d439ad5493663293cba10042a246dd630",
+  "src": "/audio/voices/nanami/N5-016-1.mp3",
+  "srt": "/audio/voices/nanami/N5-016-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "ebcf7999b86527e0d55e1ad8bb20218d2da39c0fc51c7b61d9f77b44e292be9e",
+  "peakPcm": 20122,
+  "rmsDbfs": -18.55,
+  "rate": "+0%",
+  "listened": false
+}

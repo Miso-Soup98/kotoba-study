@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-089",
+  "exampleIndex": 1,
+  "text": "何を召し上がりますか。",
+  "speechText": "何を召し上がりますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 99,
+  "signature": "da930c033712a71d0c35ee57c947360c6dfff417590f96d3571fbbad8878b2a9",
+  "src": "/audio/voices/nanami/N4-089-2.mp3",
+  "srt": "/audio/voices/nanami/N4-089-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "86d180e9e66a4139200aefa1df97b18834039b8dc40e03d7f0bf84fdf0c0a852",
+  "peakPcm": 20095,
+  "rmsDbfs": -18.59,
+  "rate": "+0%",
+  "listened": false
+}

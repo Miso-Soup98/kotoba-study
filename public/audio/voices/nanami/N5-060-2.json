@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-060",
+  "exampleIndex": 1,
+  "text": "この店で何が一番安いですか。",
+  "speechText": "この店で何が一番安いですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 39,
+  "signature": "0a213de0cd79e2ec24876828e61ceb117e9e3aa7703ff6261d054f712c6b171e",
+  "src": "/audio/voices/nanami/N5-060-2.mp3",
+  "srt": "/audio/voices/nanami/N5-060-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "23569b42bd4b278dee184c664b997f9b15776d2ded811f536c9acda9e7302454",
+  "peakPcm": 21848,
+  "rmsDbfs": -17.8,
+  "rate": "+0%",
+  "listened": false
+}

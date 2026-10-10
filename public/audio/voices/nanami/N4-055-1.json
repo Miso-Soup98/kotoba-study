@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-055",
+  "exampleIndex": 0,
+  "text": "朝御飯を食べないで出かけました。",
+  "speechText": "朝御飯を食べないで出かけました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 82,
+  "signature": "8de0d4b8798de694ca31c7ef105e018bb9fbf2017911c89a001cfb7e7dd2c930",
+  "src": "/audio/voices/nanami/N4-055-1.mp3",
+  "srt": "/audio/voices/nanami/N4-055-1.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "d3110e76e1850b074599404916aae26e91253c6b7b67323eb79d087985027f96",
+  "peakPcm": 21691,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

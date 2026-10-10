@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-050",
+  "exampleIndex": 1,
+  "text": "宿題はまだ終わっていません。",
+  "speechText": "宿題はまだ終わっていません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 34,
+  "signature": "835c3294cd1c5c44c0f03aba98ef8279f9d08a491657485587d69e8195aff1a9",
+  "src": "/audio/voices/nanami/N5-050-2.mp3",
+  "srt": "/audio/voices/nanami/N5-050-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "ccc4c5a54197f4de973a7bdaa8596254a66d89daa6cf46745247b1c7c88fc4db",
+  "peakPcm": 21706,
+  "rmsDbfs": -17.35,
+  "rate": "+0%",
+  "listened": false
+}

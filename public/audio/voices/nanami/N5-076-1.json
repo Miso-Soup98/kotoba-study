@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-076",
+  "exampleIndex": 0,
+  "text": "この本はとても面白いです。",
+  "speechText": "この本はとても面白いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 47,
+  "signature": "abe246ed785bf2e77243c5f24c1d8a27de05b368a5cc4e56766e587772210c6a",
+  "src": "/audio/voices/nanami/N5-076-1.mp3",
+  "srt": "/audio/voices/nanami/N5-076-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "6a79b27b25992b50ea55071b01d562b886d66d3e04c977d9de51f91baa3c42ea",
+  "peakPcm": 20709,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

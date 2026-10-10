@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-076",
+  "exampleIndex": 0,
+  "text": "この本はとても面白いです。",
+  "speechText": "この本はとても面白いです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 47,
+  "signature": "dc1f5403e812669d2786110061dae6c75328cddaf8e810414f1dde7a3c6efe9e",
+  "src": "/audio/voices/keita/N5-076-1.mp3",
+  "srt": "/audio/voices/keita/N5-076-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "bec184e1ea2ce0372f74b16b18072b9283a52d16ec35735ef97c1b8a71a57c9f",
+  "peakPcm": 21548,
+  "rmsDbfs": -19.97,
+  "rate": "+0%",
+  "listened": false
+}

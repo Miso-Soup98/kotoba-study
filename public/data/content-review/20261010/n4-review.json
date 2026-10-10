@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-10",
+  "reviewer": "Codex language review; not a native-speaker audio listening certification",
+  "level": "N4",
+  "sourceFile": "app/public/data/grammar.json",
+  "sourceSha256": "1326ebef06dfe51ba20ad7cc202f4bcbd79894f2e0bc8c00791fcfd9cf28b6a9",
+  "scope": {
+    "entries": 129,
+    "examples": 258,
+    "entryIds": [
+      "N4-001",
+      "N4-002",
+      "N4-003",
+      "N4-004",
+      "N4-005",
+      "N4-006",
+      "N4-007",
+      "N4-008",
+      "N4-009",
+      "N4-010",
+      "N4-011",
+      "N4-012",
+      "N4-013",
+      "N4-014",
+      "N4-015",
+      "N4-016",
+      "N4-017",
+      "N4-018",
+      "N4-019",
+      "N4-020",
+      "N4-021",
+      "N4-022",
+      "N4-023",
+      "N4-024",
+      "N4-025",
+      "N4-026",
+      "N4-027",
+      "N4-028",
+      "N4-029",
+      "N4-030",
+      "N4-031",
+      "N4-032",
+      "N4-033",
+      "N4-034",
+      "N4-035",
+      "N4-036",
+      "N4-037",
+      "N4-038",
+      "N4-039",
+      "N4-040",
+      "N4-041",
+      "N4-042",
+      "N4-043",
+      "N4-044",
+      "N4-045",
+      "N4-046",
+      "N4-047",
+      "N4-048",
+      "N4-049",
+      "N4-050",
+      "N4-051",
+      "N4-052",
+      "N4-053",
+      "N4-054",
+      "N4-055",
+      "N4-056",
+      "N4-057",
+      "N4-058",
+      "N4-059",
+      "N4-060",
+      "N4-061",
+      "N4-062",
+      "N4-063",
+      "N4-064",
+      "N4-065",
+      "N4-066",
+      "N4-067",
+      "N4-068",
+      "N4-069",
+      "N4-070",
+      "N4-071",
+      "N4-072",
+      "N4-073",
+      "N4-074",
+      "N4-075",
+      "N4-076",
+      "N4-077",
+      "N4-078",
+      "N4-079",
+      "N4-080",
+      "N4-081",
+      "N4-082",
+      "N4-083",
+      "N4-084",
+      "N4-085",
+      "N4-086",
+      "N4-087",
+      "N4-088",
+      "N4-089",
+      "N4-090",
+      "N4-091",
+      "N4-092",
+      "N4-093",
+      "N4-094",
+      "N4-095",
+      "N4-096",
+      "N4-097",
+      "N4-098",
+      "N4-099",
+      "N4-100",
+      "N4-101",
+      "N4-102",
+      "N4-103",
+      "N4-104",
+      "N4-105",
+      "N4-106",
+      "N4-107",
+      "N4-108",
+      "N4-109",
+      "N4-110",
+      "N4-111",
+      "N4-112",
+      "N4-113",
+      "N4-114",
+      "N4-115",
+      "N4-116",
+      "N4-117",
+      "N4-118",
+      "N4-119",
+      "N4-120",
+      "N4-121",
+      "N4-122",
+      "N4-123",
+      "N4-124",
+      "N4-125",
+      "N4-126",
+      "N4-127",
+      "N4-128",
+      "N4-129"
+    ],
+    "fields": [
+      "title",
+      "meaning",
+      "usage",
+      "caution",
+      "vocabulary",
+      "examples.japanese_annotated",
+      "examples.japanese",
+      "examples.japanese_reading",
+      "examples.chinese"
+    ],
+    "method": "逐条读取全部字段，每句对照原句、注音、假名稿、中文；对疑点查词典、国際交流基金和大学数据。不是自动规则或抽样审查。"
+  },
+  "summary": {
+    "corrections": 4,
+    "clarifications": 2,
+    "confirmedExampleReadingErrors": 0,
+    "confirmedExampleMeaningErrors": 0,
+    "audioListened": false
+  },
+  "findings": [
+    {
+      "entryId": "N4-040",
+      "field": "usage",
+      "original": "一类动词词尾改あ段＋れる；二类去る＋られる；する→される；来（く）る→来（こ）られる。通常“承受者は／が＋行为者に＋被动”。",
+      "suggested": "一类动词词尾改あ段＋れる（う结尾改わ，如買う→買われる）；二类去る＋られる；する→される；来（く）る→来（こ）られる。通常“承受者は／が＋行为者に＋被动”。",
+      "reason": "原规则缺少う→わ，初学者按五十音机械替换可能得到買あれる。保留规则并补充必要特例。",
+      "confidence": "high",
+      "referenceUrls": [
+        "https://www.gavo.t.u-tokyo.ac.jp/ojad/chi/search/index"
+      ],
+      "kind": "correction",
+      "affectsExistingExampleTts": false
+    },
+    {
+      "entryId": "N4-042",
+      "field": "usage",
+      "original": "一类词尾改あ段＋せる；二类去る＋させる；する→させる；来（く）る→来（こ）させる。他动词句中执行者常用に。",
+      "suggested": "一类词尾改あ段＋せる（う结尾改わ，如買う→買わせる）；二类去る＋させる；する→させる；来（く）る→来（こ）させる。他动词句中执行者常用に。",
+      "reason": "同上，う结尾使用わ，不是あ。",
+      "confidence": "high",
+      "referenceUrls": [
+        "https://www.gavo.t.u-tokyo.ac.jp/ojad/chi/search/index"
+      ],
+      "kind": "correction",
+      "affectsExistingExampleTts": false
+    },
+    {
+      "entryId": "N4-079",
+      "field": "usage",
+      "original": "い形容词去い／な形容词词干＋がる；动词たい去い＋たがる；寒（さむ）がり等为固定派生词。",
+      "suggested": "い形容词去い／な形容词词干＋がる；动词ます形词干＋たがる（即たい去い＋がる）；寒（さむ）がり等为固定派生词。",
+      "reason": "原式把たい去い后又接たがる，会多出一个た；例句行きたがっています本身正确。",
+      "confidence": "high",
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E3%81%9F%E3%81%8C%E3%82%8B-559558",
+        "https://ipsj.ixsq.nii.ac.jp/record/70309/files/IPSJ-NL10198001.pdf"
+      ],
+      "kind": "correction",
+      "affectsExistingExampleTts": false
+    },
+    {
+      "entryId": "N4-125",
+      "field": "caution",
+      "original": "比刚才更礼貌、正式可用先ほど；不要和将来的さきに混淆。",
+      "suggested": "比さっき更礼貌、正式可用先ほど；先に（さきに）常表示“先、提前”，也可表示“以前”，不能一概理解为将来。",
+      "reason": "将来的さきに把多义词不正确地限制在将来。先に述べた等明确为过去，先に帰る还可表达相对先后。",
+      "confidence": "high",
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E5%85%88%E3%81%AB-509391",
+        "https://kotobank.jp/word/%E5%85%88-509271"
+      ],
+      "kind": "correction",
+      "affectsExistingExampleTts": false
+    },
+    {
+      "entryId": "N4-034",
+      "field": "usage",
+      "original": "动词ます形词干／形容词词干＋そうだ。修饰名词用そうな，修饰动作用そうに。いい→よさそう；ない→なさそう。",
+      "suggested": "动词ます形词干／形容词词干＋そうだ。修饰名词用そうな，修饰动作用そうに。いい→よさそう；形容词ない→なさそう。动词否定有〜な（さ）そう，也常用〜そうにない。",
+      "reason": "不是当前例句错误。补充区分形容词ない与动词否定，避免把所有含ない词机械改为なさそう；不把现代常见的动词なさそう判成绝对错误。",
+      "confidence": "high",
+      "referenceUrls": [
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html"
+      ],
+      "kind": "clarification",
+      "affectsExistingExampleTts": false
+    },
+    {
+      "entryId": "N4-114",
+      "field": "usage",
+      "original": "名词／动词普通形＋の＋に気（き）がつく；名词直接接に。",
+      "suggested": "名词＋に気（き）がつく；动词／い形容词普通形＋のに気がつく。",
+      "reason": "原文先把名词和动词合写在＋の之前，后又说名词直接接に，有歧义；例句钱包がない是形容词ない，补入形容词更贴合例句。",
+      "confidence": "high",
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E6%B0%97%E3%81%8C%E4%BB%98%E3%81%8F-471861"
+      ],
+      "kind": "clarification",
+      "affectsExistingExampleTts": false
+    }
+  ],
+  "pronunciationWatchlist": [
+    {
+      "entryId": "N4-039",
+      "exampleIndex": 0,
+      "token": "入れる",
+      "expectedReading": "はいれる",
+      "reason": "进入的可能形；不要读成他动词いれる。现有注音和假名稿正确。"
+    },
+    {
+      "entryId": "N4-039",
+      "exampleIndex": 1,
+      "token": "開いて",
+      "expectedReading": "あいて",
+      "reason": "本例商店开门；保持与显示注音一致。"
+    },
+    {
+      "entryId": "N4-092",
+      "exampleIndex": 0,
+      "token": "張",
+      "expectedReading": "ちょう",
+      "reason": "书中选择日本汉字音读；中国姓氏也有母语读法，不宜无证据自动改为チャン。"
+    },
+    {
+      "entryId": "N4-110",
+      "exampleIndex": 1,
+      "token": "一行",
+      "expectedReading": "いちぎょう",
+      "reason": "一行文字，不是一群人的いっこう。"
+    },
+    {
+      "entryId": "N4-118",
+      "exampleIndex": 0,
+      "token": "故郷",
+      "expectedReading": "ふるさと",
+      "reason": "こきょう也是正确词读，但本书指定ふるさと，配音应与显示一致。"
+    }
+  ],
+  "notErrors": [
+    {
+      "entryId": "N4-083",
+      "note": "二十分的にじゅっぷん为常见正确读法；にじっぷん亦可，不机械改。"
+    },
+    {
+      "entryId": "N4-047",
+      "note": "ない→なさすぎる适用于形容词ない。动词否定还有なすぎる／なさすぎる使用差异；不将原句食べすぎました或難しすぎます判错。",
+      "referenceUrls": [
+        "https://kotobank.jp/word/%E7%84%A1%E3%81%95%E9%81%8E%E3%81%8E%E3%82%8B-3138498"
+      ]
+    },
+    {
+      "entryId": "N4-022",
+      "note": "叙述老师给我方物品时くれる语义成立；可另学习くださる，不把普通体敬意选择当作词义错误。"
+    },
+    {
+      "entryId": "ALL",
+      "note": "假名稿保留书写助词は／へ／を；这不表示应读ha/he/wo，不允许全局逐字替换。"
+    }
+  ],
+  "limitations": [
+    "未试听任何N4音频；文本读音核对不证明TTS实际读对或音高自然。",
+    "未做独立日语母语教师二审；没有把本报告称为零错误保证。",
+    "未重新证明JLPT分级为官方完整清单；保持原编号、顺序、页码。"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-083",
+  "exampleIndex": 0,
+  "text": "このはさみは紙を切るのに使います。",
+  "speechText": "このはさみは紙を切るのに使います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 96,
+  "signature": "45804d7707f4be77b9227be8ed4121b3db83f2fd3af211cebb19108f81c4abba",
+  "src": "/audio/voices/keita/N4-083-1.mp3",
+  "srt": "/audio/voices/keita/N4-083-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "ad1b508463cc27e17f7b8a8de6f5d0976c18df3ee7f8d0558c65d4f88e82dd0f",
+  "peakPcm": 19763,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

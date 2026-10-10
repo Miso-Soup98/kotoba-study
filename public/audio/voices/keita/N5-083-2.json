@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-083",
+  "exampleIndex": 1,
+  "text": "次の駅で電車を降ります。",
+  "speechText": "次の駅で電車を降ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 51,
+  "signature": "fed720f1b9dd159c7e1d42a8c1a6a00084e7524c1664f6b0df6fa3cd1bd84bd0",
+  "src": "/audio/voices/keita/N5-083-2.mp3",
+  "srt": "/audio/voices/keita/N5-083-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "afaece3b4d48fef23bf8205d7907f82e5f00d4655d9aed6b386d5ee5e8967bfd",
+  "peakPcm": 18816,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

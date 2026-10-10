@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-078",
+  "exampleIndex": 1,
+  "text": "早く家に帰りたいなあ。",
+  "speechText": "早く家に帰りたいなあ。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 48,
+  "signature": "2c1ded03ddd7b66cfffb78bf6d8989e015791f4f9bff6b86737777f89c04dd8d",
+  "src": "/audio/voices/keita/N5-078-2.mp3",
+  "srt": "/audio/voices/keita/N5-078-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "468d5c2dca85d2e45aaa526d995946ad1ce8c0aaa41954b361d33ffde97053df",
+  "peakPcm": 21779,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

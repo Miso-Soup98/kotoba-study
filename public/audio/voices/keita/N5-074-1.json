@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-074",
+  "exampleIndex": 0,
+  "text": "朝ご飯を食べました。それから、学校へ行きました。",
+  "speechText": "朝ご飯を食べました。それから、学校へ行きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 46,
+  "signature": "c908a46612ab72e01625db96a85d8654befdc80f21a80f5f8178389cc160c8b6",
+  "src": "/audio/voices/keita/N5-074-1.mp3",
+  "srt": "/audio/voices/keita/N5-074-1.srt",
+  "durationSeconds": 5.28,
+  "bytes": 31680,
+  "sha256": "225ae1a2408ee94d5a9f64a0f63ddab934479cb2e6e659927e512f60926a060c",
+  "peakPcm": 26281,
+  "rmsDbfs": -21.21,
+  "rate": "+0%",
+  "listened": false
+}

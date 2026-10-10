@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-117",
+  "exampleIndex": 1,
+  "text": "今度こそ勝ってやる。",
+  "speechText": "今度こそ勝ってやる。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 113,
+  "signature": "07171bccd036b4623b84a5097e8b6f8642843c6080efde6a9aedb3851c5e37b2",
+  "src": "/audio/voices/keita/N4-117-2.mp3",
+  "srt": "/audio/voices/keita/N4-117-2.srt",
+  "durationSeconds": 2.088,
+  "bytes": 12528,
+  "sha256": "d5b716d034db6fbec0f58ab051c1c7b2dc3ca56879ee70193e5265fdb8911be5",
+  "peakPcm": 24989,
+  "rmsDbfs": -21.9,
+  "rate": "+0%",
+  "listened": false
+}

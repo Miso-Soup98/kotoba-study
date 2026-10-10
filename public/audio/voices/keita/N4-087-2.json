@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-087",
+  "exampleIndex": 1,
+  "text": "この言葉って、どういう意味ですか。",
+  "speechText": "この言葉って、どういう意味ですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 98,
+  "signature": "24cb4370af8a3ce6d3f5652d8615003479f9683656f78e36d7c4c24012e38796",
+  "src": "/audio/voices/keita/N4-087-2.mp3",
+  "srt": "/audio/voices/keita/N4-087-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "eb1da8026f6ac3477e1da3630930c7698e1561f71669555b8ccf6700edf5e960",
+  "peakPcm": 25240,
+  "rmsDbfs": -19.9,
+  "rate": "+0%",
+  "listened": false
+}

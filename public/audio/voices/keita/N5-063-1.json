@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-063",
+  "exampleIndex": 0,
+  "text": "最近、寒くなりました。",
+  "speechText": "最近、寒くなりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 41,
+  "signature": "26f2514064f1a25b80eed7162f6601e67cab0fb97ad0a10797861304d4469347",
+  "src": "/audio/voices/keita/N5-063-1.mp3",
+  "srt": "/audio/voices/keita/N5-063-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "58fab164fe1e574d86fede0e1b5cf5d52d4bdbcb2afda2b3b4393aa6485b0ec2",
+  "peakPcm": 23674,
+  "rmsDbfs": -21.41,
+  "rate": "+0%",
+  "listened": false
+}

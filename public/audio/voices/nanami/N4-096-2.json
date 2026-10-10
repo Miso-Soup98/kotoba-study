@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-096",
+  "exampleIndex": 1,
+  "text": "母は夕食を作っているところです。",
+  "speechText": "母は夕食を作っているところです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 102,
+  "signature": "e942620e65fd901eddde66dbb679fef940c09e0d90faa579876d8d621b5ce0a3",
+  "src": "/audio/voices/nanami/N4-096-2.mp3",
+  "srt": "/audio/voices/nanami/N4-096-2.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "39f6639b78b87745d4d0b00761bec9d050b1e40283a19b6ec4a448ecb8c0ad2b",
+  "peakPcm": 22198,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

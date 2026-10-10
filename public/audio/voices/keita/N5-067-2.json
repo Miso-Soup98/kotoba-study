@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-067",
+  "exampleIndex": 1,
+  "text": "あの人は先生だろう。",
+  "speechText": "あの人は先生だろう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 43,
+  "signature": "9f678526434f396a8a32ea88e90256a06e7f988202911f14a450585cde4db8b4",
+  "src": "/audio/voices/keita/N5-067-2.mp3",
+  "srt": "/audio/voices/keita/N5-067-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "8540ed59a7aaa9afdfa382bd4f881d82a06094d136180edb13308492bd8bb266",
+  "peakPcm": 23954,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

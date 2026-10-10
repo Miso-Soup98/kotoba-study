@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-043",
+  "exampleIndex": 0,
+  "text": "私は部長に残業させられました。",
+  "speechText": "私は部長に残業させられました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 76,
+  "signature": "88aa9879300464b72aa876d24ca9b80f6c84251d8c0fb55bdcb3075797752d0e",
+  "src": "/audio/voices/nanami/N4-043-1.mp3",
+  "srt": "/audio/voices/nanami/N4-043-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "2b7649da3410f36faedfde3c0c3f193273ccf7ab1feffae7e411e5e2b1bbaf33",
+  "peakPcm": 20903,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-046",
+  "exampleIndex": 1,
+  "text": "会議は午後三時の予定です。",
+  "speechText": "会議は午後三時の予定です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 77,
+  "signature": "1df4b6cabb81468488bb0abccd83cf5ed07028a530ee555b82db26ae9862e9bd",
+  "src": "/audio/voices/nanami/N4-046-2.mp3",
+  "srt": "/audio/voices/nanami/N4-046-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "59afcbd2b59b22e458852c4fa85516a71c52c31614c4691f9e8d16f1d787fdac",
+  "peakPcm": 21796,
+  "rmsDbfs": -17.47,
+  "rate": "+0%",
+  "listened": false
+}

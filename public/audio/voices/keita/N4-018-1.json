@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-018",
+  "exampleIndex": 0,
+  "text": "この靴を履いてみてもいいですか。",
+  "speechText": "この靴を履いてみてもいいですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 63,
+  "signature": "a7a404eb35f1649c65cd49dc4306373e3881ae0266e79ae68b2dedf33b5978b7",
+  "src": "/audio/voices/keita/N4-018-1.mp3",
+  "srt": "/audio/voices/keita/N4-018-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "ba2c9fc871217148a69efeac7a86cf997876400a6daa34a75ced4efb7eb7d35c",
+  "peakPcm": 21670,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

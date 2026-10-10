@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-103",
+  "exampleIndex": 0,
+  "text": "ここから海が見えるじゃないですか。",
+  "speechText": "ここから海が見えるじゃないですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 106,
+  "signature": "94a582781469b3436809d3c904f373f4a9022b98814fda2aa1ebb31c29ed22de",
+  "src": "/audio/voices/keita/N4-103-1.mp3",
+  "srt": "/audio/voices/keita/N4-103-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "902d1e32ac6fcd3374a8cc31e3d658e94a50b3a4891deda0ae46f940a29b9601",
+  "peakPcm": 22694,
+  "rmsDbfs": -20.16,
+  "rate": "+0%",
+  "listened": false
+}

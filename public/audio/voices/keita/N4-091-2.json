@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-091",
+  "exampleIndex": 1,
+  "text": "明日、詳しくご説明します。",
+  "speechText": "明日、詳しくご説明します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 100,
+  "signature": "b3bc192a7f39e1bdc00c0d3b2aecdc795dd56fcb47d30a454e4a06345d7458d6",
+  "src": "/audio/voices/keita/N4-091-2.mp3",
+  "srt": "/audio/voices/keita/N4-091-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "9591121eadc9f5edc3a491c6cf5b5a86716c99677b6af67ef3e677321332aaad",
+  "peakPcm": 26454,
+  "rmsDbfs": -21.94,
+  "rate": "+0%",
+  "listened": false
+}

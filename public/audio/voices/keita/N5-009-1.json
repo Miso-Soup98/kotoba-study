@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-009",
+  "exampleIndex": 0,
+  "text": "毎日、大学に行きます。",
+  "speechText": "毎日、大学に行きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 14,
+  "signature": "d4a84b1b9217d3fc626828c41923315832b1333c9683d5b5cb2348bc8487cda3",
+  "src": "/audio/voices/keita/N5-009-1.mp3",
+  "srt": "/audio/voices/keita/N5-009-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "5d29a8b6ec7795f7b004b6e1d6edecc6795ee537c949fa980e79fcae7abf6bb7",
+  "peakPcm": 26143,
+  "rmsDbfs": -21.95,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-032",
+  "exampleIndex": 0,
+  "text": "ここで少し休みましょう。",
+  "speechText": "ここで少し休みましょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 25,
+  "signature": "e72eec280efd8ec077dc7d27fea570b2a397845e991c491ede487e284fe76f35",
+  "src": "/audio/voices/nanami/N5-032-1.mp3",
+  "srt": "/audio/voices/nanami/N5-032-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "474b3d41127fcbbe9883cc17a35bd66ee12b67e467773b1d6acf1b7b0bbfce68",
+  "peakPcm": 21285,
+  "rmsDbfs": -18.47,
+  "rate": "+0%",
+  "listened": false
+}

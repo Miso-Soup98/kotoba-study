@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-074",
+  "exampleIndex": 0,
+  "text": "申請には写真が必要です。",
+  "speechText": "申請には写真が必要です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 91,
+  "signature": "49a6e89c425912a3ed13531ed5c638b5820ab9e08d1e3bc277cca092993df586",
+  "src": "/audio/voices/nanami/N4-074-1.mp3",
+  "srt": "/audio/voices/nanami/N4-074-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "f8f4705fb361343de00332a9a293f6fe39e7b51ddc96c40b6202eea4aa1a47be",
+  "peakPcm": 21746,
+  "rmsDbfs": -18.63,
+  "rate": "+0%",
+  "listened": false
+}

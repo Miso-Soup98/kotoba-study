@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-044",
+  "exampleIndex": 1,
+  "text": "会議の前に資料を読みました。",
+  "speechText": "会議の前に資料を読みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 31,
+  "signature": "8aa92ba26778d830c429709be978b6eb7c078c46cf72ae176d9c8330a48a8b06",
+  "src": "/audio/voices/keita/N5-044-2.mp3",
+  "srt": "/audio/voices/keita/N5-044-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "ee345e20ff6fff994bb625587b2bf2178bab2cfd234c275313d2ad6a35ae60fc",
+  "peakPcm": 20908,
+  "rmsDbfs": -20.25,
+  "rate": "+0%",
+  "listened": false
+}

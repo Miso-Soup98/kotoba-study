@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-051",
+  "exampleIndex": 1,
+  "text": "もう一度言ってください。",
+  "speechText": "もう一度言ってください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 35,
+  "signature": "50300cdd02193cc888383578533d4c57c3d9576eba8169d865d41cad053e111e",
+  "src": "/audio/voices/nanami/N5-051-2.mp3",
+  "srt": "/audio/voices/nanami/N5-051-2.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "0f56120aaef04c4fb8faee717d2e41329731c2d90b91f08c86f4d7d78fe78f04",
+  "peakPcm": 21780,
+  "rmsDbfs": -18.32,
+  "rate": "+0%",
+  "listened": false
+}

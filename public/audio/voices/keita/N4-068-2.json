@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-068",
+  "exampleIndex": 1,
+  "text": "御飯を食べ終わったら、出かけます。",
+  "speechText": "御飯を食べ終わったら、出かけます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 88,
+  "signature": "012726c78da6ce26bce8a452fa7f56ea2f004ebfd51251bb23376e762ae5dd09",
+  "src": "/audio/voices/keita/N4-068-2.mp3",
+  "srt": "/audio/voices/keita/N4-068-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "b5c6cce0deadf9fd5576bdc0073ed84097bc43e23568829d81f74f2550083802",
+  "peakPcm": 23008,
+  "rmsDbfs": -21.39,
+  "rate": "+0%",
+  "listened": false
+}

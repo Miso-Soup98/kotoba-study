@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-059",
+  "exampleIndex": 0,
+  "text": "この部屋は隣の部屋より広いです。",
+  "speechText": "この部屋は隣の部屋より広いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 39,
+  "signature": "cb7141845847597eeaac39952cfe7ba77d764d4485135d94838817b82f900ec4",
+  "src": "/audio/voices/nanami/N5-059-1.mp3",
+  "srt": "/audio/voices/nanami/N5-059-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "cd1b502d89685cf721d5503f1b17c5577fdff548ba8706755d8f4ce45c35aac7",
+  "peakPcm": 20268,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

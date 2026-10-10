@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-083",
+  "exampleIndex": 0,
+  "text": "このはさみは紙を切るのに使います。",
+  "speechText": "このはさみは紙を切るのに使います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 96,
+  "signature": "6f90954cac5ed08f1da3ab41d834765fc750ce1d606a3ef89c0bac019d80dbd3",
+  "src": "/audio/voices/nanami/N4-083-1.mp3",
+  "srt": "/audio/voices/nanami/N4-083-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "33a4ac813c870126ea896eed7ede489134626598eb29a75ecfe3bf871b997151",
+  "peakPcm": 20514,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

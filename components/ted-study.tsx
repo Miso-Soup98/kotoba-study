@@ -37,6 +37,7 @@ import {
 } from "@/lib/ted/types";
 import type { useStudy } from "@/lib/study/use-study";
 import { makeTedWord } from "@/lib/ted/word";
+import { tedSavedCardUpdates } from "@/lib/ted/saved-corrections";
 import { TedPlayer } from "./ted-player";
 import { ListeningCardDialog } from "./listening-card";
 import { visibleParagraph } from "@/lib/ted/paragraph";
@@ -74,6 +75,8 @@ export function TedStudy({
     paragraph: TedParagraph;
   } | null>(null);
   const [savingLesson, setSavingLesson] = useState(false);
+  const [updatingSaved, setUpdatingSaved] = useState(false);
+  const updatingSavedRef = useRef(false);
   useEffect(() => {
     const request = new AbortController();
     fetchJSON<LessonPattern[]>("/data/ted-patterns.json", 12000, request.signal)
@@ -261,6 +264,26 @@ export function TedStudy({
       toast.success("已加入生词本，可继续加入复习");
     } catch {
       toast.error("生词保存失败，请重试");
+    }
+  }
+  async function updateSavedCards() {
+    if (!article || updatingSavedRef.current) return;
+    const updates = tedSavedCardUpdates(article, study.model.tedWords, study.model.listeningCards);
+    if (!updates.length) {
+      toast.info("没有可安全更新的旧卡片。自行编辑、截取或段落变化的卡片需逐张核对。");
+      return;
+    }
+    updatingSavedRef.current = true;
+    setUpdatingSaved(true);
+    const batch = updates.slice(0, 25);
+    try {
+      await study.appendBatch(batch);
+      toast.success(`已更新 ${batch.length} 张卡片，复习进度与音频标记已保留。${updates.length > batch.length ? "还有可更新卡片，可再次点按。" : ""}`);
+    } catch {
+      toast.error("卡片订正未保存，请重试。");
+    } finally {
+      updatingSavedRef.current = false;
+      setUpdatingSaved(false);
     }
   }
   function wordDetails(interactive = true) {
@@ -483,6 +506,10 @@ export function TedStudy({
         </span>
         <h1>{article.title}</h1>
         <div className="ted-article-tools">
+          {!!article.corrections?.length && <button className="secondary compact"
+            disabled={updatingSaved} onClick={() => void updateSavedCards()}>
+            {updatingSaved ? "正在更新卡片…" : "更新本篇已存卡片"}
+          </button>}
           <button
             className="secondary compact"
             onClick={() => void toggleSaved(article.id)}
@@ -564,8 +591,8 @@ export function TedStudy({
             <p role="alert">词组和语法讲解未能加载，请重新打开 TED 页面。</p>
           )}
           <TedCorrections article={article} />
-          {article.review && <div className="context-lesson"><strong>本篇正文与译义已对照原图复核 · {article.review.reviewedAt}</strong>
-            <p>语境讲解优先于自动匹配提示。读音仍需结合原音核对。</p>
+          {article.review && <div className="context-lesson"><strong>{article.review.method === "text-audit" ? "本篇已做抽取文本审读" : "本篇待核问题已对照原 PDF 复核"} · {article.review.reviewedAt}</strong>
+            <p>{article.review.method === "text-audit" ? "已订正可确认的文字问题；缺段、错列及无法确认的词注仍需对照原 PDF。原音未逐句试听。" : "语境讲解优先于自动匹配提示。读音仍需结合原音核对。"}</p>
             {!!article.review.remainingIssues.length && <details><summary>仍需留意的原文问题</summary>
               {article.review.remainingIssues.map((issue, i) => <p key={i}>{issue}</p>)}</details>}</div>}
           <details className="ted-source-notes">
@@ -586,6 +613,7 @@ export function TedStudy({
                     className={`panel ted-paragraph ${activeParagraph === paragraph.id ? "listening" : ""} ${paragraphId === paragraph.id ? "selected" : ""}`}
                     key={paragraph.id}
                   >
+                    {paragraph.reviewNote && <p className="footnote" role="note">核对说明：{paragraph.reviewNote}</p>}
                     <div className="section-heading">
                       <span>
                         第 {index + 1} 段 · P.{paragraph.page}
@@ -748,6 +776,7 @@ export function TedStudy({
                   <summary>
                     <span lang="ja">{g.term}</span> <small>{g.reading}</small>
                   </summary>
+                  {g.reviewNote && <p className="footnote" role="note">核对说明：{g.reviewNote}</p>}
                   <p>{g.meaning}</p>
                   {g.usage && <p>{g.usage}</p>}
                   {g.examples.map((ex, i) => (

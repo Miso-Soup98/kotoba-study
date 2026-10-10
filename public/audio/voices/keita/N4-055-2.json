@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-055",
+  "exampleIndex": 1,
+  "text": "辞書を使わないで読んでみてください。",
+  "speechText": "辞書を使わないで読んでみてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 82,
+  "signature": "1c4178ec84c7bef7d011c6197bf8c8dca2cb2211344eedabd1c3832e45bc12d7",
+  "src": "/audio/voices/keita/N4-055-2.mp3",
+  "srt": "/audio/voices/keita/N4-055-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "d7ebbd5e01e1f72f0b72bc576add2941860e015db5dbe4841fac7cfec7f4a13f",
+  "peakPcm": 24052,
+  "rmsDbfs": -19.83,
+  "rate": "+0%",
+  "listened": false
+}

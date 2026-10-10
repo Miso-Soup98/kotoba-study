@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-008",
+  "exampleIndex": 0,
+  "text": "七時に起きます。",
+  "speechText": "七時に起きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 13,
+  "signature": "90bf58cd68e879f0948943c0e16addd50776ae98c387451960fbdd9e117b49b8",
+  "src": "/audio/voices/nanami/N5-008-1.mp3",
+  "srt": "/audio/voices/nanami/N5-008-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "83e522b2a36fb1043a77223deefd7cac21eed3b1eaf5135f61d265c6559b4d34",
+  "peakPcm": 22900,
+  "rmsDbfs": -18.97,
+  "rate": "+0%",
+  "listened": false
+}

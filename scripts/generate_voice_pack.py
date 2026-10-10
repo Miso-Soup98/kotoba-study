@@ -51,10 +51,11 @@ def plan_for(entry_id: str, example_index: int, speaker_id: str, entries: dict) 
     unannotated = re.sub(r'[（(][ぁ-ゖァ-ヺー]+[）)]', '', example['japanese_annotated'])
     if not text.strip() or text != unannotated or re.search(r'[（(][ぁ-ゖァ-ヺー]+[）)]', text):
         raise ValueError(f'{entry_id}-{example_index + 1}: 原句与显示稿不一致，需人工核对。')
-    signature = hashlib.sha256(json.dumps([text, speaker['voice'], voice.RATE], ensure_ascii=False).encode('utf-8')).hexdigest()
+    speech_text = voice.synthesis_text(entry_id, example_index, text)
+    signature = hashlib.sha256(json.dumps([speech_text, speaker['voice'], voice.RATE], ensure_ascii=False).encode('utf-8')).hexdigest()
     stem = f'{entry_id}-{example_index + 1}'
     return {
-        'entryId': entry_id, 'exampleIndex': example_index, 'text': text,
+        'entryId': entry_id, 'exampleIndex': example_index, 'text': text, 'speechText': speech_text,
         'voice': speaker_id, 'serviceVoice': speaker['voice'],
         'pdfPage': entry['pdf_page'], 'signature': signature,
         'src': f'/audio/voices/{speaker_id}/{stem}.mp3',
@@ -139,7 +140,7 @@ def report(value: dict, results: list[dict], failures: list[dict], mode: str) ->
         'dependencies': {name: importlib.metadata.version(name) for name in ('edge-tts', 'imageio-ffmpeg')},
         'rate': voice.RATE, 'plannedClips': len(value['clips']), 'passedClips': len(results),
         'failures': failures, 'scope': value.get('scope', ''), 'listened': False, 'clips': results,
-        'reviewNotes': ['N2-001-2「十分寝た…」书中读音为じゅうぶん；保留原文，合成读音待实际试听。'],
+        'reviewNotes': ['多音词按 pronunciation-overrides.json 定向消歧；显示及字幕保留原文。全部音频尚未逐句试听。'],
     }
     voice.write_json(OUTPUT / 'verification.json', summary)
     voice.atomic_text(APP / 'docs-voice-pack-verification.md', f'''# 已安装自然语音包验收
@@ -148,7 +149,7 @@ def report(value: dict, results: list[dict], failures: list[dict], mode: str) ->
 
 通过 {len(results)}/{len(value['clips'])}；失败 {len(failures)}。**未试听。**
 
-清单中的每个片段都根据当前教材原句重新构造签名，并验证 MP3 完整解码、时长、非静音、SHA-256、原文、页码、声音及 SRT 起止时间。SRT 为整句单段，不是逐字对齐。解码成功不能证明读音、重音和语调正确；N2-001-2「十分」需核对是否读作じゅうぶん。
+清单中的每个片段都根据当前教材原句重新构造签名，并验证 MP3 完整解码、时长、非静音、SHA-256、原文、页码、声音及 SRT 起止时间。SRT 为整句单段，不是逐字对齐。多音词按照 `public/data/pronunciation-overrides.json` 定向消歧，签名包括实际合成稿。解码成功不能证明读音、重音和语调正确；仍需逐句试听。
 
 默认只离线验收：`python scripts/generate_voice_pack.py`。显式添加条目：`python scripts/generate_voice_pack.py --entries N3-001 N3-002`；不接受全书通配符，保留已有清单与音频。联网采用既有 edge-tts、顺序请求、缓存和有限重试；无新增付费服务。
 

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-085",
+  "exampleIndex": 1,
+  "text": "この部屋は窓が大きいです。",
+  "speechText": "この部屋は窓が大きいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 52,
+  "signature": "d44dfbadbdbe1220e308eef6b4205b22789a4a84b78bb174e1ce6cfc11a4adb3",
+  "src": "/audio/voices/keita/N5-085-2.mp3",
+  "srt": "/audio/voices/keita/N5-085-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "4e56fe9a9b4c04de0949295e6b061283897eb2366fe9d5d95327d7ceae6cf7ce",
+  "peakPcm": 23143,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

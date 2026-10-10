@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-086",
+  "exampleIndex": 0,
+  "text": "この町は静かだと言われています。",
+  "speechText": "この町は静かだと言われています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 97,
+  "signature": "32d7e844e5ce1ff480ba4391f384c86d3e61c7cd30fa6bc10704da9abd6803c5",
+  "src": "/audio/voices/keita/N4-086-1.mp3",
+  "srt": "/audio/voices/keita/N4-086-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "4980296bdc9c606f8df88d0ebe2d38d0d382d750c612f5f6850ba859597fe470",
+  "peakPcm": 22956,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-123",
+  "exampleIndex": 0,
+  "text": "ぜひ遊びに来てください。",
+  "speechText": "ぜひ遊びに来てください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 116,
+  "signature": "04c95bf1c8f6371ae1d942301db753f22c36dbbeef03375afd266318feefc262",
+  "src": "/audio/voices/keita/N4-123-1.mp3",
+  "srt": "/audio/voices/keita/N4-123-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "8e31de107234ca88120cf9b3710dc8665052e9e8b577c990a8448ce78f367c4a",
+  "peakPcm": 22820,
+  "rmsDbfs": -21.69,
+  "rate": "+0%",
+  "listened": false
+}

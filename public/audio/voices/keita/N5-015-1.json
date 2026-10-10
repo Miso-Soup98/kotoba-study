@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-015",
+  "exampleIndex": 0,
+  "text": "明日は家で勉強する。",
+  "speechText": "明日は家で勉強する。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 17,
+  "signature": "dbd9eeb3211a1b0aff35b4fdc2867d146be568de09475840b04a13496558413e",
+  "src": "/audio/voices/keita/N5-015-1.mp3",
+  "srt": "/audio/voices/keita/N5-015-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "593b8499e570bb29ffa7b76f96cc0345c63834243e2230d2f628f4b5b93cff51",
+  "peakPcm": 22771,
+  "rmsDbfs": -21.82,
+  "rate": "+0%",
+  "listened": false
+}

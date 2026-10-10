@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-035",
+  "exampleIndex": 1,
+  "text": "隣の部屋は静かなようです。",
+  "speechText": "隣の部屋は静かなようです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 72,
+  "signature": "ad12087b3142c162794bbb1a5055c974a44d4986cefd8719f887f387c0333b9d",
+  "src": "/audio/voices/keita/N4-035-2.mp3",
+  "srt": "/audio/voices/keita/N4-035-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "42fbd87753d2498e3221323e4e8afdcd479a79ea099615486bd8b3576d40bb5c",
+  "peakPcm": 26017,
+  "rmsDbfs": -20.5,
+  "rate": "+0%",
+  "listened": false
+}

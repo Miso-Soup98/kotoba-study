@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-062",
+  "exampleIndex": 0,
+  "text": "今から昼御飯を食べるところです。",
+  "speechText": "今から昼御飯を食べるところです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 85,
+  "signature": "1a3f30a7b224aebbb071f19b10fffc44ecd1ccdb454c1d704e3eca37ca6f05f0",
+  "src": "/audio/voices/keita/N4-062-1.mp3",
+  "srt": "/audio/voices/keita/N4-062-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "4f2fda6949bcb36d717047531ed17a4b6b8d731661dfcf68772b08a2891c0f0c",
+  "peakPcm": 21675,
+  "rmsDbfs": -20.87,
+  "rate": "+0%",
+  "listened": false
+}

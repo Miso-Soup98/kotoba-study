@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-068",
+  "exampleIndex": 1,
+  "text": "明日の午後はどうですか。",
+  "speechText": "明日の午後はどうですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 43,
+  "signature": "0bc0082cc4c06f99f58073334b138bea3a65afa693d0ffc4719b06e5c7e9be85",
+  "src": "/audio/voices/nanami/N5-068-2.mp3",
+  "srt": "/audio/voices/nanami/N5-068-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "1593f9b91b7c7800b922d4ce3b958f06513dd9cf77a4cf1f50963d74cb4a30e5",
+  "peakPcm": 20531,
+  "rmsDbfs": -18.14,
+  "rate": "+0%",
+  "listened": false
+}

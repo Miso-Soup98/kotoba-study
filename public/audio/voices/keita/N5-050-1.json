@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-050",
+  "exampleIndex": 0,
+  "text": "まだ雨が降っています。",
+  "speechText": "まだ雨が降っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 34,
+  "signature": "c89aafdeef906e94a15db7c88a736e088967544906a558042748182c86d5c497",
+  "src": "/audio/voices/keita/N5-050-1.mp3",
+  "srt": "/audio/voices/keita/N5-050-1.srt",
+  "durationSeconds": 2.328,
+  "bytes": 13968,
+  "sha256": "eb521909f6d3d9dc8e7af0b0ee1f185d7c5dcbd3566329e874979d713ddc0e8d",
+  "peakPcm": 25966,
+  "rmsDbfs": -21.97,
+  "rate": "+0%",
+  "listened": false
+}

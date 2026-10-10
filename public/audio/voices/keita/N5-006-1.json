@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-006",
+  "exampleIndex": 0,
+  "text": "私も学生です。",
+  "speechText": "私も学生です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 12,
+  "signature": "96d0e507218f97fd9baf21c06708f6b238e9b5b2556356ccdd59aebd27967d6e",
+  "src": "/audio/voices/keita/N5-006-1.mp3",
+  "srt": "/audio/voices/keita/N5-006-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "ab216e73b8d80eefdc972b599e30a741731607ab4ecda033b75561ab2990ce9f",
+  "peakPcm": 23034,
+  "rmsDbfs": -21.99,
+  "rate": "+0%",
+  "listened": false
+}

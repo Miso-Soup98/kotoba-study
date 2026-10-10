@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-080",
+  "exampleIndex": 1,
+  "text": "どこで切符を買ったらいいですか。",
+  "speechText": "どこで切符を買ったらいいですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 94,
+  "signature": "ae53f878a2e3d3da52a8f695d083aa8b840dfd8ac0d157b834f4b4a895a29146",
+  "src": "/audio/voices/nanami/N4-080-2.mp3",
+  "srt": "/audio/voices/nanami/N4-080-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "cb5f59973b9014501c2aa57dfb368a898a5568c0cd790eb87eb57540259441bc",
+  "peakPcm": 20501,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

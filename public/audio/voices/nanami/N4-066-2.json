@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-066",
+  "exampleIndex": 1,
+  "text": "子供はもう歩き始めました。",
+  "speechText": "子供はもう歩き始めました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 87,
+  "signature": "bda234c2492098391fa36b45063a95e9d3cbbc9ab9f0d47e2243c1d530d4ee30",
+  "src": "/audio/voices/nanami/N4-066-2.mp3",
+  "srt": "/audio/voices/nanami/N4-066-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "8747801260b833e72d5f6fcddf267f6159d79bbf77072bf1d20bad2743a6776b",
+  "peakPcm": 20867,
+  "rmsDbfs": -17.73,
+  "rate": "+0%",
+  "listened": false
+}

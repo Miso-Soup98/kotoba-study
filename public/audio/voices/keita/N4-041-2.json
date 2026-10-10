@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-041",
+  "exampleIndex": 1,
+  "text": "昨日は赤ちゃんに泣かれて、眠れませんでした。",
+  "speechText": "昨日は赤ちゃんに泣かれて、眠れませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 75,
+  "signature": "fdb96756b756209544cb3a451148e05621e929a18f84dca9ae670058589d00de",
+  "src": "/audio/voices/keita/N4-041-2.mp3",
+  "srt": "/audio/voices/keita/N4-041-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "050a6a4d728f4b2840d4f3020da6ae5dbbac58ec9f07ccfc2fdd9e97890b8a3f",
+  "peakPcm": 21559,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

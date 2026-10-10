@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-087",
+  "exampleIndex": 1,
+  "text": "この言葉って、どういう意味ですか。",
+  "speechText": "この言葉って、どういう意味ですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 98,
+  "signature": "179c0a56f529a8282e3e4a75013dfa8fe2604975442b8758cbec0085e09c98b8",
+  "src": "/audio/voices/nanami/N4-087-2.mp3",
+  "srt": "/audio/voices/nanami/N4-087-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "e91a319d8cbef632bd8230e1ea9242a70e258bdeb50a33ed775c9ece87fc69e2",
+  "peakPcm": 22371,
+  "rmsDbfs": -16.86,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-054",
+  "exampleIndex": 0,
+  "text": "窓が開きました。",
+  "speechText": "窓が開きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 81,
+  "signature": "3daf8b11a8530b53f5daacc243d3d14b8e161eea561bfa0031651a75e2807cd2",
+  "src": "/audio/voices/nanami/N4-054-1.mp3",
+  "srt": "/audio/voices/nanami/N4-054-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "24bcb1e1b2195d44a15d384cf2b2f80ad672e0c58a36981275c1951a296756ee",
+  "peakPcm": 20305,
+  "rmsDbfs": -19.24,
+  "rate": "+0%",
+  "listened": false
+}

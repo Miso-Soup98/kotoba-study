@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-057",
+  "exampleIndex": 0,
+  "text": "母が料理をしている間、私は掃除をしました。",
+  "speechText": "母が料理をしている間、私は掃除をしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 83,
+  "signature": "676f557d1fde02159b0ad9b56fc14718b7de6452eb73293d08878086241c557d",
+  "src": "/audio/voices/keita/N4-057-1.mp3",
+  "srt": "/audio/voices/keita/N4-057-1.srt",
+  "durationSeconds": 4.32,
+  "bytes": 25920,
+  "sha256": "81da57f5cef19d8fa5b92bd2cb5e7d385a622554f3e7f7083a25be90bb8d9a45",
+  "peakPcm": 22606,
+  "rmsDbfs": -20.89,
+  "rate": "+0%",
+  "listened": false
+}

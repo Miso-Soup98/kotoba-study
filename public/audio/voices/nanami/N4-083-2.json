@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-083",
+  "exampleIndex": 1,
+  "text": "駅まで歩くのに二十分かかります。",
+  "speechText": "駅まで歩くのに二十分かかります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 96,
+  "signature": "cb4123196f6750eaf510c6122aaa57880bcf9abe8440a5eb3a32ccc15f8dc50e",
+  "src": "/audio/voices/nanami/N4-083-2.mp3",
+  "srt": "/audio/voices/nanami/N4-083-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "3c3fe82893cbcba79f30ac8ddbf8bc6c736c2695c09d30f9387988321525f99a",
+  "peakPcm": 20906,
+  "rmsDbfs": -18.09,
+  "rate": "+0%",
+  "listened": false
+}

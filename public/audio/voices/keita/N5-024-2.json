@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-024",
+  "exampleIndex": 1,
+  "text": "家から駅まで歩きます。",
+  "speechText": "家から駅まで歩きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 21,
+  "signature": "0952d529e3558d2017ad2c8ba8028bde8512574f0f0af4f9e63146b1789fcbe2",
+  "src": "/audio/voices/keita/N5-024-2.mp3",
+  "srt": "/audio/voices/keita/N5-024-2.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "b70899a91d1cfa62e67496eff5df237811809d57b1c05315ea70a98982b1b71b",
+  "peakPcm": 21383,
+  "rmsDbfs": -21.88,
+  "rate": "+0%",
+  "listened": false
+}

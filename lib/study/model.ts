@@ -7,6 +7,8 @@ import { parsedPractice } from "../training/validation.ts";
 import type { PracticeRecord } from "../training/types.ts";
 import { parseListeningCard, type ListeningCard } from "./listening-card.ts";
 import { parseTrainingSession, type TrainingSession } from "../training/session.ts";
+import { parseVocabularyWord, vocabularyId, type VocabularyWord } from "../vocabulary/schema.ts";
+import { correctedVocabularySnapshot } from "../vocabulary/corrections.ts";
 export const ALGORITHM = "fsrs-5.4.2/default-0.9/no-fuzz";
 export const scheduler = fsrs({ request_retention: 0.9, enable_fuzz: false });
 export type CardState = {
@@ -21,6 +23,8 @@ export type Model = {
   trainingConflicts: number;
   tedLoops: Record<string, TedLoop | null>;
   tedWords: Record<string, Word>;
+  vocabularyWords: Record<string, VocabularyWord>;
+  vocabularyKnown: Record<string, boolean>;
   tedProgress: Record<string, number>;
   cards: Record<string, CardState>;
   bookmarks: Record<string, boolean>;
@@ -46,6 +50,8 @@ export function rebuild(events: StudyEvent[]): Model {
     trainingConflicts: 0,
     tedLoops: {},
     tedWords: {},
+    vocabularyWords: {},
+    vocabularyKnown: {},
     tedProgress: {},
     cards: {},
     bookmarks: {},
@@ -88,6 +94,16 @@ export function rebuild(events: StudyEvent[]): Model {
       const parsed = parseListeningCard(e.value);
       if (parsed.success && parsed.data.id === e.entity) result.listeningCards[e.entity] = parsed.data;
     }
+    if (e.kind === "vocabulary_word") {
+      const parsed = parseVocabularyWord(e.value);
+      // First saved content is an immutable snapshot, also available offline and on another device.
+      if (parsed.success && parsed.data.id === e.entity && !result.vocabularyWords[e.entity])
+        result.vocabularyWords[e.entity] = correctedVocabularySnapshot(parsed.data);
+    }
+    if (e.kind === "vocabulary_known" && vocabularyId.safeParse(e.entity).success && typeof e.value === "boolean") {
+      result.vocabularyKnown[e.entity] = e.value;
+      if (e.value && result.cards[e.entity]) result.cards[e.entity].enrolled = false;
+    }
     if (e.kind === "practice") {
       const parsed = parsedPractice(e.value);
       if (parsed.success) {
@@ -120,6 +136,7 @@ export function rebuild(events: StudyEvent[]): Model {
       } catch {}
     }
     if (e.kind === "enroll") {
+      if (e.value === true && vocabularyId.safeParse(e.entity).success) result.vocabularyKnown[e.entity] = false;
       const old = result.cards[e.entity];
       result.cards[e.entity] = {
         card: old?.card ?? createEmptyCard(new Date(e.at)),

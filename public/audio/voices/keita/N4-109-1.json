@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-109",
+  "exampleIndex": 0,
+  "text": "九時ごろに着きます。",
+  "speechText": "九時ごろに着きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 109,
+  "signature": "cb86063402c68bde4092bf2f446248870bf57bb2928d1669c194895cc6dbf61b",
+  "src": "/audio/voices/keita/N4-109-1.mp3",
+  "srt": "/audio/voices/keita/N4-109-1.srt",
+  "durationSeconds": 2.088,
+  "bytes": 12528,
+  "sha256": "b924f788319990731e32d6fdba21dc56ca6b831a3fe33204ae9c14404c54e730",
+  "peakPcm": 20922,
+  "rmsDbfs": -21.74,
+  "rate": "+0%",
+  "listened": false
+}

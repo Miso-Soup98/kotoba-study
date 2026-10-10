@@ -109,13 +109,14 @@ async function cleanOwnedWrapper(run) {
 }
 
 async function checkScenario(context, mode) {
+  const refusesBeforeStart = mode === 'preflight' || mode === 'commit-preflight';
   const directory = await mkdtemp(path.join(os.tmpdir(), 'kotoba-guard-' + mode + '-'));
   context.diagnostic('Temporary guard artifacts: ' + directory);
   const record = path.join(directory, 'fixture-pids.json');
   const run = launch(mode, directory, record);
   let fixture;
   try {
-    if (mode !== 'preflight') {
+    if (!refusesBeforeStart) {
       fixture = await until(async () => {
         const value = await readJsonIfPresent(record);
         if (!value && run.state.closed) throw new Error('Fixture did not start:\n' + run.output());
@@ -141,7 +142,10 @@ async function checkScenario(context, mode) {
       .trim().split(/\r?\n/).map(line => JSON.parse(line));
     const stop = events.find(event => event.kind === 'stopping' || event.kind === 'refused');
     const started = events.find(event => event.kind === 'started');
-    if (mode !== 'preflight') {
+    const preflight = events.find(event => event.kind === 'preflight');
+    assert.equal(preflight?.data.limits.maxCommitPercent, mode === 'commit-preflight' ? 1 : 0);
+    assert.equal(preflight?.data.limits.minAvailableMiB, mode === 'preflight' ? 1_048_576 : 2048);
+    if (!refusesBeforeStart) {
       assert.equal(started?.data.pid, fixture.parent);
       assert.equal(started?.data.jobMemoryLimitBytes, 256 * 1024 * 1024);
       assert.equal(started?.data.parentPid, run.wrapper.pid);
@@ -153,7 +157,7 @@ async function checkScenario(context, mode) {
     } else if (mode === 'timeout') {
       assert.equal(status.code, 124, run.output());
       assert.equal(stop?.data.reason, 'timeout');
-    } else if (mode === 'preflight') {
+    } else if (refusesBeforeStart) {
       assert.equal(status.code, 125, run.output());
       assert.equal(stop?.data.reason, 'system-pressure-before-start');
       assert.equal(await readJsonIfPresent(record), null, 'Refusal must happen before starting the fixture');
@@ -179,11 +183,12 @@ async function checkScenario(context, mode) {
 }
 
 const cases = [
-  ['normal root exit also removes its child', 'parent-exits'],
+  ['disabled commit cutoff permits normal exit and still removes its child', 'parent-exits'],
   ['deadline stops only the owned process tree', 'timeout'],
   ['force-closing the wrapper removes its guarded tree', 'wrapper-killed'],
   ['force-closing the guard triggers kernel Job cleanup', 'guard-killed'],
   ['system-pressure preflight refuses before creating children', 'preflight'],
+  ['explicit commit cutoff still refuses before creating children', 'commit-preflight'],
   ['process-output limit stops its tree and caps the retained file', 'output-limit'],
 ];
 for (const [name, mode] of cases) {

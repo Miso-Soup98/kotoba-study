@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-026",
+  "exampleIndex": 0,
+  "text": "先生に作文を見てもらいました。",
+  "speechText": "先生に作文を見てもらいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 67,
+  "signature": "43111158058941e5ae257713b423cdcbe727c70766d3e65568004a23687d6d44",
+  "src": "/audio/voices/nanami/N4-026-1.mp3",
+  "srt": "/audio/voices/nanami/N4-026-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "f53870fa04c8069468949c7b4b4165c27cf98f19396f29839f082762e0a07646",
+  "peakPcm": 21198,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

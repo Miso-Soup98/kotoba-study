@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-004",
+  "exampleIndex": 1,
+  "text": "毎晩、本を読みます。",
+  "speechText": "毎晩、本を読みます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 11,
+  "signature": "feb35c12d92aff0dc077426c7291a2783654ccd0375ba0c3c2b2430fc46e7d26",
+  "src": "/audio/voices/keita/N5-004-2.mp3",
+  "srt": "/audio/voices/keita/N5-004-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "ce70515cf251e6043322b291bf95df941dc665642d4c2beb2ff65eb9be1ef531",
+  "peakPcm": 27077,
+  "rmsDbfs": -21.37,
+  "rate": "+0%",
+  "listened": false
+}

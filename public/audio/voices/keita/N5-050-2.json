@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-050",
+  "exampleIndex": 1,
+  "text": "宿題はまだ終わっていません。",
+  "speechText": "宿題はまだ終わっていません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 34,
+  "signature": "15a702f3e12dccefdbcaa898bb5a58cb34368772c81a101f1a1d382320818873",
+  "src": "/audio/voices/keita/N5-050-2.mp3",
+  "srt": "/audio/voices/keita/N5-050-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "902d701706c00d64f2402fb0328e739e0a08e426fff2b38cc50e07d140746b3f",
+  "peakPcm": 24961,
+  "rmsDbfs": -19.4,
+  "rate": "+0%",
+  "listened": false
+}

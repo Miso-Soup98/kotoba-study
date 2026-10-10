@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-102",
+  "exampleIndex": 0,
+  "text": "危ない、止まれ！",
+  "speechText": "危ない、止まれ！",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 106,
+  "signature": "6a7d57e85cda7941d35387b9a9a3790b9d74781a9e3b0110dfe9276a4d7d7837",
+  "src": "/audio/voices/keita/N4-102-1.mp3",
+  "srt": "/audio/voices/keita/N4-102-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "f1b050bba70d33ecb6a1875a691138407a1e9548f9827aa9c0da02f6b1003641",
+  "peakPcm": 23291,
+  "rmsDbfs": -21.09,
+  "rate": "+0%",
+  "listened": false
+}

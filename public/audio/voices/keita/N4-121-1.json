@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-121",
+  "exampleIndex": 0,
+  "text": "名前、または番号を書いてください。",
+  "speechText": "名前、または番号を書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 115,
+  "signature": "000b6d56e48269f8c75509fd9fa6af75bc6c9792207dc58a5461032d8304099d",
+  "src": "/audio/voices/keita/N4-121-1.mp3",
+  "srt": "/audio/voices/keita/N4-121-1.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "46d36aa5854455cdaea4ca5d063d78516b2a86a5e793dd5fe1ad1d4adba66d2d",
+  "peakPcm": 23823,
+  "rmsDbfs": -20.61,
+  "rate": "+0%",
+  "listened": false
+}

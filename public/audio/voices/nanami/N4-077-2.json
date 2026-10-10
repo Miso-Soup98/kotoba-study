@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-077",
+  "exampleIndex": 1,
+  "text": "鳥のように空を飛びたいです。",
+  "speechText": "鳥のように空を飛びたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 93,
+  "signature": "4ccfb245b88995dc9ab77893265b3c367f90672e085ad856682ce20c517a5ae5",
+  "src": "/audio/voices/nanami/N4-077-2.mp3",
+  "srt": "/audio/voices/nanami/N4-077-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "50b45a2754b161cfc5ba6b556e4c0e3bc2df9d16551b0be82402993d97e3a2f3",
+  "peakPcm": 20780,
+  "rmsDbfs": -18.29,
+  "rate": "+0%",
+  "listened": false
+}

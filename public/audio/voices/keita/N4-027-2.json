@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-027",
+  "exampleIndex": 1,
+  "text": "この書類を確認していただけませんか。",
+  "speechText": "この書類を確認していただけませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 68,
+  "signature": "cc76469e7005152a64b2f776acd08b6c40cd8238a92bcc7e3664854c5406bfc1",
+  "src": "/audio/voices/keita/N4-027-2.mp3",
+  "srt": "/audio/voices/keita/N4-027-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "ee6c30e87823c986ab2fc69ef3b0197783812915a91fffa83cb6be3a2d51fef5",
+  "peakPcm": 21404,
+  "rmsDbfs": -20.13,
+  "rate": "+0%",
+  "listened": false
+}

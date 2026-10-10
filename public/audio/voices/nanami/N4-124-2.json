@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-124",
+  "exampleIndex": 1,
+  "text": "急に予定が変わりました。",
+  "speechText": "急に予定が変わりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 117,
+  "signature": "174a57149d5a590170898a7f893c943b9847f8055f351e43572e976bc0c12777",
+  "src": "/audio/voices/nanami/N4-124-2.mp3",
+  "srt": "/audio/voices/nanami/N4-124-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "c5a8e7709ab3dd0d1669d207c14c3def022c63273b9a025845208cc4bfe564d9",
+  "peakPcm": 21166,
+  "rmsDbfs": -18.38,
+  "rate": "+0%",
+  "listened": false
+}

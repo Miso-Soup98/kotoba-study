@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-004",
+  "exampleIndex": 0,
+  "text": "私は日本語が少し話せます。",
+  "speechText": "私は日本語が少し話せます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 56,
+  "signature": "2e84af38bf48f922f51422ed18901350c4e77c19c4b4e11854f1788a0b1553ec",
+  "src": "/audio/voices/nanami/N4-004-1.mp3",
+  "srt": "/audio/voices/nanami/N4-004-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "3546a754e74e151fd016b434f5c9d5004bb1034ca4bdc727591357bf97d8158e",
+  "peakPcm": 22064,
+  "rmsDbfs": -18.61,
+  "rate": "+0%",
+  "listened": false
+}

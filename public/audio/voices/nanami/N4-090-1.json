@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-090",
+  "exampleIndex": 0,
+  "text": "こちらでお待ちください。",
+  "speechText": "こちらでお待ちください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 99,
+  "signature": "295c460ce55bcd8a0f1995a6a4826a0ef67c712c33cb9ec06cde8be30af0a7e9",
+  "src": "/audio/voices/nanami/N4-090-1.mp3",
+  "srt": "/audio/voices/nanami/N4-090-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "51cc3bba9bf7769dedbef2adb5da7627bb097f0ad6d386e7ef2db2cff47bba33",
+  "peakPcm": 21885,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

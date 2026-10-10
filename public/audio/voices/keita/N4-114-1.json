@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-114",
+  "exampleIndex": 0,
+  "text": "間違いに気がつきました。",
+  "speechText": "間違いに気がつきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 112,
+  "signature": "f1c7169e368888c63ac30b0eb03c93182c24a65e7f60840ca2708ca9a250cfe4",
+  "src": "/audio/voices/keita/N4-114-1.mp3",
+  "srt": "/audio/voices/keita/N4-114-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "364ab66fa648a15031358860de7cd039e88930af0e65e5fd10e1d0f5c20b19c1",
+  "peakPcm": 21422,
+  "rmsDbfs": -21.64,
+  "rate": "+0%",
+  "listened": false
+}

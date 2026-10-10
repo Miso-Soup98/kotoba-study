@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-026",
+  "exampleIndex": 0,
+  "text": "ここで写真を撮らないでください。",
+  "speechText": "ここで写真を撮らないでください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 22,
+  "signature": "f31590808de1605cf9a7aec7f563e5359aed79027e34ecb4ba0bcbb4923d29f1",
+  "src": "/audio/voices/nanami/N5-026-1.mp3",
+  "srt": "/audio/voices/nanami/N5-026-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "2ea5ae21f8a75031ed48b3b940e597b2e9dbeb386a2efeacc9f5ecdb59169c3b",
+  "peakPcm": 20374,
+  "rmsDbfs": -18.43,
+  "rate": "+0%",
+  "listened": false
+}

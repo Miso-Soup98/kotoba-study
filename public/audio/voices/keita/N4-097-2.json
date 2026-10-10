@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-097",
+  "exampleIndex": 1,
+  "text": "弟は恥ずかしがりで、初めての人と話すのが苦手です。",
+  "speechText": "弟は恥ずかしがりで、初めての人と話すのが苦手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 103,
+  "signature": "aff0f2c410aef4467fdaa63234f1b54215c723871a236a0f806b10f0533b15ee",
+  "src": "/audio/voices/keita/N4-097-2.mp3",
+  "srt": "/audio/voices/keita/N4-097-2.srt",
+  "durationSeconds": 4.992,
+  "bytes": 29952,
+  "sha256": "8a1ef467c974040c3076eb47c6366ee91c886f77897ddf0d0290bb9af72b2b58",
+  "peakPcm": 24148,
+  "rmsDbfs": -21.14,
+  "rate": "+0%",
+  "listened": false
+}

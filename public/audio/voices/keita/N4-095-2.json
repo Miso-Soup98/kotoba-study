@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-095",
+  "exampleIndex": 1,
+  "text": "家族のために働いています。",
+  "speechText": "家族のために働いています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 102,
+  "signature": "95a79720fb458c72fc5618af2d3f8244b308a0825573d8fe73761f4f7001e168",
+  "src": "/audio/voices/keita/N4-095-2.mp3",
+  "srt": "/audio/voices/keita/N4-095-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "59293ed4c1414208ba51733bee38f1833b4a35c2f8cf5f2e4c0f3244242f62c4",
+  "peakPcm": 19433,
+  "rmsDbfs": -21.99,
+  "rate": "+0%",
+  "listened": false
+}

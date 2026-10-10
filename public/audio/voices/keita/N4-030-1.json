@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-030",
+  "exampleIndex": 0,
+  "text": "この店は安いし、おいしいです。",
+  "speechText": "この店は安いし、おいしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 69,
+  "signature": "d36672becbb9b0c2366a64be66c9498dfb3ebc0902e5d7fe73ee895edef85874",
+  "src": "/audio/voices/keita/N4-030-1.mp3",
+  "srt": "/audio/voices/keita/N4-030-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "1b664298b8e20747bdd6621e9b9336e9a57b04bb2a63f31b2bca5b7be789b48f",
+  "peakPcm": 22092,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

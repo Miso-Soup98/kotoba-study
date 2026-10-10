@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-124",
+  "exampleIndex": 0,
+  "text": "急に風が強くなりました。",
+  "speechText": "急に風が強くなりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 117,
+  "signature": "5d1ff9778d47d7e36ad37049f806b10eea069e80388610f3d272480d9b0ade68",
+  "src": "/audio/voices/nanami/N4-124-1.mp3",
+  "srt": "/audio/voices/nanami/N4-124-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "b9e40c6f641a477888ff33822957bfb68ac07ac37e7314c63cd973121693bc73",
+  "peakPcm": 21093,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-030",
+  "exampleIndex": 0,
+  "text": "新しい辞書が欲しいです。",
+  "speechText": "新しい辞書が欲しいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 24,
+  "signature": "7ef782e74ab91b75ff33839fc3515cafa2e3f7167ed96cbf41ff20df8016b98c",
+  "src": "/audio/voices/nanami/N5-030-1.mp3",
+  "srt": "/audio/voices/nanami/N5-030-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "7a839a766bfe67507fb4c0d8c8097e722157e0326a705b5a651da253c4cd1904",
+  "peakPcm": 21230,
+  "rmsDbfs": -19.2,
+  "rate": "+0%",
+  "listened": false
+}

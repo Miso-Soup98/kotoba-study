@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-088",
+  "exampleIndex": 1,
+  "text": "こちらにお座りになりますか。",
+  "speechText": "こちらにお座りになりますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 98,
+  "signature": "d023e5061b88522a37ec6317cb7ab0d42fb72cc0cfa3b14853b3c8ddfbc8429d",
+  "src": "/audio/voices/keita/N4-088-2.mp3",
+  "srt": "/audio/voices/keita/N4-088-2.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "6c840d29aa9b4ce9e28c014a3608e4db4a22bb357b91818b6de1261140bc1a7e",
+  "peakPcm": 21652,
+  "rmsDbfs": -19.94,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-063",
+  "exampleIndex": 0,
+  "text": "駅まで歩いていきます。",
+  "speechText": "駅まで歩いていきます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 86,
+  "signature": "716eb19e8a6d4010da4570e9c8a94bb0936055c07800430f57926e56b33296b9",
+  "src": "/audio/voices/nanami/N4-063-1.mp3",
+  "srt": "/audio/voices/nanami/N4-063-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "f2e6216174a3ece325667411cb53e7f6a60b11ee7d1cca3e29f611ceb6ccb55f",
+  "peakPcm": 20156,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

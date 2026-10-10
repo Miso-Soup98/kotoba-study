@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-017",
+  "exampleIndex": 0,
+  "text": "昨日は雨でした。",
+  "speechText": "昨日は雨でした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 18,
+  "signature": "1e53c74edbbec30033947cb7cdb54722481fdf8d094e58f3b901bda96f0a280b",
+  "src": "/audio/voices/nanami/N5-017-1.mp3",
+  "srt": "/audio/voices/nanami/N5-017-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "997e2517826d09f1ca024f56e055be04fb360d2eaba086ee01a873b7aab05c86",
+  "peakPcm": 20375,
+  "rmsDbfs": -18.77,
+  "rate": "+0%",
+  "listened": false
+}

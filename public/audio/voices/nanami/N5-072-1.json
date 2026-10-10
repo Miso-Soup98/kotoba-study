@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-072",
+  "exampleIndex": 0,
+  "text": "分からないことは、何でも聞いてください。",
+  "speechText": "分からないことは、何でも聞いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 45,
+  "signature": "a4bda5a2bcf43147b4f5436aa4e7c39e197db8d6d6492fa4d22078598bc2c7ea",
+  "src": "/audio/voices/nanami/N5-072-1.mp3",
+  "srt": "/audio/voices/nanami/N5-072-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "ea56a6526db3a94f8d42e004e5c57dcaf5a968e181f58dcb688a44a607bee7c4",
+  "peakPcm": 20470,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

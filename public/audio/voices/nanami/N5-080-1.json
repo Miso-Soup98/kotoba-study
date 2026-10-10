@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-080",
+  "exampleIndex": 0,
+  "text": "りんごを三つ買いました。",
+  "speechText": "りんごを三つ買いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 49,
+  "signature": "e76dd3d2d90a2487d062e93aeba0f67d2f5d23d15d57da299209c5d46d8607d6",
+  "src": "/audio/voices/nanami/N5-080-1.mp3",
+  "srt": "/audio/voices/nanami/N5-080-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "f93f81781c43623830244d35fea11807df6dd7352d5e7103bd667027350c4e93",
+  "peakPcm": 20178,
+  "rmsDbfs": -18.8,
+  "rate": "+0%",
+  "listened": false
+}

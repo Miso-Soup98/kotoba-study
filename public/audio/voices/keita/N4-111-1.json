@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-111",
+  "exampleIndex": 0,
+  "text": "昨日は十時間も寝ました。",
+  "speechText": "昨日は十時間も寝ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 110,
+  "signature": "7a485ff299bd00bb6b335d3d69c84f591e924ef2d4ce207f8341622318e9a2e1",
+  "src": "/audio/voices/keita/N4-111-1.mp3",
+  "srt": "/audio/voices/keita/N4-111-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "72cfde92ff1ff1210940c6cebbab87c23582555f74bbd3b88907da05e3d729d2",
+  "peakPcm": 21035,
+  "rmsDbfs": -19.64,
+  "rate": "+0%",
+  "listened": false
+}

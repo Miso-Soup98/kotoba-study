@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-034",
+  "exampleIndex": 0,
+  "text": "この料理はおいしそうです。",
+  "speechText": "この料理はおいしそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 71,
+  "signature": "f02bd8ad08a10d6e1e568b8a2b65b6abd8f4b9ac114a921e5c7324a61f50f533",
+  "src": "/audio/voices/nanami/N4-034-1.mp3",
+  "srt": "/audio/voices/nanami/N4-034-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "3cb805a9d5c314efda80e2287e918b2152e5dac89bf8837f0a9c6f10be483f06",
+  "peakPcm": 20604,
+  "rmsDbfs": -17.44,
+  "rate": "+0%",
+  "listened": false
+}

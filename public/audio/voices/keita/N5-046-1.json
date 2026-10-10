@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-046",
+  "exampleIndex": 0,
+  "text": "昼ご飯を食べに行きます。",
+  "speechText": "昼ご飯を食べに行きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 32,
+  "signature": "ca48e64b0024435818bd376634d9d10ea6c7f68c3cc05d0965dc8c6edb00b1d3",
+  "src": "/audio/voices/keita/N5-046-1.mp3",
+  "srt": "/audio/voices/keita/N5-046-1.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "adc0a80b04fa5c412e82719fd08d75b08a5daeb58ceda1e199a45fa84a2d45e4",
+  "peakPcm": 21353,
+  "rmsDbfs": -21.06,
+  "rate": "+0%",
+  "listened": false
+}

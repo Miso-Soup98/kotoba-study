@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-088",
+  "exampleIndex": 0,
+  "text": "先生はもうお帰りになりました。",
+  "speechText": "先生はもうお帰りになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 98,
+  "signature": "9cab5b248bb90206e7f1f87b61ad707bdd43c1b55dbca78c7b058214e21ae891",
+  "src": "/audio/voices/nanami/N4-088-1.mp3",
+  "srt": "/audio/voices/nanami/N4-088-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "e573d38eb3d37873e899d2dc30044626ac79bd9cd13cc7f4c245a555ad7f8726",
+  "peakPcm": 20620,
+  "rmsDbfs": -17.01,
+  "rate": "+0%",
+  "listened": false
+}

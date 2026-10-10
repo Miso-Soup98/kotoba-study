@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-111",
+  "exampleIndex": 0,
+  "text": "昨日は十時間も寝ました。",
+  "speechText": "昨日は十時間も寝ました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 110,
+  "signature": "dc65826708f27f6636386f13b5a7cf5f96e683e6c876e1b10405f8fa668d32da",
+  "src": "/audio/voices/nanami/N4-111-1.mp3",
+  "srt": "/audio/voices/nanami/N4-111-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "01577bf87b8632a27ee536792014b70a2966ff79c3303fb740af8e587c7bebe8",
+  "peakPcm": 20354,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

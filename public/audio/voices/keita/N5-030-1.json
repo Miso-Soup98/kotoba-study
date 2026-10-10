@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-030",
+  "exampleIndex": 0,
+  "text": "新しい辞書が欲しいです。",
+  "speechText": "新しい辞書が欲しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 24,
+  "signature": "03f568df8b170b1333953da3be57111884e6dc9993bb79b7ade7d62f4e280521",
+  "src": "/audio/voices/keita/N5-030-1.mp3",
+  "srt": "/audio/voices/keita/N5-030-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "7f7f961efd78f6c493749cb9eacc13c42bb3d42d1899ebb2ee15a1dc62e6fcc6",
+  "peakPcm": 25243,
+  "rmsDbfs": -21.54,
+  "rate": "+0%",
+  "listened": false
+}

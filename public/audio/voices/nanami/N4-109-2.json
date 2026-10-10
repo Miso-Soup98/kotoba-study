@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-109",
+  "exampleIndex": 1,
+  "text": "学生のころ、よく泳ぎました。",
+  "speechText": "学生のころ、よく泳ぎました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 109,
+  "signature": "f91b853cd95b22ee0dc28e9eb50c30621b7f0793af965c03303d1bdea62b1014",
+  "src": "/audio/voices/nanami/N4-109-2.mp3",
+  "srt": "/audio/voices/nanami/N4-109-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "ff4f74d8d3622ff612e7f762b27cefe9595ea33bdfd6d776dc8d21e12a1e04ea",
+  "peakPcm": 21552,
+  "rmsDbfs": -17.1,
+  "rate": "+0%",
+  "listened": false
+}

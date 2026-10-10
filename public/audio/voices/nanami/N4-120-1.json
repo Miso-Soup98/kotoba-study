@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-120",
+  "exampleIndex": 0,
+  "text": "この店は安いです。それに、おいしいです。",
+  "speechText": "この店は安いです。それに、おいしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 115,
+  "signature": "bdf15de38c67724536ba99714c8ac74bc9d9fd2b2a85e054b886776864dcae64",
+  "src": "/audio/voices/nanami/N4-120-1.mp3",
+  "srt": "/audio/voices/nanami/N4-120-1.srt",
+  "durationSeconds": 4.896,
+  "bytes": 29376,
+  "sha256": "a7706e75c1129678d24a22f90b5649c1602ab08bd111faa6cf6c2f25db8cd64e",
+  "peakPcm": 20228,
+  "rmsDbfs": -17.89,
+  "rate": "+0%",
+  "listened": false
+}

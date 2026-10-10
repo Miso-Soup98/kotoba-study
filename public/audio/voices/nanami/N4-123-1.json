@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-123",
+  "exampleIndex": 0,
+  "text": "ぜひ遊びに来てください。",
+  "speechText": "ぜひ遊びに来てください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 116,
+  "signature": "b85ed3dec8b068496674b70f916e0ba46dcd1cac65c10b820706537829b54591",
+  "src": "/audio/voices/nanami/N4-123-1.mp3",
+  "srt": "/audio/voices/nanami/N4-123-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "5e14c9f3485c7f08b02cf2b49d0a7cd28966375328adc2668932685769a7906b",
+  "peakPcm": 21118,
+  "rmsDbfs": -19.27,
+  "rate": "+0%",
+  "listened": false
+}

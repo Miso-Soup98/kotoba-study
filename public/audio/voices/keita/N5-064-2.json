@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-064",
+  "exampleIndex": 1,
+  "text": "集合は九時にしましょう。",
+  "speechText": "集合は九時にしましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 41,
+  "signature": "933ad2074fd17c29a2fb1e3366085f6e56c5bb788d61233827c2c8ddcb24482f",
+  "src": "/audio/voices/keita/N5-064-2.mp3",
+  "srt": "/audio/voices/keita/N5-064-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "d8d5d0be4126842065bed5ce6680ada838cb883fb6e82a055d57f572a5687149",
+  "peakPcm": 21848,
+  "rmsDbfs": -19.45,
+  "rate": "+0%",
+  "listened": false
+}

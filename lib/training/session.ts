@@ -2,7 +2,7 @@ import { z } from "zod";
 import type { PracticeRecord, Question } from "./types.ts";
 
 export const trainingMode = z.enum(["practice", "timed", "mistakes", "diagnostic", "checkpoint"]);
-export const QUESTION_SET_VERSION = "n2-2026-09-v05";
+export const QUESTION_SET_VERSION = "n2-2026-10-r1";
 export const trainingSessionSchema = z.object({
   id: z.string().uuid(),
   mode: trainingMode,

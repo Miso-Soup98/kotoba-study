@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-101",
+  "exampleIndex": 1,
+  "text": "危ないから、動くな。",
+  "speechText": "危ないから、動くな。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 105,
+  "signature": "af962f5681915415b44f974b2037c2d00e11b0b0da78775a2672a9e8ec159704",
+  "src": "/audio/voices/nanami/N4-101-2.mp3",
+  "srt": "/audio/voices/nanami/N4-101-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "ad8c47258f9ed602d52e6e48891301b14008c693ecf49f069926ccc41d9c64a4",
+  "peakPcm": 20823,
+  "rmsDbfs": -18.51,
+  "rate": "+0%",
+  "listened": false
+}

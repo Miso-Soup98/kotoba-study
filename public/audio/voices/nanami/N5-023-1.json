@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-023",
+  "exampleIndex": 0,
+  "text": "パンと卵を買います。",
+  "speechText": "パンと卵を買います。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 21,
+  "signature": "3fd9bea17c0d415472395461e78e05711d625df3ce7bfb7f899619fb14fc7a68",
+  "src": "/audio/voices/nanami/N5-023-1.mp3",
+  "srt": "/audio/voices/nanami/N5-023-1.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "81d3f37b8536e39d710e260e8fd0a144d95273950445f43271a1d617d232a7fa",
+  "peakPcm": 21297,
+  "rmsDbfs": -18.06,
+  "rate": "+0%",
+  "listened": false
+}

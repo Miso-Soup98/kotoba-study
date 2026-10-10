@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-065",
+  "exampleIndex": 0,
+  "text": "昨日の夜は本を読んでいました。",
+  "speechText": "昨日の夜は本を読んでいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 87,
+  "signature": "67aecd522f7cf520013e94a834555fe9a51c11e364300f60955858fa4eaab609",
+  "src": "/audio/voices/keita/N4-065-1.mp3",
+  "srt": "/audio/voices/keita/N4-065-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "fa87e1e6e6b11be0d044c64547a8614fb5bada4bb82c34d8b8b47094aa7e6841",
+  "peakPcm": 17510,
+  "rmsDbfs": -19.35,
+  "rate": "+0%",
+  "listened": false
+}

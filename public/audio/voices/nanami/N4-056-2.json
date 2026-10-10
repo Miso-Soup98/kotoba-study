@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-056",
+  "exampleIndex": 1,
+  "text": "この部屋は広くなくて、少し暗いです。",
+  "speechText": "この部屋は広くなくて、少し暗いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 82,
+  "signature": "f013bc46de785b1b55c9595b7909abc40c89adf164efcfd169cba2b25b9c9281",
+  "src": "/audio/voices/nanami/N4-056-2.mp3",
+  "srt": "/audio/voices/nanami/N4-056-2.srt",
+  "durationSeconds": 3.864,
+  "bytes": 23184,
+  "sha256": "6e47fd0afc183333c70ccfaed8f1b8271a14c33d8aee7428d8d931f0f72dfd74",
+  "peakPcm": 20815,
+  "rmsDbfs": -17.65,
+  "rate": "+0%",
+  "listened": false
+}

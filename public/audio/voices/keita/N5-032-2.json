@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-032",
+  "exampleIndex": 1,
+  "text": "明日、また話しましょう。",
+  "speechText": "明日、また話しましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 25,
+  "signature": "98da0c5933bd2895657c2fc884bb8fd53ab407c5304fbb31995ab644d76a034e",
+  "src": "/audio/voices/keita/N5-032-2.mp3",
+  "srt": "/audio/voices/keita/N5-032-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "83ee0a68735898075ad8b2140f34096da12f5d4a6720e58a637729f6599b1c53",
+  "peakPcm": 24419,
+  "rmsDbfs": -22.98,
+  "rate": "+0%",
+  "listened": false
+}

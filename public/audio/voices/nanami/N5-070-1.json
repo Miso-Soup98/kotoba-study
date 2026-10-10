@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-070",
+  "exampleIndex": 0,
+  "text": "どうして日本語を勉強していますか。",
+  "speechText": "どうして日本語を勉強していますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 44,
+  "signature": "c15ccfad8805678827138c88781d429ce1315987e39ac23652df0a5f9ecbb97b",
+  "src": "/audio/voices/nanami/N5-070-1.mp3",
+  "srt": "/audio/voices/nanami/N5-070-1.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "ed0fcc63a38aef13f13a2fdca7f9f29ba176316ca4e8d705d2509a531dc8b12a",
+  "peakPcm": 20613,
+  "rmsDbfs": -16.76,
+  "rate": "+0%",
+  "listened": false
+}

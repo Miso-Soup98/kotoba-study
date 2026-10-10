@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-068",
+  "exampleIndex": 0,
+  "text": "この本は昨日読み終わりました。",
+  "speechText": "この本は昨日読み終わりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 88,
+  "signature": "f0a1c15178d05142549a80da82a349d5c77fdeb821be7bf269bf3353dca584cd",
+  "src": "/audio/voices/nanami/N4-068-1.mp3",
+  "srt": "/audio/voices/nanami/N4-068-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "a6909a1cbf1e119d5069d3359542f897ca711021000d2f43f32f98e4196e4a77",
+  "peakPcm": 22427,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

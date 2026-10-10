@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-018",
+  "exampleIndex": 0,
+  "text": "この靴を履いてみてもいいですか。",
+  "speechText": "この靴を履いてみてもいいですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 63,
+  "signature": "379aa181e7687b31e1a51d6c3e18deb94e5694f03d74bd2954f8bac0cef665b4",
+  "src": "/audio/voices/nanami/N4-018-1.mp3",
+  "srt": "/audio/voices/nanami/N4-018-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "8aede6ff2d937d37c9b918b0da9cb79873c687c04d435fb863108789b1bef230",
+  "peakPcm": 23217,
+  "rmsDbfs": -17.95,
+  "rate": "+0%",
+  "listened": false
+}

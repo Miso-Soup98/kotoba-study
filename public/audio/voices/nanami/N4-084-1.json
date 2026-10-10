@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-084",
+  "exampleIndex": 0,
+  "text": "私が来たのは昨日です。",
+  "speechText": "私が来たのは昨日です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 96,
+  "signature": "2914d6027ff6149dae2265093c1e197dc8b26da151638aaf9d0982f103925af2",
+  "src": "/audio/voices/nanami/N4-084-1.mp3",
+  "srt": "/audio/voices/nanami/N4-084-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "d9de80c4fda5021fa7b03c839288dd25cd3e9e2bd61e1e1ca8a0724cb618a045",
+  "peakPcm": 21948,
+  "rmsDbfs": -18.58,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-012",
+  "exampleIndex": 0,
+  "text": "一人で旅行したことがあります。",
+  "speechText": "一人で旅行したことがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 60,
+  "signature": "622f8c45ddfcc32448910099bdd2f69098cbb14e234b1c7037c0ef02326451af",
+  "src": "/audio/voices/keita/N4-012-1.mp3",
+  "srt": "/audio/voices/keita/N4-012-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "3d8667030a2e89b04d5d73fd2c809c37ff207c78fad71622c97b3c9ddc1d4c8a",
+  "peakPcm": 21720,
+  "rmsDbfs": -20.96,
+  "rate": "+0%",
+  "listened": false
+}

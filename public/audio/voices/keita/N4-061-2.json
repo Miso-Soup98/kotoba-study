@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-061",
+  "exampleIndex": 1,
+  "text": "買ったばかりの傘をなくしました。",
+  "speechText": "買ったばかりの傘をなくしました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 85,
+  "signature": "3a7e9914709bb1f2272ae6591eb56b2f655373812275f4658cf2c43bbc97e7d2",
+  "src": "/audio/voices/keita/N4-061-2.mp3",
+  "srt": "/audio/voices/keita/N4-061-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "89326d10c8548e93118eff934fe8642949adacc8298d94d103b938102f3b87ac",
+  "peakPcm": 23059,
+  "rmsDbfs": -22.21,
+  "rate": "+0%",
+  "listened": false
+}

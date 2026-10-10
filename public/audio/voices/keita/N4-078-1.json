@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-078",
+  "exampleIndex": 0,
+  "text": "今日は春らしい天気です。",
+  "speechText": "今日は春らしい天気です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 93,
+  "signature": "746b3e6a0dea4db9ba392fde4635824161fe1a3bd06e7b46181bba76cd241b3a",
+  "src": "/audio/voices/keita/N4-078-1.mp3",
+  "srt": "/audio/voices/keita/N4-078-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "35ed067f05385cea9855fecd4b016d1e87ad1da1e61a7d70e06033452609e91d",
+  "peakPcm": 21065,
+  "rmsDbfs": -20.67,
+  "rate": "+0%",
+  "listened": false
+}

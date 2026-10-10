@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-116",
+  "exampleIndex": 0,
+  "text": "この山の高さは千メートルです。",
+  "speechText": "この山の高さは千メートルです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 113,
+  "signature": "8b178dfe30eaa5a56e89b0cafd6c762bd5fdf3fbe9efe812a826afb6597919cc",
+  "src": "/audio/voices/keita/N4-116-1.mp3",
+  "srt": "/audio/voices/keita/N4-116-1.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "2f4af3b632a3df48cb407544cee16100f3807e70e624980d83d7e4470adcec51",
+  "peakPcm": 21491,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

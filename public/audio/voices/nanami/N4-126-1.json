@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-126",
+  "exampleIndex": 0,
+  "text": "さすが先生ですね。説明が分かりやすいです。",
+  "speechText": "さすが先生ですね。説明が分かりやすいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 118,
+  "signature": "c6d71027f1c7f055f826030b4d9aa5b843fc45efadb8844e36d0f68d17427713",
+  "src": "/audio/voices/nanami/N4-126-1.mp3",
+  "srt": "/audio/voices/nanami/N4-126-1.srt",
+  "durationSeconds": 5.16,
+  "bytes": 30960,
+  "sha256": "7ed08ab570f99f040c9c0e17bebcc98b06298737c60729cff2077db98cd5b8c9",
+  "peakPcm": 20600,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

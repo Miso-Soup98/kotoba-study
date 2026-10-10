@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-021",
+  "exampleIndex": 0,
+  "text": "友達に本をあげました。",
+  "speechText": "友達に本をあげました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 65,
+  "signature": "838e5deef0dab877f5ba775a08928c7d4f65fec7e5854483578f5e415fc32f5c",
+  "src": "/audio/voices/nanami/N4-021-1.mp3",
+  "srt": "/audio/voices/nanami/N4-021-1.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "cca85b0a41318e1382c1bd7cec6a8e66a493fe93a1ad04d47f7c9975b49fedcb",
+  "peakPcm": 22141,
+  "rmsDbfs": -18.32,
+  "rate": "+0%",
+  "listened": false
+}

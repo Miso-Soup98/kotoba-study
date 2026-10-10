@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-054",
+  "exampleIndex": 1,
+  "text": "どの教室で勉強しますか。",
+  "speechText": "どの教室で勉強しますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 36,
+  "signature": "27c5ef2b3da08b48d30767833617e0caa00ca88d5d17631d19ca01162aae9fea",
+  "src": "/audio/voices/keita/N5-054-2.mp3",
+  "srt": "/audio/voices/keita/N5-054-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "50e72a5c35988302cebfc6dad640bb01785730048795146617eacd68448fef34",
+  "peakPcm": 22421,
+  "rmsDbfs": -20.7,
+  "rate": "+0%",
+  "listened": false
+}

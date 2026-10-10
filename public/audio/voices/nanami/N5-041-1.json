@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-041",
+  "exampleIndex": 0,
+  "text": "今日は頭が痛いんです。",
+  "speechText": "今日は頭が痛いんです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 30,
+  "signature": "023dcc1097267830a0a75f392b2e9050b88bd5edb52e3e883ad45b0e929dc5cf",
+  "src": "/audio/voices/nanami/N5-041-1.mp3",
+  "srt": "/audio/voices/nanami/N5-041-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "b445f42a2acb4bc2a8c7654bac01a55f92c02ae7962cdd86fbd57c1db0ba64bb",
+  "peakPcm": 21988,
+  "rmsDbfs": -17.26,
+  "rate": "+0%",
+  "listened": false
+}

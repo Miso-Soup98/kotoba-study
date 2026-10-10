@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-027",
+  "exampleIndex": 0,
+  "text": "もう一度説明していただけませんか。",
+  "speechText": "もう一度説明していただけませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 68,
+  "signature": "b2712c394c5e8039a00cdbda47736eb0575524d9054040c449ffd596d6779aad",
+  "src": "/audio/voices/nanami/N4-027-1.mp3",
+  "srt": "/audio/voices/nanami/N4-027-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "a92b925cd941a0259ea96dc2da6893b39b1915f58968b72ee533ccddc0e8859c",
+  "peakPcm": 20534,
+  "rmsDbfs": -18.36,
+  "rate": "+0%",
+  "listened": false
+}

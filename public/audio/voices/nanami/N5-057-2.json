@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-057",
+  "exampleIndex": 1,
+  "text": "休みの日は掃除や洗濯をします。",
+  "speechText": "休みの日は掃除や洗濯をします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 38,
+  "signature": "8d9162d4879a43ed3f662ca1596613296d9e4bc8b0c5912315ded212c02e708c",
+  "src": "/audio/voices/nanami/N5-057-2.mp3",
+  "srt": "/audio/voices/nanami/N5-057-2.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "53d185b2cb53a00327be95b74ea05fd492860301879f1bc8492f7ac7e138599a",
+  "peakPcm": 21695,
+  "rmsDbfs": -17.61,
+  "rate": "+0%",
+  "listened": false
+}

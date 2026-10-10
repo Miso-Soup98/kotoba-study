@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-072",
+  "exampleIndex": 1,
+  "text": "声だけで、誰か分かりました。",
+  "speechText": "声だけで、誰か分かりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 90,
+  "signature": "b12d5d5f754cbd7b42364637c066666597d8c4025094ac27ce63ecc84ecb9b07",
+  "src": "/audio/voices/nanami/N4-072-2.mp3",
+  "srt": "/audio/voices/nanami/N4-072-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "7a4c01765f60d7a7a644c9478238609c2c67af4e38e091e536d39a4ba8873394",
+  "peakPcm": 22878,
+  "rmsDbfs": -18.0,
+  "rate": "+0%",
+  "listened": false
+}

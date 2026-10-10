@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-045",
+  "exampleIndex": 1,
+  "text": "もう遅いから、帰ろう。",
+  "speechText": "もう遅いから、帰ろう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 77,
+  "signature": "d852fd4dc6206f20622f4e2d6602d92b7bea59659c037de24ea93040d4864f90",
+  "src": "/audio/voices/nanami/N4-045-2.mp3",
+  "srt": "/audio/voices/nanami/N4-045-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "5eb99c682aeeaade263afb8ff5cff8508ee6a35fe08c5d6f97bd69fdaff58d53",
+  "peakPcm": 19707,
+  "rmsDbfs": -17.53,
+  "rate": "+0%",
+  "listened": false
+}

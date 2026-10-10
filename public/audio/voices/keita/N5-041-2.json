@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-041",
+  "exampleIndex": 1,
+  "text": "どうして遅れたんですか。",
+  "speechText": "どうして遅れたんですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 30,
+  "signature": "0b9e54048558fa7c26fbb08577a584e930553537ae9d62ce37e99162b896f402",
+  "src": "/audio/voices/keita/N5-041-2.mp3",
+  "srt": "/audio/voices/keita/N5-041-2.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "c8231974e04ea112a16874ebbab733718fdb29e8a354edc290b4b938feb21002",
+  "peakPcm": 22495,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-118",
+  "exampleIndex": 1,
+  "text": "準備はほぼ終わったと言ってもいいでしょう。",
+  "speechText": "準備はほぼ終わったと言ってもいいでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 114,
+  "signature": "bc920b67228ee1bebe94220af25c22ca92b46d89b7594568a57e2665cddc43c7",
+  "src": "/audio/voices/nanami/N4-118-2.mp3",
+  "srt": "/audio/voices/nanami/N4-118-2.srt",
+  "durationSeconds": 3.696,
+  "bytes": 22176,
+  "sha256": "576d9adac7b02cdc77da791a3ceb5ea7ca61062a9a201110eb72d9d58e9084d9",
+  "peakPcm": 21839,
+  "rmsDbfs": -17.29,
+  "rate": "+0%",
+  "listened": false
+}

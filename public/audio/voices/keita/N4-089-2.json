@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-089",
+  "exampleIndex": 1,
+  "text": "何を召し上がりますか。",
+  "speechText": "何を召し上がりますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 99,
+  "signature": "cef19c29fac185fc830dc8f23cfdd89df018edefd22024172abf4f18d83d4990",
+  "src": "/audio/voices/keita/N4-089-2.mp3",
+  "srt": "/audio/voices/keita/N4-089-2.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "a1b0685b516f3410bc2332d3fa36e493806c57f4f848ab1350b0a546f5cc7d37",
+  "peakPcm": 23409,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

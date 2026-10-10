@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-120",
+  "exampleIndex": 1,
+  "text": "今日は忙しいです。それに、少し疲れています。",
+  "speechText": "今日は忙しいです。それに、少し疲れています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 115,
+  "signature": "f29a3b7612435e572f0b4e1fd6b42278344018525eca1ca8617e3d4155693d71",
+  "src": "/audio/voices/nanami/N4-120-2.mp3",
+  "srt": "/audio/voices/nanami/N4-120-2.srt",
+  "durationSeconds": 5.52,
+  "bytes": 33120,
+  "sha256": "847482e2ccc0a37a54b45ee91e06fe3802cb3a0007a19afb006d8af41de41a19",
+  "peakPcm": 22244,
+  "rmsDbfs": -17.64,
+  "rate": "+0%",
+  "listened": false
+}

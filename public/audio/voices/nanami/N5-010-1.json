@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-010",
+  "exampleIndex": 0,
+  "text": "食堂で昼ご飯を食べます。",
+  "speechText": "食堂で昼ご飯を食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 14,
+  "signature": "f23fa88cc1b127471faba92a760776e91f39a44aacc5ea344f3ff519f69366d0",
+  "src": "/audio/voices/nanami/N5-010-1.mp3",
+  "srt": "/audio/voices/nanami/N5-010-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "7336b7c1c177b8de532b147019d09e36cc529ec37ee052d470b31fad0f4885be",
+  "peakPcm": 20783,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

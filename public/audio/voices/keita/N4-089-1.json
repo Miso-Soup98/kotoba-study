@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-089",
+  "exampleIndex": 0,
+  "text": "先生は研究室にいらっしゃいます。",
+  "speechText": "先生は研究室にいらっしゃいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 99,
+  "signature": "804523a3af135766c0529b4bf81355bcf03b588e4e5931ebccccf86f3a5f9e90",
+  "src": "/audio/voices/keita/N4-089-1.mp3",
+  "srt": "/audio/voices/keita/N4-089-1.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "27d3e9d27c7370de6c0860d0767f035d5124c0879e182b5dab8d71bfb1db04d5",
+  "peakPcm": 20454,
+  "rmsDbfs": -20.74,
+  "rate": "+0%",
+  "listened": false
+}

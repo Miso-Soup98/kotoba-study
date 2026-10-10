@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-061",
+  "exampleIndex": 0,
+  "text": "先月、日本に来たばかりです。",
+  "speechText": "先月、日本に来たばかりです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 85,
+  "signature": "609d6ea92a92c4c3b1ca55afeb54ca9c76dc0b9385cf90ad267159915a686e87",
+  "src": "/audio/voices/nanami/N4-061-1.mp3",
+  "srt": "/audio/voices/nanami/N4-061-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "b2ae4b309c5b7a6c4fc4691b4ed89a9c6fbdd3491d79dc555b5a272bf08b21d8",
+  "peakPcm": 20732,
+  "rmsDbfs": -18.44,
+  "rate": "+0%",
+  "listened": false
+}

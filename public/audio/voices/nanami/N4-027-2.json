@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-027",
+  "exampleIndex": 1,
+  "text": "この書類を確認していただけませんか。",
+  "speechText": "この書類を確認していただけませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 68,
+  "signature": "772ae765c50a44bed46d38440c33f82d8fce46c2b09ce98449d92eacc016b480",
+  "src": "/audio/voices/nanami/N4-027-2.mp3",
+  "srt": "/audio/voices/nanami/N4-027-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "9495793c37ce1fa90966735c459ba9bc6980dde2bac7c0fcd2a2754baaca9d7c",
+  "peakPcm": 22164,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

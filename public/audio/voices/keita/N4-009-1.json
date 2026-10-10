@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-009",
+  "exampleIndex": 0,
+  "text": "雨が降っても、試合はあります。",
+  "speechText": "雨が降っても、試合はあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 59,
+  "signature": "254120fa6adec329d29473008b479285be983dc2968e95c7b07dcfc8d2f6d45c",
+  "src": "/audio/voices/keita/N4-009-1.mp3",
+  "srt": "/audio/voices/keita/N4-009-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "f75c1414df8a6be0b8c1a2636d53e17efb5981dcf59bfb9ef537dc29e2b8720c",
+  "peakPcm": 25982,
+  "rmsDbfs": -21.33,
+  "rate": "+0%",
+  "listened": false
+}

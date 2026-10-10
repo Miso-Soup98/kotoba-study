@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-016",
+  "exampleIndex": 1,
+  "text": "この部屋は静かじゃないです。",
+  "speechText": "この部屋は静かじゃないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 17,
+  "signature": "6eea00526f88580fe9e629732d8bbe003b0e38e69810fd027494d15622424ba9",
+  "src": "/audio/voices/keita/N5-016-2.mp3",
+  "srt": "/audio/voices/keita/N5-016-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "071350d9b3fa84ada9f4913847f711bae8f4a025075514982d6f93b452f6e64b",
+  "peakPcm": 23392,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-033",
+  "exampleIndex": 0,
+  "text": "荷物を持ちましょうか。",
+  "speechText": "荷物を持ちましょうか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 26,
+  "signature": "05eaea8f81dccb5c49b853d353dbbb21ba588ed286fc03d744c9f873f36d8fae",
+  "src": "/audio/voices/keita/N5-033-1.mp3",
+  "srt": "/audio/voices/keita/N5-033-1.srt",
+  "durationSeconds": 2.256,
+  "bytes": 13536,
+  "sha256": "916ae12021264c0d410a63245c0bb1a1a1ecde28fafe5a4f516721c2bfab8636",
+  "peakPcm": 19789,
+  "rmsDbfs": -21.2,
+  "rate": "+0%",
+  "listened": false
+}

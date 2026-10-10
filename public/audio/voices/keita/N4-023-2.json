@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-023",
+  "exampleIndex": 1,
+  "text": "大学から資料をもらいました。",
+  "speechText": "大学から資料をもらいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 66,
+  "signature": "e45c4825da3a2915171679b8b5ed3e225b92467e75ccaee5ca540dbcaa1e3737",
+  "src": "/audio/voices/keita/N4-023-2.mp3",
+  "srt": "/audio/voices/keita/N4-023-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "4041d908d697a212c1a3bc57595c101ffb40a6414c65b920e9869ce1508170c6",
+  "peakPcm": 26932,
+  "rmsDbfs": -20.62,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-012",
+  "exampleIndex": 1,
+  "text": "この料理は食べたことがありません。",
+  "speechText": "この料理は食べたことがありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 60,
+  "signature": "83e3b0e3be4a773d5846a0769ef812c8e405c9140346016946bb7514376590ad",
+  "src": "/audio/voices/nanami/N4-012-2.mp3",
+  "srt": "/audio/voices/nanami/N4-012-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "4635968690a2727100d4725400b3a8d1aff8ac210866931eb25e19e8be1595d4",
+  "peakPcm": 20017,
+  "rmsDbfs": -17.58,
+  "rate": "+0%",
+  "listened": false
+}

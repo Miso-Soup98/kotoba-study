@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-021",
+  "exampleIndex": 0,
+  "text": "友達に本をあげました。",
+  "speechText": "友達に本をあげました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 65,
+  "signature": "5b294e0b13ab36aa2d6a134628159023279c3e4c3e2e8f585b6166a81e5cd966",
+  "src": "/audio/voices/keita/N4-021-1.mp3",
+  "srt": "/audio/voices/keita/N4-021-1.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "c8e6b51ded88ce6ccd0cf0bc98111ca610102144faf331eddc39628acc5c5b1f",
+  "peakPcm": 22441,
+  "rmsDbfs": -20.06,
+  "rate": "+0%",
+  "listened": false
+}

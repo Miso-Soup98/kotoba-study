@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-005",
+  "exampleIndex": 0,
+  "text": "雨が降ったら、家にいます。",
+  "speechText": "雨が降ったら、家にいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 57,
+  "signature": "3183905220ee259633671226f8e6aef509d76ded6e8430c3e2b97f8ebe7c3918",
+  "src": "/audio/voices/nanami/N4-005-1.mp3",
+  "srt": "/audio/voices/nanami/N4-005-1.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "18183f83351983a13c76e027a15c0ad0b4692f0c85dce8a7a928708de0108a75",
+  "peakPcm": 20848,
+  "rmsDbfs": -18.36,
+  "rate": "+0%",
+  "listened": false
+}

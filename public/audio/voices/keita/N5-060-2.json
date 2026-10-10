@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-060",
+  "exampleIndex": 1,
+  "text": "この店で何が一番安いですか。",
+  "speechText": "この店で何が一番安いですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 39,
+  "signature": "11bd636e1f9796b1bef7e546c4c4ac6ef7b6f438dc77693793416ef5e61c96b3",
+  "src": "/audio/voices/keita/N5-060-2.mp3",
+  "srt": "/audio/voices/keita/N5-060-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "dc2b2e6b5ef671c8a96a9bf4af3908177af7b6a8c3cde3196a59af0916c6d619",
+  "peakPcm": 23439,
+  "rmsDbfs": -20.28,
+  "rate": "+0%",
+  "listened": false
+}

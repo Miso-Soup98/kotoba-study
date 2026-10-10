@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-106",
+  "exampleIndex": 0,
+  "text": "もう宿題は終わったかい。",
+  "speechText": "もう宿題は終わったかい。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 108,
+  "signature": "c177f8c6dfbc2da7d2f031cb74a738c2f2f4fcdeaf616c3f8388f55f04164d1b",
+  "src": "/audio/voices/nanami/N4-106-1.mp3",
+  "srt": "/audio/voices/nanami/N4-106-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "1bb57ee5dfd2071e1e5cc25ad87fc607a2b4fa7bb7dbd8c2e02651ea92ed19d8",
+  "peakPcm": 20515,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

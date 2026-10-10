@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-067",
+  "exampleIndex": 0,
+  "text": "明日は晴れるでしょう。",
+  "speechText": "明日は晴れるでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 43,
+  "signature": "c1f5fe183b1625b595a72ee910d52af4ff6bbe416956b70892ebcd2ec86638c8",
+  "src": "/audio/voices/nanami/N5-067-1.mp3",
+  "srt": "/audio/voices/nanami/N5-067-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "d050217147db3a69d5acb69174e0900023d99bb399a9ddcea66016850ab8003d",
+  "peakPcm": 20925,
+  "rmsDbfs": -18.44,
+  "rate": "+0%",
+  "listened": false
+}

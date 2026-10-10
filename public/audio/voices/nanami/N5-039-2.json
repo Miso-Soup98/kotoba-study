@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-039",
+  "exampleIndex": 1,
+  "text": "明日は試験ですから、早く寝ます。",
+  "speechText": "明日は試験ですから、早く寝ます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 29,
+  "signature": "a084c403bb3392c2c7300264ce8b1262ba161b6dab5b24ea98474367f7f6e69a",
+  "src": "/audio/voices/nanami/N5-039-2.mp3",
+  "srt": "/audio/voices/nanami/N5-039-2.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "62f0f1c368d6426d52b984a5ef8dab6efd6c9ddf533b2f7d524be349909326e2",
+  "peakPcm": 22285,
+  "rmsDbfs": -18.32,
+  "rate": "+0%",
+  "listened": false
+}

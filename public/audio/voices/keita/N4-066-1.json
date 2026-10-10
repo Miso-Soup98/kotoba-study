@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-066",
+  "exampleIndex": 0,
+  "text": "去年、日本語を勉強し始めました。",
+  "speechText": "去年、日本語を勉強し始めました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 87,
+  "signature": "5808f9e25121a61c79aa2fcc1745553b8387de9f182561488cc25de405f720f0",
+  "src": "/audio/voices/keita/N4-066-1.mp3",
+  "srt": "/audio/voices/keita/N4-066-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "c7e72379cfdd9779216638ba931435bc6dab14f2f1d5107cfcfb6a97efba673b",
+  "peakPcm": 22529,
+  "rmsDbfs": -20.06,
+  "rate": "+0%",
+  "listened": false
+}

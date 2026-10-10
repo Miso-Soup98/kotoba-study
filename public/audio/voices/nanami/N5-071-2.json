@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-071",
+  "exampleIndex": 1,
+  "text": "この本、面白かったよね。",
+  "speechText": "この本、面白かったよね。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 45,
+  "signature": "0c6e04908f3bb41b4182ee9a89d2ac4d939ad976c25d246cdfd3b3e5b038d317",
+  "src": "/audio/voices/nanami/N5-071-2.mp3",
+  "srt": "/audio/voices/nanami/N5-071-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "69eaa5bf4dda9715ae8c3e8b3604045e5bbed568016c90f28e36a4600f004cf1",
+  "peakPcm": 22040,
+  "rmsDbfs": -18.14,
+  "rate": "+0%",
+  "listened": false
+}

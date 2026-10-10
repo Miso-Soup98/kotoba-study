@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-073",
+  "exampleIndex": 0,
+  "text": "行きたいです。でも、時間がありません。",
+  "speechText": "行きたいです。でも、時間がありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 46,
+  "signature": "187b5672d73ec8d9b5c326655387cbc496f2b8a0984cfa73ca29f166417cf006",
+  "src": "/audio/voices/keita/N5-073-1.mp3",
+  "srt": "/audio/voices/keita/N5-073-1.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "90b535b094b06caf686779c47c19d62966772db7429083da2b9e39171d521740",
+  "peakPcm": 25693,
+  "rmsDbfs": -22.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-091",
+  "exampleIndex": 0,
+  "text": "荷物をお持ちします。",
+  "speechText": "荷物をお持ちします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 100,
+  "signature": "41bc919042035166137226a3f71f69b8891f5782fca2912fe39b9e0a9c40c2da",
+  "src": "/audio/voices/keita/N4-091-1.mp3",
+  "srt": "/audio/voices/keita/N4-091-1.srt",
+  "durationSeconds": 2.232,
+  "bytes": 13392,
+  "sha256": "8c9286e84dfd6eec64c965566477aa56cbee496ad1841c105521e118c5376784",
+  "peakPcm": 19870,
+  "rmsDbfs": -21.06,
+  "rate": "+0%",
+  "listened": false
+}

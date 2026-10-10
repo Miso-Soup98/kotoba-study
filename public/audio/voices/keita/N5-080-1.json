@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-080",
+  "exampleIndex": 0,
+  "text": "りんごを三つ買いました。",
+  "speechText": "りんごを三つ買いました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 49,
+  "signature": "fe26b1d68f627f1a7063e0a1e0297c361dd9a0114b1fcaa249f87ecddbecf031",
+  "src": "/audio/voices/keita/N5-080-1.mp3",
+  "srt": "/audio/voices/keita/N5-080-1.srt",
+  "durationSeconds": 2.328,
+  "bytes": 13968,
+  "sha256": "8d258a6703bc8624eb4b14cf37f656efcd5f0315b52efdc0dbd56b1090a388e8",
+  "peakPcm": 21108,
+  "rmsDbfs": -20.29,
+  "rate": "+0%",
+  "listened": false
+}

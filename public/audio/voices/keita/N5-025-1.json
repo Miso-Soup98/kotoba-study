@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-025",
+  "exampleIndex": 0,
+  "text": "ここに名前を書いてください。",
+  "speechText": "ここに名前を書いてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 22,
+  "signature": "9dcf97df4280936f67c5e8563a8db9eadb84f150def3956bf0cb7d87726b98ed",
+  "src": "/audio/voices/keita/N5-025-1.mp3",
+  "srt": "/audio/voices/keita/N5-025-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "4f08e65ff3547e3d4ff0b08bf44cd11facc2ddb3174b2423a9239f27328e4690",
+  "peakPcm": 21605,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

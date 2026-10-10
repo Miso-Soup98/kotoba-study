@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-040",
+  "exampleIndex": 0,
+  "text": "私は先生に褒められました。",
+  "speechText": "私は先生に褒められました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 74,
+  "signature": "674b68840c848a22957d95a21118f98eb324ecad67283ae1ac982dbe191523c3",
+  "src": "/audio/voices/keita/N4-040-1.mp3",
+  "srt": "/audio/voices/keita/N4-040-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "9b9227ce4ccda5f0ad27142c9132809cea23b66d3e1347d65b6a572e08925ff6",
+  "peakPcm": 22592,
+  "rmsDbfs": -20.89,
+  "rate": "+0%",
+  "listened": false
+}

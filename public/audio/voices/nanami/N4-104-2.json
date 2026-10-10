@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-104",
+  "exampleIndex": 1,
+  "text": "これで大丈夫かな。",
+  "speechText": "これで大丈夫かな。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 107,
+  "signature": "9e1a4a23eded3da7e256ac1f484f9b5a0dd66b6b640fa47157e80fdef9f3da4c",
+  "src": "/audio/voices/nanami/N4-104-2.mp3",
+  "srt": "/audio/voices/nanami/N4-104-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "9e71f0d0c179b782ffd642d30cf8d05e346e0b02c2c37320a894f74d211030c7",
+  "peakPcm": 21694,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

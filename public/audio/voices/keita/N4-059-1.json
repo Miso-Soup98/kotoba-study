@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-059",
+  "exampleIndex": 0,
+  "text": "食事の後で薬を飲みます。",
+  "speechText": "食事の後で薬を飲みます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 84,
+  "signature": "205e35e47ca393a6c643c922ca8807d5075fe471abd004517889dbabfbebc552",
+  "src": "/audio/voices/keita/N4-059-1.mp3",
+  "srt": "/audio/voices/keita/N4-059-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "5539d756a70dfbe8619222c0e7df76509f6dc0b2598c1f4be935cf6fb61e6679",
+  "peakPcm": 21517,
+  "rmsDbfs": -20.44,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-072",
+  "exampleIndex": 1,
+  "text": "声だけで、誰か分かりました。",
+  "speechText": "声だけで、誰か分かりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 90,
+  "signature": "f13850b69de40e69eaafd8c200eb021c45f31f8394d44f0191cb0da4f89fdfb3",
+  "src": "/audio/voices/keita/N4-072-2.mp3",
+  "srt": "/audio/voices/keita/N4-072-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "44c946715932afcad553ad7cfd72906772ec3987c6f93eb3c8997917cb9306dd",
+  "peakPcm": 28460,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

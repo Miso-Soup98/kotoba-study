@@ -1,0 +1,7208 @@
+[
+  {
+    "entryId": "lex:openjlpt:60dd63379e",
+    "text": "あっち",
+    "reading": "あっち",
+    "level": "N5",
+    "original": {
+      "meaningZh": "我 （第一人稱代詞）",
+      "chineseSenses": [
+        "我 （第一人稱代詞）"
+      ]
+    },
+    "set": {
+      "meaningZh": "那边；那里；那个方向（あちら的口语形式）",
+      "chineseSenses": [
+        "那边；那里；那个方向（あちら的口语形式）"
+      ]
+    },
+    "reason": "原中文第一人称“我”不对应本条 over there / JMdict 1483185，属同形候选错配。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1483185"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:eac90e8e98",
+    "text": "あまり",
+    "reading": "あまり",
+    "level": "N5",
+    "original": {
+      "meaningZh": "不太好；马马虎虎；平庸的",
+      "chineseSenses": [
+        "不太好；马马虎虎；平庸的",
+        "不很；不太；不怎么"
+      ]
+    },
+    "set": {
+      "meaningZh": "（与否定搭配）不太；不怎么",
+      "chineseSenses": [
+        "（与否定搭配）不太；不怎么"
+      ]
+    },
+    "reason": "原主中文“不太好/平庸”是另一义项；本条英文及两例句都是否定程度副词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1584930"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:95ccaa32f5",
+    "text": "薬",
+    "reading": "くすり",
+    "level": "N5",
+    "original": {
+      "meaningZh": "（尤指對身體、健康、壽命）有神秘效果的物質",
+      "chineseSenses": [
+        "（尤指對身體、健康、壽命）有神秘效果的物質",
+        "藥物，藥品",
+        "化學品，一般指毒藥",
+        "對健康有益的物質",
+        "對改正錯誤有益的東西"
+      ]
+    },
+    "set": {
+      "meaningZh": "药；药物；药品",
+      "chineseSenses": [
+        "药；药物；药品"
+      ]
+    },
+    "reason": "medicine 对应药物，不应把“有神秘效果的物质”排为学习主释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1538160"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b55dd305d1",
+    "text": "国",
+    "reading": "くに",
+    "level": "N5",
+    "original": {
+      "meaningZh": "大地",
+      "chineseSenses": [
+        "大地",
+        "國家，國土",
+        "國家",
+        "天皇的職位、王位；国家事務",
+        "古代日本的州"
+      ]
+    },
+    "set": {
+      "meaningZh": "国家；国土",
+      "chineseSenses": [
+        "国家；国土"
+      ]
+    },
+    "reason": "本条英文country及例句指国家；原“大地”只取边缘义项，混入的天皇职位也不用于基础词条。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1592250"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4e2aefb855",
+    "text": "差す",
+    "reading": "さす",
+    "level": "N5",
+    "original": {
+      "meaningZh": "涨潮",
+      "chineseSenses": [
+        "涨潮",
+        "照射，映照",
+        "泛出，带有",
+        "举，擎",
+        "佩带"
+      ]
+    },
+    "set": {
+      "meaningZh": "撑（伞）；举起；伸出（手臂）",
+      "chineseSenses": [
+        "撑（伞）；举起；伸出（手臂）"
+      ]
+    },
+    "reason": "原主义“涨潮”不是本条英文撑伞/伸手义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1291330"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2c5c99977c",
+    "text": "質問",
+    "reading": "しつもん",
+    "level": "N5",
+    "original": {
+      "meaningZh": "质问，疑问。",
+      "chineseSenses": [
+        "质问，疑问。"
+      ]
+    },
+    "set": {
+      "meaningZh": "问题；提问；询问",
+      "chineseSenses": [
+        "问题；提问；询问"
+      ]
+    },
+    "reason": "日语質問通常是中性提问，中文“质问”带追责色彩，不能作为唯一核心对应。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1320760"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4b0b49a42d",
+    "text": "セーター",
+    "reading": "セーター",
+    "level": "N5",
+    "original": {
+      "meaningZh": "運動衫，球衫",
+      "chineseSenses": [
+        "運動衫，球衫",
+        "針織套衫，毛衣"
+      ]
+    },
+    "set": {
+      "meaningZh": "毛衣；针织套衫",
+      "chineseSenses": [
+        "毛衣；针织套衫"
+      ]
+    },
+    "reason": "sweater/jumper 对应毛衣，不是一般运动衫或球衫。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1074270"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6ff51bace3",
+    "text": "空",
+    "reading": "そら",
+    "level": "N5",
+    "original": {
+      "meaningZh": "天氣。",
+      "chineseSenses": [
+        "天氣。",
+        "地点，外境。",
+        "心情。"
+      ]
+    },
+    "set": {
+      "meaningZh": "天空；空中",
+      "chineseSenses": [
+        "天空；空中"
+      ]
+    },
+    "reason": "そら / sky 的主释义应为天空；原词条只有天气等引申义，漏核心义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1245290"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a3679ee665",
+    "text": "とても",
+    "reading": "とても",
+    "level": "N5",
+    "original": {
+      "meaningZh": "[下接否定]怎么也，无论如何也。",
+      "chineseSenses": [
+        "[下接否定]怎么也，无论如何也。",
+        "非常，很。"
+      ]
+    },
+    "set": {
+      "meaningZh": "很；非常",
+      "chineseSenses": [
+        "很；非常"
+      ]
+    },
+    "reason": "原主义只给否定搭配“怎么也”，不对应本条very；肯定义项应为主。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1008630"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:e05de4981d",
+    "text": "なる",
+    "reading": "なる",
+    "level": "N5",
+    "original": {
+      "meaningZh": "成功，实现，达成",
+      "chineseSenses": [
+        "成功，实现，达成",
+        "成为，变成，变得",
+        "到了 (某时间)",
+        "达到 （某数量等）",
+        "（不能）接受，（不能）忍受"
+      ]
+    },
+    "set": {
+      "meaningZh": "变成；成为；变得",
+      "chineseSenses": [
+        "变成；成为；变得"
+      ]
+    },
+    "reason": "to become 对应变化结果；原主义“成功/实现”不对应此基础义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1375610"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9ea671262d",
+    "text": "働く",
+    "reading": "はたらく",
+    "level": "N5",
+    "original": {
+      "meaningZh": "1. 干活。；2. 活动，开动。；3. 起作用。；4. 〈语〉活用。；5. ｄòｎɡ",
+      "chineseSenses": [
+        "1. 干活。；2. 活动，开动。；3. 起作用。；4. 〈语〉活用。；5. ｄòｎɡ"
+      ]
+    },
+    "set": {
+      "meaningZh": "工作；劳动；起作用；运转",
+      "chineseSenses": [
+        "工作；劳动；起作用；运转"
+      ]
+    },
+    "reason": "移除词典残留“ｄòｎɡ”；保留现代常用义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1451150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ef9babb012",
+    "text": "フィルム",
+    "reading": "フィルム",
+    "level": "N5",
+    "original": {
+      "meaningZh": "薄皮，薄膜",
+      "chineseSenses": [
+        "薄皮，薄膜",
+        "软片，胶片，胶卷",
+        "影片；電影",
+        "树脂渗浸纸，塑料片"
+      ]
+    },
+    "set": {
+      "meaningZh": "胶片；胶卷；（照相）软片",
+      "chineseSenses": [
+        "胶片；胶卷；（照相）软片"
+      ]
+    },
+    "reason": "本条roll of film指照相胶片，不应以薄皮薄膜为主。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1109380"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:79ddbb2b98",
+    "text": "文章",
+    "reading": "ぶんしょう",
+    "level": "N5",
+    "original": {
+      "meaningZh": "句子",
+      "chineseSenses": [
+        "句子",
+        "文書",
+        "隨筆、作文",
+        "寫作風格"
+      ]
+    },
+    "set": {
+      "meaningZh": "文章；文字；篇章；（写作）文体",
+      "chineseSenses": [
+        "文章；文字；篇章；（写作）文体"
+      ]
+    },
+    "reason": "避免将文章仅等同单个句子；本条例句说写作风格，需显示文章/文体义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1505470"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:33b86212ca",
+    "text": "安い",
+    "reading": "やすい",
+    "level": "N5",
+    "original": {
+      "meaningZh": "安静，平稳，安稳",
+      "chineseSenses": [
+        "安静，平稳，安稳",
+        "廉价，[便宜]]",
+        "【用「お安くない」的形式】〈谑〉(男女间的关系)亲密，不寻常。"
+      ]
+    },
+    "set": {
+      "meaningZh": "便宜的；价格低的",
+      "chineseSenses": [
+        "便宜的；价格低的"
+      ]
+    },
+    "reason": "cheap 对应便宜；原安静平稳是另一义项，附加[便宜]]也有链接残留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1153670"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2dbe65ee1d",
+    "text": "ポスト",
+    "reading": "ポスト",
+    "level": "N5",
+    "original": {
+      "meaningZh": "岗位；职位",
+      "chineseSenses": [
+        "岗位；职位",
+        "柱；门柱（如球门柱）",
+        "发帖；发布（博客、社交媒体等）"
+      ],
+      "meaningEn": [
+        "post"
+      ]
+    },
+    "set": {
+      "meaningZh": "邮筒；邮政信箱",
+      "chineseSenses": [
+        "邮筒；邮政信箱"
+      ],
+      "meaningEn": [
+        "postbox",
+        "mailbox"
+      ]
+    },
+    "reason": "本条保留例句明确问mailbox；原中文岗位职位误选另一义项。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1125150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6d3b3fe0a4",
+    "text": "うまい",
+    "reading": "うまい",
+    "level": "N4",
+    "original": {
+      "meaningZh": "上手い，巧い： 熟练的，擅长的",
+      "chineseSenses": [
+        "上手い，巧い： 熟练的，擅长的",
+        "美味い，旨い，甘い： 美味的，好吃的",
+        "旨い： 有利的，可取的，好的",
+        "旨い： 有利润的，有利可图的",
+        "旨い： 短视的，轻率的"
+      ]
+    },
+    "set": {
+      "meaningZh": "好吃的；美味的",
+      "chineseSenses": [
+        "好吃的；美味的"
+      ]
+    },
+    "reason": "本条delicious对应美味い/旨い；原上手い/巧い熟练义虽真实，却不对应学习目标。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1310460"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8063587e53",
+    "text": "講義",
+    "reading": "こうぎ",
+    "level": "N4",
+    "original": {
+      "meaningZh": "學校教師為學生編輯的講授資料，講義",
+      "chineseSenses": [
+        "學校教師為學生編輯的講授資料，講義"
+      ]
+    },
+    "set": {
+      "meaningZh": "讲课；授课；讲座",
+      "chineseSenses": [
+        "讲课；授课；讲座"
+      ]
+    },
+    "reason": "日语講義是lecture，原“教师为学生编写的讲授资料”把中文假朋友释义混入。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1282260"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4d497f75cf",
+    "text": "差し上げる",
+    "reading": "さしあげる",
+    "level": "N4",
+    "original": {
+      "meaningZh": "舉起",
+      "chineseSenses": [
+        "舉起",
+        "給，送",
+        "（跟在动词て形后，表示这个动作是为了某人而做的）"
+      ]
+    },
+    "set": {
+      "meaningZh": "给；赠送；奉送（あげる的谦让表达）",
+      "chineseSenses": [
+        "给；赠送；奉送（あげる的谦让表达）"
+      ]
+    },
+    "reason": "本条to give应使用授受谦让义；“举起”是同词另义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1291270"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b3f18d07d4",
+    "text": "ほど",
+    "reading": "ほど",
+    "level": "N4",
+    "original": {
+      "meaningZh": "炉床。",
+      "chineseSenses": [
+        "炉床。",
+        "锻工炉。",
+        "程度。",
+        "一定的限度。",
+        "一定的时间。"
+      ]
+    },
+    "set": {
+      "meaningZh": "程度；限度；大约；左右",
+      "chineseSenses": [
+        "程度；限度；大约；左右"
+      ]
+    },
+    "reason": "extent对应程，不是同音词塊/锻炉的炉床义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1436510"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:221e63cb1e",
+    "text": "港",
+    "reading": "みなと",
+    "level": "N4",
+    "original": {
+      "meaningZh": "水閘",
+      "chineseSenses": [
+        "水閘",
+        "河流或海灣深曲處，可以停泊船隻的口岸",
+        "停止"
+      ]
+    },
+    "set": {
+      "meaningZh": "港口；海港",
+      "chineseSenses": [
+        "港口；海港"
+      ]
+    },
+    "reason": "harbour及例句都指港口；“水闸/停止”不对应本词读音和语境。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1279990"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7d2f81c2a3",
+    "text": "くれる",
+    "reading": "くれる",
+    "level": "N4",
+    "original": {
+      "meaningZh": "给，给予，送 （本意上表示地位较高的人给予地位较低的人，他人做主语时表示感谢他人，自己做主语时表示轻蔑）",
+      "chineseSenses": [
+        "给，给予，送 （本意上表示地位较高的人给予地位较低的人，他人做主语时表示感谢他人，自己做主语时表示轻蔑）",
+        "帮自己做（接在动词て形后，表示自己是某动作的受益人）",
+        "（己方做主语时接在动词て形后，表示自己前面的动作对对方不利，有轻蔑的语气）"
+      ]
+    },
+    "set": {
+      "meaningZh": "（别人）给我或我方；（接て形）为我或我方做某事",
+      "chineseSenses": [
+        "（别人）给我或我方；（接て形）为我或我方做某事"
+      ]
+    },
+    "reason": "基础授受方向是他人→我方，不能只以地位高低解释；己方施害用法是另一个非基础语用，不混为默认。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1269130"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:3753f20423",
+    "text": "特急",
+    "reading": "とっきゅう",
+    "level": "N4",
+    "original": {
+      "meaningZh": "非常緊急",
+      "chineseSenses": [
+        "非常緊急"
+      ]
+    },
+    "set": {
+      "meaningZh": "特快列车；特急列车（停站较少，是否另收费依铁路规定）",
+      "chineseSenses": [
+        "特快列车；特急列车（停站较少，是否另收费依铁路规定）"
+      ]
+    },
+    "reason": "本条明确是limited express train；原“非常紧急”误选非列车义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1454750"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d051720806",
+    "text": "パート",
+    "reading": "パート",
+    "level": "N4",
+    "original": {
+      "meaningZh": "部分",
+      "chineseSenses": [
+        "部分",
+        "角色",
+        "兼職"
+      ]
+    },
+    "set": {
+      "meaningZh": "兼职；非全日制工作；兼职人员",
+      "chineseSenses": [
+        "兼职；非全日制工作；兼职人员"
+      ]
+    },
+    "reason": "本条part time及例句是兼职，不是“部分”义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1100810"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a6b7fa4afc",
+    "text": "払う",
+    "reading": "はらう",
+    "level": "N4",
+    "original": {
+      "meaningZh": "撣去，拂去",
+      "chineseSenses": [
+        "撣去，拂去",
+        "驅除，趕走",
+        "支付，付款",
+        "清空",
+        "賣掉（廢品）"
+      ]
+    },
+    "set": {
+      "meaningZh": "支付；付款",
+      "chineseSenses": [
+        "支付；付款"
+      ]
+    },
+    "reason": "本条to pay应主显支付，不是撣去/拂去。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1501620"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:dddceb65a5",
+    "text": "開く",
+    "reading": "ひらく",
+    "level": "N4",
+    "original": {
+      "meaningZh": "打开；拆开；启封；拆包",
+      "chineseSenses": [
+        "打开；拆开；启封；拆包",
+        "开业；开门",
+        "举办；举行；召开"
+      ]
+    },
+    "set": {
+      "meaningZh": "举办；举行；召开（会议、活动等）",
+      "chineseSenses": [
+        "举办；举行；召开（会议、活动等）"
+      ]
+    },
+    "reason": "本条ひらく的英文to open an event明确指举办；原打开包裹等义与目标不合。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1202440"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:346a5da3c2",
+    "text": "部長",
+    "reading": "ぶちょう",
+    "level": "N4",
+    "original": {
+      "meaningZh": "公司部門首長，總裁",
+      "chineseSenses": [
+        "公司部門首長，總裁",
+        "各部 (bu)首長 – 部門、處所、社團、俱樂部等"
+      ]
+    },
+    "set": {
+      "meaningZh": "部长；部门负责人；（学校）社团负责人",
+      "chineseSenses": [
+        "部长；部门负责人；（学校）社团负责人"
+      ]
+    },
+    "reason": "部長不是公司总裁；原中文混入总裁会误导职务等级。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1499460"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f1ef6228cb",
+    "text": "布団",
+    "reading": "ふとん",
+    "level": "N4",
+    "original": {
+      "meaningZh": "日式褥垫；蒲团",
+      "chineseSenses": [
+        "日式褥垫；蒲团"
+      ]
+    },
+    "set": {
+      "meaningZh": "日式被褥；铺盖（褥垫和被子）",
+      "chineseSenses": [
+        "日式被褥；铺盖（褥垫和被子）"
+      ]
+    },
+    "reason": "本条bedding及两例句是铺盖；“蒲团”虽为历史另义，此处容易误解为打坐坐垫。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1496890"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7becfb8f21",
+    "text": "取り替える",
+    "reading": "とりかえる",
+    "level": "N4",
+    "original": {
+      "meaningZh": "1. 更换。；2. 退换。；3. 交换。；4. 征收。；5. 没收。；6. 提出(问题等)。",
+      "chineseSenses": [
+        "1. 更换。；2. 退换。；3. 交换。；4. 征收。；5. 没收。；6. 提出(问题等)。"
+      ]
+    },
+    "set": {
+      "meaningZh": "更换；替换；交换",
+      "chineseSenses": [
+        "更换；替换；交换"
+      ]
+    },
+    "reason": "JMdict及两例句均为更换交换；原征收/没收/提出问题不属于取り替える，疑混入取り上げる。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1326830"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:abb49cd233",
+    "text": "正しい",
+    "reading": "ただしい",
+    "level": "N4",
+    "original": {
+      "meaningZh": "1. 端正，正直。",
+      "chineseSenses": [
+        "1. 端正，正直。"
+      ]
+    },
+    "set": {
+      "meaningZh": "正确的；对的；合乎道理的",
+      "chineseSenses": [
+        "正确的；对的；合乎道理的"
+      ]
+    },
+    "reason": "correct及两例句说判断正确，原主义仅正直端正。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1376600"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ac5fa7fe3b",
+    "text": "眠い",
+    "reading": "ねむい",
+    "level": "N4",
+    "original": {
+      "meaningZh": "1. 困，想睡觉。；2. ～さ ～げ ～がる",
+      "chineseSenses": [
+        "1. 困，想睡觉。；2. ～さ ～げ ～がる"
+      ]
+    },
+    "set": {
+      "meaningZh": "困的；想睡的",
+      "chineseSenses": [
+        "困的；想睡的"
+      ]
+    },
+    "reason": "移除“～さ ～げ ～がる”活用/派生标记，不把形式备注混作中文释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1529330"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6307098126",
+    "text": "珍しい",
+    "reading": "めずらしい",
+    "level": "N4",
+    "original": {
+      "meaningZh": "1. 珍奇，稀奇，新奇。；2. 奇怪，不同。～さ，～げ，～がる",
+      "chineseSenses": [
+        "1. 珍奇，稀奇，新奇。；2. 奇怪，不同。～さ，～げ，～がる"
+      ]
+    },
+    "set": {
+      "meaningZh": "少见的；珍奇的；稀罕的",
+      "chineseSenses": [
+        "少见的；珍奇的；稀罕的"
+      ]
+    },
+    "reason": "移除“～さ，～げ，～がる”派生标记，保留少见义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1431850"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f586632207",
+    "text": "お土産",
+    "reading": "おみやげ",
+    "level": "N4",
+    "original": {
+      "meaningZh": "土産 (miyage)的尊敬形式。",
+      "chineseSenses": [
+        "土産 (miyage)的尊敬形式。"
+      ]
+    },
+    "set": {
+      "meaningZh": "礼物；特产；旅游纪念品；伴手礼",
+      "chineseSenses": [
+        "礼物；特产；旅游纪念品；伴手礼"
+      ]
+    },
+    "reason": "原文仅“土産的尊敬形式”是交叉引用，没有给学习者实际中文义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1002500"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8077c744a0",
+    "text": "漫画",
+    "reading": "まんが",
+    "level": "N4",
+    "original": {
+      "meaningZh": "在紙張範圍內自在隨意地描繪，像北斋漫画那樣。",
+      "chineseSenses": [
+        "在紙張範圍內自在隨意地描繪，像北斋漫画那樣。",
+        "漫畫手法 （用圖表現一些人事物的漫畫效果、技法）",
+        "連環漫畫 （連環故事）"
+      ]
+    },
+    "set": {
+      "meaningZh": "漫画；连环画",
+      "chineseSenses": [
+        "漫画；连环画"
+      ]
+    },
+    "reason": "本条comic对应现代漫画；原描述北斋漫画的随意作画是历史范围，不能充当默认现代义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1526920"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6926bbe9d4",
+    "text": "連絡",
+    "reading": "れんらく",
+    "level": "N4",
+    "original": {
+      "meaningZh": "關聯",
+      "chineseSenses": [
+        "關聯",
+        "聯絡，聯繫，交流",
+        "連接"
+      ]
+    },
+    "set": {
+      "meaningZh": "联系；联络",
+      "chineseSenses": [
+        "联系；联络"
+      ]
+    },
+    "reason": "本条contact对应联系，不应以关联代替常用沟通义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1559900"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8ce4616a78",
+    "text": "空",
+    "reading": "から",
+    "level": "N3",
+    "original": {
+      "meaningZh": "没根据，假的。",
+      "chineseSenses": [
+        "没根据，假的。",
+        "背诵。"
+      ]
+    },
+    "set": {
+      "meaningZh": "空；空着；空的状态",
+      "chineseSenses": [
+        "空；空着；空的状态"
+      ]
+    },
+    "reason": "から / emptiness 对应空；原“没根据、假的/背诵”混入そら或引申义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1245280"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9b7a976736",
+    "text": "証明",
+    "reading": "しょうめい",
+    "level": "N3",
+    "original": {
+      "meaningZh": "證明，證據",
+      "chineseSenses": [
+        "證明，證據",
+        ":Template:數證明"
+      ]
+    },
+    "set": {
+      "meaningZh": "证明；证据",
+      "chineseSenses": [
+        "证明；证据"
+      ]
+    },
+    "reason": "删除附加义项中的:Template:數證明模板残留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1351680"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f59cd43bb0",
+    "text": "バイオリン",
+    "reading": "バイオリン",
+    "level": "N3",
+    "original": {
+      "meaningZh": ":Template:音樂 小提琴。",
+      "chineseSenses": [
+        ":Template:音樂 小提琴。"
+      ]
+    },
+    "set": {
+      "meaningZh": "小提琴",
+      "chineseSenses": [
+        "小提琴"
+      ]
+    },
+    "reason": "删除:Template:音樂模板残留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1097740"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a1cda8cb11",
+    "text": "半分",
+    "reading": "はんぶん",
+    "level": "N5",
+    "original": {
+      "meaningEn": [
+        "half minute"
+      ],
+      "meaningZh": "一半；半分",
+      "chineseSenses": [
+        "一半；半分"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "half"
+      ],
+      "meaningZh": "一半",
+      "chineseSenses": [
+        "一半"
+      ]
+    },
+    "reason": "半分 はんぶん表示一半，不是half minute；半分钟是30秒/半分 はんぷん等计时表达，不能按本条教成半分钟。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1479890"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1cfccd0cdd",
+    "text": "一日",
+    "reading": "いちにち",
+    "level": "N5",
+    "original": {
+      "meaningEn": [
+        "one day",
+        "first of month"
+      ],
+      "meaningZh": "一天（24小时）",
+      "chineseSenses": [
+        "一天（24小时）",
+        "白天",
+        "短暫的時間",
+        "一天，总有一天，某天",
+        "（一个月的）一日，一号"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "one day",
+        "all day"
+      ],
+      "meaningZh": "一天；一整天",
+      "chineseSenses": [
+        "一天；一整天"
+      ]
+    },
+    "reason": "读音いちにち不对应每月一号（ついたち）。JMdict的合并词条含两个读音限制，需按本条读音筛除first of month与中文一号。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1576260"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ba20bc66d0",
+    "text": "ぜんぜん",
+    "reading": "ぜんぜん",
+    "level": "N4",
+    "original": {
+      "meaningEn": [
+        "not entirely (used in a negative sentence)"
+      ],
+      "meaningZh": "完全；彻底；整个",
+      "chineseSenses": [
+        "完全；彻底；整个"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "(not) at all",
+        "(not) in the slightest"
+      ],
+      "meaningZh": "（与否定搭配）一点也不；完全不",
+      "chineseSenses": [
+        "（与否定搭配）一点也不；完全不"
+      ]
+    },
+    "reason": "原not entirely表示不完全/部分否定；全然～ない是完全否定not at all。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1395620"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ed36e1d3a7",
+    "text": "君",
+    "reading": "きみ",
+    "level": "N4",
+    "original": {
+      "meaningEn": [
+        "(informal) You (used by men towards women)"
+      ],
+      "meaningZh": "你",
+      "chineseSenses": [
+        "你"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "you (familiar form of address)"
+      ],
+      "meaningZh": "你（较随意，通常用于同辈或晚辈；不宜对长辈随意使用）",
+      "chineseSenses": [
+        "你（较随意，通常用于同辈或晚辈；不宜对长辈随意使用）"
+      ]
+    },
+    "reason": "君不是仅男性对女性，原英文错误限制性别；保留熟人称呼和语域信息。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1247250"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:18035049f8",
+    "text": "ちゃん",
+    "reading": "ちゃん",
+    "level": "N4",
+    "original": {
+      "meaningEn": [
+        "suffix for familiar female person"
+      ],
+      "meaningZh": "后接于人名后的称谓：小...；酱（ACG语境）",
+      "chineseSenses": [
+        "后接于人名后的称谓：小...；酱（ACG语境）",
+        "后接于动物后的称谓：小..."
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "affectionate suffix for a familiar person"
+      ],
+      "meaningZh": "接在人名等后表示亲昵的称呼；常用于孩子、亲近的人或宠物，不限女性",
+      "chineseSenses": [
+        "接在人名等后表示亲昵的称呼；常用于孩子、亲近的人或宠物，不限女性"
+      ]
+    },
+    "reason": "ちゃん不只适用于女性；原英文female限制不成立。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1007660"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:629362dbfc",
+    "text": "以下",
+    "reading": "いか",
+    "level": "N4",
+    "original": {
+      "meaningEn": [
+        "less than"
+      ],
+      "meaningZh": "不超過，少於",
+      "chineseSenses": [
+        "不超過，少於",
+        "接下來",
+        "地位較低；低劣"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "not more than",
+        "... or less",
+        "... and under"
+      ],
+      "meaningZh": "以下；不超过（表示数量范围时包括该数）",
+      "chineseSenses": [
+        "以下；不超过（表示数量范围时包括该数）"
+      ]
+    },
+    "reason": "数量范围以下通常含界值；单写less than/少于会误教为严格小于。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1155060"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:13ab63d79a",
+    "text": "以上",
+    "reading": "いじょう",
+    "level": "N4",
+    "original": {
+      "meaningEn": [
+        "more than",
+        "this is all"
+      ],
+      "meaningZh": "表示數量、程度、階段等超出或達到某一標準",
+      "chineseSenses": [
+        "表示數量、程度、階段等超出或達到某一標準",
+        "表示在此之前，前面的全部內容",
+        "(簡單動詞) + 以上は：表示書信、文章、講話至此結束"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "... or more",
+        "... and over",
+        "the above",
+        "that is all"
+      ],
+      "meaningZh": "以上；不少于（数量范围包括该数）；上述；到此结束",
+      "chineseSenses": [
+        "以上；不少于（数量范围包括该数）",
+        "上述",
+        "到此结束"
+      ]
+    },
+    "reason": "明确数量界值包含关系；原附加义把「动词＋以上は」误说成结束语，以上は接普通形常表示既然，结束语通常是独立以上です。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1155120"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8645802338",
+    "text": "亜科",
+    "reading": "あか",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "suborder",
+        "subfamily"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "subfamily"
+      ]
+    },
+    "reason": "suborder 是亚目，亜科是 subfamily。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1149680"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:bd0b0380dc",
+    "text": "あっさり",
+    "reading": "あっさり",
+    "level": "N1",
+    "original": {
+      "meaningZh": "淡雅，素雅",
+      "chineseSenses": [
+        "淡雅，素雅",
+        "乾脆，爽快，坦率",
+        "淡漠，平淡"
+      ]
+    },
+    "set": {
+      "meaningZh": "轻易地；爽快地；干脆地；清淡地；简朴地",
+      "chineseSenses": [
+        "轻易地；爽快地；干脆地；清淡地；简朴地"
+      ]
+    },
+    "reason": "原主中文只有淡雅，缺与英文容易、爽快对应的义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1000360"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2143d1e370",
+    "text": "アプローチ",
+    "reading": "アプローチ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "approach (in golf)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "approach to a problem",
+        "approach",
+        "approach shot (golf)"
+      ]
+    },
+    "reason": "原英文误限高尔夫，遗漏中文对应的问题处理方法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1018260"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:64eb41fae7",
+    "text": "あら",
+    "reading": "あら",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "oh",
+        "ah",
+        "saw-edged perch (Niphon spinosus)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "oh!",
+        "ah!",
+        "oh no"
+      ]
+    },
+    "reason": "感叹词身份不包括同音鱼名。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1000520"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d19fa15a3f",
+    "text": "粋",
+    "reading": "いき",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "chic",
+        "style",
+        "purity",
+        "essence"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "chic",
+        "stylish",
+        "tasteful",
+        "refined"
+      ]
+    },
+    "reason": "いき不等于すい的精粹/纯粹；移除混读音英文。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1372410"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2f38551629",
+    "text": "一概に",
+    "reading": "いちがいに",
+    "level": "N1",
+    "original": {
+      "meaningZh": "== 日语 ==",
+      "chineseSenses": [
+        "== 日语 =="
+      ]
+    },
+    "set": {
+      "meaningZh": "一概地；一律地；笼统地（常与否定搭配）",
+      "chineseSenses": [
+        "一概地；一律地；笼统地（常与否定搭配）"
+      ]
+    },
+    "reason": "原中文是== 日语 ==编辑标题。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1161390"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f7f8a306a6",
+    "text": "今更",
+    "reading": "いまさら",
+    "level": "N1",
+    "original": {
+      "meaningZh": "== 日语 ==",
+      "chineseSenses": [
+        "== 日语 =="
+      ]
+    },
+    "set": {
+      "meaningZh": "事到如今；现在才；重新",
+      "chineseSenses": [
+        "事到如今；现在才；重新"
+      ]
+    },
+    "reason": "原中文是== 日语 ==编辑标题。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1289150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6d4666b784",
+    "text": "運送",
+    "reading": "うんそう",
+    "level": "N1",
+    "original": {
+      "meaningZh": "1. 运输，运送。；2. 牵连。",
+      "chineseSenses": [
+        "1. 运输，运送。；2. 牵连。"
+      ],
+      "meaningEn": [
+        "shipping",
+        "marine transportation"
+      ]
+    },
+    "set": {
+      "meaningZh": "运输；运送；货运",
+      "chineseSenses": [
+        "运输；运送；货运"
+      ],
+      "meaningEn": [
+        "transport",
+        "freight",
+        "shipping"
+      ]
+    },
+    "reason": "运送不是牵连，也不只海运。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1588620"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f9aaf64bd0",
+    "text": "塩",
+    "reading": "えん",
+    "level": "N1",
+    "original": {
+      "meaningZh": "鹽（中性離子化合物，即氯化鈉）",
+      "chineseSenses": [
+        "鹽（中性離子化合物，即氯化鈉）"
+      ]
+    },
+    "set": {
+      "meaningZh": "（化学）盐；盐类（不只氯化钠）",
+      "chineseSenses": [
+        "（化学）盐；盐类（不只氯化钠）"
+      ]
+    },
+    "reason": "えん是化学盐类，原“即氯化钠”将总类错限食盐。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2847901"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:c117100746",
+    "text": "大事",
+    "reading": "おおごと",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "important",
+        "valuable",
+        "serious matter"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "serious matter",
+        "major incident",
+        "crisis"
+      ]
+    },
+    "reason": "おおごと是严重事件，不是だいじ的important/valuable。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2833293"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:612aa8aa8b",
+    "text": "オンライン",
+    "reading": "オンライン",
+    "level": "N1",
+    "original": {
+      "meaningZh": "（网球、排球等球类运动中）压线；触线",
+      "chineseSenses": [
+        "（网球、排球等球类运动中）压线；触线"
+      ]
+    },
+    "set": {
+      "meaningZh": "在线；联机",
+      "chineseSenses": [
+        "在线；联机"
+      ]
+    },
+    "reason": "原中文压线是体育次义，缺本条online核心义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1036080"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:754e93952d",
+    "text": "概説",
+    "reading": "がいせつ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "概说，概论。==日语==",
+      "chineseSenses": [
+        "概说，概论。==日语=="
+      ]
+    },
+    "set": {
+      "meaningZh": "概说；概述；概要",
+      "chineseSenses": [
+        "概说；概述；概要"
+      ]
+    },
+    "reason": "删除==日语==编辑标题。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1204470"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:939c8fef9e",
+    "text": "欠く",
+    "reading": "かく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "打碎",
+      "chineseSenses": [
+        "打碎",
+        "缺乏，欠缺"
+      ]
+    },
+    "set": {
+      "meaningZh": "缺乏；欠缺；打缺；碰掉一角",
+      "chineseSenses": [
+        "缺乏；欠缺；打缺；碰掉一角"
+      ]
+    },
+    "reason": "主显示只打碎容易遮蔽本条lack核心义；保留缺角物理义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1253900"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:81d5fdffc8",
+    "text": "拡散",
+    "reading": "かくさん",
+    "level": "N1",
+    "original": {
+      "meaningZh": "扩散。==日语==",
+      "chineseSenses": [
+        "扩散。==日语=="
+      ]
+    },
+    "set": {
+      "meaningZh": "扩散；传播；散布",
+      "chineseSenses": [
+        "扩散；传播；散布"
+      ]
+    },
+    "reason": "删除==日语==编辑标题。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1205180"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5dd7bb9fa5",
+    "text": "確定",
+    "reading": "かくてい",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "definition (math)",
+        "decision",
+        "settlement"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "decision",
+        "settlement",
+        "confirmation",
+        "establishment"
+      ]
+    },
+    "reason": "確定不是数学definition（定義）。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1205880"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f29bc600e2",
+    "text": "画期",
+    "reading": "かっき",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "epoch-making"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "change of era",
+        "transition from one epoch to another"
+      ]
+    },
+    "reason": "画期为名词时代转折，epoch-making是画期的。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1197170"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b966033b0e",
+    "text": "交わす",
+    "reading": "かわす",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "to exchange (messages)",
+        "to dodge",
+        "to parry",
+        "to avoid",
+        "to turn aside"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to exchange (messages, greetings, etc.)",
+        "to cross",
+        "to do with one another"
+      ]
+    },
+    "reason": "移除躱す的躲避/闪开义，保留交わす。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1590750"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:473f338072",
+    "text": "勧告",
+    "reading": "かんこく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "推薦，消息",
+      "chineseSenses": [
+        "推薦，消息"
+      ]
+    },
+    "set": {
+      "meaningZh": "劝告；建议；规劝",
+      "chineseSenses": [
+        "劝告；建议；规劝"
+      ]
+    },
+    "reason": "recommendation此处为劝告建议，不是推荐消息。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1210970"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:337e74cd80",
+    "text": "カンニング",
+    "reading": "カンニング",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "cunning",
+        "cheat"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "cheating on an examination",
+        "cribbing"
+      ]
+    },
+    "reason": "日语カンニング为考试作弊，不能释作英语cunning狡猾；保留原needs-review。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1039490"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:99d671e7c9",
+    "text": "甲",
+    "reading": "きのえ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "1st in rank",
+        "first sign of the Chinese calendar",
+        "shell",
+        "instep",
+        "grade A"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "first of the ten heavenly stems"
+      ]
+    },
+    "reason": "きのえ是十天干第一位，shell/instep/grade A属こう读法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2397580"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:e05bb17edd",
+    "text": "気品",
+    "reading": "きひん",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "aroma"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "elegance",
+        "refinement",
+        "grace",
+        "dignity",
+        "aroma"
+      ]
+    },
+    "reason": "aroma虽有词典次义，作为唯一英文漏文雅这一核心中义；补入。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1222540"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8aa1c32c13",
+    "text": "協議",
+    "reading": "きょうぎ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "經過談判、協商後所決議共同遵守的約定",
+      "chineseSenses": [
+        "經過談判、協商後所決議共同遵守的約定"
+      ]
+    },
+    "set": {
+      "meaningZh": "协商；商议；讨论；磋商",
+      "chineseSenses": [
+        "协商；商议；讨论；磋商"
+      ]
+    },
+    "reason": "日语協議是商议过程，原中文是已经达成的协议。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1235570"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:68de5f83d6",
+    "text": "教訓",
+    "reading": "きょうくん",
+    "level": "N1",
+    "original": {
+      "meaningZh": "課程，教學",
+      "chineseSenses": [
+        "課程，教學"
+      ]
+    },
+    "set": {
+      "meaningZh": "教训；训诫；（经验中的）启示",
+      "chineseSenses": [
+        "教训；训诫；（经验中的）启示"
+      ]
+    },
+    "reason": "lesson为经验教训，不是课程教学。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1237080"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:edb3e0745a",
+    "text": "教職",
+    "reading": "きょうしょく",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "teaching certificate",
+        "the teaching profession"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "the teaching profession"
+      ]
+    },
+    "reason": "教職是教师职业，教学资格证另有名称，不教成certificate。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1237220"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a8ba7d61d2",
+    "text": "切り",
+    "reading": "きり",
+    "level": "N1",
+    "original": {
+      "meaningZh": "階段",
+      "chineseSenses": [
+        "階段",
+        "界線，限度，終結"
+      ]
+    },
+    "set": {
+      "meaningZh": "限度；界限；终结；告一段落；仅仅；自从……之后",
+      "chineseSenses": [
+        "限度；界限；终结；告一段落；仅仅；自从……之后"
+      ]
+    },
+    "reason": "原单独“阶段”不清晰，按本条end/limit等明确释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1383800"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:775cb6278a",
+    "text": "禁ずる",
+    "reading": "きんずる",
+    "level": "N1",
+    "original": {
+      "meaningZh": "禁じる",
+      "chineseSenses": [
+        "禁じる"
+      ]
+    },
+    "set": {
+      "meaningZh": "禁止；不许；抑制；忍住",
+      "chineseSenses": [
+        "禁止；不许；抑制；忍住"
+      ]
+    },
+    "reason": "原中文只有日文同义词禁じる，补实际中文。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1241480"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6c1dc988ce",
+    "text": "首輪",
+    "reading": "くびわ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "necklace",
+        "choker"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "animal collar",
+        "necklace",
+        "choker"
+      ]
+    },
+    "reason": "英文缺中文主显示及最常见的动物项圈义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1329440"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:3f68e34ac7",
+    "text": "蔵",
+    "reading": "くら",
+    "level": "N1",
+    "original": {
+      "meaningZh": "仓库；仓房；地窖；弹药库；粮仓；货栈；储存处；金库；升降机",
+      "chineseSenses": [
+        "仓库；仓房；地窖；弹药库；粮仓；货栈；储存处；金库；升降机"
+      ],
+      "meaningEn": [
+        "warehouse",
+        "cellar",
+        "magazine",
+        "granary",
+        "godown",
+        "depository",
+        "treasury",
+        "elevator"
+      ]
+    },
+    "set": {
+      "meaningZh": "仓库；仓房；地窖；粮仓；储藏处",
+      "chineseSenses": [
+        "仓库；仓房；地窖；粮仓；储藏处"
+      ],
+      "meaningEn": [
+        "warehouse",
+        "storehouse",
+        "cellar",
+        "granary",
+        "depository"
+      ]
+    },
+    "reason": "elevator在粮仓语境不是通用升降机，去除误导的直译。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1592380"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:74638a00a2",
+    "text": "クラブ",
+    "reading": "クラブ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "club",
+        "crab"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "club",
+        "clubhouse"
+      ]
+    },
+    "reason": "本条俱乐部身份不包括另一个外来词crab。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1243910"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:56ffead6fe",
+    "text": "個",
+    "reading": "こ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "年（年龄差的计数词）；学年（学年的计数词）",
+      "chineseSenses": [
+        "年（年龄差的计数词）；学年（学年的计数词）",
+        "个（小物件的计数词）",
+        "个（军事单位的计数词）"
+      ]
+    },
+    "set": {
+      "meaningZh": "个；件（小物品的量词）",
+      "chineseSenses": [
+        "个；件（小物品的量词）"
+      ]
+    },
+    "reason": "原主显示年龄差专门用法，未对应article counter。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1264740"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:c2da32810a",
+    "text": "控除",
+    "reading": "こうじょ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "subsidy",
+        "deduction"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "subtraction",
+        "deduction (e.g. of tax)"
+      ]
+    },
+    "reason": "控除是扣除，不是补贴subsidy。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1279080"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a8a6342961",
+    "text": "降伏",
+    "reading": "こうふく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "降服，制伏",
+      "chineseSenses": [
+        "降服，制伏",
+        "柔性"
+      ]
+    },
+    "set": {
+      "meaningZh": "投降；屈服",
+      "chineseSenses": [
+        "投降；屈服"
+      ]
+    },
+    "reason": "原“制伏”颠倒施受方向；柔性也不对应词义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1282940"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:241e01eeea",
+    "text": "固定",
+    "reading": "こてい",
+    "level": "N1",
+    "original": {
+      "meaningZh": "固定（组织学）",
+      "chineseSenses": [
+        "固定（组织学）"
+      ]
+    },
+    "set": {
+      "meaningZh": "固定；使位置不变；使数值或状态保持不变",
+      "chineseSenses": [
+        "固定；使位置不变；使数值或状态保持不变"
+      ]
+    },
+    "reason": "原仅组织学限定不足，恢复一般固定义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1266650"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:18beab6691",
+    "text": "コンタクト",
+    "reading": "コンタクト",
+    "level": "N1",
+    "original": {
+      "meaningZh": "触点",
+      "chineseSenses": [
+        "触点",
+        "接触，联系"
+      ]
+    },
+    "set": {
+      "meaningZh": "接触；联系；隐形眼镜",
+      "chineseSenses": [
+        "接触；联系；隐形眼镜"
+      ]
+    },
+    "reason": "补齐本条contact/contact lens，避免只显示机械触点。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1052410"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:fe783aee7a",
+    "text": "歳",
+    "reading": "さい",
+    "level": "N1",
+    "original": {
+      "meaningZh": "近義詞：才",
+      "chineseSenses": [
+        "近義詞：才"
+      ]
+    },
+    "set": {
+      "meaningZh": "岁（年龄单位）",
+      "chineseSenses": [
+        "岁（年龄单位）"
+      ]
+    },
+    "reason": "原中文只有近义词引用，不是释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1294940"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:24b670d6d3",
+    "text": "杯",
+    "reading": "さかずき",
+    "level": "N1",
+    "original": {
+      "meaningZh": "交杯；以杯酒交换来确认盟约或誓言",
+      "chineseSenses": [
+        "交杯；以杯酒交换来确认盟约或誓言"
+      ]
+    },
+    "set": {
+      "meaningZh": "酒杯；（饮酒用的）杯子",
+      "chineseSenses": [
+        "酒杯；（饮酒用的）杯子"
+      ]
+    },
+    "reason": "wine/sake cup为实体酒杯，原只给交换杯酒仪式。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1472630"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2dbb8dd1b2",
+    "text": "下心",
+    "reading": "したごころ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "本心，內心",
+      "chineseSenses": [
+        "本心，內心",
+        "存心，圖謀，歹意，心懷鬼胎，別有用心，不懷好意",
+        "心部偏旁部首（㣺）"
+      ]
+    },
+    "set": {
+      "meaningZh": "暗中的打算；别有用心；企图",
+      "chineseSenses": [
+        "暗中的打算；别有用心；企图"
+      ]
+    },
+    "reason": "原本心内心未表达secret/ulterior含义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1185450"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:6363493220",
+    "text": "始末",
+    "reading": "しまつ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "1. (事情的)原委，整个过程。",
+      "chineseSenses": [
+        "1. (事情的)原委，整个过程。"
+      ]
+    },
+    "set": {
+      "meaningZh": "处理；收拾；善后；事情的始末；结果",
+      "chineseSenses": [
+        "处理；收拾；善后；事情的始末；结果"
+      ]
+    },
+    "reason": "补齐英文处理善后核心义，保留始末结果。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1307620"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:62919df179",
+    "text": "出社",
+    "reading": "しゅっしゃ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "arrival (in a country, at work, etc.)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "going to work",
+        "coming to the office"
+      ]
+    },
+    "reason": "出社指到公司上班，不是入境到达一个国家；保留原隔离状态。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1339150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4259132ca8",
+    "text": "守備",
+    "reading": "しゅび",
+    "level": "N1",
+    "original": {
+      "meaningZh": "守备，守卫。==日语==",
+      "chineseSenses": [
+        "守备，守卫。==日语=="
+      ]
+    },
+    "set": {
+      "meaningZh": "守备；防守；防卫",
+      "chineseSenses": [
+        "守备；防守；防卫"
+      ]
+    },
+    "reason": "删除==日语==编辑标题。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1327180"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:cd4335ebae",
+    "text": "使用人",
+    "reading": "しようにん",
+    "level": "N1",
+    "original": {
+      "meaningZh": "使用者",
+      "chineseSenses": [
+        "使用者",
+        "員工 （被雇用的人）"
+      ]
+    },
+    "set": {
+      "meaningZh": "雇员；佣人；受雇的人",
+      "chineseSenses": [
+        "雇员；佣人；受雇的人"
+      ]
+    },
+    "reason": "使用人不是使用者；原义错配。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1306280"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:fbe9c362bd",
+    "text": "丈夫",
+    "reading": "じょうふ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "hero",
+        "gentleman",
+        "warrior",
+        "manly person",
+        "good health",
+        "robustness",
+        "strong",
+        "solid",
+        "durable"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "hero",
+        "manly person",
+        "warrior"
+      ]
+    },
+    "reason": "じょうふ不对应じょうぶ的健壮、结实、耐用义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1580485"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8ec63b1e46",
+    "text": "徐行",
+    "reading": "じょこう",
+    "level": "N1",
+    "original": {
+      "meaningZh": "緩步行走",
+      "chineseSenses": [
+        "緩步行走",
+        "緩慢行駛"
+      ]
+    },
+    "set": {
+      "meaningZh": "慢行；缓慢行驶；减速行驶",
+      "chineseSenses": [
+        "慢行；缓慢行驶；减速行驶"
+      ]
+    },
+    "reason": "原主显示缓步行走，补本条主要车辆慢行语境。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1345590"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a5c6236db2",
+    "text": "助動詞",
+    "reading": "じょどうし",
+    "level": "N1",
+    "original": {
+      "meaningZh": "（其他语言）助动词",
+      "chineseSenses": [
+        "（其他语言）助动词",
+        "（日语语法）助动词（附属于用言的活用词）"
+      ]
+    },
+    "set": {
+      "meaningZh": "助动词；（日语语法）附着于其他词并有活用变化的附属词",
+      "chineseSenses": [
+        "助动词；（日语语法）附着于其他词并有活用变化的附属词"
+      ]
+    },
+    "reason": "原主显示仅其他语言，补日语学习语境本身。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1344750"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ef159e6567",
+    "text": "ストロー",
+    "reading": "ストロー",
+    "level": "N1",
+    "original": {
+      "meaningZh": "麥稈",
+      "chineseSenses": [
+        "麥稈",
+        "吸管"
+      ],
+      "meaningEn": [
+        "straw"
+      ]
+    },
+    "set": {
+      "meaningZh": "吸管；麦秆",
+      "chineseSenses": [
+        "吸管；麦秆"
+      ],
+      "meaningEn": [
+        "drinking straw",
+        "straw"
+      ]
+    },
+    "reason": "原主显示麦秆，补日语常用饮料吸管义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1071540"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d4f22b4480",
+    "text": "ずばり",
+    "reading": "ずばり",
+    "level": "N1",
+    "original": {
+      "meaningZh": "咔嚓一聲（切斷）",
+      "chineseSenses": [
+        "咔嚓一聲（切斷）",
+        "直截了當；一語道破"
+      ]
+    },
+    "set": {
+      "meaningZh": "直截了当地；一语道破；准确地",
+      "chineseSenses": [
+        "直截了当地；一语道破；准确地"
+      ]
+    },
+    "reason": "本条frankly/decisively不是切断拟声词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1006400"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1bd79302aa",
+    "text": "すんなり",
+    "reading": "すんなり",
+    "level": "N1",
+    "original": {
+      "meaningZh": "苗条，瘦高",
+      "chineseSenses": [
+        "苗条，瘦高",
+        "简单地，轻易地"
+      ]
+    },
+    "set": {
+      "meaningZh": "顺利地；毫无阻碍地；轻易地；苗条地",
+      "chineseSenses": [
+        "顺利地；毫无阻碍地；轻易地；苗条地"
+      ]
+    },
+    "reason": "首要对应pass with no objection，同时保留纤细义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1006320"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ac9ee9e6da",
+    "text": "生育",
+    "reading": "せいいく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "生育，繁殖。",
+      "chineseSenses": [
+        "生育，繁殖。"
+      ]
+    },
+    "set": {
+      "meaningZh": "生长；发育；出生并成长；生育养育",
+      "chineseSenses": [
+        "生长；发育；出生并成长；生育养育"
+      ]
+    },
+    "reason": "繁殖不是本词唯一主要义；恢复成长发育。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1378800"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a3ccbcbc24",
+    "text": "清濁",
+    "reading": "せいだく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "清浊 （汉语的所有义项）",
+      "chineseSenses": [
+        "清浊 （汉语的所有义项）"
+      ]
+    },
+    "set": {
+      "meaningZh": "清与浊；善与恶；（语音）清音与浊音",
+      "chineseSenses": [
+        "清与浊；善与恶；（语音）清音与浊音"
+      ]
+    },
+    "reason": "“汉语的所有义项”不是可验证定义，改为词典具体义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1378350"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:339518d459",
+    "text": "切開",
+    "reading": "せっかい",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "clearing (land)",
+        "opening up",
+        "cutting through"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "incision",
+        "surgical incision"
+      ]
+    },
+    "reason": "切開是切开手术，不是开垦土地；保留原needs-review。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1384980"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f319ccd9ac",
+    "text": "ゼリー",
+    "reading": "ゼリー",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "jelly",
+        "Jerry"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "jelly",
+        "gelatin dessert",
+        "gel"
+      ]
+    },
+    "reason": "Jerry是专名音译，非ゼリー普通释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1075190"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:15230778c8",
+    "text": "存続",
+    "reading": "そんぞく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "永存，遗留。",
+      "chineseSenses": [
+        "永存，遗留。"
+      ]
+    },
+    "set": {
+      "meaningZh": "存续；继续存在；维持",
+      "chineseSenses": [
+        "存续；继续存在；维持"
+      ]
+    },
+    "reason": "存続不蕴含永远存活，删除永存。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1406190"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2e11e80e5f",
+    "text": "大金",
+    "reading": "たいきん",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "great cost"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "large amount of money",
+        "large sum of money"
+      ]
+    },
+    "reason": "补中文巨款对应英文，great cost仅次义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1413500"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ee0ad82b09",
+    "text": "退職",
+    "reading": "たいしょく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "退休",
+      "chineseSenses": [
+        "退休"
+      ],
+      "meaningEn": [
+        "retirement (from office)"
+      ]
+    },
+    "set": {
+      "meaningZh": "离职；辞职；退休",
+      "chineseSenses": [
+        "离职；辞职；退休"
+      ],
+      "meaningEn": [
+        "retirement",
+        "resignation",
+        "leaving employment"
+      ]
+    },
+    "reason": "退職不只到年龄退休，也包括离开工作岗位。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1411420"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2fb15f5d80",
+    "text": "建前",
+    "reading": "たてまえ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "上梁",
+      "chineseSenses": [
+        "上梁",
+        "（表面的）方针，原则；場面話"
+      ]
+    },
+    "set": {
+      "meaningZh": "公开立场；表面上的原则；场面话",
+      "chineseSenses": [
+        "公开立场；表面上的原则；场面话"
+      ]
+    },
+    "reason": "本条与本音对照，原主显示上梁为建筑另义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1597110"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:da6e6e95fb",
+    "text": "賜る",
+    "reading": "たまわる",
+    "level": "N1",
+    "original": {
+      "meaningZh": "蒙受賞賜",
+      "chineseSenses": [
+        "蒙受賞賜",
+        "賜與，賞賜"
+      ],
+      "meaningEn": [
+        "to grant",
+        "to bestow"
+      ]
+    },
+    "set": {
+      "meaningZh": "蒙赐；承蒙给予（もらう的谦让表达）；赐予（给的尊敬表达）",
+      "chineseSenses": [
+        "蒙赐；承蒙给予（もらう的谦让表达）；赐予（给的尊敬表达）"
+      ],
+      "meaningEn": [
+        "to be granted",
+        "to receive (humbly)",
+        "to bestow (honorific)"
+      ]
+    },
+    "reason": "本词确有授受两个方向，补英文受领义并标明敬语差别。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1312860"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9ce64c5023",
+    "text": "タレント",
+    "reading": "タレント",
+    "level": "N1",
+    "original": {
+      "meaningZh": "才能；技能",
+      "chineseSenses": [
+        "才能；技能",
+        "（电视或广播的）艺人；电视名人；广播名人"
+      ]
+    },
+    "set": {
+      "meaningZh": "艺人；电视或广播名人；才能",
+      "chineseSenses": [
+        "艺人；电视或广播名人；才能"
+      ]
+    },
+    "reason": "日语タレント常用艺人义，原只主显示英语才干义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1076460"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a6da3499d8",
+    "text": "反",
+    "reading": "たん",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "roll of cloth (c. 10 yds.)",
+        "245 acres",
+        "300 tsubo"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "roll of cloth",
+        "area unit of 300 tsubo (about 991.74 square metres or 0.245 acres)"
+      ]
+    },
+    "reason": "原245 acres漏小数点，单位大了1000倍。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1480050"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5f504d816e",
+    "text": "旦那",
+    "reading": "だんな",
+    "level": "N1",
+    "original": {
+      "meaningZh": "布施，檀那",
+      "chineseSenses": [
+        "布施，檀那",
+        "布施，捐助",
+        "施主",
+        "主人，顾客等：",
+        "主人，顾客等：；一家之主，主人，老板"
+      ]
+    },
+    "set": {
+      "meaningZh": "丈夫；先生；主人；老板",
+      "chineseSenses": [
+        "丈夫；先生；主人；老板"
+      ]
+    },
+    "reason": "本条husband/master指人，不以布施活动作主义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1418410"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:cc066cbad3",
+    "text": "中毒",
+    "reading": "ちゅうどく",
+    "level": "N1",
+    "original": {
+      "meaningZh": "上癮，成癮",
+      "chineseSenses": [
+        "上癮，成癮",
+        "有害的物質進入人體或生物體內，造成機能障礙或死亡"
+      ],
+      "meaningEn": [
+        "poisoning"
+      ]
+    },
+    "set": {
+      "meaningZh": "中毒；上瘾；成瘾",
+      "chineseSenses": [
+        "中毒；上瘾；成瘾"
+      ],
+      "meaningEn": [
+        "poisoning",
+        "addiction"
+      ]
+    },
+    "reason": "中毒与成瘾都为真义，中英主显示应同时覆盖。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1425160"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f7acf9c5b4",
+    "text": "努めて",
+    "reading": "つとめて",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "make an effort!",
+        "work hard!"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "as much as possible",
+        "diligently",
+        "to the best of one’s ability"
+      ]
+    },
+    "reason": "努めて为副词尽量，不是命令“努力！”；保留隔离。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1445110"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:0d7b0235f9",
+    "text": "定年",
+    "reading": "ていねん",
+    "level": "N1",
+    "original": {
+      "meaningZh": "法定退休年龄；退休年龄限制",
+      "chineseSenses": [
+        "法定退休年龄；退休年龄限制",
+        "（达到退休年龄的）强制退休；法定退休"
+      ]
+    },
+    "set": {
+      "meaningZh": "规定的退休年龄；到龄退休",
+      "chineseSenses": [
+        "规定的退休年龄；到龄退休"
+      ]
+    },
+    "reason": "定年可以由组织制度规定，不能一概说法定。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1435740"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d43a9fda61",
+    "text": "出来物",
+    "reading": "できもの",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "able man",
+        "tumour",
+        "growth",
+        "boil",
+        "ulcer",
+        "abcess",
+        "rash",
+        "pimple"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "tumour",
+        "growth",
+        "boil",
+        "ulcer",
+        "abscess",
+        "rash",
+        "pimple"
+      ]
+    },
+    "reason": "できもの不包括できぶつ的人才义；修正abscess拼写。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1580150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:46f330a564",
+    "text": "等",
+    "reading": "とう",
+    "level": "N1",
+    "original": {
+      "meaningZh": "排名，等级。",
+      "chineseSenses": [
+        "排名，等级。",
+        "其他的，那个种类的东西。"
+      ],
+      "meaningEn": [
+        "et cetera, etc.",
+        "and the like"
+      ]
+    },
+    "set": {
+      "meaningZh": "等等；之类；等级",
+      "chineseSenses": [
+        "等等；之类；等级"
+      ],
+      "meaningEn": [
+        "et cetera",
+        "and the like",
+        "class",
+        "rank"
+      ]
+    },
+    "reason": "同字同读有等级和等等，补齐双语使主释义与目标一致。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1582305"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b40c224700",
+    "text": "到底",
+    "reading": "とうてい",
+    "level": "N1",
+    "original": {
+      "meaningZh": "歸根結底，說到底，到頭來，最終",
+      "chineseSenses": [
+        "歸根結底，說到底，到頭來，最終",
+        "無論如何都（不），怎麼樣也（不），根本（不），畢竟（不）"
+      ]
+    },
+    "set": {
+      "meaningZh": "（与否定搭配）怎么也不；无论如何也不；根本不",
+      "chineseSenses": [
+        "（与否定搭配）怎么也不；无论如何也不；根本不"
+      ]
+    },
+    "reason": "原归根结底是中文假朋友，不是本条日语到底。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1449880"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f49ebb3f1c",
+    "text": "どうやら",
+    "reading": "どうやら",
+    "level": "N1",
+    "original": {
+      "meaningZh": "勉强；费力地；好不容易；勉勉强强",
+      "chineseSenses": [
+        "勉强；费力地；好不容易；勉勉强强"
+      ]
+    },
+    "set": {
+      "meaningZh": "看来；似乎；好像；好不容易；勉强",
+      "chineseSenses": [
+        "看来；似乎；好像；好不容易；勉强"
+      ]
+    },
+    "reason": "原仅勉强次义，漏英文seemingly主要义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1009020"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:75abef3a63",
+    "text": "床",
+    "reading": "とこ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "土炕上用作座位的高約30公分的高臺",
+      "chineseSenses": [
+        "土炕上用作座位的高約30公分的高臺",
+        "供人睡覺的高平臺：床",
+        "病床",
+        "地板",
+        "疊蓆"
+      ]
+    },
+    "set": {
+      "meaningZh": "床；被褥；病床；壁龛；河床",
+      "chineseSenses": [
+        "床；被褥；病床；壁龛；河床"
+      ]
+    },
+    "reason": "原土炕高台不是本条核心义；改为可验证常用义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1349370"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:e9f0941d9e",
+    "text": "止まる",
+    "reading": "とどまる",
+    "level": "N1",
+    "original": {
+      "meaningZh": "停止",
+      "chineseSenses": [
+        "停止",
+        "停留，留下"
+      ],
+      "meaningEn": [
+        "to be limited to"
+      ]
+    },
+    "set": {
+      "meaningZh": "限于；仅限于；停留；留下",
+      "chineseSenses": [
+        "限于；仅限于；停留；留下"
+      ],
+      "meaningEn": [
+        "to be limited to",
+        "to remain",
+        "to stay"
+      ]
+    },
+    "reason": "とどまる不应仅用停止概括，补本条英文范围限制义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2657130"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9570ac7fed",
+    "text": "何卒",
+    "reading": "なにとぞ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "設法",
+      "chineseSenses": [
+        "設法",
+        "強烈的請求：請"
+      ]
+    },
+    "set": {
+      "meaningZh": "请；恳请；务必；无论如何",
+      "chineseSenses": [
+        "请；恳请；务必；无论如何"
+      ]
+    },
+    "reason": "原主显示设法不能对应please/kindly礼貌请求。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1189140"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:67f7a8d49f",
+    "text": "南",
+    "reading": "なん",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "south"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "south wind tile (mahjong)",
+        "winning hand with south wind triplet or quad"
+      ]
+    },
+    "reason": "なん读音词条为麻将，不能只写通用方位south。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2833068"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:64e8f7eda0",
+    "text": "熱量",
+    "reading": "ねつりょう",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "temperature"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "quantity of heat",
+        "heat value",
+        "calorific value"
+      ]
+    },
+    "reason": "熱量是热量而非温度temperature；保留隔离状态。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1468010"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2278a3e4a3",
+    "text": "望ましい",
+    "reading": "のぞましい",
+    "level": "N1",
+    "original": {
+      "meaningZh": "1. 所希望的。希望能…。；2. ～さ",
+      "chineseSenses": [
+        "1. 所希望的。希望能…。；2. ～さ"
+      ]
+    },
+    "set": {
+      "meaningZh": "令人希望的；理想的；可取的",
+      "chineseSenses": [
+        "令人希望的；理想的；可取的"
+      ]
+    },
+    "reason": "去除～さ形态标记残留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1519610"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:fd8bebdc50",
+    "text": "破棄",
+    "reading": "はき",
+    "level": "N1",
+    "original": {
+      "meaningZh": "破壞，毀壞",
+      "chineseSenses": [
+        "破壞，毀壞",
+        "廢止，廢除，取消，撤銷"
+      ]
+    },
+    "set": {
+      "meaningZh": "废弃；撕毁；撤销；（条约等）废除",
+      "chineseSenses": [
+        "废弃；撕毁；撤销；（条约等）废除"
+      ]
+    },
+    "reason": "明确文书处置和法律撤销语境，避免通用破坏混淆。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1471300"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8cd57dd5b8",
+    "text": "派遣",
+    "reading": "はけん",
+    "level": "N1",
+    "original": {
+      "meaningZh": "部署",
+      "chineseSenses": [
+        "部署"
+      ]
+    },
+    "set": {
+      "meaningZh": "派遣；派出；（劳务公司）派遣用工",
+      "chineseSenses": [
+        "派遣；派出；（劳务公司）派遣用工"
+      ]
+    },
+    "reason": "dispatch/deployment应为派遣派出，中文部署易误解为计划安排。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1471130"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8d0c7227fb",
+    "text": "張り紙",
+    "reading": "はりがみ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "貼紙",
+      "chineseSenses": [
+        "貼紙",
+        "用於傳達資訊的紙",
+        "便利貼，便箋"
+      ]
+    },
+    "set": {
+      "meaningZh": "告示；张贴的通知；招贴",
+      "chineseSenses": [
+        "告示；张贴的通知；招贴"
+      ]
+    },
+    "reason": "poster/notice不是通用带粘胶贴纸。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1427820"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:02e6ac02bf",
+    "text": "ハンガー",
+    "reading": "ハンガー",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "hangar",
+        "(coat) hanger",
+        "hunger"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "coat hanger"
+      ]
+    },
+    "reason": "本条衣架身份不包括hunger饥饿或另词hangar。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1096430"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:cf4cad10bf",
+    "text": "引き上げる",
+    "reading": "ひきあげる",
+    "level": "N1",
+    "original": {
+      "meaningZh": "拉起，吊起；打撈",
+      "chineseSenses": [
+        "拉起，吊起；打撈",
+        "提高，提升，上調（價格、標準、比例等）",
+        "提拔，晉升，起用",
+        "收回，撤回（資金、人員、物品等）",
+        "撤退，撤離（軍隊等）"
+      ],
+      "meaningEn": [
+        "to withdraw",
+        "to leave",
+        "to pull out",
+        "to retire"
+      ]
+    },
+    "set": {
+      "meaningZh": "撤离；撤回；拉起；提高",
+      "chineseSenses": [
+        "撤离；撤回；拉起；提高"
+      ],
+      "meaningEn": [
+        "to withdraw",
+        "to pull out",
+        "to pull up",
+        "to raise"
+      ]
+    },
+    "reason": "英文只撤离，中文主显示只拉起，整合共享常用义以免错配。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1601480"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b430f3039d",
+    "text": "久しい",
+    "reading": "ひさしい",
+    "level": "N1",
+    "original": {
+      "meaningZh": "1. 许久，好久。；2. ～さ",
+      "chineseSenses": [
+        "1. 许久，好久。；2. ～さ"
+      ]
+    },
+    "set": {
+      "meaningZh": "许久的；长久的；久远的",
+      "chineseSenses": [
+        "许久的；长久的；久远的"
+      ]
+    },
+    "reason": "去除～さ形态标记残留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1227340"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f3c62d6d70",
+    "text": "一息",
+    "reading": "ひといき",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "puffy",
+        "a breath",
+        "a pause",
+        "an effort"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "one breath",
+        "a pause",
+        "a breather",
+        "a little more effort"
+      ]
+    },
+    "reason": "一息不是形容词puffy。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1164390"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d3286be832",
+    "text": "人目",
+    "reading": "ひとめ",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "glimpse",
+        "public gaze"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "public gaze",
+        "public notice",
+        "attention"
+      ]
+    },
+    "reason": "人目不等于一目glimpse。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1580760"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ed2719ab9d",
+    "text": "ファン",
+    "reading": "ファン",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "fan",
+        "fun"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "fan",
+        "enthusiast",
+        "electric fan"
+      ]
+    },
+    "reason": "fan外来词不等于fun。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1108540"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:05e2d4d19d",
+    "text": "復活",
+    "reading": "ふっかつ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "死而復生",
+      "chineseSenses": [
+        "死而復生",
+        "恢復，回歸"
+      ]
+    },
+    "set": {
+      "meaningZh": "恢复；复兴；复出；复活",
+      "chineseSenses": [
+        "恢复；复兴；复出；复活"
+      ]
+    },
+    "reason": "恢复/复兴不必死亡，补齐英文revival/restoration。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1500700"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:772d057f4c",
+    "text": "踏まえる",
+    "reading": "ふまえる",
+    "level": "N1",
+    "original": {
+      "meaningZh": "踩，踏",
+      "chineseSenses": [
+        "踩，踏",
+        "根據，依據，立足於"
+      ]
+    },
+    "set": {
+      "meaningZh": "依据；立足于；考虑到；踩稳",
+      "chineseSenses": [
+        "依据；立足于；考虑到；踩稳"
+      ]
+    },
+    "reason": "英文based on要对应依据，不能只给踩踏。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1450110"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:84ad27c633",
+    "text": "分子",
+    "reading": "ぶんし",
+    "level": "N1",
+    "original": {
+      "meaningZh": "成分",
+      "chineseSenses": [
+        "成分",
+        "分子"
+      ]
+    },
+    "set": {
+      "meaningZh": "（化学）分子；（分数的）分子；（集体中的）成员",
+      "chineseSenses": [
+        "（化学）分子；（分数的）分子；（集体中的）成员"
+      ]
+    },
+    "reason": "numerator/molecule需明确分子，原只有成分。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1503630"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f832961b4a",
+    "text": "紛失",
+    "reading": "ふんしつ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "丢失，遗夫。",
+      "chineseSenses": [
+        "丢失，遗夫。"
+      ]
+    },
+    "set": {
+      "meaningZh": "丢失；遗失",
+      "chineseSenses": [
+        "丢失；遗失"
+      ]
+    },
+    "reason": "遗夫为遗失错字；保留原needs-review。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1505050"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:0b85c689e9",
+    "text": "分裂",
+    "reading": "ぶんれつ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "融合",
+      "chineseSenses": [
+        "融合"
+      ]
+    },
+    "set": {
+      "meaningZh": "分裂；分开；分化",
+      "chineseSenses": [
+        "分裂；分开；分化"
+      ]
+    },
+    "reason": "原融合与分裂为相反意义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1504510"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:47e4de1f65",
+    "text": "ペア",
+    "reading": "ペア",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "pair",
+        "pear"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "pair",
+        "set of two",
+        "pair-oared boat"
+      ]
+    },
+    "reason": "当前ペア成对身份不包括pear梨。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1120690"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:054813c4c2",
+    "text": "兵器",
+    "reading": "へいき",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "arms",
+        "weapons",
+        "ordinance"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "arms",
+        "weapons",
+        "ordnance"
+      ]
+    },
+    "reason": "ordinance是条例，武器军械是ordnance。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1506320"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:28bbcaef7c",
+    "text": "弁償",
+    "reading": "べんしょう",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "next word",
+        "compensation",
+        "reparation",
+        "indemnity",
+        "reimbursement"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "compensation",
+        "reparation",
+        "indemnification",
+        "reimbursement"
+      ]
+    },
+    "reason": "next word不是弁償词义，删除编辑残留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1512980"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a07de51f3c",
+    "text": "牧師",
+    "reading": "ぼくし",
+    "level": "N1",
+    "original": {
+      "meaningZh": "傳教士",
+      "chineseSenses": [
+        "傳教士"
+      ]
+    },
+    "set": {
+      "meaningZh": "牧师；（基督教）教牧人员",
+      "chineseSenses": [
+        "牧师；（基督教）教牧人员"
+      ]
+    },
+    "reason": "牧师职务不等于专门从事传教的传教士。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1521770"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:633a98a624",
+    "text": "ほっと",
+    "reading": "ほっと",
+    "level": "N1",
+    "original": {
+      "meaningZh": "叹气",
+      "chineseSenses": [
+        "叹气",
+        "放心，安心"
+      ]
+    },
+    "set": {
+      "meaningZh": "松一口气；感到放心；如释重负",
+      "chineseSenses": [
+        "松一口气；感到放心；如释重负"
+      ]
+    },
+    "reason": "relief需表达放心，单纯叹气容易理解为失落；保留隔离。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1011660"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ce141a5e31",
+    "text": "保母",
+    "reading": "ほぼ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "保姆",
+      "chineseSenses": [
+        "保姆"
+      ]
+    },
+    "set": {
+      "meaningZh": "女性保育员；托儿所保育员（旧称）",
+      "chineseSenses": [
+        "女性保育员；托儿所保育员（旧称）"
+      ]
+    },
+    "reason": "日语保母是保育员旧称，不是一般家政保姆。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1603540"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f1d383593c",
+    "text": "捲る",
+    "reading": "まくる",
+    "level": "N1",
+    "original": {
+      "meaningZh": "捲起，挽起。",
+      "chineseSenses": [
+        "捲起，挽起。"
+      ],
+      "meaningEn": [
+        "verb suffix to indicate reckless abandon to the activity"
+      ]
+    },
+    "set": {
+      "meaningZh": "卷起；挽起；（接动词连用形）不停地做；一个劲地做",
+      "chineseSenses": [
+        "卷起；挽起；（接动词连用形）不停地做；一个劲地做"
+      ],
+      "meaningEn": [
+        "to roll up",
+        "to do repeatedly",
+        "to do relentlessly"
+      ]
+    },
+    "reason": "同条动词和后缀双义均存在，原中英文各只一义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1257800"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9e08dfb738",
+    "text": "交わる",
+    "reading": "まじわる",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "to cross",
+        "to intersect",
+        "to associate with",
+        "to mingle with",
+        "to interest",
+        "to join"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to cross",
+        "to intersect",
+        "to associate with",
+        "to mingle with",
+        "to join"
+      ]
+    },
+    "reason": "to interest不是交わる，删除相近拼写污染。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1271700"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7d2fc5b5b0",
+    "text": "丸っきり",
+    "reading": "まるっきり",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "completely",
+        "perfectly",
+        "just as if"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "completely",
+        "absolutely",
+        "totally",
+        "not at all (with a negative)"
+      ]
+    },
+    "reason": "just as if不属于丸っきり。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1216270"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:68e9c896bf",
+    "text": "三",
+    "reading": "み",
+    "level": "N1",
+    "original": {
+      "meaningZh": "第三",
+      "chineseSenses": [
+        "第三"
+      ]
+    },
+    "set": {
+      "meaningZh": "三；三个（和语读法）",
+      "chineseSenses": [
+        "三；三个（和语读法）"
+      ]
+    },
+    "reason": "基数词three不是序数词第三。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1579350"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7e068a9494",
+    "text": "見合い",
+    "reading": "みあい",
+    "level": "N1",
+    "original": {
+      "meaningZh": "對視，互相看著",
+      "chineseSenses": [
+        "對視，互相看著",
+        "相親",
+        "相抵，相配，相稱，協調",
+        "一種黑白雙方各有相同數量的大場的狀態"
+      ]
+    },
+    "set": {
+      "meaningZh": "相亲；以结婚为目的的会面",
+      "chineseSenses": [
+        "相亲；以结婚为目的的会面"
+      ]
+    },
+    "reason": "本条formal marriage interview应主显示相亲。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1259550"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:63607fd708",
+    "text": "見方",
+    "reading": "みかた",
+    "level": "N1",
+    "original": {
+      "meaningZh": "觀察的方法；用法",
+      "chineseSenses": [
+        "觀察的方法；用法",
+        "見解，想法",
+        "觀點，立場"
+      ]
+    },
+    "set": {
+      "meaningZh": "看法；观点；看待问题的方式；阅读或欣赏的方法",
+      "chineseSenses": [
+        "看法；观点；看待问题的方式；阅读或欣赏的方法"
+      ]
+    },
+    "reason": "用法过泛且与本条viewpoint不对应。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1260070"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:cfaa0c9c42",
+    "text": "導く",
+    "reading": "みちびく",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "to be guided",
+        "to be shown"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to guide",
+        "to lead",
+        "to show the way",
+        "to derive"
+      ]
+    },
+    "reason": "導く为主动引导，不是被动to be guided；保留隔离。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1453680"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:78fbae6020",
+    "text": "民俗",
+    "reading": "みんぞく",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "people",
+        "race",
+        "nation",
+        "racial customs",
+        "folk customs"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "folk customs",
+        "folkways",
+        "ethnic customs"
+      ]
+    },
+    "reason": "民俗不是民族people/race/nation。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1604745"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f95af79628",
+    "text": "民族",
+    "reading": "みんぞく",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "people",
+        "race",
+        "nation",
+        "racial customs",
+        "folk customs"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "people",
+        "nation",
+        "ethnic group"
+      ]
+    },
+    "reason": "民族不是民俗folk customs。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1604740"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:55bc6ede70",
+    "text": "無茶苦茶",
+    "reading": "むちゃくちゃ",
+    "level": "N1",
+    "original": {
+      "meaningZh": "無(む)茶(ちゃ)苦(く)茶(ちゃ) (muchakucha)",
+      "chineseSenses": [
+        "無(む)茶(ちゃ)苦(く)茶(ちゃ) (muchakucha)"
+      ]
+    },
+    "set": {
+      "meaningZh": "乱七八糟；毫无道理；胡来；非常",
+      "chineseSenses": [
+        "乱七八糟；毫无道理；胡来；非常"
+      ]
+    },
+    "reason": "原中文是日语注音转写，缺实际意义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1530680"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a22c4bd92f",
+    "text": "横綱",
+    "reading": "よこづな",
+    "level": "N1",
+    "original": {
+      "meaningZh": "相扑最高级别；横纲；大关",
+      "chineseSenses": [
+        "相扑最高级别；横纲；大关"
+      ]
+    },
+    "set": {
+      "meaningZh": "横纲；相扑的最高等级",
+      "chineseSenses": [
+        "横纲；相扑的最高等级"
+      ]
+    },
+    "reason": "大关为另一等级，不能与横纲混为同义词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1180740"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:101cdef592",
+    "text": "恋愛",
+    "reading": "れんあい",
+    "level": "N1",
+    "original": {
+      "meaningEn": [
+        "love",
+        "love-making",
+        "passion",
+        "emotion",
+        "affections"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "romantic love",
+        "romance",
+        "affection"
+      ]
+    },
+    "reason": "原love-making现代常指性行为，非恋愛核心释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1558800"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7533eeec58",
+    "text": "碌に",
+    "reading": "ろくに",
+    "level": "N1",
+    "original": {
+      "meaningZh": "不好；不当；不充分；不足；不令人满意；不得体",
+      "chineseSenses": [
+        "不好；不当；不充分；不足；不令人满意；不得体"
+      ],
+      "meaningEn": [
+        "well",
+        "enough",
+        "sufficient"
+      ]
+    },
+    "set": {
+      "meaningZh": "（与否定搭配）不好好地；不充分地；不够",
+      "chineseSenses": [
+        "（与否定搭配）不好好地；不充分地；不够"
+      ],
+      "meaningEn": [
+        "not well (with a negative)",
+        "not properly (with a negative)",
+        "not enough (with a negative)"
+      ]
+    },
+    "reason": "明确与否定搭配，避免中英肯否方向相反。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1570040"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:0a58b5edbf",
+    "text": "論理",
+    "reading": "ろんり",
+    "level": "N1",
+    "original": {
+      "meaningZh": "...",
+      "chineseSenses": [
+        "..."
+      ]
+    },
+    "set": {
+      "meaningZh": "逻辑；道理",
+      "chineseSenses": [
+        "逻辑；道理"
+      ]
+    },
+    "reason": "省略号...不是中文释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1561850"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5b1dbc60e6",
+    "text": "遭う",
+    "reading": "あう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "相遇；碰面；见面",
+      "chineseSenses": [
+        "相遇；碰面；见面"
+      ]
+    },
+    "set": {
+      "meaningZh": "遭遇；碰上（通常指事故、灾难等不愉快的事）",
+      "chineseSenses": [
+        "遭遇；碰上（通常指事故、灾难等不愉快的事）"
+      ]
+    },
+    "reason": "遭う应突出不幸遭遇，与会う的一般见面相区分；现有例句为遭雨。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8c256fc677",
+    "text": "挙げる",
+    "reading": "あげる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "起义；举兵；武装反抗",
+      "chineseSenses": [
+        "起义；举兵；武装反抗",
+        "生育；生养；抚养；养育",
+        "抬起；举起；提高；升高"
+      ]
+    },
+    "set": {
+      "meaningZh": "举起；抬起；列举；举出",
+      "chineseSenses": [
+        "举起；抬起；列举；举出",
+        "举行（仪式、活动）；取得（成果）；成名",
+        "起兵；生育、养育（特定搭配）"
+      ]
+    },
+    "reason": "起义是有限搭配，不能作为挙げる的唯一主释义；两例分别为举手和成名。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:363c73e228",
+    "text": "幾分",
+    "reading": "いくぶん",
+    "level": "N2",
+    "original": {
+      "meaningZh": "分开几部分(中的一部分)",
+      "chineseSenses": [
+        "分开几部分(中的一部分)"
+      ]
+    },
+    "set": {
+      "meaningZh": "多少；有些；稍微；在某种程度上",
+      "chineseSenses": [
+        "多少；有些；稍微；在某种程度上",
+        "一部分；若干"
+      ]
+    },
+    "reason": "主英文与两例都是程度副词；原中文只剩字面分割解释。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:99ff21adbb",
+    "text": "一応",
+    "reading": "いちおう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "只想確認一下",
+      "chineseSenses": [
+        "只想確認一下",
+        "以防萬一",
+        "目前，暫時",
+        "姑且，暂且",
+        "大致，大略"
+      ]
+    },
+    "set": {
+      "meaningZh": "姑且；暂且；大致；基本上",
+      "chineseSenses": [
+        "姑且；暂且；大致；基本上",
+        "以防万一；一次"
+      ]
+    },
+    "reason": "只想确认一下是语境句译，不能等同一応本身。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a86f29464a",
+    "text": "佚",
+    "reading": "いつ",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "be lost",
+        "peace",
+        "hide",
+        "mistake",
+        "beautiful",
+        "in turn"
+      ],
+      "meaningZh": "",
+      "chineseSenses": []
+    },
+    "set": {
+      "meaningEn": [
+        "being comfortable",
+        "relaxing"
+      ],
+      "meaningZh": "舒适；安逸",
+      "chineseSenses": [
+        "舒适；安逸"
+      ]
+    },
+    "reason": "佚（いつ）作为此词条的名词是安逸；原英文混入汉字字义串，词形/读音本身不改。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a4847f22e0",
+    "text": "承る",
+    "reading": "うけたまわる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "接受，受ける (ukeru)的謙語",
+      "chineseSenses": [
+        "接受，受ける (ukeru)的謙語",
+        "閱讀、查看 (源於接受信件或文件)",
+        "聽、聽取，聞く (kiku)的謙語",
+        "知道、同意、接受 (命令或指示)",
+        "說 (對象僅限於他人，不用於自己)"
+      ]
+    },
+    "set": {
+      "meaningZh": "听；听取；被告知；知道（谦让表达）",
+      "chineseSenses": [
+        "听；听取；被告知；知道（谦让表达）",
+        "接受（订单、预约等）；领受；应允；承办（谦让表达）"
+      ]
+    },
+    "reason": "此现代学习条目应明确闻听和接受的谦让义；“说且只用于他人”会与おっしゃる混淆；删去未标时代的义项。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://kotobank.jp/jeword/%E6%89%BF%E3%82%8B"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:0a5c26a710",
+    "text": "拝む",
+    "reading": "おがむ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "鞠躬",
+      "chineseSenses": [
+        "鞠躬",
+        "（双手合十）祈祷",
+        "见识"
+      ]
+    },
+    "set": {
+      "meaningZh": "合掌祈祷；参拜；膜拜",
+      "chineseSenses": [
+        "合掌祈祷；参拜；膜拜",
+        "恳求；央求",
+        "拜见；瞻仰；见识（敬意或戏谑语气）"
+      ]
+    },
+    "reason": "主译仅鞠躬不足以区别お辞儀；主英文为worship/beg，例句为瞻仰/见识。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b1173f76cf",
+    "text": "おさきに",
+    "reading": "おさきに",
+    "level": "N2",
+    "original": {
+      "meaningZh": "之前；以前",
+      "chineseSenses": [
+        "之前；以前",
+        "前面；在前"
+      ]
+    },
+    "set": {
+      "meaningZh": "先；在前；先行（如“您先请”“我先走了”）",
+      "chineseSenses": [
+        "先；在前；先行（如“您先请”“我先走了”）",
+        "先前；以前（依语境）"
+      ]
+    },
+    "reason": "保留时间义，同时使主释义匹配お先に的常用礼貌表达与例句。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:aca1f9b63b",
+    "text": "改造",
+    "reading": "かいぞう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "整理",
+      "chineseSenses": [
+        "整理",
+        "重組，改組",
+        "修改/破解遊戲數值"
+      ]
+    },
+    "set": {
+      "meaningZh": "改造；改建；改装；改组",
+      "chineseSenses": [
+        "改造；改建；改装；改组",
+        "修改（如游戏模组、设备功能）"
+      ]
+    },
+    "reason": "整理不能表达建筑或车辆结构改造。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a2e9a76dd2",
+    "text": "火口",
+    "reading": "かこう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "（锅炉的）燃烧器",
+      "chineseSenses": [
+        "（锅炉的）燃烧器"
+      ]
+    },
+    "set": {
+      "meaningZh": "火山口；喷火口",
+      "chineseSenses": [
+        "火山口；喷火口",
+        "（锅炉等的）燃烧口"
+      ]
+    },
+    "reason": "かこう也确实有锅炉燃烧口义，不判原读音错误；补主要火山义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.jma.go.jp/jma/kishou/know/kazan/kazanyougo/chikei.html",
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a2e9a76dd2",
+    "text": "火口",
+    "reading": "かこう",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "a burner",
+        "origin of a fire"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "volcanic crater",
+        "burner (of a boiler)"
+      ]
+    },
+    "reason": "补火山义；origin of a fire混入ひぐち/火元的解释。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9ceaaec557",
+    "text": "学級",
+    "reading": "がっきゅう",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "grade in school"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "school class"
+      ]
+    },
+    "reason": "学級是班级，grade易误为学年。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:65bbe081e9",
+    "text": "加熱",
+    "reading": "かねつ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "保持溫度",
+      "chineseSenses": [
+        "保持溫度"
+      ]
+    },
+    "set": {
+      "meaningZh": "加热；施加热量",
+      "chineseSenses": [
+        "加热；施加热量"
+      ]
+    },
+    "reason": "加热与保持温度（保温）不同。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:391e4f541a",
+    "text": "感ずる",
+    "reading": "かんずる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "感じる",
+      "chineseSenses": [
+        "感じる"
+      ]
+    },
+    "set": {
+      "meaningZh": "感觉；感到；感受（同感じる）",
+      "chineseSenses": [
+        "感觉；感到；感受（同感じる）"
+      ]
+    },
+    "reason": "原中文字段只有日语同义词，没有中文释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5f2c3ba54c",
+    "text": "工夫",
+    "reading": "くふう",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "labourer",
+        "worker"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "devising a way",
+        "ingenuity",
+        "idea",
+        "plan"
+      ]
+    },
+    "reason": "くふう是构思/想办法，labourer/worker属于另一读法こうふ。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:988eff8e12",
+    "text": "郡",
+    "reading": "ぐん",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "country",
+        "district"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "district",
+        "county"
+      ]
+    },
+    "reason": "country误为国家，郡对应county/district。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7f5f5e5428",
+    "text": "険しい",
+    "reading": "けわしい",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "inaccessible place",
+        "sharp eyes"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "steep",
+        "rugged",
+        "precipitous",
+        "stern",
+        "grim"
+      ]
+    },
+    "reason": "原英文名词短语inaccessible place/sharp eyes未准确表达形容词义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:c6a40ed583",
+    "text": "後輩",
+    "reading": "こうはい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "后辈，晚辈",
+      "chineseSenses": [
+        "后辈，晚辈",
+        "下班同学，比自己晚的校友"
+      ]
+    },
+    "set": {
+      "meaningZh": "后辈；晚辈；资历较浅者",
+      "chineseSenses": [
+        "后辈；晚辈；资历较浅者",
+        "后入学的学生；低年级同学；较晚入校的校友"
+      ]
+    },
+    "reason": "“下班同学”为明显错字/错误释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:eee75b5abd",
+    "text": "さきおととい",
+    "reading": "さきおととい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "前天的前天；三天前",
+      "chineseSenses": [
+        "前天的前天；三天前"
+      ]
+    },
+    "set": {
+      "meaningZh": "大前天；三天前",
+      "chineseSenses": [
+        "大前天；三天前"
+      ]
+    },
+    "reason": "前天的前天为四天前，与三天前矛盾。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d69e3e87d9",
+    "text": "刺さる",
+    "reading": "ささる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "刺出，穿出，突出",
+      "chineseSenses": [
+        "刺出，穿出，突出",
+        "刺入",
+        "深深感动，震动"
+      ]
+    },
+    "set": {
+      "meaningZh": "刺入；扎入；插进；扎在里面",
+      "chineseSenses": [
+        "刺入；扎入；插进；扎在里面",
+        "打动；引起情感共鸣（比喻）"
+      ]
+    },
+    "reason": "原主释义刺出/突出把方向反了。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:46ba179deb",
+    "text": "流石",
+    "reading": "さすが",
+    "level": "N2",
+    "original": {
+      "meaningZh": "同上。",
+      "chineseSenses": [
+        "同上。"
+      ]
+    },
+    "set": {
+      "meaningZh": "不愧是；果然；正如所料",
+      "chineseSenses": [
+        "不愧是；果然；正如所料",
+        "毕竟；到底；即使是（依语境）"
+      ]
+    },
+    "reason": "“同上”是词典跳转残片，不能作释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b589376271",
+    "text": "しあさって",
+    "reading": "しあさって",
+    "level": "N2",
+    "original": {
+      "meaningZh": "三天后；后天的后天",
+      "chineseSenses": [
+        "三天后；后天的后天"
+      ]
+    },
+    "set": {
+      "meaningZh": "大后天；三天后",
+      "chineseSenses": [
+        "大后天；三天后"
+      ]
+    },
+    "reason": "后天的后天为四天后；本条标准语和两例均为三天后。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:aa5973a2fb",
+    "text": "司会",
+    "reading": "しかい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "主席",
+      "chineseSenses": [
+        "主席",
+        "司儀；主持人"
+      ]
+    },
+    "set": {
+      "meaningZh": "主持（会议、仪式等）",
+      "chineseSenses": [
+        "主持（会议、仪式等）",
+        "主持人；司仪；会议主席"
+      ]
+    },
+    "reason": "主席只指人，缺少司会する的主持义；完整说明其活动与角色义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:855762ebcc",
+    "text": "四捨五入",
+    "reading": "ししゃごにゅう",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "rounding up (fractions)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "rounding off a number"
+      ]
+    },
+    "reason": "四舍五入包含舍去和进位，不能只说rounding up。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:bef1949982",
+    "text": "しつこい",
+    "reading": "しつこい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "纠缠不休，粘缠。",
+      "chineseSenses": [
+        "纠缠不休，粘缠。",
+        "(色、香、味等)浓艳，腻人。",
+        "しつこいさ"
+      ]
+    },
+    "set": {
+      "meaningZh": "纠缠不休；执拗；不依不饶",
+      "chineseSenses": [
+        "纠缠不休；执拗；不依不饶",
+        "（味道等）浓厚；油腻；过于浓重"
+      ]
+    },
+    "reason": "移除附加义项しつこいさ；名词应是しつこさ，不能作为中文释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8e6aa9eafb",
+    "text": "締め切る",
+    "reading": "しめきる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "关闭；上锁",
+      "chineseSenses": [
+        "关闭；上锁"
+      ]
+    },
+    "set": {
+      "meaningZh": "截止；停止受理（报名、申请等）",
+      "chineseSenses": [
+        "截止；停止受理（报名、申请等）",
+        "关严；封闭"
+      ]
+    },
+    "reason": "现有例句为停止接单；仅关闭/上锁会误教主要用途。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8e6aa9eafb",
+    "text": "締め切る",
+    "reading": "しめきる",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "to shut up"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to close up",
+        "to close off",
+        "to set a deadline",
+        "to stop accepting applications or orders"
+      ]
+    },
+    "reason": "补例句对应的截止/停止受理义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:dbb718ab22",
+    "text": "縮小",
+    "reading": "しゅくしょう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "濃縮",
+      "chineseSenses": [
+        "濃縮",
+        "縮短",
+        "減少，縮減"
+      ]
+    },
+    "set": {
+      "meaningZh": "缩小；缩减；削减",
+      "chineseSenses": [
+        "缩小；缩减；削减"
+      ]
+    },
+    "reason": "浓缩是濃縮，縮小表达尺寸或规模减少。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ef02a97b60",
+    "text": "人文科学",
+    "reading": "じんぶんかがく",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "social sciences",
+        "humanities"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "humanities",
+        "arts"
+      ]
+    },
+    "reason": "人文科学区别于社会科学，不以social sciences作为本条释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4c23dad704",
+    "text": "素直",
+    "reading": "すなお",
+    "level": "N2",
+    "original": {
+      "meaningZh": "溫和",
+      "chineseSenses": [
+        "溫和",
+        "順從"
+      ]
+    },
+    "set": {
+      "meaningZh": "顺从；坦率；不做作",
+      "chineseSenses": [
+        "顺从；坦率；不做作",
+        "直率地表达感情；老实听取意见"
+      ]
+    },
+    "reason": "温和不足以表达例句的坦率/坦诚义，补关键用法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9ece254a41",
+    "text": "スピーカー",
+    "reading": "スピーカー",
+    "level": "N2",
+    "original": {
+      "meaningZh": "说话人",
+      "chineseSenses": [
+        "说话人",
+        "扬声器",
+        "话筒"
+      ]
+    },
+    "set": {
+      "meaningZh": "扬声器；扩音器",
+      "chineseSenses": [
+        "扬声器；扩音器",
+        "演讲者；说话者",
+        "爱传播消息的人（比喻）"
+      ]
+    },
+    "reason": "附加义项“话筒”是microphone，不是speaker；把例句所用扬声器义置前。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E3%81%99%E3%81%B4%E3%83%BC%E3%81%8B%E3%83%BC-3156594"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:dbd84cdab0",
+    "text": "清書",
+    "reading": "せいしょ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "誉写，誉改。",
+      "chineseSenses": [
+        "誉写，誉改。"
+      ]
+    },
+    "set": {
+      "meaningZh": "誊写；誊清",
+      "chineseSenses": [
+        "誊写；誊清"
+      ]
+    },
+    "reason": "誉写/誉改误用了誉；意为写出整洁的清稿。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:649455971d",
+    "text": "成分",
+    "reading": "せいぶん",
+    "level": "N2",
+    "original": {
+      "meaningZh": "構成物體的元素、物質、因素",
+      "chineseSenses": [
+        "構成物體的元素、物質、因素",
+        "實體"
+      ]
+    },
+    "set": {
+      "meaningZh": "成分；组成部分；成分构成",
+      "chineseSenses": [
+        "成分；组成部分；成分构成"
+      ]
+    },
+    "reason": "附加中文“实体”不是该条英文ingredient/component/composition的适当对应。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5b1670aea6",
+    "text": "せめて",
+    "reading": "せめて",
+    "level": "N2",
+    "original": {
+      "meaningZh": "进攻；攻击方法",
+      "chineseSenses": [
+        "进攻；攻击方法"
+      ]
+    },
+    "set": {
+      "meaningZh": "至少；起码（表达最低限度的愿望）",
+      "chineseSenses": [
+        "至少；起码（表达最低限度的愿望）"
+      ]
+    },
+    "reason": "本条假名せめて和例句为程度副词，但关联到名词攻め手，主中英文均错。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5b1670aea6",
+    "text": "せめて",
+    "reading": "せめて",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "offense",
+        "method of attack"
+      ],
+      "pos": [
+        "n"
+      ],
+      "jmdictId": 1675160
+    },
+    "set": {
+      "meaningEn": [
+        "at least",
+        "at the very least"
+      ],
+      "pos": [
+        "adv"
+      ],
+      "jmdictId": 1006570
+    },
+    "reason": "改回副词せめて的JMdict条目，避免后续同步重新引入攻め手义项。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:434ce23ca6",
+    "text": "相互",
+    "reading": "そうご",
+    "level": "N2",
+    "original": {
+      "meaningZh": "互相",
+      "chineseSenses": [
+        "互相",
+        "交替"
+      ]
+    },
+    "set": {
+      "meaningZh": "相互；互相；彼此",
+      "chineseSenses": [
+        "相互；互相；彼此"
+      ]
+    },
+    "reason": "附加“交替”不对应mutual/reciprocal。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:34b4191f3c",
+    "text": "ダム",
+    "reading": "ダム",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "dumb"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "dam"
+      ]
+    },
+    "reason": "dumb是错误英文；现有例句明确水坝。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1eeb6f9a04",
+    "text": "長男",
+    "reading": "ちょうなん",
+    "level": "N2",
+    "original": {
+      "meaningZh": "长男；长子；嫡长子",
+      "chineseSenses": [
+        "长男；长子；嫡长子"
+      ]
+    },
+    "set": {
+      "meaningZh": "长子；最大的儿子（也可能是独子）",
+      "chineseSenses": [
+        "长子；最大的儿子（也可能是独子）"
+      ]
+    },
+    "reason": "長男不隐含嫡出身份，删去嫡长子。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b27701113c",
+    "text": "直流",
+    "reading": "ちょくりゅう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "（河流）直着流",
+      "chineseSenses": [
+        "（河流）直着流",
+        "直流"
+      ]
+    },
+    "set": {
+      "meaningZh": "直流电；直流",
+      "chineseSenses": [
+        "直流电；直流"
+      ]
+    },
+    "reason": "本条英文DC对应电学义，原主中文只匹配字面河流描述。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:da7eee9d6c",
+    "text": "通用",
+    "reading": "つうよう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "共同使用",
+      "chineseSenses": [
+        "共同使用"
+      ]
+    },
+    "set": {
+      "meaningZh": "通用；流通；有效",
+      "chineseSenses": [
+        "通用；流通；有效",
+        "行得通；被接受；适用"
+      ]
+    },
+    "reason": "“共同使用”容易误为共同所有/共用，补出通用/有效的本义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:ad4ecf843d",
+    "text": "努める",
+    "reading": "つとめる",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "to serve",
+        "to fill a post",
+        "to serve under",
+        "to work (for)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to make an effort",
+        "to strive",
+        "to endeavor"
+      ]
+    },
+    "reason": "努める是努力；现有英文为勤める/務める的同音词义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1a5cce10d7",
+    "text": "出来上がる",
+    "reading": "できあがる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "完成的，執行（任務）/履行（承諾）",
+      "chineseSenses": [
+        "完成的，執行（任務）/履行（承諾）",
+        "去完成，去做，去準備",
+        "過度飲酒；喝醉，酒酣"
+      ]
+    },
+    "set": {
+      "meaningZh": "完成；做好；准备就绪",
+      "chineseSenses": [
+        "完成；做好；准备就绪",
+        "喝得酩酊大醉（口语）"
+      ]
+    },
+    "reason": "自动词出来上がる是某物完成/准备好，不是执行任务或履行承诺。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1a5cce10d7",
+    "text": "出来上がる",
+    "reading": "できあがる",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "to be finished",
+        "to be ready",
+        "by definition",
+        "to be very drunk"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to be completed",
+        "to be finished",
+        "to be ready",
+        "to be very drunk"
+      ]
+    },
+    "reason": "by definition不是出来上がる的义项。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b4e3b45b3f",
+    "text": "統計",
+    "reading": "とうけい",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "scattering",
+        "a scatter",
+        "dispersion"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "statistics"
+      ]
+    },
+    "reason": "統計不是scattering/dispersion。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7137e5312a",
+    "text": "永い",
+    "reading": "ながい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "长；距离长",
+      "chineseSenses": [
+        "长；距离长",
+        "长；冗长；拖沓"
+      ]
+    },
+    "set": {
+      "meaningZh": "（时间）长；长久；漫长",
+      "chineseSenses": [
+        "（时间）长；长久；漫长"
+      ]
+    },
+    "reason": "永い主要表时间；距离长应写長い。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E9%95%B7%E3%81%84-587550",
+      "https://www.kanjipedia.jp/kotoba/0000382900"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:972c45f9d5",
+    "text": "亡くす",
+    "reading": "なくす",
+    "level": "N2",
+    "original": {
+      "meaningZh": "丧，死。",
+      "chineseSenses": [
+        "丧，死。"
+      ]
+    },
+    "set": {
+      "meaningZh": "因死亡而失去（亲人等）；丧失亲人",
+      "chineseSenses": [
+        "因死亡而失去（亲人等）；丧失亲人"
+      ]
+    },
+    "reason": "亡くす是他动词失去某人，不是本人死亡（亡くなる）。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4067523091",
+    "text": "何分",
+    "reading": "なにぶん",
+    "level": "N2",
+    "original": {
+      "meaningZh": "某些；某种；有些；一点",
+      "chineseSenses": [
+        "某些；某种；有些；一点",
+        "无论如何；总之；毕竟；反正"
+      ]
+    },
+    "set": {
+      "meaningZh": "毕竟；无论如何；总之（说明情况或请求体谅）",
+      "chineseSenses": [
+        "毕竟；无论如何；总之（说明情况或请求体谅）",
+        "些许；若干；一点（依语境）"
+      ]
+    },
+    "reason": "数量义本身存在；主释义补本条例句与现代常见副词用法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1bec520d49",
+    "text": "女房",
+    "reading": "にょうぼう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "侍女，宫女；(现代广义) 女佣人",
+      "chineseSenses": [
+        "侍女，宫女；(现代广义) 女佣人",
+        "女友，女爱人，女情人",
+        "(狭义) 妻子，内人，老婆 （现代用法中倾向于做谦称，一般不用来指别人的妻子）"
+      ]
+    },
+    "set": {
+      "meaningZh": "妻子；老婆（多指自己的妻子，较口语）",
+      "chineseSenses": [
+        "妻子；老婆（多指自己的妻子，较口语）",
+        "宫廷女官；女侍（历史用语）"
+      ]
+    },
+    "reason": "英语wife和两例都指妻子；现代广义女佣人的说明会误导。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b321aa2d85",
+    "text": "濃度",
+    "reading": "のうど",
+    "level": "N2",
+    "original": {
+      "meaningZh": "表示溶液的溶質與溶劑間的相對量",
+      "chineseSenses": [
+        "表示溶液的溶質與溶劑間的相對量",
+        "勢"
+      ]
+    },
+    "set": {
+      "meaningZh": "浓度；密度",
+      "chineseSenses": [
+        "浓度；密度",
+        "基数；集合的势（数学）"
+      ]
+    },
+    "reason": "附加单字“势”缺少数学标签，需明确cardinality。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:440987e433",
+    "text": "外れる",
+    "reading": "はずれる",
+    "level": "N2",
+    "original": {
+      "meaningZh": "解開，打開",
+      "chineseSenses": [
+        "解開，打開",
+        "脫掉；取下",
+        "脱轨，偏离",
+        "猜错",
+        "違反"
+      ]
+    },
+    "set": {
+      "meaningZh": "脱落；脱开；掉下来；偏离",
+      "chineseSenses": [
+        "脱落；脱开；掉下来；偏离",
+        "落空；猜错；未中",
+        "被排除；不符合；违背"
+      ]
+    },
+    "reason": "外れる为自动词，附加脱掉/取下易混为他动词外す。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:fa217abd55",
+    "text": "派手",
+    "reading": "はで",
+    "level": "N2",
+    "original": {
+      "meaningZh": "派(は)手(で) (hade)",
+      "chineseSenses": [
+        "派(は)手(で) (hade)"
+      ]
+    },
+    "set": {
+      "meaningZh": "花哨；鲜艳夺目；华丽；张扬",
+      "chineseSenses": [
+        "花哨；鲜艳夺目；华丽；张扬"
+      ]
+    },
+    "reason": "原中文仅有派手的注音转写，未提供意思。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:50b6055d9b",
+    "text": "日日",
+    "reading": "ひにち",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "every day",
+        "daily",
+        "day after day"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "date",
+        "day",
+        "number of days"
+      ]
+    },
+    "reason": "日日读ひにち时当前中译与两例是日期/天数；原英文daily来自ひび/にちにち的另一常用读法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://kotobank.jp/jeword/%E6%97%A5%E6%97%A5"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5fc011d141",
+    "text": "平仮名",
+    "reading": "ひらがな",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "hiragana",
+        "47 syllables",
+        "the cursive syllabary"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "hiragana",
+        "the cursive Japanese syllabary"
+      ]
+    },
+    "reason": "删除无依据的47 syllables数量，避免把假名数量和音节混为一谈。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:da73d5aa2c",
+    "text": "複写",
+    "reading": "ふくしゃ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "1. (书画等)复制，翻拍。；2. 复写，誉写。",
+      "chineseSenses": [
+        "1. (书画等)复制，翻拍。；2. 复写，誉写。"
+      ]
+    },
+    "set": {
+      "meaningZh": "复制；复印；复写；翻拍",
+      "chineseSenses": [
+        "复制；复印；复写；翻拍"
+      ]
+    },
+    "reason": "誉写为誊写之误，整理为本词稳定译义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:826de86dee",
+    "text": "ぶつぶつ",
+    "reading": "ぶつぶつ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "切成小块",
+      "chineseSenses": [
+        "切成小块"
+      ]
+    },
+    "set": {
+      "meaningZh": "嘟囔；小声抱怨；嘀咕",
+      "chineseSenses": [
+        "嘟囔；小声抱怨；嘀咕",
+        "疙瘩；小疹子",
+        "切成小块（ぶつぶつ切る等搭配）"
+      ]
+    },
+    "reason": "切小块义确实存在；应把英文和例句的抱怨、疙瘩义补齐。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:606f11e5c2",
+    "text": "文献",
+    "reading": "ぶんけん",
+    "level": "N2",
+    "original": {
+      "meaningZh": "文學",
+      "chineseSenses": [
+        "文學",
+        "文獻，文件"
+      ]
+    },
+    "set": {
+      "meaningZh": "文献；参考资料；书面资料",
+      "chineseSenses": [
+        "文献；参考资料；书面资料"
+      ]
+    },
+    "reason": "literature此处指文献，不是文学这一学科。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:65b1441da3",
+    "text": "分布",
+    "reading": "ぶんぷ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "分配",
+      "chineseSenses": [
+        "分配"
+      ]
+    },
+    "set": {
+      "meaningZh": "分布；散布于",
+      "chineseSenses": [
+        "分布；散布于"
+      ]
+    },
+    "reason": "分布是存在的位置/范围，不能误译成主动分配。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:a2d96b6d4b",
+    "text": "隔てる",
+    "reading": "へだてる",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "to be shut out"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to separate",
+        "to divide",
+        "to partition",
+        "to interpose"
+      ]
+    },
+    "reason": "隔てる为他动词，不是to be shut out被拒之门外。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:20d7554878",
+    "text": "盆地",
+    "reading": "ぼんち",
+    "level": "N2",
+    "original": {
+      "meaningZh": "basin",
+      "chineseSenses": [
+        "basin"
+      ]
+    },
+    "set": {
+      "meaningZh": "盆地",
+      "chineseSenses": [
+        "盆地"
+      ]
+    },
+    "reason": "中文字段残留英文basin，补为可确定中文。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:bfe15d1832",
+    "text": "交ぜる",
+    "reading": "まぜる",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "to be mixed",
+        "to be blended with"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to mix",
+        "to blend",
+        "to stir"
+      ]
+    },
+    "reason": "交ぜる为他动词；原英文被动/自动表达混同交じる。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:06f8dff15d",
+    "text": "みじめ",
+    "reading": "みじめ",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "(archaic) sad",
+        "pitiful",
+        "wretched"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "miserable",
+        "wretched",
+        "unhappy",
+        "pitiful"
+      ]
+    },
+    "reason": "みじめ是现代常用词，删除无依据archaic标签。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:0b3f7b2cf0",
+    "text": "姪",
+    "reading": "めい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "兄弟的女兒",
+      "chineseSenses": [
+        "兄弟的女兒"
+      ]
+    },
+    "set": {
+      "meaningZh": "侄女；外甥女（兄弟姐妹的女儿）",
+      "chineseSenses": [
+        "侄女；外甥女（兄弟姐妹的女儿）"
+      ]
+    },
+    "reason": "姪包括姐妹的女儿，原定义只提兄弟而漏外甥女。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:561a981d4b",
+    "text": "めでたい",
+    "reading": "めでたい",
+    "level": "N2",
+    "original": {
+      "meaningZh": "值得恭贺，可庆可喜，可喜可贺的。",
+      "chineseSenses": [
+        "值得恭贺，可庆可喜，可喜可贺的。",
+        "（某事物）進行得很順利",
+        "（受上位者）讚揚和喜愛（以「覚えがめでたい」的形式出現）",
+        "（恭維）善良、好的（以「おめでたい」的形式出現）"
+      ]
+    },
+    "set": {
+      "meaningZh": "值得庆贺；可喜；吉祥",
+      "chineseSenses": [
+        "值得庆贺；可喜；吉祥",
+        "天真得可笑；过于乐观（常用おめでたい，带讽刺）"
+      ]
+    },
+    "reason": "现有附加说明把おめでたい说成恭维善良，会误解讽刺语气。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7b3793ce89",
+    "text": "家主",
+    "reading": "やぬし",
+    "level": "N2",
+    "original": {
+      "meaningZh": "一家之主，家長",
+      "chineseSenses": [
+        "一家之主，家長",
+        "房主，房东"
+      ]
+    },
+    "set": {
+      "meaningZh": "房东；房屋所有者",
+      "chineseSenses": [
+        "房东；房屋所有者",
+        "一家之主（依语境）"
+      ]
+    },
+    "reason": "一家之主义存在；主释义改与landlord和两条例句对应。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2da7613dd3",
+    "text": "輸血",
+    "reading": "ゆけつ",
+    "level": "N2",
+    "original": {
+      "meaningZh": "一種治療措施",
+      "chineseSenses": [
+        "一種治療措施"
+      ]
+    },
+    "set": {
+      "meaningZh": "输血",
+      "chineseSenses": [
+        "输血"
+      ]
+    },
+    "reason": "“一种治疗措施”过于泛化，不能帮助识别blood transfusion。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:3b96c00a5b",
+    "text": "湧く",
+    "reading": "わく",
+    "level": "N2",
+    "original": {
+      "meaningEn": [
+        "to boil",
+        "to grow hot",
+        "to get excited",
+        "to gush forth"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to gush out",
+        "to well up",
+        "to arise",
+        "to emerge"
+      ]
+    },
+    "reason": "湧く的涌现义应与沸く的沸腾分开；移除boil/grow hot。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:75fef7ef0d",
+    "text": "遠足",
+    "reading": "えんそく",
+    "level": "N2",
+    "original": {
+      "meaningZh": "サ 野游，郊游。",
+      "chineseSenses": [
+        "サ 野游，郊游。"
+      ]
+    },
+    "set": {
+      "meaningZh": "野游，郊游。",
+      "chineseSenses": [
+        "野游，郊游。"
+      ]
+    },
+    "reason": "去除词典词性/章节标记残留，不改变词义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:c85140bde0",
+    "text": "開通",
+    "reading": "かいつう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "通车，通话。==日语==",
+      "chineseSenses": [
+        "通车，通话。==日语=="
+      ]
+    },
+    "set": {
+      "meaningZh": "通车，通话。",
+      "chineseSenses": [
+        "通车，通话。"
+      ]
+    },
+    "reason": "去除词典词性/章节标记残留，不改变词义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7f59e7581c",
+    "text": "拡張",
+    "reading": "かくちょう",
+    "level": "N2",
+    "original": {
+      "meaningZh": "扩张，扩充。==日语==",
+      "chineseSenses": [
+        "扩张，扩充。==日语=="
+      ]
+    },
+    "set": {
+      "meaningZh": "扩张，扩充。",
+      "chineseSenses": [
+        "扩张，扩充。"
+      ]
+    },
+    "reason": "去除词典词性/章节标记残留，不改变词义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-07"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:57c650defa",
+    "text": "あと",
+    "reading": "あと",
+    "level": "N3",
+    "original": {
+      "meaningZh": "後：後面",
+      "chineseSenses": [
+        "後：後面",
+        "跡：痕跡",
+        "痕：痕跡，遺蹟，標誌，標記"
+      ],
+      "meaning": "後：後面"
+    },
+    "set": {
+      "meaningZh": "痕迹；足迹；遗迹；伤痕",
+      "chineseSenses": [
+        "痕迹；足迹；标记",
+        "遗址；遗迹",
+        "伤痕"
+      ],
+      "meaning": "痕迹；足迹；遗迹；伤痕"
+    },
+    "reason": "英文和 JMdict 1383680 均指「跡／痕」，中文首义却取了同音的「後」。清除跨词的後面。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1383680"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:3f1fbec85e",
+    "text": "あんまり",
+    "reading": "あんまり",
+    "level": "N3",
+    "original": {
+      "meaningZh": "剩余；残余；剩下的；余数；盈余；饭菜剩余",
+      "chineseSenses": [
+        "剩余；残余；剩下的；余数；盈余；饭菜剩余",
+        "不太好；马马虎虎；平庸的",
+        "不很；不太；不怎么"
+      ],
+      "meaningEn": [
+        "not very",
+        "not much",
+        "remainder",
+        "rest"
+      ],
+      "meaning": "剩余；残余；剩下的；余数；盈余；饭菜剩余"
+    },
+    "set": {
+      "meaningZh": "（后接否定）不太；不怎么；过于；太过分",
+      "chineseSenses": [
+        "（后接否定）不太；不怎么",
+        "过于；太过分"
+      ],
+      "meaningEn": [
+        "(not) very",
+        "(not) much",
+        "too much",
+        "excessively"
+      ],
+      "meaning": "（后接否定）不太；不怎么；过于；太过分"
+    },
+    "reason": "あんまり为口语副词／な形容词，不能把「あまり」名词的剩饭菜当作本条主要教学义。大辞泉将あんまり列为形动和副词，国际交流基金也说明其否定副词用法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1584930",
+      "https://kotobank.jp/word/%E4%BD%99%E3%82%8A-427212",
+      "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00155/ja/render.do"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:97600f5aa8",
+    "text": "抱く",
+    "reading": "いだく",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "(slang) to embrace",
+        "to hug",
+        "to harbour",
+        "to entertain"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to embrace",
+        "to hug",
+        "to harbour (a thought or feeling)",
+        "to entertain (hope)"
+      ]
+    },
+    "reason": "抱く（いだく）是普通词，不是 slang；去掉错误语域标注。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1584090"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:56d7bebebd",
+    "text": "市場",
+    "reading": "いちば",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "(the) market (as a concept)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "marketplace",
+        "(town or street) market"
+      ]
+    },
+    "reason": "いちば指买卖场所；原英文 market as a concept 对应另一读法しじょう。中文与例句本身正确。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1308300"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9a184ecb80",
+    "text": "一体",
+    "reading": "いったい",
+    "level": "N3",
+    "original": {
+      "meaningZh": "在地球上，到底，在世界上（用於強調並表達懷疑）",
+      "chineseSenses": [
+        "在地球上，到底，在世界上（用於強調並表達懷疑）"
+      ],
+      "meaning": "在地球上，到底，在世界上（用於強調並表達懷疑）"
+    },
+    "set": {
+      "meaningZh": "到底；究竟（用于疑问句，表示强调或疑惑）",
+      "chineseSenses": [
+        "到底；究竟（用于疑问句，表示强调或疑惑）",
+        "一体；整体；一个整体"
+      ],
+      "meaning": "到底；究竟（用于疑问句，表示强调或疑惑）"
+    },
+    "reason": "on earth/in the world 在此为强调疑问的习语，不能译成在地球上／在世界上。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1164510"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:c84ab5b83d",
+    "text": "命",
+    "reading": "いのち",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "command",
+        "decree",
+        "life",
+        "destiny"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "life",
+        "life force",
+        "lifetime",
+        "destiny"
+      ]
+    },
+    "reason": "命（いのち）不能使用命（めい）的 command/decree 义；其命运义在原词典存在，保留。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1531940"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:27db6f596b",
+    "text": "額",
+    "reading": "がく",
+    "level": "N3",
+    "original": {
+      "meaningZh": "额板",
+      "chineseSenses": [
+        "额板",
+        "数额"
+      ],
+      "meaningEn": [
+        "(picture) frame",
+        "framed picture"
+      ],
+      "meaning": "额板"
+    },
+    "set": {
+      "meaningZh": "画框；匾额；金额；数额",
+      "chineseSenses": [
+        "画框；有框的画；匾额",
+        "金额；数额"
+      ],
+      "meaningEn": [
+        "(picture) frame",
+        "framed picture",
+        "amount (especially of money)",
+        "sum"
+      ],
+      "meaning": "画框；匾额；金额；数额"
+    },
+    "reason": "额板不清楚且容易误解。がく的词典义为画框、框画及数额；两条原始例句也分别使用金额和画框。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1207500",
+      "https://kotobank.jp/word/%E9%A1%8D-460037"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b5afc90a96",
+    "text": "欠ける",
+    "reading": "かける",
+    "level": "N3",
+    "original": {
+      "meaningZh": "受傷，破碎",
+      "chineseSenses": [
+        "受傷，破碎",
+        "不足，欠缺",
+        "（月）缺"
+      ],
+      "meaningEn": [
+        "to be lacking"
+      ],
+      "meaning": "受傷，破碎"
+    },
+    "set": {
+      "meaningZh": "缺损；缺一块；欠缺；不足",
+      "chineseSenses": [
+        "缺损；缺一块",
+        "缺少；欠缺；不足",
+        "（月亮）亏缺"
+      ],
+      "meaningEn": [
+        "to be chipped",
+        "to be damaged",
+        "to be lacking",
+        "to be deficient"
+      ],
+      "meaning": "缺损；缺一块；欠缺；不足"
+    },
+    "reason": "欠ける可指物体缺损或能力不足，直接写受伤容易误导为一般身体受伤；不是单纯碎成碎片。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1253920"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:d9627ee0f6",
+    "text": "方々",
+    "reading": "かたがた",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "persons",
+        "this and that",
+        "here and there",
+        "everywhere"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "people",
+        "persons (honorific)",
+        "ladies and gentlemen"
+      ]
+    },
+    "reason": "かたがた指各位／诸位；here and there/everywhere 属于同形词ほうぼう。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1584100"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:f7eb9ecbff",
+    "text": "必ずしも",
+    "reading": "かならずしも",
+    "level": "N3",
+    "original": {
+      "meaningZh": "== 日语 ==",
+      "chineseSenses": [
+        "== 日语 =="
+      ],
+      "meaning": "== 日语 =="
+    },
+    "set": {
+      "meaningZh": "（与否定搭配）未必；不一定；不全都",
+      "chineseSenses": [
+        "（与否定搭配）未必；不一定；不全都"
+      ],
+      "meaning": "（与否定搭配）未必；不一定；不全都"
+    },
+    "reason": "原中文仅为 Wiki 标题 == 日语 ==，不是释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1487410"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b98c5c8b36",
+    "text": "競技",
+    "reading": "きょうぎ",
+    "level": "N3",
+    "original": {
+      "meaningZh": "運動類型，體育（學科、通稱）",
+      "chineseSenses": [
+        "運動類型，體育（學科、通稱）",
+        "比賽技術"
+      ],
+      "meaning": "運動類型，體育（學科、通稱）"
+    },
+    "set": {
+      "meaningZh": "竞技；比赛；体育比赛项目",
+      "chineseSenses": [
+        "竞技；比赛；体育比赛项目"
+      ],
+      "meaning": "竞技；比赛；体育比赛项目"
+    },
+    "reason": "競技是比赛／竞技项目，原中文把它写成体育学科或比赛技术，容易与体育／技術混淆。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1234080"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:def0fe1435",
+    "text": "臭い",
+    "reading": "くさい",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "odour",
+        "scent",
+        "smell",
+        "stench"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "stinking",
+        "smelly",
+        "suspicious",
+        "fishy"
+      ]
+    },
+    "reason": "くさい为い形容词；odour/scent/smell/stench 是名词におい的释义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1333150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1a796e4b69",
+    "text": "越す",
+    "reading": "こす",
+    "level": "N3",
+    "original": {
+      "meaningZh": "去；来",
+      "chineseSenses": [
+        "去；来",
+        "越过；跨越；穿过",
+        "克服；渡过"
+      ],
+      "meaningEn": [
+        "to go over (e.g. with audience)"
+      ],
+      "meaning": "去；来"
+    },
+    "set": {
+      "meaningZh": "越过；跨过；度过；超过；搬家",
+      "chineseSenses": [
+        "越过；跨过",
+        "克服；度过（困难或一段时间）",
+        "超过；胜过",
+        "搬家"
+      ],
+      "meaningEn": [
+        "to cross over",
+        "to go across",
+        "to get through",
+        "to surpass",
+        "to move house"
+      ],
+      "meaning": "越过；跨过；度过；超过；搬家"
+    },
+    "reason": "原英文 go over (with audience) 是误取英语习语，不能解释越す；来／去是周边语境义，主释义应体现例句中的跨越／度过。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1175300"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b66409ed87",
+    "text": "桜",
+    "reading": "さくら",
+    "level": "N3",
+    "original": {
+      "meaningZh": "樱桃树，多指山樱（Prunus serrulata）",
+      "chineseSenses": [
+        "樱桃树，多指山樱（Prunus serrulata）",
+        "樱花",
+        "樱桃树",
+        "樱桃树皮",
+        "桜色 (sakura-iro)的简称：粉色，樱花色"
+      ],
+      "meaning": "樱桃树，多指山樱（Prunus serrulata）"
+    },
+    "set": {
+      "meaningZh": "樱花；樱树",
+      "chineseSenses": [
+        "樱花；樱树",
+        "樱树皮",
+        "樱花色；淡粉色"
+      ],
+      "meaning": "樱花；樱树"
+    },
+    "reason": "泛指观赏樱的さくら应译樱花／樱树，不能只写樱桃树并无条件限定单一学名。原中文还把山樱和 Prunus serrulata 简化对应，删除不必要的分类学限定。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1593710",
+      "https://kotobank.jp/word/%E6%A1%9C-448703",
+      "https://www.maff.go.jp/j/heya/annai/tusin/attach/pdf/index-127.pdf"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:9923ca40cb",
+    "text": "支える",
+    "reading": "ささえる",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "to be blocked",
+        "to choke",
+        "to be obstructed"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to support",
+        "to prop",
+        "to sustain",
+        "to hold up",
+        "to hold at bay"
+      ]
+    },
+    "reason": "ささえる意为支撑／维持／抵挡；原英文混入同字つかえる的堵住／噎住义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1310090"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8b180f444a",
+    "text": "直に",
+    "reading": "じかに",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "immediately",
+        "readily",
+        "directly"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "directly",
+        "in person",
+        "firsthand"
+      ]
+    },
+    "reason": "じかに是直接地／亲身，immediately/readily 混入じき（に）等其他读法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1430690"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:63d9f749c6",
+    "text": "品",
+    "reading": "しな",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "thing",
+        "article",
+        "goods",
+        "dignity",
+        "article (goods)",
+        "counter for meal courses"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "article",
+        "item",
+        "goods",
+        "thing",
+        "quality"
+      ]
+    },
+    "reason": "しな指物品、货品、品质；dignity属于品（ひん），不能无标记混入。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1583470"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5e5a5dfee9",
+    "text": "しまい",
+    "reading": "しまい",
+    "level": "N3",
+    "original": {
+      "meaningZh": "结束，完毕",
+      "chineseSenses": [
+        "结束，完毕",
+        "卖光，卖完"
+      ],
+      "meaning": "结束，完毕"
+    },
+    "set": {
+      "meaningZh": "姐妹；姊妹",
+      "chineseSenses": [
+        "姐妹；姊妹"
+      ],
+      "meaning": "姐妹；姊妹"
+    },
+    "reason": "原英文 sisters、JMdict 1579490 和两条例句都指姉妹；中文误配同音仕舞的结束／卖完。保持原 ID 和かな词形，仅纠正中文。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1579490"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b1905d8e82",
+    "text": "住宅",
+    "reading": "じゅうたく",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "resident",
+        "housing"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "residence",
+        "housing",
+        "residential building"
+      ]
+    },
+    "reason": "resident是居民，residence才是住所。原英文混淆人和建筑。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1334150"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:17c0d3a658",
+    "text": "少女",
+    "reading": "しょうじょ",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "daughter",
+        "young lady",
+        "virgin",
+        "maiden",
+        "little girl"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "girl",
+        "young lady"
+      ]
+    },
+    "reason": "しょうじょ为少女／年轻女孩；daughter、virgin等不是此读法的一般义，容易混入古语／其他词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1580290"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:50463fe8e3",
+    "text": "食品",
+    "reading": "しょくひん",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "commodity",
+        "foodstuff"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "food",
+        "food products",
+        "foodstuffs"
+      ]
+    },
+    "reason": "食品应为食品／食物产品；commodity泛指商品，范围过大，会误导成任意货品。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1358600"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4f0c39291a",
+    "text": "末",
+    "reading": "すえ",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "the end of",
+        "powder"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "end",
+        "tip",
+        "end of a period",
+        "(finally) after"
+      ]
+    },
+    "reason": "末（すえ）为末端／期末／经过之后；powder对应末（まつ），不能混入。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1525250"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:5569286656",
+    "text": "少しも",
+    "reading": "すこしも",
+    "level": "N3",
+    "original": {
+      "meaningZh": "== 日语 ==",
+      "chineseSenses": [
+        "== 日语 =="
+      ],
+      "meaningEn": [
+        "anything of",
+        "not one bit"
+      ],
+      "meaning": "== 日语 =="
+    },
+    "set": {
+      "meaningZh": "（与否定搭配）一点也不；丝毫不",
+      "chineseSenses": [
+        "（与否定搭配）一点也不；丝毫不"
+      ],
+      "meaningEn": [
+        "(not) at all",
+        "(not) a bit",
+        "(not) in the least"
+      ],
+      "meaning": "（与否定搭配）一点也不；丝毫不"
+    },
+    "reason": "中文为 Wiki 标题残留；补上与否定搭配的实际意思，英文也用完整否定结构。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1348900"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:99906bc37f",
+    "text": "成功",
+    "reading": "せいこう",
+    "level": "N3",
+    "original": {
+      "meaningZh": "完成",
+      "chineseSenses": [
+        "完成"
+      ],
+      "meaning": "完成"
+    },
+    "set": {
+      "meaningZh": "成功；取得成功；成就",
+      "chineseSenses": [
+        "成功；取得成功",
+        "成就；功成名就"
+      ],
+      "meaning": "成功；取得成功；成就"
+    },
+    "reason": "完成不必然成功；成功指达成期望结果，原译抹去了核心意义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1375690"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:72f846250a",
+    "text": "選手",
+    "reading": "せんしゅ",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "player (in game)",
+        "team"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "player (of a sport)",
+        "athlete",
+        "team member"
+      ]
+    },
+    "reason": "選手是队员／运动员，不是整个 team。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1392250"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:e62a18d68e",
+    "text": "育つ",
+    "reading": "そだつ",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "to raise (child)",
+        "to be brought up",
+        "to grow (up)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to be raised",
+        "to be brought up",
+        "to grow up"
+      ]
+    },
+    "reason": "育つ是不及物动词。原 to raise (child) 应为被养育，避免与育てる混淆。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1160540"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7adaa6336c",
+    "text": "他",
+    "reading": "た",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "other (esp. places and things)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "other (especially people and abstract matters)"
+      ]
+    },
+    "reason": "原英文限定 places and things 与本条他（た）的原词典条目相反；中文无需改。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1949190"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:771ae04338",
+    "text": "ダイヤ",
+    "reading": "ダイヤ",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "dyer",
+        "diagram",
+        "(railway) schedule",
+        "diamond"
+      ],
+      "chineseSenses": [
+        "(铁路)时刻表；班次表",
+        "图表；图解"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "(railway) schedule",
+        "timetable",
+        "diagram",
+        "diamond"
+      ],
+      "chineseSenses": [
+        "（铁路）时刻表；班次表",
+        "图表；图解",
+        "钻石（ダイヤモンド的简称）"
+      ]
+    },
+    "reason": "dyer指染色工，并非ダイヤ常规借词义；保留另一个真实同形词diamond，同时补中文钻石以对应已有英文。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2855660"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:01558111d1",
+    "text": "だって",
+    "reading": "だって",
+    "level": "N3",
+    "original": {
+      "meaningZh": "(係助詞)",
+      "chineseSenses": [
+        "(係助詞)",
+        "(係助詞)；表示某個對象不是例外，而是在一般情況下被包括：甚至，也",
+        "(係助詞)；表示列舉的事物屬於同一類別：例如，之類",
+        "(係助詞)；(跟隨疑問詞或表示疑問、數量或程度的詞) 表示沒有例外的意思：無論",
+        "(終助詞，用於引用句子) 用來強調不滿或驚訝"
+      ],
+      "meaning": "(係助詞)"
+    },
+    "set": {
+      "meaningZh": "连……也；即使……也；因为；可是",
+      "chineseSenses": [
+        "连……也；即使……也",
+        "也；同样",
+        "因为；可是（口语）",
+        "听说；你是说（引述或确认）"
+      ],
+      "meaning": "连……也；即使……也；因为；可是"
+    },
+    "reason": "原主释义仅写词性「係助詞」，不能当作中文释义。补与英文及例句对应的实际用法。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=2643970"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b91001d17a",
+    "text": "単語",
+    "reading": "たんご",
+    "level": "N3",
+    "original": {
+      "meaningZh": "字",
+      "chineseSenses": [
+        "字",
+        "单词"
+      ],
+      "meaningEn": [
+        "word",
+        "vocabulary",
+        "(usually) single-character word"
+      ],
+      "meaning": "字"
+    },
+    "set": {
+      "meaningZh": "单词；词",
+      "chineseSenses": [
+        "单词；词"
+      ],
+      "meaningEn": [
+        "word",
+        "vocabulary"
+      ],
+      "meaning": "单词；词"
+    },
+    "reason": "単語不等于单个字，也不是通常由一个字符组成；英文single-character限定错误。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1417330"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b8c0205de7",
+    "text": "提案",
+    "reading": "ていあん",
+    "level": "N3",
+    "original": {
+      "meaningZh": "提出",
+      "chineseSenses": [
+        "提出",
+        "提議"
+      ],
+      "meaning": "提出"
+    },
+    "set": {
+      "meaningZh": "提案；建议；提出建议",
+      "chineseSenses": [
+        "提案；建议",
+        "提出建议"
+      ],
+      "meaning": "提案；建议；提出建议"
+    },
+    "reason": "提案有明确的方案／建议含义；单写提出过于泛化且不对应名词例句。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1436320"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:dfb2d21193",
+    "text": "程度",
+    "reading": "ていど",
+    "level": "N3",
+    "original": {
+      "meaningZh": "進度，範圍",
+      "chineseSenses": [
+        "進度，範圍",
+        "水準，標準",
+        "大概，大約"
+      ],
+      "meaning": "進度，範圍"
+    },
+    "set": {
+      "meaningZh": "程度；水平；标准；大约",
+      "chineseSenses": [
+        "程度；水平；标准",
+        "大约；左右（接数量后）"
+      ],
+      "meaning": "程度；水平；标准；大约"
+    },
+    "reason": "程度不是进度。原中文很容易与進度／進み具合混淆。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1436540"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:c03a75fe96",
+    "text": "熱中",
+    "reading": "ねっちゅう",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "nuts!",
+        "enthusiasm",
+        "zeal",
+        "mania"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "being absorbed in",
+        "being enthusiastic about",
+        "being engrossed in"
+      ]
+    },
+    "reason": "nuts!作为独立感叹语与热衷不符；可说be nuts about，但不是原来的惊叹词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1467950"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:7a68fa62f5",
+    "text": "バッグ",
+    "reading": "バッグ",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "bag",
+        "bug"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "bag"
+      ]
+    },
+    "reason": "バッグ为包。bug通常是バグ，不能混入本条。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1099100"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:e4b01b085c",
+    "text": "武器",
+    "reading": "ぶき",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "weapon",
+        "arms",
+        "ordinance"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "weapon",
+        "arms",
+        "ordnance"
+      ]
+    },
+    "reason": "ordinance是法令；武器义应拼作ordnance。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1498460"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:1be11a9bbe",
+    "text": "明確",
+    "reading": "めいかく",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "clear up",
+        "clarify",
+        "define"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "clear",
+        "precise",
+        "definite",
+        "distinct"
+      ]
+    },
+    "reason": "明確是な形容词；原英文全是动词，属于把明確にする的意思放进词条。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1532410"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:120086e720",
+    "text": "容易",
+    "reading": "ようい",
+    "level": "N3",
+    "original": {
+      "meaningZh": "容易；简单；朴素",
+      "chineseSenses": [
+        "容易；简单；朴素"
+      ],
+      "meaning": "容易；简单；朴素"
+    },
+    "set": {
+      "meaningZh": "容易；简单；不困难",
+      "chineseSenses": [
+        "容易；简单；不困难"
+      ],
+      "meaning": "容易；简单；不困难"
+    },
+    "reason": "英文plain在这里表达容易／明白，不是衣着风格的朴素；原机器中文误取英语多义词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1545350"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:dfec3a3604",
+    "text": "横切る",
+    "reading": "よこぎる",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "to cross (e.g. arms)",
+        "to traverse"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "to cross (e.g. a road)",
+        "to traverse"
+      ]
+    },
+    "reason": "横切る是穿过／横穿；cross ones arms对应腕を組む，原e.g. arms误导。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1180860"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:0294bdc5ab",
+    "text": "ライター",
+    "reading": "ライター",
+    "level": "N3",
+    "original": {
+      "meaningEn": [
+        "lighter",
+        "rider",
+        "writer"
+      ],
+      "chineseSenses": [
+        "打火机；点火器"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "lighter",
+        "writer"
+      ],
+      "chineseSenses": [
+        "打火机；点火器",
+        "撰稿人；作者（另一个同形外来词）"
+      ]
+    },
+    "reason": "rider的日语通常是ライダー；ライター可为lighter或writer。删除浊音不同的骑手义，保留真实同形词并补对应中文。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1137880"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:29010ee3b0",
+    "text": "お昼",
+    "reading": "おひる",
+    "level": "N3",
+    "original": {
+      "meaningZh": "白天",
+      "meaning": "白天"
+    },
+    "set": {
+      "meaningZh": "午餐；中午；白天",
+      "meaning": "午餐；中午；白天"
+    },
+    "reason": "原词典确实含daytime，不能判原义错误；但两条例句分别是午餐／中午，主释义宜并列说明。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1660100"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:44bc159936",
+    "text": "句",
+    "reading": "く",
+    "level": "N3",
+    "original": {
+      "meaningZh": "文段；句子；段落；章节",
+      "chineseSenses": [
+        "文段；句子；段落；章节"
+      ],
+      "meaningEn": [
+        "sentence"
+      ],
+      "meaning": "文段；句子；段落；章节"
+    },
+    "set": {
+      "meaningZh": "短语；语句；（诗的）句；俳句",
+      "chineseSenses": [
+        "短语；语句",
+        "（诗的）句；俳句",
+        "文段；段落"
+      ],
+      "meaningEn": [
+        "phrase",
+        "sentence",
+        "passage",
+        "verse",
+        "haiku"
+      ],
+      "meaning": "短语；语句；（诗的）句；俳句"
+    },
+    "reason": "原词典有sentence/passage等义，不能一概判错；本条例句均为phrase，补短语并避免把章节当首义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1243940"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:40b4a7cb92",
+    "text": "最中",
+    "reading": "さいちゅう",
+    "level": "N3",
+    "original": {
+      "meaningZh": "最高潮，最佳時期",
+      "chineseSenses": [
+        "最高潮，最佳時期",
+        "當中，期間"
+      ],
+      "meaning": "最高潮，最佳時期"
+    },
+    "set": {
+      "meaningZh": "正在……的时候；正当中；进行中",
+      "chineseSenses": [
+        "正在……的时候；正当中；进行中",
+        "最盛时；高潮期间"
+      ],
+      "meaning": "正在……的时候；正当中；进行中"
+    },
+    "reason": "最中可有at the height of义，但不必然是最佳时期；本条例句均指某动作正在进行。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1579210"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:55b77976ae",
+    "text": "尻",
+    "reading": "しり",
+    "level": "N3",
+    "original": {
+      "meaningZh": "尾端，末端",
+      "meaning": "尾端，末端"
+    },
+    "set": {
+      "meaningZh": "屁股；臀部；底部；末端",
+      "meaning": "屁股；臀部；底部；末端"
+    },
+    "reason": "尾端／末端是真实次义，但应把两条例句和英文对应的臀部放在主释义中。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1358760"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:92387d38a4",
+    "text": "スピーチ",
+    "reading": "スピーチ",
+    "level": "N3",
+    "original": {
+      "meaningZh": "谈话，言语。",
+      "chineseSenses": [
+        "谈话，言语。",
+        "说话方式。",
+        "演说。"
+      ],
+      "meaning": "谈话，言语。"
+    },
+    "set": {
+      "meaningZh": "演讲；致辞；讲话",
+      "chineseSenses": [
+        "演讲；致辞；讲话"
+      ],
+      "meaning": "演讲；致辞；讲话"
+    },
+    "reason": "学习者使用スピーチ主要指面对听众的演讲或致辞。调整主释义以配合例句，避免把英文speech的全部语言学含义直接套进借词。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1072260"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:88273999d5",
+    "text": "態度",
+    "reading": "たいど",
+    "level": "N3",
+    "original": {
+      "meaningZh": "意見，看法",
+      "chineseSenses": [
+        "意見，看法",
+        "行為，舉止"
+      ],
+      "meaning": "意見，看法"
+    },
+    "set": {
+      "meaningZh": "态度；举止；立场",
+      "chineseSenses": [
+        "态度；举止；神态",
+        "（对某事的）态度；立场"
+      ],
+      "meaning": "态度；举止；立场"
+    },
+    "reason": "意见／看法可与立场相关，但不足以概括态度；两条例句都指行为神态。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1410780"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:8d2c6575c2",
+    "text": "望み",
+    "reading": "のぞみ",
+    "level": "N3",
+    "original": {
+      "meaningZh": "眺望。",
+      "chineseSenses": [
+        "眺望。",
+        "愿望。",
+        "希望。",
+        "众望。"
+      ],
+      "meaning": "眺望。"
+    },
+    "set": {
+      "meaningZh": "希望；愿望；期望",
+      "chineseSenses": [
+        "希望；愿望",
+        "可能性；前景"
+      ],
+      "meaning": "希望；愿望；期望"
+    },
+    "reason": "眺望不是本条wish/hope的教学目标义；调整为与当前英文和例句一致的愿望／期望。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1519620"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:b780931140",
+    "text": "棒",
+    "reading": "ぼう",
+    "level": "N3",
+    "original": {
+      "meaningZh": "杖，長6尺（約1.8公尺），用於武術中，如棒術 (bōjutsu)",
+      "chineseSenses": [
+        "杖，長6尺（約1.8公尺），用於武術中，如棒術 (bōjutsu)",
+        "棍子狀或長的圓柱形物品",
+        "直線；桿",
+        "「直線」的狀態；連續的",
+        "因疲勞而繃緊的腿部肌肉"
+      ],
+      "meaning": "杖，長6尺（約1.8公尺），用於武術中，如棒術 (bōjutsu)"
+    },
+    "set": {
+      "meaningZh": "棍；棒；杆",
+      "chineseSenses": [
+        "棍；棒；杆",
+        "线；横杠",
+        "（棒术中的）长棍"
+      ],
+      "meaning": "棍；棒；杆"
+    },
+    "reason": "棒并非必定六尺武术棍；原说明是狭义用途，主释义需涵盖普通棍棒。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1519750"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:2eb5b8f659",
+    "text": "全く",
+    "reading": "まったく",
+    "level": "N3",
+    "original": {
+      "meaningZh": "（用于否定句）完全",
+      "chineseSenses": [
+        "（用于否定句）完全",
+        "真的"
+      ],
+      "meaning": "（用于否定句）完全"
+    },
+    "set": {
+      "meaningZh": "完全；全然；实在；真的",
+      "chineseSenses": [
+        "完全；全然（肯定或否定句均可）",
+        "实在；真的"
+      ],
+      "meaning": "完全；全然；实在；真的"
+    },
+    "reason": "全く并不只用于否定，例如全く同じ；避免原括注造成不必要的语法限制。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.edrdg.org/jmdictdb/cgi-bin/entr.py?svc=jmdict&q=1394800"
+    ],
+    "audioListened": false
+  },
+  {
+    "entryId": "lex:openjlpt:4436cfdbab",
+    "text": "上手",
+    "reading": "うわて",
+    "rowIndex": 33,
+    "original": {
+      "meaningEn": [
+        "upper part",
+        "upper stream",
+        "left side (of a stage)",
+        "skillful (only in comparisons)"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "upper part",
+        "upstream",
+        "more skillful (in comparisons)"
+      ]
+    },
+    "reason": "当前うわて词条英文含舞台左侧义，汉字pedia把舞台方位归かみて；同站明确上游可兼读うわて，所以不隔离上游义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kotoba/0003481700",
+      "https://kotobank.jp/word/上手-162205"
+    ],
+    "verification": "Read dictionary source on 2026-10-10; this resolves earlier cached-JMdict reading-restriction uncertainty.",
+    "level": "N1"
+  },
+  {
+    "entryId": "lex:openjlpt:26c17d8895",
+    "text": "地方",
+    "reading": "じかた",
+    "rowIndex": 57,
+    "original": {
+      "meaningEn": [
+        "area",
+        "locality",
+        "district",
+        "region",
+        "the coast"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "coast (as seen from the water)",
+        "shore"
+      ]
+    },
+    "reason": "じかた本身及海岸中文合法，但当前英文area/locality/district/region未标古义，容易把常用ちほう地域义合并进专门じかた词条；应按现有海岸目标收窄，不改读音。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://kotobank.jp/word/地方-72427"
+    ],
+    "verification": "Read dictionary source on 2026-10-10; this resolves earlier cached-JMdict reading-restriction uncertainty.",
+    "level": "N1"
+  },
+  {
+    "entryId": "lex:openjlpt:434fc61861",
+    "text": "水気",
+    "reading": "みずけ",
+    "rowIndex": 55,
+    "original": {
+      "meaningEn": [
+        "moisture",
+        "dampness",
+        "vapor",
+        "dropsy",
+        "edema"
+      ]
+    },
+    "set": {
+      "meaningEn": [
+        "water content",
+        "moisture",
+        "juiciness",
+        "dampness"
+      ]
+    },
+    "reason": "现词读みずけ，但英文vapor/dropsy/edema对应すいき；小学館大辞泉与和英词典明确区分两读义项，不能直接并成同一可学习义。",
+    "confidence": "high",
+    "referenceUrls": [
+      "https://kotobank.jp/word/水気-539604",
+      "https://kotobank.jp/jeword/水気"
+    ],
+    "verification": "Read dictionary source on 2026-10-10; this resolves earlier cached-JMdict reading-restriction uncertainty.",
+    "level": "N1"
+  }
+]

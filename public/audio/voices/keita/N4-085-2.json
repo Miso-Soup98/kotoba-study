@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-085",
+  "exampleIndex": 1,
+  "text": "参加できないということですね。",
+  "speechText": "参加できないということですね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 97,
+  "signature": "e82a258541411909a91a34bf995c39925e6abc240a0298cc25e177c249730233",
+  "src": "/audio/voices/keita/N4-085-2.mp3",
+  "srt": "/audio/voices/keita/N4-085-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "6e0da7e8a4abb54de9b6f87d6fcc78ae86799735dab5d7fa5ed3c781b78a85d2",
+  "peakPcm": 21700,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

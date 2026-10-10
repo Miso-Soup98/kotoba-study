@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-051",
+  "exampleIndex": 1,
+  "text": "もう一度言ってください。",
+  "speechText": "もう一度言ってください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 35,
+  "signature": "2455a30b521991ee85ad9d50e96e13445807d235756fe67fff936ef622a6fa99",
+  "src": "/audio/voices/keita/N5-051-2.mp3",
+  "srt": "/audio/voices/keita/N5-051-2.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "fcc535159bf335cab14fb3dd2e758fbcfa92a7a54f27f7f9b45d8793e0fc9490",
+  "peakPcm": 21785,
+  "rmsDbfs": -20.6,
+  "rate": "+0%",
+  "listened": false
+}

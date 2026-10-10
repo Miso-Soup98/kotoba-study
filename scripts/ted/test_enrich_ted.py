@@ -7,6 +7,14 @@ from enrich_ted import ChineseDictionary, Enricher, compact_record, hira, legacy
 
 
 class EnrichmentTests(unittest.TestCase):
+    def test_editor_notes_are_not_dictionary_definitions(self):
+        for text in ['== 日语 ==', ':Template:音樂 小提琴。', '（以下詞條尚未創建：透り。）', '【同义词】']:
+            raw = {'word': 'テスト', 'lang_code': 'ja', 'pos': 'noun', 'senses': [{'glosses': [text]}]}
+            self.assertIsNone(compact_record(raw), text)
+        raw = {'word': '証明', 'lang_code': 'ja', 'pos': 'noun', 'senses': [
+            {'glosses': ['证明；证据']}, {'glosses': [':Template:數證明']}]}
+        self.assertEqual(compact_record(raw)['senses'], [{'gloss': '证明；证据', 'tags': []}])
+
     def setUp(self):
         self.directory = tempfile.TemporaryDirectory()
         root = Path(self.directory.name)

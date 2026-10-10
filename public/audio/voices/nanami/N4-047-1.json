@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-047",
+  "exampleIndex": 0,
+  "text": "昨日は食べすぎました。",
+  "speechText": "昨日は食べすぎました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 78,
+  "signature": "6b9f10b50b3828af2a1634cdf74024b31cf46957c70fcbef399ce2fab84e7c4b",
+  "src": "/audio/voices/nanami/N4-047-1.mp3",
+  "srt": "/audio/voices/nanami/N4-047-1.srt",
+  "durationSeconds": 2.544,
+  "bytes": 15264,
+  "sha256": "4ec912b213db88597df4609f855b5b69ac589df53cc42b6ca66e3c2be9f43dea",
+  "peakPcm": 21258,
+  "rmsDbfs": -18.51,
+  "rate": "+0%",
+  "listened": false
+}

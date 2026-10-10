@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-100",
+  "exampleIndex": 1,
+  "text": "名前をここに書きなさい。",
+  "speechText": "名前をここに書きなさい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 105,
+  "signature": "da82ec4254da7c584ba384f561a5aaf9d963ea5949f3eb811c960f9fa1af36a2",
+  "src": "/audio/voices/keita/N4-100-2.mp3",
+  "srt": "/audio/voices/keita/N4-100-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "b234f513d5727b6cc6cb0276ac90478c4d8c76a48093f2c4635954f3a8d32edf",
+  "peakPcm": 24395,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

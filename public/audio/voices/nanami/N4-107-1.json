@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-107",
+  "exampleIndex": 0,
+  "text": "お茶でも飲みませんか。",
+  "speechText": "お茶でも飲みませんか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 108,
+  "signature": "f1012c15bca83f1141211246b9db7f85f7f65f9ddd58cae3ebf10880262881d9",
+  "src": "/audio/voices/nanami/N4-107-1.mp3",
+  "srt": "/audio/voices/nanami/N4-107-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "a03ecf95845ed1e04dc6353f0d2fe47c145ec9561890a7fc9ea7b540e1de47a7",
+  "peakPcm": 20326,
+  "rmsDbfs": -18.53,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-044",
+  "exampleIndex": 0,
+  "text": "寝る前に歯を磨きます。",
+  "speechText": "寝る前に歯を磨きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 31,
+  "signature": "1fe9e88e2f9a28410e7ce82cab99d425bf1fe7b54de550d963773fe8a366e850",
+  "src": "/audio/voices/keita/N5-044-1.mp3",
+  "srt": "/audio/voices/keita/N5-044-1.srt",
+  "durationSeconds": 2.472,
+  "bytes": 14832,
+  "sha256": "0e2b360700becdc997785e2842739a61b734d8dc5236044ee45319b4eaee3db2",
+  "peakPcm": 24465,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

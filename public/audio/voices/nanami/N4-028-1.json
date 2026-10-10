@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-028",
+  "exampleIndex": 0,
+  "text": "先生にもう少し説明してほしいです。",
+  "speechText": "先生にもう少し説明してほしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 68,
+  "signature": "c0b745bc3455e31ac4269d3f68573db2635eb7f1d480f1f9069feba9f075a983",
+  "src": "/audio/voices/nanami/N4-028-1.mp3",
+  "srt": "/audio/voices/nanami/N4-028-1.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "e78ed7aa2d402370259ccb8c65ab7d40745771a48fa39467735d7da9038f97a4",
+  "peakPcm": 20495,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-016",
+  "exampleIndex": 1,
+  "text": "この部屋は静かじゃないです。",
+  "speechText": "この部屋は静かじゃないです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 17,
+  "signature": "8d721898fbd7968fcf84ab580ccc91a87d92ab34fae1e45765148fcc0e792714",
+  "src": "/audio/voices/nanami/N5-016-2.mp3",
+  "srt": "/audio/voices/nanami/N5-016-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "edcd424a279b806a841919e1846dc9231ec071b3c0846c6a8f8896f07456fedc",
+  "peakPcm": 22371,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

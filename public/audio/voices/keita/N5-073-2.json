@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-073",
+  "exampleIndex": 1,
+  "text": "何度も練習しました。しかし、まだ難しいです。",
+  "speechText": "何度も練習しました。しかし、まだ難しいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 46,
+  "signature": "3b34463bc0d5c115d5ed591443cdcadca594d587a69451730ff04a86ccc0b0c3",
+  "src": "/audio/voices/keita/N5-073-2.mp3",
+  "srt": "/audio/voices/keita/N5-073-2.srt",
+  "durationSeconds": 5.328,
+  "bytes": 31968,
+  "sha256": "aea08073ddbe6ba53117c7c5a45ab2e9591fad8fdb96c5118d323b627d07b65a",
+  "peakPcm": 25927,
+  "rmsDbfs": -21.73,
+  "rate": "+0%",
+  "listened": false
+}

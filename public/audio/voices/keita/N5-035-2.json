@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-035",
+  "exampleIndex": 1,
+  "text": "その箱を開けちゃいけない。",
+  "speechText": "その箱を開けちゃいけない。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 27,
+  "signature": "ccfc09f62acac308e119b0526cca3e363268985ceb891ee61448870d03b36618",
+  "src": "/audio/voices/keita/N5-035-2.mp3",
+  "srt": "/audio/voices/keita/N5-035-2.srt",
+  "durationSeconds": 2.376,
+  "bytes": 14256,
+  "sha256": "4e5b329bcb76590514d0f078b51c39403f0372f7b5fedaca90848079d4bd4da6",
+  "peakPcm": 20496,
+  "rmsDbfs": -20.63,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-094",
+  "exampleIndex": 0,
+  "text": "先生が作文を直してくださいました。",
+  "speechText": "先生が作文を直してくださいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 101,
+  "signature": "880b011099e0b073a80ca8c3bdefd40bcdcf1d9138df8379113278f1787f4df7",
+  "src": "/audio/voices/nanami/N4-094-1.mp3",
+  "srt": "/audio/voices/nanami/N4-094-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "88724331da713471820ea114a1e98cca07d7a7606518e7724c88888df22fbd15",
+  "peakPcm": 20175,
+  "rmsDbfs": -17.87,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-040",
+  "exampleIndex": 0,
+  "text": "私は先生に褒められました。",
+  "speechText": "私は先生に褒められました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 74,
+  "signature": "a13bdb749848aff81ee85230d10d101d28a726413fd33093179a3577c679234c",
+  "src": "/audio/voices/nanami/N4-040-1.mp3",
+  "srt": "/audio/voices/nanami/N4-040-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "d58f4453ec0a2afc04a9455ae42867677733c3985a2e7f2a657b36da7f25c492",
+  "peakPcm": 20181,
+  "rmsDbfs": -18.33,
+  "rate": "+0%",
+  "listened": false
+}

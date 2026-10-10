@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-032",
+  "exampleIndex": 1,
+  "text": "この問題は難しいかもしれません。",
+  "speechText": "この問題は難しいかもしれません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 70,
+  "signature": "44722d6715967ee27ddb0582943cfe8aa6fa359cefdcfcb6dd0b6b8abd5c86a9",
+  "src": "/audio/voices/keita/N4-032-2.mp3",
+  "srt": "/audio/voices/keita/N4-032-2.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "31bc946e600bb54d243d471c555ff0f973f9a55364ab856434d6e1a225ade894",
+  "peakPcm": 24786,
+  "rmsDbfs": -19.91,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-092",
+  "exampleIndex": 1,
+  "text": "午後、先生の研究室に伺います。",
+  "speechText": "午後、先生の研究室に伺います。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 100,
+  "signature": "f9b05017a737b76faa9f5218ce937fc206e16a56784b4e187d3065cf3a2ab7ae",
+  "src": "/audio/voices/keita/N4-092-2.mp3",
+  "srt": "/audio/voices/keita/N4-092-2.srt",
+  "durationSeconds": 3.792,
+  "bytes": 22752,
+  "sha256": "ac5ff5a3d4e961cf4deb5ffd93601d9c0832319237a04776395804b21ee5822d",
+  "peakPcm": 24328,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

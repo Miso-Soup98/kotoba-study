@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-007",
+  "exampleIndex": 0,
+  "text": "日本語を勉強するなら、この本がいいです。",
+  "speechText": "日本語を勉強するなら、この本がいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 58,
+  "signature": "739427008ff000c5961275bad780c3b1ba780304de5e7d93d742b102c44cd604",
+  "src": "/audio/voices/keita/N4-007-1.mp3",
+  "srt": "/audio/voices/keita/N4-007-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "b9bde94d44743d81798bf8867acfbbc0047a31f6b49f50d4f0e4b8a401e8bf08",
+  "peakPcm": 20555,
+  "rmsDbfs": -19.18,
+  "rate": "+0%",
+  "listened": false
+}

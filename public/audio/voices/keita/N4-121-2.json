@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-121",
+  "exampleIndex": 1,
+  "text": "現金または銀行振込で払えます。",
+  "speechText": "現金または銀行振込で払えます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 115,
+  "signature": "9f65b9ae3b98db73af7dc329c0f2e45106e3686482103c3141229d8e7dda3d07",
+  "src": "/audio/voices/keita/N4-121-2.mp3",
+  "srt": "/audio/voices/keita/N4-121-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "ee34974f6fd7fbca265f06ef660ff1b7373e3d1da60e13d7a53523363f9eb8d9",
+  "peakPcm": 24010,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

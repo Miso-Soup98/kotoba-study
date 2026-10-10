@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-033",
+  "exampleIndex": 1,
+  "text": "あの店は有名だそうです。",
+  "speechText": "あの店は有名だそうです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 71,
+  "signature": "f613571d85122b61ad6e94708e9f7085aca3c08532657d460c814f65e37ed224",
+  "src": "/audio/voices/nanami/N4-033-2.mp3",
+  "srt": "/audio/voices/nanami/N4-033-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "acecfc3f1e910db54d7d109cbb3a4ba0672ad01f987b1118a1308c5a1a9bd1ed",
+  "peakPcm": 21009,
+  "rmsDbfs": -17.68,
+  "rate": "+0%",
+  "listened": false
+}

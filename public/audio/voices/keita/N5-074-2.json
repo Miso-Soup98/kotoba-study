@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-074",
+  "exampleIndex": 1,
+  "text": "この町は静かです。そして、便利です。",
+  "speechText": "この町は静かです。そして、便利です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 46,
+  "signature": "67fbc3f2d3377c45a89e4029abb3326dec8915c9c15aff7a7e0ff8b2fb0c7cf7",
+  "src": "/audio/voices/keita/N5-074-2.mp3",
+  "srt": "/audio/voices/keita/N5-074-2.srt",
+  "durationSeconds": 4.704,
+  "bytes": 28224,
+  "sha256": "417d1dce63a38d8fc6a99bd7964b244f1fbe5cc6d3362400d63366c1f022b0d5",
+  "peakPcm": 26292,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

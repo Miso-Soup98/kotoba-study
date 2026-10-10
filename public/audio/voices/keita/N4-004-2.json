@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-004",
+  "exampleIndex": 1,
+  "text": "ここで資料を印刷することができます。",
+  "speechText": "ここで資料を印刷することができます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 56,
+  "signature": "c81be4323889c42a3e77890196304ddce05a88d0d4af2ee05a2ec610e518433c",
+  "src": "/audio/voices/keita/N4-004-2.mp3",
+  "srt": "/audio/voices/keita/N4-004-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "277dbfafb7c89601e25e828c15373ffaf288a70bdfd2cd50124389f083dbd261",
+  "peakPcm": 22323,
+  "rmsDbfs": -20.08,
+  "rate": "+0%",
+  "listened": false
+}

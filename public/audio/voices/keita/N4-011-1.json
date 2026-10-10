@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-011",
+  "exampleIndex": 0,
+  "text": "毎日歩くことは大切です。",
+  "speechText": "毎日歩くことは大切です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 60,
+  "signature": "1b0eb2cde36f6a7353cf0b856210df8e8b6553a0bd0e11f44ec1719081fd8d24",
+  "src": "/audio/voices/keita/N4-011-1.mp3",
+  "srt": "/audio/voices/keita/N4-011-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "4363be452adeda4487f2a0934bdf5b2ef8bf0f81cf755ce7b6dc4dcc87f74f88",
+  "peakPcm": 26479,
+  "rmsDbfs": -21.6,
+  "rate": "+0%",
+  "listened": false
+}

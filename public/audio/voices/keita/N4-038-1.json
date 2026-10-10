@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-038",
+  "exampleIndex": 0,
+  "text": "約束したので、友達は来るはずです。",
+  "speechText": "約束したので、友達は来るはずです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 73,
+  "signature": "5a3a2af856bbff258c191359a456bd07963048feb7e3af154a76d9e637769c64",
+  "src": "/audio/voices/keita/N4-038-1.mp3",
+  "srt": "/audio/voices/keita/N4-038-1.srt",
+  "durationSeconds": 3.72,
+  "bytes": 22320,
+  "sha256": "44bd6a041f89a466e423b57ceb50d7fb55b8419c9ffb477892d643dcfcd3d9d6",
+  "peakPcm": 23238,
+  "rmsDbfs": -21.5,
+  "rate": "+0%",
+  "listened": false
+}

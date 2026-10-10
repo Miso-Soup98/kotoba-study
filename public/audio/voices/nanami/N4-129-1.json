@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-129",
+  "exampleIndex": 0,
+  "text": "電車が止まりました。それで、歩いて帰りました。",
+  "speechText": "電車が止まりました。それで、歩いて帰りました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 119,
+  "signature": "ce240678dd0ff9ff565f3e0b10c1a75bc661cacd61e4488d35e7f1fc7e1ac7b2",
+  "src": "/audio/voices/nanami/N4-129-1.mp3",
+  "srt": "/audio/voices/nanami/N4-129-1.srt",
+  "durationSeconds": 5.256,
+  "bytes": 31536,
+  "sha256": "6563a48eaca15f3088193b01c8a653e4d5e5f89d67273c8e0190d41ebbf13175",
+  "peakPcm": 20969,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

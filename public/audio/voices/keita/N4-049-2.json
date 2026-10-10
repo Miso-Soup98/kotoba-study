@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-049",
+  "exampleIndex": 1,
+  "text": "この容器は割れにくいです。",
+  "speechText": "この容器は割れにくいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 79,
+  "signature": "1a2c2533361a4ef240f1b900e3cf06be3b96f08ffb04f526d4eacc89237e6bb7",
+  "src": "/audio/voices/keita/N4-049-2.mp3",
+  "srt": "/audio/voices/keita/N4-049-2.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "d8c3dae0915cf8430f6d3425aec3dc911e008b70f3987458c65a54b84c0b3663",
+  "peakPcm": 19756,
+  "rmsDbfs": -20.33,
+  "rate": "+0%",
+  "listened": false
+}

@@ -25,6 +25,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+from functools import lru_cache
 from datetime import datetime, timezone
 
 APP = Path(__file__).resolve().parents[1]
@@ -39,6 +40,28 @@ VOICES = [
 RATE = '+0%'
 SAMPLE_RATE = 24000
 SCOPE = 'N5-001～003、N4-001～003 的两个原始日语例句；两种声音，常速，仅日语。未试听，非完整讲解版。'
+
+
+@lru_cache(maxsize=1)
+def pronunciation_overrides() -> dict:
+    path = APP / 'public' / 'data' / 'pronunciation-overrides.json'
+    value = json.loads(path.read_text(encoding='utf-8'))
+    result = {}
+    for item in value['overrides']:
+        key = (item['entryId'], item['exampleIndex'])
+        if key in result or not item['speechText'].strip() or not item['reason'].strip():
+            raise ValueError('读音审校覆盖表重复或不完整。')
+        result[key] = item
+    return result
+
+
+def synthesis_text(entry_id: str, example_index: int, text: str) -> str:
+    item = pronunciation_overrides().get((entry_id, example_index))
+    if item is None:
+        return text
+    if item['original'] != text:
+        raise ValueError(f'{entry_id}-{example_index + 1}: 读音覆盖对应的原句已变化，必须重新审校。')
+    return item['speechText']
 
 
 def read_json(path: Path) -> dict:
@@ -88,11 +111,12 @@ def plans() -> list[dict]:
                 if not text.strip() or text != unannotated or re.search(r'[（(][ぁ-ゖァ-ヺー]+[）)]', text):
                     raise ValueError(f'{entry_id}-{index + 1}: 原句与显示稿不一致，需人工核对。')
                 stem = f'{entry_id}-{index + 1}'
+                speech_text = synthesis_text(entry_id, index, text)
                 signature = hashlib.sha256(json.dumps(
-                    [text, voice['voice'], RATE], ensure_ascii=False,
+                    [speech_text, voice['voice'], RATE], ensure_ascii=False,
                 ).encode('utf-8')).hexdigest()
                 result.append({
-                    'entryId': entry_id, 'exampleIndex': index, 'text': text,
+                    'entryId': entry_id, 'exampleIndex': index, 'text': text, 'speechText': speech_text,
                     'voice': voice['id'], 'serviceVoice': voice['voice'],
                     'pdfPage': entry['pdf_page'], 'signature': signature,
                     'src': f'/audio/voices/{voice["id"]}/{stem}.mp3',
@@ -163,6 +187,8 @@ def verify_clip(plan: dict, ffmpeg: str) -> dict:
     for key in ('entryId', 'exampleIndex', 'text', 'voice', 'serviceVoice', 'pdfPage', 'signature'):
         if metadata.get(key) != plan[key]:
             raise ValueError(f'片段元数据 {key} 缺失或与当前教材/声音不一致。')
+    if metadata.get('speechText', metadata.get('text')) != plan.get('speechText', plan['text']):
+        raise ValueError('片段语音输入与当前审校读音不一致。')
     if metadata.get('rate') != RATE or metadata.get('listened') is not False:
         raise ValueError('片段速率或试听标记不符合本次范围。')
     measured = decode(mp3, ffmpeg)
@@ -180,7 +206,7 @@ async def synthesize(plan: dict, ffmpeg: str, retries: int, edge_tts) -> dict:
         try:
             with tempfile.TemporaryDirectory(prefix='.tts-', dir=mp3.parent) as directory:
                 temporary_mp3 = Path(directory) / 'clip.mp3'
-                request = edge_tts.Communicate(text=plan['text'], voice=plan['serviceVoice'], rate=RATE)
+                request = edge_tts.Communicate(text=plan.get('speechText', plan['text']), voice=plan['serviceVoice'], rate=RATE)
                 await asyncio.wait_for(request.save(str(temporary_mp3)), timeout=65)
                 measured = decode(temporary_mp3, ffmpeg)
                 os.replace(temporary_mp3, mp3)

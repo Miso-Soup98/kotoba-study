@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-006",
+  "exampleIndex": 0,
+  "text": "時間があれば、参加します。",
+  "speechText": "時間があれば、参加します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 57,
+  "signature": "9a6781c720cc2daea4b47452c61c8c812a8474d73b1b4980d01c68c44b9eade4",
+  "src": "/audio/voices/keita/N4-006-1.mp3",
+  "srt": "/audio/voices/keita/N4-006-1.srt",
+  "durationSeconds": 3.024,
+  "bytes": 18144,
+  "sha256": "19b6d29266c400906360b9a571ace8c9d473bc8c038839db56a91042f1c2b315",
+  "peakPcm": 24254,
+  "rmsDbfs": -21.55,
+  "rate": "+0%",
+  "listened": false
+}

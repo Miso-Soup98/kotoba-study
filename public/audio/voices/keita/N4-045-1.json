@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-045",
+  "exampleIndex": 0,
+  "text": "週末に部屋を片付けようと思っています。",
+  "speechText": "週末に部屋を片付けようと思っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 77,
+  "signature": "f3741b453a392605abc6d0e22a51ec4676136c6f26cb1d603b430929120f7428",
+  "src": "/audio/voices/keita/N4-045-1.mp3",
+  "srt": "/audio/voices/keita/N4-045-1.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "0dbdfc82413eaafddea2a86c38dac1021593700b4ac8e09c2be93de88f0189b4",
+  "peakPcm": 24794,
+  "rmsDbfs": -19.72,
+  "rate": "+0%",
+  "listened": false
+}

@@ -59,6 +59,7 @@ export default defineConfig(async () => {
           // Generated media is loaded on demand. Restart preview after a pack
           // finishes, instead of recompiling for every MP3/SRT/manifest write.
           "**/public/audio/**",
+          "**/public/data/vocabulary/**",
           "**/.next/**", "**/dist/**", "**/out/**", "**/outputs/**", "**/work/**",
           "**/private-content/**", "**/ted-export/**", "**/.venv/**", "**/coverage/**",
           "**/*.tsbuildinfo", "**/*.log", "**/*.tar.gz"],

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-062",
+  "exampleIndex": 1,
+  "text": "私は絵を描くのが下手です。",
+  "speechText": "私は絵を描くのが下手です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 40,
+  "signature": "ada80d78ffe7980274ed046a85eb3038ee9fb7df9930f7b086d66f645a79f70b",
+  "src": "/audio/voices/nanami/N5-062-2.mp3",
+  "srt": "/audio/voices/nanami/N5-062-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "2fac421e9921a227cd79f767a509f7e7868215030a3c9dfa7d7162d6d1086b3e",
+  "peakPcm": 19657,
+  "rmsDbfs": -18.64,
+  "rate": "+0%",
+  "listened": false
+}

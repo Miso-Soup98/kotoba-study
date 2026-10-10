@@ -3,6 +3,7 @@ import { parsedLoop, tedId, tedWordSchema } from "../ted/validation.ts";
 import { parsedPractice } from "../training/validation.ts";
 import { parseListeningCard } from "./listening-card.ts";
 import { parseTrainingSession } from "../training/session.ts";
+import { parseVocabularyWord, vocabularyId } from "../vocabulary/schema.ts";
 const jsonValue = z.union([
   z.string().max(12000),
   z.number().finite(),
@@ -22,6 +23,8 @@ export const eventSchema = z
       "setting",
       "ted_loop",
       "ted_word",
+      "vocabulary_word",
+      "vocabulary_known",
       "ted_progress",
       "practice",
       "listening_card",
@@ -36,6 +39,13 @@ export const eventSchema = z
   })
   .strict()
   .superRefine((e, ctx) => {
+    if (e.kind === "vocabulary_word") {
+      const word = parseVocabularyWord(e.value);
+      if (!word.success || word.data.id !== e.entity)
+        ctx.addIssue({ code: "custom", message: "分级单词无效" });
+    }
+    if (e.kind === "vocabulary_known" && (!vocabularyId.safeParse(e.entity).success || typeof e.value !== "boolean"))
+      ctx.addIssue({ code: "custom", message: "单词跳过状态无效" });
     if (e.kind === "listening_card") {
       const card = parseListeningCard(e.value);
       if (!card.success || card.data.id !== e.entity)

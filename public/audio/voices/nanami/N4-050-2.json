@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-050",
+  "exampleIndex": 1,
+  "text": "本人には言いづらいことです。",
+  "speechText": "本人には言いづらいことです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 79,
+  "signature": "7a72f7339775b578325e0dfa429da74539f140dbc950a0af3eb3738ac93e3d72",
+  "src": "/audio/voices/nanami/N4-050-2.mp3",
+  "srt": "/audio/voices/nanami/N4-050-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "4d5babe961b2016c0b66004ac8bd02d4551d057dc53df5d4d5f74c93ef355b91",
+  "peakPcm": 20862,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

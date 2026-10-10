@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-037",
+  "exampleIndex": 1,
+  "text": "電気がついているので、まだ誰かいるらしいです。",
+  "speechText": "電気がついているので、まだ誰かいるらしいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 73,
+  "signature": "21b5802c396283d48d59353948317b51dce88a46a192a4f6c02f5f926507dc25",
+  "src": "/audio/voices/nanami/N4-037-2.mp3",
+  "srt": "/audio/voices/nanami/N4-037-2.srt",
+  "durationSeconds": 4.44,
+  "bytes": 26640,
+  "sha256": "5b31e1bb500eaca139cba39caf85754429b9936990c1d60011e5df2f436f1290",
+  "peakPcm": 21489,
+  "rmsDbfs": -17.32,
+  "rate": "+0%",
+  "listened": false
+}

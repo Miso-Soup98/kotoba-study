@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-111",
+  "exampleIndex": 1,
+  "text": "一日で本を三冊も読みました。",
+  "speechText": "一日で本を三冊も読みました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 110,
+  "signature": "d7d29e20d0a19265077c72c01516ec6ce8e316b6ac5cf6260479aae3285179ea",
+  "src": "/audio/voices/keita/N4-111-2.mp3",
+  "srt": "/audio/voices/keita/N4-111-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "eb66be6623c5c33e617d03d49260144f37975374e56dfe3fe75e1a33efe97de8",
+  "peakPcm": 23772,
+  "rmsDbfs": -20.7,
+  "rate": "+0%",
+  "listened": false
+}

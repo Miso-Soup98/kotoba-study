@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-016",
+  "exampleIndex": 1,
+  "text": "最近、早く寝るようになりました。",
+  "speechText": "最近、早く寝るようになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 62,
+  "signature": "e35f3cbd75317d9323b2313886f250b8cec55c3d1ba9d6be401ec3022e6a97f4",
+  "src": "/audio/voices/nanami/N4-016-2.mp3",
+  "srt": "/audio/voices/nanami/N4-016-2.srt",
+  "durationSeconds": 3.552,
+  "bytes": 21312,
+  "sha256": "23dba0caab743e3a313629d28ff53a4145246fa47bc59be8618a29851372456e",
+  "peakPcm": 21428,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

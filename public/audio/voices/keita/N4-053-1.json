@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-053",
+  "exampleIndex": 0,
+  "text": "窓が開けてあります。",
+  "speechText": "窓が開けてあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 81,
+  "signature": "e5c1b7783e61016d5082a5aec0c359712fe466a5a7696fd3cd628fd3026afef5",
+  "src": "/audio/voices/keita/N4-053-1.mp3",
+  "srt": "/audio/voices/keita/N4-053-1.srt",
+  "durationSeconds": 2.208,
+  "bytes": 13248,
+  "sha256": "3f8ae70a946151aa3a175e856def205b9a7fee612868483f81fa12740d5b5e31",
+  "peakPcm": 26554,
+  "rmsDbfs": -22.06,
+  "rate": "+0%",
+  "listened": false
+}

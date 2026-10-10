@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-081",
+  "exampleIndex": 1,
+  "text": "昨日は二時間勉強しました。",
+  "speechText": "昨日は二時間勉強しました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 50,
+  "signature": "90e010390780430dde13778a7b89213497b82c278c10999d1bf009258a870417",
+  "src": "/audio/voices/keita/N5-081-2.mp3",
+  "srt": "/audio/voices/keita/N5-081-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "0d0cce991fa7e072a169fe59030a65a37cb0186d7e6d610cd6b9738fe2600dd2",
+  "peakPcm": 21480,
+  "rmsDbfs": -19.89,
+  "rate": "+0%",
+  "listened": false
+}

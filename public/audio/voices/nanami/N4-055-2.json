@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-055",
+  "exampleIndex": 1,
+  "text": "辞書を使わないで読んでみてください。",
+  "speechText": "辞書を使わないで読んでみてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 82,
+  "signature": "21869ca037215d500ba106b46262f855cc0a91cc27f5ab357ec8143201015de3",
+  "src": "/audio/voices/nanami/N4-055-2.mp3",
+  "srt": "/audio/voices/nanami/N4-055-2.srt",
+  "durationSeconds": 3.36,
+  "bytes": 20160,
+  "sha256": "4b5cd716e4c0e104c8ac77d23637ada07a30f3393568a1c2c6ffdb6e7722d0f3",
+  "peakPcm": 21222,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

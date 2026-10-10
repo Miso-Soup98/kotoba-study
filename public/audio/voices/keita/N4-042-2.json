@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-042",
+  "exampleIndex": 1,
+  "text": "母は子供を公園で遊ばせました。",
+  "speechText": "母は子供を公園で遊ばせました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 75,
+  "signature": "dd0a20357a9b669641d73542dda9275a33eff1983fe461a64229841bfaaccc84",
+  "src": "/audio/voices/keita/N4-042-2.mp3",
+  "srt": "/audio/voices/keita/N4-042-2.srt",
+  "durationSeconds": 3.216,
+  "bytes": 19296,
+  "sha256": "04699778addbb02039ecd4dddbfdfee7c7383962c6ad9a01eee5da846aa5e828",
+  "peakPcm": 21488,
+  "rmsDbfs": -20.42,
+  "rate": "+0%",
+  "listened": false
+}

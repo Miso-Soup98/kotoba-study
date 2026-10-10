@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-076",
+  "exampleIndex": 0,
+  "text": "台所からいい匂いがします。",
+  "speechText": "台所からいい匂いがします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 92,
+  "signature": "4f7e6063162b2145ef94180687300a52d47917796e35dc15640127cf8383f38e",
+  "src": "/audio/voices/keita/N4-076-1.mp3",
+  "srt": "/audio/voices/keita/N4-076-1.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "f7c19a2e15805f38653f47c99e6e133d82bebf4be6fbe499352df4773e54898a",
+  "peakPcm": 26180,
+  "rmsDbfs": -20.79,
+  "rate": "+0%",
+  "listened": false
+}

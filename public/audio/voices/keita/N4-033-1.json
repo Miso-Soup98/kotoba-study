@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-033",
+  "exampleIndex": 0,
+  "text": "先生は明日来ないそうです。",
+  "speechText": "先生は明日来ないそうです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 71,
+  "signature": "28e4cff72ab5573b94558f45a12989c7613425ac49fdc58f15df96865131bba6",
+  "src": "/audio/voices/keita/N4-033-1.mp3",
+  "srt": "/audio/voices/keita/N4-033-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "695b2e95f75ce47d591f1ec136809d5d4f793e31a9f8f595373b41e284a7972e",
+  "peakPcm": 24476,
+  "rmsDbfs": -20.86,
+  "rate": "+0%",
+  "listened": false
+}

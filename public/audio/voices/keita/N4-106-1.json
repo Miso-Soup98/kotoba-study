@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-106",
+  "exampleIndex": 0,
+  "text": "もう宿題は終わったかい。",
+  "speechText": "もう宿題は終わったかい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 108,
+  "signature": "033cf5a19d63fcc84f20a246fd51e87d93e31cc037915370c198f075c9925397",
+  "src": "/audio/voices/keita/N4-106-1.mp3",
+  "srt": "/audio/voices/keita/N4-106-1.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "e486264b794f221dafe992cc215d5a598cf2f885203bd21f73186e23890f1217",
+  "peakPcm": 24503,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

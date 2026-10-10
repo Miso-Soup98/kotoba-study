@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-097",
+  "exampleIndex": 1,
+  "text": "弟は恥ずかしがりで、初めての人と話すのが苦手です。",
+  "speechText": "弟は恥ずかしがりで、初めての人と話すのが苦手です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 103,
+  "signature": "7a8ad6b87fb7c2f4b0de001ae82bc2ca7eebaa19708b0df304510ad07269f34e",
+  "src": "/audio/voices/nanami/N4-097-2.mp3",
+  "srt": "/audio/voices/nanami/N4-097-2.srt",
+  "durationSeconds": 5.424,
+  "bytes": 32544,
+  "sha256": "3afce18d6c76a3ed8f26db6472b000d32b6cb0d992f22e9e972d844ac0bd8f8a",
+  "peakPcm": 22926,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

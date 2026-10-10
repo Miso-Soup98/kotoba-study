@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-065",
+  "exampleIndex": 0,
+  "text": "休みの日は本を読んだり、散歩したりします。",
+  "speechText": "休みの日は本を読んだり、散歩したりします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 42,
+  "signature": "6e50b63dd5a2b1cec79f9529ee481b356b292fe366ff6223ecba6ec4206c6c7e",
+  "src": "/audio/voices/keita/N5-065-1.mp3",
+  "srt": "/audio/voices/keita/N5-065-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "b1d1e0f5deb7e1937d61dd4bf2a166b9d2114bed15e40c17085ed2431163f161",
+  "peakPcm": 22652,
+  "rmsDbfs": -20.55,
+  "rate": "+0%",
+  "listened": false
+}

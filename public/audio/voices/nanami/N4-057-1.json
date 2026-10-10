@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-057",
+  "exampleIndex": 0,
+  "text": "母が料理をしている間、私は掃除をしました。",
+  "speechText": "母が料理をしている間、私は掃除をしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 83,
+  "signature": "4fcc17d9446295df12eef8874716de57ba0c5f44b3591c72051e3cd3c98063fc",
+  "src": "/audio/voices/nanami/N4-057-1.mp3",
+  "srt": "/audio/voices/nanami/N4-057-1.srt",
+  "durationSeconds": 4.68,
+  "bytes": 28080,
+  "sha256": "2ab26fd6efa95052789318e57ff9a1b07bb61e2beb29522fc2580bbac8fbe3f4",
+  "peakPcm": 21030,
+  "rmsDbfs": -17.24,
+  "rate": "+0%",
+  "listened": false
+}

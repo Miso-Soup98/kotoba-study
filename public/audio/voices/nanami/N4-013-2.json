@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-013",
+  "exampleIndex": 1,
+  "text": "今日は外に出ないつもりです。",
+  "speechText": "今日は外に出ないつもりです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 61,
+  "signature": "1f25777b6efd85db632c52eb7fd14ac64f7b37f08e13886873bb7040d0bc6873",
+  "src": "/audio/voices/nanami/N4-013-2.mp3",
+  "srt": "/audio/voices/nanami/N4-013-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "1a30b307d0bc95d8d50a4e0c06fc9d00dc3845878264abcf5be8d42cf49c05d8",
+  "peakPcm": 22433,
+  "rmsDbfs": -16.94,
+  "rate": "+0%",
+  "listened": false
+}

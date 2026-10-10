@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-082",
+  "exampleIndex": 1,
+  "text": "早く病院へ行ってよかったです。",
+  "speechText": "早く病院へ行ってよかったです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 95,
+  "signature": "32f81a1358cf23d8c077f576424be4bbcdd8179321023f7cee848a5a9353ef64",
+  "src": "/audio/voices/nanami/N4-082-2.mp3",
+  "srt": "/audio/voices/nanami/N4-082-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "b4b361181cb17c7d2d9fd3f7ab2dc8b890a4e4370636cb19909eead0e276f30a",
+  "peakPcm": 21729,
+  "rmsDbfs": -17.0,
+  "rate": "+0%",
+  "listened": false
+}

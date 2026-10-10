@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-108",
+  "exampleIndex": 0,
+  "text": "この机は木で作られています。",
+  "speechText": "この机は木で作られています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 109,
+  "signature": "63caf7471e92842c9f318fc3ddeed89dd6724f970f5ad10cd4cd0d07e9c9feee",
+  "src": "/audio/voices/keita/N4-108-1.mp3",
+  "srt": "/audio/voices/keita/N4-108-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "2b8156dbdbe78e4b78cef9b316070261d12ceae6a1cb6546413d19712947388d",
+  "peakPcm": 23704,
+  "rmsDbfs": -20.18,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,220 @@
+{
+  "formatVersion": 1,
+  "version": "vocabulary-2026-10-v06",
+  "builtAt": "2026-10-09T22:18:09.320844+00:00",
+  "license": "CC-BY-SA-4.0",
+  "openjlptCommit": "0d1d3410bec90bd4098a7c72de820543cb4f707c",
+  "total": 7811,
+  "files": [
+    {
+      "level": "N5",
+      "file": "n5.json",
+      "count": 674,
+      "chineseCount": 661,
+      "kaikkiCount": 401,
+      "tomoshiCount": 260,
+      "bytes": 919513,
+      "sha256": "de5d55d1ea7a293bebf26063baf6a252bdaececf68fbce3469f84d128f66b12f"
+    },
+    {
+      "level": "N4",
+      "file": "n4.json",
+      "count": 630,
+      "chineseCount": 613,
+      "kaikkiCount": 376,
+      "tomoshiCount": 237,
+      "bytes": 886391,
+      "sha256": "7b653a875839935f59d81c5e687a27bf9f9b57fa69675af9e72d1c7829eff181"
+    },
+    {
+      "level": "N3",
+      "file": "n3.json",
+      "count": 1659,
+      "chineseCount": 1630,
+      "kaikkiCount": 1011,
+      "tomoshiCount": 619,
+      "bytes": 2362441,
+      "sha256": "8d1df359c30de04cb138ef951851b56ef5bc5cc7315679d6bfdc23dd46c9295a"
+    },
+    {
+      "level": "N2",
+      "file": "n2.json",
+      "count": 1778,
+      "chineseCount": 1756,
+      "kaikkiCount": 989,
+      "tomoshiCount": 767,
+      "bytes": 2410667,
+      "sha256": "9861e2042f3a4b6f24a00e06ed45bc0f47ed7967014ad412ac423a1aaab2d21a"
+    },
+    {
+      "level": "N1",
+      "file": "n1.json",
+      "count": 3070,
+      "chineseCount": 2993,
+      "kaikkiCount": 1672,
+      "tomoshiCount": 1321,
+      "bytes": 4020270,
+      "sha256": "79a95bfb16a9bd1aac6307905871f82d09c4ebc4148a14b78d69ab54d6089f22"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "path": "upstream\\LICENSE",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/LICENSE",
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
+      "bytes": 20138
+    },
+    {
+      "path": "upstream\\NOTICE.md",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/NOTICE.md",
+      "sha256": "a2e6f45517bb1a1c047628991832244916888a4ced3aa26adeafb89705588557",
+      "bytes": 3456
+    },
+    {
+      "path": "upstream\\data\\json\\meta.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/meta.json",
+      "sha256": "9d4cc0f17ed9ad6c3a1a10fdae19472f898f7b2a690c9962049657e49e2b64d2",
+      "bytes": 951
+    },
+    {
+      "path": "upstream\\data\\json\\vocab\\n5.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/vocab/n5.json",
+      "sha256": "cbb221c9a3a92108fcd02fb088d9afacc70bc8c96570d5730425de0a49dad5f3",
+      "bytes": 488242
+    },
+    {
+      "path": "upstream\\data\\json\\vocab\\n4.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/vocab/n4.json",
+      "sha256": "b38512a6dc1e06a3615f377b3e58184c4a85b6f769c2e3f58f2a4ef0e1810927",
+      "bytes": 483651
+    },
+    {
+      "path": "upstream\\data\\json\\vocab\\n3.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/vocab/n3.json",
+      "sha256": "17ca6bcbba9d212c3c9d38c38cecc2adef0fd8718cb7157bb48dd9d3a1724948",
+      "bytes": 1306060
+    },
+    {
+      "path": "upstream\\data\\json\\vocab\\n2.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/vocab/n2.json",
+      "sha256": "4c7053d1b61f71ca4004252cafdf89439c65531900e7bab6c53078802acf3c5b",
+      "bytes": 1306964
+    },
+    {
+      "path": "upstream\\data\\json\\vocab\\n1.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/vocab/n1.json",
+      "sha256": "09325eb676ec26044e9019afb5ddd460a394a0d8cb51b0b34d30d03124c131ff",
+      "bytes": 2156886
+    },
+    {
+      "path": "upstream\\data\\json\\pos.json",
+      "url": "https://raw.githubusercontent.com/evanclan/OpenJLPT/0d1d3410bec90bd4098a7c72de820543cb4f707c/data/json/pos.json",
+      "sha256": "0d743c49500c2c8ab0872f874c069234224b3ac8638f30fb1a257136eec50502",
+      "bytes": 1851
+    }
+  ],
+  "dictionarySources": [
+    {
+      "file": "kaikki-ja-simplified.jsonl",
+      "url": "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AF%AD/kaikki.org-dictionary-%E6%97%A5%E8%AF%AD.jsonl",
+      "bytes": 36289875,
+      "sha256": "5c971a6d0d6a05c3316b77d10ec218b3cc3eced6c6f45a3f137f44d9a17d8e87",
+      "records": 79524,
+      "etag": "\"6ab4de0b-229bd53\"",
+      "fetchedAt": "2026-09-24T13:24:23.843540+00:00",
+      "license": "CC-BY-SA-4.0",
+      "source": "Chinese Wiktionary contributors, extracted by Kaikki/Wiktextract"
+    },
+    {
+      "file": "kaikki-ja-traditional.jsonl",
+      "url": "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AA%9E/kaikki.org-dictionary-%E6%97%A5%E8%AA%9E.jsonl",
+      "bytes": 89293723,
+      "sha256": "961aedd8b4b5bc03b14d596a25c7529012fd46842f012afff52c81c7824bda61",
+      "records": 57721,
+      "etag": "\"6ab4de06-552839b\"",
+      "fetchedAt": "2026-09-24T13:41:31.825421+00:00",
+      "license": "CC-BY-SA-4.0",
+      "source": "Chinese Wiktionary contributors, extracted by Kaikki/Wiktextract"
+    }
+  ],
+  "limitations": [
+    "JLPT levels are unofficial community estimates, not official or exhaustive test lists",
+    "Chinese candidate definitions are exact form + reading + POS matches, not manually sense-reviewed",
+    "Examples are Japanese with English translations, never labelled Chinese",
+    "No dictionary quotation examples, audio files or accent data were imported",
+    "Tomoshi Chinese glosses are LLM-assisted translations and are not fully human-reviewed",
+    "Tomoshi matching uses exact JMdict ID, compatible surface/reading, and English sense overlap; matched glosses may still need correction",
+    "Chinese output contains both Simplified and Traditional source text; no silent Chinese-script conversion"
+  ],
+  "tomoshiSource": {
+    "tag": "v2026-10-07",
+    "commit": "b5fe883b4f00d40b09496928dbe5549bb6a803ac",
+    "url": "https://github.com/tomoshi-app/tomoshi-dict-data/releases/download/v2026-10-07/tomoshi-dict-open.db.zst",
+    "compressedSha256": "daa44935c654a4face33f873250484cca16a1bf846d700a8d7611b113953227f",
+    "databaseSha256": "7c3479bcde859772403045da21cf975decd92e492142b50453354a0ad35ea7ed",
+    "license": "CC-BY-SA-4.0 (excluding unused kanji_strokes table)",
+    "chineseContent": "LLM-assisted JMdict gloss translations; not fully human-reviewed",
+    "downloadedAt": "2026-10-09T22:15:02.601Z"
+  },
+  "tomoshiTableLicenses": [
+    {
+      "table": "entries",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "JMdict, Electronic Dictionary Research and Development Group — https://www.edrdg.org/; examples stripped, see meta"
+    },
+    {
+      "table": "zh_defs",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "JMdict-derived Chinese gloss translations © Y1Z"
+    }
+  ],
+  "posLabelsEn": {
+    "adj-f": "noun or verb acting prenominally",
+    "adj-i": "adjective (keiyoushi)",
+    "adj-ix": "adjective (keiyoushi) - yoi/ii class",
+    "adj-na": "adjectival nouns or quasi-adjectives (keiyodoshi)",
+    "adj-nari": "archaic/formal form of na-adjective",
+    "adj-no": "nouns which may take the genitive case particle 'no'",
+    "adj-pn": "pre-noun adjectival (rentaishi)",
+    "adj-t": "'taru' adjective",
+    "adv": "adverb (fukushi)",
+    "adv-to": "adverb taking the 'to' particle",
+    "aux": "auxiliary",
+    "aux-adj": "auxiliary adjective",
+    "aux-v": "auxiliary verb",
+    "conj": "conjunction",
+    "ctr": "counter",
+    "exp": "expressions (phrases, clauses, etc.)",
+    "int": "interjection (kandoushi)",
+    "n": "noun (common) (futsuumeishi)",
+    "n-pref": "noun, used as a prefix",
+    "n-suf": "noun, used as a suffix",
+    "num": "numeric",
+    "pn": "pronoun",
+    "pref": "prefix",
+    "prt": "particle",
+    "suf": "suffix",
+    "v1": "Ichidan verb",
+    "v1-s": "Ichidan verb - kureru special class",
+    "v5aru": "Godan verb - -aru special class",
+    "v5b": "Godan verb with 'bu' ending",
+    "v5g": "Godan verb with 'gu' ending",
+    "v5k": "Godan verb with 'ku' ending",
+    "v5k-s": "Godan verb - Iku/Yuku special class",
+    "v5m": "Godan verb with 'mu' ending",
+    "v5n": "Godan verb with 'nu' ending",
+    "v5r": "Godan verb with 'ru' ending",
+    "v5r-i": "Godan verb with 'ru' ending (irregular verb)",
+    "v5s": "Godan verb with 'su' ending",
+    "v5t": "Godan verb with 'tsu' ending",
+    "v5u": "Godan verb with 'u' ending",
+    "v5u-s": "Godan verb with 'u' ending (special class)",
+    "vi": "intransitive verb",
+    "vk": "Kuru verb - special class",
+    "vs": "noun or participle which takes the aux. verb suru",
+    "vs-i": "suru verb - included",
+    "vs-s": "suru verb - special class",
+    "vt": "transitive verb",
+    "vz": "Ichidan verb - zuru verb (alternative form of -jiru verbs)"
+  }
+}

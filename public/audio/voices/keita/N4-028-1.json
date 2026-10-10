@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-028",
+  "exampleIndex": 0,
+  "text": "先生にもう少し説明してほしいです。",
+  "speechText": "先生にもう少し説明してほしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 68,
+  "signature": "d8e5f05960e69901893ffb075dc1f5e73863f0e2919cf37684c5a800d78564e7",
+  "src": "/audio/voices/keita/N4-028-1.mp3",
+  "srt": "/audio/voices/keita/N4-028-1.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "2d7b5c73f52fba1a44717decdb8eb2dbcc8cabe48daaa71b9637bf7cc33178fb",
+  "peakPcm": 20278,
+  "rmsDbfs": -21.15,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-100",
+  "exampleIndex": 0,
+  "text": "早く寝なさい。",
+  "speechText": "早く寝なさい。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 105,
+  "signature": "9b7c52cb7ad08e2486948f96209ba0d0644684262685ed7a2050f9b25df560bb",
+  "src": "/audio/voices/nanami/N4-100-1.mp3",
+  "srt": "/audio/voices/nanami/N4-100-1.srt",
+  "durationSeconds": 2.04,
+  "bytes": 12240,
+  "sha256": "30af0bc89e01917bb10351f16d6015e20e633d4e44f96e0b74d8ee8355586bf0",
+  "peakPcm": 22529,
+  "rmsDbfs": -19.18,
+  "rate": "+0%",
+  "listened": false
+}

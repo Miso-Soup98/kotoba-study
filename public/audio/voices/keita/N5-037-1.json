@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-037",
+  "exampleIndex": 0,
+  "text": "明日は早く起きなくてもいいです。",
+  "speechText": "明日は早く起きなくてもいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 28,
+  "signature": "93df4f5b992d82bd9f67d14299930af250720035880bcdefc03c623de16eaf13",
+  "src": "/audio/voices/keita/N5-037-1.mp3",
+  "srt": "/audio/voices/keita/N5-037-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "8e6981d137bd043a2a72fe928e08fff544422d6187c60c879c279af0c15c7219",
+  "peakPcm": 23042,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-009",
+  "exampleIndex": 0,
+  "text": "雨が降っても、試合はあります。",
+  "speechText": "雨が降っても、試合はあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 59,
+  "signature": "a8d670bbc2e9bbee8b0b5fb6cdb0447fc8781e6f5a01f4dabfd0f70ea693beba",
+  "src": "/audio/voices/nanami/N4-009-1.mp3",
+  "srt": "/audio/voices/nanami/N4-009-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "683516ab4d2ccd8216dc3b399c3097b04cb4d0b87f1e76e5da33410ca9fc3c6a",
+  "peakPcm": 22402,
+  "rmsDbfs": -18.04,
+  "rate": "+0%",
+  "listened": false
+}

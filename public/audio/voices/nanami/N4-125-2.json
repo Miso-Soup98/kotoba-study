@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-125",
+  "exampleIndex": 1,
+  "text": "さっきから電話が鳴っています。",
+  "speechText": "さっきから電話が鳴っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 117,
+  "signature": "6220c5963706d29138d271c35c874d6e4a3d840c2ef307fb0282963cccbc0b33",
+  "src": "/audio/voices/nanami/N4-125-2.mp3",
+  "srt": "/audio/voices/nanami/N4-125-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "0da51266334728353c3c8cd1817e0888f18d67fd74d4b7493419828eb8402a8f",
+  "peakPcm": 20513,
+  "rmsDbfs": -17.99,
+  "rate": "+0%",
+  "listened": false
+}

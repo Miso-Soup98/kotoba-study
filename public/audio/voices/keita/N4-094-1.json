@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-094",
+  "exampleIndex": 0,
+  "text": "先生が作文を直してくださいました。",
+  "speechText": "先生が作文を直してくださいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 101,
+  "signature": "0b5d0d3239d2948e90d1d2bff648b1496d16b8deb3df29d3d8d834a66588c1b2",
+  "src": "/audio/voices/keita/N4-094-1.mp3",
+  "srt": "/audio/voices/keita/N4-094-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "3ce4c526911721341f8068ea6323552230a2d57a3002adb2ad0390e387bd005a",
+  "peakPcm": 19569,
+  "rmsDbfs": -20.89,
+  "rate": "+0%",
+  "listened": false
+}

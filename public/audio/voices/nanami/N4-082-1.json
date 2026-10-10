@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-082",
+  "exampleIndex": 0,
+  "text": "返事が遅くなってすみません。",
+  "speechText": "返事が遅くなってすみません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 95,
+  "signature": "91c3c0cb8c5a37c309752e16d92d8bc72f8445cc1c13ae52a1bc1dc5e5b531bf",
+  "src": "/audio/voices/nanami/N4-082-1.mp3",
+  "srt": "/audio/voices/nanami/N4-082-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "e40aa9ed3b69c4c99d4c57ae6fb89a2ca7a31ef44911d8b44a89fb9b36b805cb",
+  "peakPcm": 20466,
+  "rmsDbfs": -17.93,
+  "rate": "+0%",
+  "listened": false
+}

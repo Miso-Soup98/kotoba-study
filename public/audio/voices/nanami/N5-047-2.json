@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-047",
+  "exampleIndex": 1,
+  "text": "このパンを二つください。",
+  "speechText": "このパンを二つください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 33,
+  "signature": "a997403fc8f0f2a4708143f786d3f72252bc7b2d92db0378ea9b7ef6167e4383",
+  "src": "/audio/voices/nanami/N5-047-2.mp3",
+  "srt": "/audio/voices/nanami/N5-047-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "32662f795774a45251a0e4995bfd1aa853eec65b515956bf3173cf955a9a698e",
+  "peakPcm": 21483,
+  "rmsDbfs": -18.69,
+  "rate": "+0%",
+  "listened": false
+}

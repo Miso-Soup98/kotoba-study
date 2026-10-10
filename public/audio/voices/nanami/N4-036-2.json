@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-036",
+  "exampleIndex": 1,
+  "text": "この雲は猫みたいな形です。",
+  "speechText": "この雲は猫みたいな形です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 72,
+  "signature": "888e8e3f36de4c10a850d621c2771a1f941ba8bdf7e90841c389a528e866256e",
+  "src": "/audio/voices/nanami/N4-036-2.mp3",
+  "srt": "/audio/voices/nanami/N4-036-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "7ca6bae9cd4b9bbb0ff96c589124c7aeb01aab2ad8b0fc56b61d371b6837eee1",
+  "peakPcm": 20999,
+  "rmsDbfs": -18.22,
+  "rate": "+0%",
+  "listened": false
+}

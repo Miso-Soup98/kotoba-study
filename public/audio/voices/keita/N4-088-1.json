@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-088",
+  "exampleIndex": 0,
+  "text": "先生はもうお帰りになりました。",
+  "speechText": "先生はもうお帰りになりました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 98,
+  "signature": "8c88a14a679deaf2b1f18ebbeb6bfa1c7bd05099e83b4fb04b871e91b3d0fd5d",
+  "src": "/audio/voices/keita/N4-088-1.mp3",
+  "srt": "/audio/voices/keita/N4-088-1.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "6696396a73b86507639eac23b81a3930da73fe66a7a0ca1829fd7f2719389281",
+  "peakPcm": 19662,
+  "rmsDbfs": -19.79,
+  "rate": "+0%",
+  "listened": false
+}

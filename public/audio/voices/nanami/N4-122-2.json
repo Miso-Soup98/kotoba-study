@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-122",
+  "exampleIndex": 1,
+  "text": "先生もきっと喜ぶでしょう。",
+  "speechText": "先生もきっと喜ぶでしょう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 116,
+  "signature": "2bab94fa251f469ee6da6a41330041ed48ce25efaaabe49dbc5815fab1f39e0c",
+  "src": "/audio/voices/nanami/N4-122-2.mp3",
+  "srt": "/audio/voices/nanami/N4-122-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "21cd3ab6e93caec904f75799496e06113bf61f5bb5ddd364d113447f5bac9033",
+  "peakPcm": 20829,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

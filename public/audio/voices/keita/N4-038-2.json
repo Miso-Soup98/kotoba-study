@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-038",
+  "exampleIndex": 1,
+  "text": "今日は休みのはずです。",
+  "speechText": "今日は休みのはずです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 73,
+  "signature": "73362d8ce8bd89f53d4871401e5767414868550175fa3320f6f21cbbe8d1ff09",
+  "src": "/audio/voices/keita/N4-038-2.mp3",
+  "srt": "/audio/voices/keita/N4-038-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "90797b623179bd45b0baa240d70581bae7099977a8622dd50ffe76d799b833c2",
+  "peakPcm": 21955,
+  "rmsDbfs": -20.57,
+  "rate": "+0%",
+  "listened": false
+}

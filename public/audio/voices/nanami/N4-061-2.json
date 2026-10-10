@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-061",
+  "exampleIndex": 1,
+  "text": "買ったばかりの傘をなくしました。",
+  "speechText": "買ったばかりの傘をなくしました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 85,
+  "signature": "2274718bf21fae397feceb25bd6221ffc41f7f3de8685d2a1d55a967479a5d11",
+  "src": "/audio/voices/nanami/N4-061-2.mp3",
+  "srt": "/audio/voices/nanami/N4-061-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "4710123d4e9344d508c30b85b4ce894afe421e5997ecbfc0e11a78ddb09390e7",
+  "peakPcm": 23642,
+  "rmsDbfs": -18.56,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "jpn_sentences_detailed.tsv.bz2",
+    "url": "https://downloads.tatoeba.org/exports/per_language/jpn/jpn_sentences_detailed.tsv.bz2",
+    "sha256": "591b040bce75503a3a41d51281cdc45ab5390505088b67b52020b7ecc59d24dd",
+    "bytes": 4462288,
+    "lastModified": null,
+    "license": "CC-BY-2.0-FR"
+  },
+  {
+    "file": "jpn_indices.tar.bz2",
+    "url": "https://downloads.tatoeba.org/exports/jpn_indices.tar.bz2",
+    "sha256": "6c00f06f5f3a360107a8dff45a9cb602c73ecc754b9a697663a6c579971f9a46",
+    "bytes": 2863623,
+    "lastModified": null,
+    "license": "CC-BY-2.0-FR"
+  },
+  {
+    "file": "eng_sentences_detailed.tsv.bz2",
+    "url": "https://downloads.tatoeba.org/exports/per_language/eng/eng_sentences_detailed.tsv.bz2",
+    "sha256": "d2c8fc271db70967cbf6e74069b34f394eccccca4a61fc84039e0f0549016ee8",
+    "bytes": 34920012,
+    "lastModified": "Sat, 03 Oct 2026 06:29:49 GMT",
+    "license": "CC-BY-2.0-FR"
+  }
+]

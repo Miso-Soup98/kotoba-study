@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-025",
+  "exampleIndex": 0,
+  "text": "ここに名前を書いてください。",
+  "speechText": "ここに名前を書いてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 22,
+  "signature": "286fbc92db4341da039ae7cd004276b0cec2854a5e56b65075487d686bc5d0b1",
+  "src": "/audio/voices/nanami/N5-025-1.mp3",
+  "srt": "/audio/voices/nanami/N5-025-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "5262cb3adb6c24e670a5088db7c796aee5baad6928153868ca64a675c68dd1de",
+  "peakPcm": 21664,
+  "rmsDbfs": -17.99,
+  "rate": "+0%",
+  "listened": false
+}

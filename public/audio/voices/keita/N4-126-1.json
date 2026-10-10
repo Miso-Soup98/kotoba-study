@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-126",
+  "exampleIndex": 0,
+  "text": "さすが先生ですね。説明が分かりやすいです。",
+  "speechText": "さすが先生ですね。説明が分かりやすいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 118,
+  "signature": "6db07bd6d1c658b1c370684a9ed1b5223d58740930b48ddc42ad6eb102809488",
+  "src": "/audio/voices/keita/N4-126-1.mp3",
+  "srt": "/audio/voices/keita/N4-126-1.srt",
+  "durationSeconds": 4.728,
+  "bytes": 28368,
+  "sha256": "54118141b173433ba82623ef6fec1a63fe24e39a1e3e667e4eacac2f63689737",
+  "peakPcm": 21207,
+  "rmsDbfs": -20.79,
+  "rate": "+0%",
+  "listened": false
+}

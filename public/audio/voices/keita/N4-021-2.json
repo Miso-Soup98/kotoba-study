@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-021",
+  "exampleIndex": 1,
+  "text": "姉は弟に時計をあげました。",
+  "speechText": "姉は弟に時計をあげました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 65,
+  "signature": "ea6d1a525d629bc8bb8bdfe64b17bba56a6438ad32b5d7f5431b0648626404ae",
+  "src": "/audio/voices/keita/N4-021-2.mp3",
+  "srt": "/audio/voices/keita/N4-021-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "a0dd1172fa5b51ded8e967b9af698c7f6e86dbef51dd25fe83dea278617030eb",
+  "peakPcm": 22815,
+  "rmsDbfs": -19.98,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-064",
+  "exampleIndex": 0,
+  "text": "飲み物はお茶にします。",
+  "speechText": "飲み物はお茶にします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 41,
+  "signature": "cf7b38e29888ef4151759354b23a5056bb671175540adabffc0608c8f1d436cb",
+  "src": "/audio/voices/keita/N5-064-1.mp3",
+  "srt": "/audio/voices/keita/N5-064-1.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "de14aa31f3a697dfd2a114f4bdbb0836d87cb08014a483854d1bcf645c3939b6",
+  "peakPcm": 17256,
+  "rmsDbfs": -21.06,
+  "rate": "+0%",
+  "listened": false
+}

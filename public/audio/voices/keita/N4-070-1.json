@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-070",
+  "exampleIndex": 0,
+  "text": "電気をつけたまま寝てしまいました。",
+  "speechText": "電気をつけたまま寝てしまいました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 89,
+  "signature": "ca6c13d283e9afae2a910c1a6bb9049df90b4811f71eda5339c14a5ac2c98e72",
+  "src": "/audio/voices/keita/N4-070-1.mp3",
+  "srt": "/audio/voices/keita/N4-070-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "fd90e98e43cc9075479561dcea50a58c793b15a1a35d8ead112908df7e726d2f",
+  "peakPcm": 23201,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

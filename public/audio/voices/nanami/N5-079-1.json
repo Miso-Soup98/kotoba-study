@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-079",
+  "exampleIndex": 0,
+  "text": "この傘は私のです。",
+  "speechText": "この傘は私のです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 49,
+  "signature": "5f39fb1c0ee3a30a232ebfe7a5f1e746ea0c4eb72b6b24ab74059b5d23b5c879",
+  "src": "/audio/voices/nanami/N5-079-1.mp3",
+  "srt": "/audio/voices/nanami/N5-079-1.srt",
+  "durationSeconds": 2.616,
+  "bytes": 15696,
+  "sha256": "109c76a854b2ba1314c301cc3b5bd017a837eb74250569ccf8f38eb9584f315c",
+  "peakPcm": 21459,
+  "rmsDbfs": -18.6,
+  "rate": "+0%",
+  "listened": false
+}

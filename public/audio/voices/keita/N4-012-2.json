@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-012",
+  "exampleIndex": 1,
+  "text": "この料理は食べたことがありません。",
+  "speechText": "この料理は食べたことがありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 60,
+  "signature": "56d75b1547657e75a3a32f4fa87ec7181cd8226299a2551eccff9fc4ca418b45",
+  "src": "/audio/voices/keita/N4-012-2.mp3",
+  "srt": "/audio/voices/keita/N4-012-2.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "32fec1617956e25a73d369febe01e42becdb09681d14278f4e2b12b2abe09e92",
+  "peakPcm": 21458,
+  "rmsDbfs": -20.41,
+  "rate": "+0%",
+  "listened": false
+}

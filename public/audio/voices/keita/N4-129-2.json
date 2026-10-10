@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-129",
+  "exampleIndex": 1,
+  "text": "それで、最後はどうなったんですか。",
+  "speechText": "それで、最後はどうなったんですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 119,
+  "signature": "6145117140ae883e1fca17f3caa6f671c8c1b88d37ad018a63d9609efe45be52",
+  "src": "/audio/voices/keita/N4-129-2.mp3",
+  "srt": "/audio/voices/keita/N4-129-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "fb62ce8d09cc1585420b0551efbc9cf6e56ab7331e599f45d04b5d751b077a6e",
+  "peakPcm": 21265,
+  "rmsDbfs": -20.29,
+  "rate": "+0%",
+  "listened": false
+}

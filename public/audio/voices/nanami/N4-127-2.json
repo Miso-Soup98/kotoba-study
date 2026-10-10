@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-127",
+  "exampleIndex": 1,
+  "text": "何度も練習して、やっと泳げました。",
+  "speechText": "何度も練習して、やっと泳げました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 118,
+  "signature": "da2d73d52803275af71d9bdbf6ae06c6e2f02d352fdb87cfbfacda3ac2bd567a",
+  "src": "/audio/voices/nanami/N4-127-2.mp3",
+  "srt": "/audio/voices/nanami/N4-127-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "9f9a72bcba843dea4a9b88bf56834e44cbde7c458be1c97a5ed9224b97ab2446",
+  "peakPcm": 20591,
+  "rmsDbfs": -17.36,
+  "rate": "+0%",
+  "listened": false
+}

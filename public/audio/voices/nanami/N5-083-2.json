@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-083",
+  "exampleIndex": 1,
+  "text": "次の駅で電車を降ります。",
+  "speechText": "次の駅で電車を降ります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 51,
+  "signature": "0a9037be4349a1d6f46f3a06172c804c5974b9735dd6505408356055d6171c38",
+  "src": "/audio/voices/nanami/N5-083-2.mp3",
+  "srt": "/audio/voices/nanami/N5-083-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "0d7098346230bf80720b83dfdea99d2f3b82d6f4a53bfcf376c19f4a50275f92",
+  "peakPcm": 20718,
+  "rmsDbfs": -17.55,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-051",
+  "exampleIndex": 0,
+  "text": "この道具の使い方を教えてください。",
+  "speechText": "この道具の使い方を教えてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 80,
+  "signature": "ccd127c77e53bcd9ed1fa0668873ae5943e72a7b0675138bbfcdd1bb235e0551",
+  "src": "/audio/voices/keita/N4-051-1.mp3",
+  "srt": "/audio/voices/keita/N4-051-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "01c9cf0551daace927ca303842d40d1654169950d4c9f7c16e82c7e217fa655c",
+  "peakPcm": 25117,
+  "rmsDbfs": -19.34,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-012",
+  "exampleIndex": 1,
+  "text": "明日、試験があります。",
+  "speechText": "明日、試験があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 15,
+  "signature": "05fa07e8b521af32465d97faa207f3b17c2546741657268dcd52f1689bf1002a",
+  "src": "/audio/voices/nanami/N5-012-2.mp3",
+  "srt": "/audio/voices/nanami/N5-012-2.srt",
+  "durationSeconds": 2.808,
+  "bytes": 16848,
+  "sha256": "8abe2831ee1dc3c5cae61f19b5c912111112eaa685795f3946ec6b03679bd02e",
+  "peakPcm": 20865,
+  "rmsDbfs": -19.58,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-087",
+  "exampleIndex": 1,
+  "text": "今日は全然寒くないです。",
+  "speechText": "今日は全然寒くないです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 53,
+  "signature": "7442f26fd51b205199704b2cc9cf219917d3bb7cc6b5f30bf5d2cd8939e5951b",
+  "src": "/audio/voices/keita/N5-087-2.mp3",
+  "srt": "/audio/voices/keita/N5-087-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "13ba0ebeb66eea1039866260173756217465133105bcf5416bc9677fbdaf0b9c",
+  "peakPcm": 19712,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-086",
+  "exampleIndex": 0,
+  "text": "受付はこちらです。",
+  "speechText": "受付はこちらです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 52,
+  "signature": "66ed8c3a4ee5c2c792446bb5130f93081ad8da64b5968a6d819e4bd5c6401152",
+  "src": "/audio/voices/nanami/N5-086-1.mp3",
+  "srt": "/audio/voices/nanami/N5-086-1.srt",
+  "durationSeconds": 2.52,
+  "bytes": 15120,
+  "sha256": "c5e57387e784cd1b33a6f766a1a3edf00dffb204573d2ec42f45a0824f0641b1",
+  "peakPcm": 22340,
+  "rmsDbfs": -18.11,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-011",
+  "exampleIndex": 0,
+  "text": "箸でご飯を食べます。",
+  "speechText": "箸でご飯を食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 15,
+  "signature": "ccfa289f0c96c9f3c13d4a4b448b50787c349a81575bdf3c2a73d18a5266c89c",
+  "src": "/audio/voices/keita/N5-011-1.mp3",
+  "srt": "/audio/voices/keita/N5-011-1.srt",
+  "durationSeconds": 2.376,
+  "bytes": 14256,
+  "sha256": "22ac85ab0b8be1b6c70c7af494870d7b0590d4717eaf4d3a7a5394e2838f3e37",
+  "peakPcm": 21820,
+  "rmsDbfs": -22.4,
+  "rate": "+0%",
+  "listened": false
+}

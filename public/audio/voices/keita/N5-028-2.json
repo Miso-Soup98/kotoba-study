@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-028",
+  "exampleIndex": 1,
+  "text": "姉は結婚しています。",
+  "speechText": "姉は結婚しています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 23,
+  "signature": "65bea9ed2d94969c869c858bd6dd380dcce8fab6eeaa1edaa77fc31b47abbf7d",
+  "src": "/audio/voices/keita/N5-028-2.mp3",
+  "srt": "/audio/voices/keita/N5-028-2.srt",
+  "durationSeconds": 2.424,
+  "bytes": 14544,
+  "sha256": "7047a9358398eba7613a3b7cbbf46f617ab32c96fe9047518b756643efec23c1",
+  "peakPcm": 23069,
+  "rmsDbfs": -20.87,
+  "rate": "+0%",
+  "listened": false
+}

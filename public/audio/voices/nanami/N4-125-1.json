@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-125",
+  "exampleIndex": 0,
+  "text": "さっき先生に会いました。",
+  "speechText": "さっき先生に会いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 117,
+  "signature": "100105d444cd3abab7655342b5ef4425db08b7f2c41be13d191e975c70be20c1",
+  "src": "/audio/voices/nanami/N4-125-1.mp3",
+  "srt": "/audio/voices/nanami/N4-125-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "a61d5759134066f0e605bbe4a79599d048167fdf58fe84e709637b0bc5abfd6c",
+  "peakPcm": 20225,
+  "rmsDbfs": -18.05,
+  "rate": "+0%",
+  "listened": false
+}

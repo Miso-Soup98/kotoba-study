@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-060",
+  "exampleIndex": 0,
+  "text": "果物の中で、りんごが一番好きです。",
+  "speechText": "果物の中で、りんごが一番好きです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 39,
+  "signature": "771422d64fd4d3640af262fbb13588129c529988ce1095d0450f3b5f88b49c37",
+  "src": "/audio/voices/nanami/N5-060-1.mp3",
+  "srt": "/audio/voices/nanami/N5-060-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "4b7bf0a5fff39916b84c6cddd8d75315d9a86caddb1495dcf123b211572338ab",
+  "peakPcm": 20894,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

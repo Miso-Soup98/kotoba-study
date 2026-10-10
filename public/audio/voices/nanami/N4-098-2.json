@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-098",
+  "exampleIndex": 1,
+  "text": "この二つのうち、どちらが好きですか。",
+  "speechText": "この二つのうち、どちらが好きですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 103,
+  "signature": "f12c0a814738027d424a5a1ac322dff13edb813c496d500dd584ab01e10e7424",
+  "src": "/audio/voices/nanami/N4-098-2.mp3",
+  "srt": "/audio/voices/nanami/N4-098-2.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "412c734463e0e8fc219c56b037eed4cf996f99ef3b3fe8210a31fd81a212780e",
+  "peakPcm": 20711,
+  "rmsDbfs": -18.83,
+  "rate": "+0%",
+  "listened": false
+}

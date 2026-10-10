@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-075",
+  "exampleIndex": 0,
+  "text": "音を小さくしてください。",
+  "speechText": "音を小さくしてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 92,
+  "signature": "46d682c3cb01f3f18d8f73219a5671a6bc4cfbae5da6bec745872c9223c1b661",
+  "src": "/audio/voices/nanami/N4-075-1.mp3",
+  "srt": "/audio/voices/nanami/N4-075-1.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "d72cd65ff9e97f0af2ed38dbd4577e1d00435405dc4d0caf8a5a482d55e0f9d7",
+  "peakPcm": 21043,
+  "rmsDbfs": -18.09,
+  "rate": "+0%",
+  "listened": false
+}

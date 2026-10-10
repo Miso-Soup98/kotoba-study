@@ -15,6 +15,8 @@ export type TedGloss = {
   page: number;
   source?: string;
   displayHidden?: boolean;
+  uncertainTerm?: boolean;
+  reviewNote?: string;
 };
 export type TedParagraph = {
   id: string;
@@ -24,6 +26,7 @@ export type TedParagraph = {
   tokens?: TedToken[];
   displayHidden?: boolean;
   sourceMappedTo?: string[];
+  reviewNote?: string;
 };
 export type TedArticle = {
   id: string;
@@ -38,7 +41,7 @@ export type TedArticle = {
   dictionary?: Record<string, TedGloss>;
   corrections?: TedCorrection[];
   contextLessons?: TedContextLesson[];
-  review?: { reviewedAt: string; remainingIssues: string[]; sourceHeadingJapanese?: string };
+  review?: { reviewedAt: string; remainingIssues: string[]; sourceHeadingJapanese?: string; method?: "text-audit" | "pdf-compared" };
 };
 export type TedContextLesson = {
   reviewStatus: "context-reviewed";
@@ -52,11 +55,14 @@ export type TedContextLesson = {
 };
 export type TedCorrection = {
   id: string;
-  kind: "paragraph" | "glossary";
+  kind: "paragraph" | "glossary" | "title";
   paragraphId?: string;
   term?: string;
   correctedTerm?: string;
-  original: Partial<TedGloss> & { japanese?: string; chinese?: string };
+  correctedReading?: string;
+  correctedUsage?: string;
+  original: Partial<TedGloss> & { japanese?: string; chinese?: string; title?: string };
+  title?: string;
   japanese?: string;
   chinese?: string;
   correctedMeaning?: string;

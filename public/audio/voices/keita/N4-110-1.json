@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-110",
+  "exampleIndex": 0,
+  "text": "二時間おきに休憩します。",
+  "speechText": "二時間おきに休憩します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 110,
+  "signature": "95464227e1ab4b82e39c4be45495e21ef0057bb56a8cd7308199253f6106d63c",
+  "src": "/audio/voices/keita/N4-110-1.mp3",
+  "srt": "/audio/voices/keita/N4-110-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "d446ab2993f860889952651d941c342a984f53c8ec95fc3687283f3dbe184eaf",
+  "peakPcm": 20813,
+  "rmsDbfs": -20.94,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-039",
+  "exampleIndex": 1,
+  "text": "あの店が今日開いているはずがない。",
+  "speechText": "あの店が今日あいているはずがない。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 74,
+  "signature": "118ee59c68633ef26130e995466bff67dcfc4a4dfd418dae98adcfbfd6259251",
+  "src": "/audio/voices/nanami/N4-039-2.mp3",
+  "srt": "/audio/voices/nanami/N4-039-2.srt",
+  "durationSeconds": 3.384,
+  "bytes": 20304,
+  "sha256": "0291c32160660f0dafad70ddb2317151d1c017d16f8fe1c075802acd2cc9af43",
+  "peakPcm": 20364,
+  "rmsDbfs": -17.33,
+  "rate": "+0%",
+  "listened": false
+}

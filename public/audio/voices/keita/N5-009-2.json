@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-009",
+  "exampleIndex": 1,
+  "text": "週末、国へ帰ります。",
+  "speechText": "週末、国へ帰ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 14,
+  "signature": "395e2a129f474b7a6cf7fb9ff28ec010ec15957d2bc1f4e0593db72c0d8fb343",
+  "src": "/audio/voices/keita/N5-009-2.mp3",
+  "srt": "/audio/voices/keita/N5-009-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "73fb4724c4fd19b592dc8d44d2347d3b6f994a9aa7ddce3aa5b245f5203b9e33",
+  "peakPcm": 23126,
+  "rmsDbfs": -20.84,
+  "rate": "+0%",
+  "listened": false
+}

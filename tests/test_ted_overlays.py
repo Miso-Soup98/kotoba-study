@@ -50,11 +50,76 @@ class OverlayTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             module.apply_learning_overlays(copy.deepcopy(self.article), [], [self.lesson, self.lesson], [])
 
+    def test_qr_noise_is_hidden_without_inventing_a_content_mapping(self):
+        operation = {"articleId": self.article["id"], "kind": "hide-noncontent-paragraph",
+                     "sourceParagraphIds": ["p2"], "hideParagraphIds": ["p2"]}
+        result = module.apply_learning_overlays(copy.deepcopy(self.article), [operation], [], [])
+        self.assertTrue(result["paragraphs"][1]["displayHidden"])
+        self.assertEqual(result["paragraphs"][1]["sourceMappedTo"], [])
+        self.assertEqual(result["paragraphs"][1]["chinese"], "旧碎片")
+        for change in [{"hideParagraphIds": []}, {"hideParagraphIds": ["missing"]}, {"targetParagraphIds": ["p1"]}]:
+            with self.assertRaises(ValueError):
+                module.apply_learning_overlays(copy.deepcopy(self.article), [operation | change], [], [])
+
     def test_review_metadata_never_copies_local_source_paths(self):
         report = {"articleId": self.article["id"], "reviewedAt": "2026-09-29", "remainingIssues": ["待试听"],
                   "sourceHeadingJapanese": "例", "sourcePdf": "private/path.pdf", "inputJson": "private.json"}
         result = module.apply_learning_overlays(copy.deepcopy(self.article), [], [], [report])
         self.assertEqual(set(result["review"]), {"reviewedAt", "remainingIssues", "sourceHeadingJapanese"})
+
+    def test_text_audit_marks_uncertain_fields_without_claiming_pdf_verification(self):
+        review = {"articleId": self.article["id"], "reviewedAt": "2026-10-10", "method": "text-audit",
+                  "remainingIssues": ["译文缺段"], "paragraphNotes": {"p1": "译文缺段"},
+                  "glossaryNotes": {"0": {"note": "词头不完整", "blockLookup": True}}}
+        result = module.apply_learning_overlays(copy.deepcopy(self.article), [], [], [review])
+        self.assertEqual(result["review"]["method"], "text-audit")
+        self.assertEqual(result["paragraphs"][0]["reviewNote"], "译文缺段")
+        self.assertTrue(result["glossary"][0]["uncertainTerm"])
+        self.assertNotIn("paragraphNotes", result["review"])
+        self.assertNotIn("reviewNote", self.article["paragraphs"][0])
+        with self.assertRaises(ValueError):
+            module.apply_learning_overlays(copy.deepcopy(self.article), [], [], [review | {"paragraphNotes": {"bad": "错误目标"}}])
+
+    def test_reading_only_correction_does_not_certify_an_uncertain_term(self):
+        original = {"term": "欠け", "reading": "かげ", "meaning": "残文", "uncertainTerm": True}
+        article = {"id": "ted-new-001", "paragraphs": [], "glossary": [original]}
+        record = {"id": "test-reading", "articleId": article["id"], "kind": "glossary", "glossaryIndex": 0,
+                  "original": original, "correctedReading": "かけ", "keepTermUncertainty": True}
+        result = module.apply_article(article, [record])
+        self.assertTrue(result["glossary"][0]["uncertainTerm"])
+        self.assertTrue(result["glossary"][0]["reviewRequired"])
+
+    def test_missing_glossary_insertion_preserves_reviewed_usage(self):
+        record = {"id": "insert", "kind": "glossary", "operation": "insert-missing-glossary",
+                  "term": "について", "original": {}, "correctedMeaning": "关于",
+                  "correctedUsage": "名词＋について", "reference": {"page": 1}}
+        result = module.apply_article(self.article, [record])
+        self.assertEqual(result["glossary"][-1]["usage"], "名词＋について")
+
+    def test_fresh_review_replaces_stale_notes_but_only_resolves_named_glossary(self):
+        article = copy.deepcopy(self.article)
+        article["paragraphs"][0]["reviewNote"] = "旧缺字"
+        article["glossary"][0].update(reviewNote="旧疑点", uncertainTerm=True)
+        article["glossary"].append({"term": "未审", "uncertainTerm": True})
+        review = {"articleId": article["id"], "remainingIssues": [], "method": "pdf-compared",
+                  "resolvedGlossaryIndices": [0], "paragraphNotes": {"p1": "原PDF观点已加订正说明"}}
+        result = module.apply_learning_overlays(article, [], [], [review])
+        self.assertEqual(result["paragraphs"][0]["reviewNote"], "原PDF观点已加订正说明")
+        self.assertEqual(result["glossary"][0]["reviewNote"], "")
+        self.assertFalse(result["glossary"][0]["uncertainTerm"])
+        self.assertTrue(result["glossary"][1]["uncertainTerm"])
+
+    def test_stored_lessons_reanchor_only_when_unique_and_keep_previous_location(self):
+        article = copy.deepcopy(self.article)
+        article["contextLessons"] = [self.lesson]
+        article["paragraphs"][0]["japanese"] = "今日は🌸日本について話します。"
+        result = module.apply_learning_overlays(article, [], [], [])
+        self.assertEqual(result["contextLessons"][0]["start"], 7)
+        self.assertEqual(result["contextLessons"][0]["previousAnchor"]["start"], 4)
+        article["paragraphs"][0]["japanese"] = "今日は🌸日本について、桜について話します。"
+        article["contextLessons"] = [self.lesson]
+        with self.assertRaises(ValueError):
+            module.apply_learning_overlays(article, [], [], [])
 
 
 if __name__ == "__main__":

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-096",
+  "exampleIndex": 0,
+  "text": "今、資料を読んでいるところです。",
+  "speechText": "今、資料を読んでいるところです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 102,
+  "signature": "79c86d054b7a44d04a29d155ecbf7cec99266274dedc76532f64d2ef4a4b0c78",
+  "src": "/audio/voices/nanami/N4-096-1.mp3",
+  "srt": "/audio/voices/nanami/N4-096-1.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "849385fda760f506d2f5d6fc593f78db824633fd4da95b8c98cc86fe01b47133",
+  "peakPcm": 21204,
+  "rmsDbfs": -17.18,
+  "rate": "+0%",
+  "listened": false
+}

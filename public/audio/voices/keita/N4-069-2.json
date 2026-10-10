@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-069",
+  "exampleIndex": 1,
+  "text": "雨は一晩中降り続けました。",
+  "speechText": "雨は一晩中降り続けました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 89,
+  "signature": "138144d30df167ad3c1e1bd086cc2622ba8d591a710e4d270c4563654e9fbbab",
+  "src": "/audio/voices/keita/N4-069-2.mp3",
+  "srt": "/audio/voices/keita/N4-069-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "4ffa5faca74bf358dbe06b892e3bdfb09cb06f025a19baf8eb19f9bffc23454d",
+  "peakPcm": 23582,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

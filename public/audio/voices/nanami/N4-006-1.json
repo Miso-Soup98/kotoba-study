@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-006",
+  "exampleIndex": 0,
+  "text": "時間があれば、参加します。",
+  "speechText": "時間があれば、参加します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 57,
+  "signature": "56c71e5fd98b36746b81b6761094e1f36fce10f1968927f9239f982c93b7da39",
+  "src": "/audio/voices/nanami/N4-006-1.mp3",
+  "srt": "/audio/voices/nanami/N4-006-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "47470951be57a87df0728f9c34688678e3f65677faae94d364e976ca214228d3",
+  "peakPcm": 20881,
+  "rmsDbfs": -17.94,
+  "rate": "+0%",
+  "listened": false
+}

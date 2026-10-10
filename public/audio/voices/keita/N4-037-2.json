@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-037",
+  "exampleIndex": 1,
+  "text": "電気がついているので、まだ誰かいるらしいです。",
+  "speechText": "電気がついているので、まだ誰かいるらしいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 73,
+  "signature": "7a0ebad8224b799184563cb036221f5a3f3c7f350baa133f57356a44e30b8de4",
+  "src": "/audio/voices/keita/N4-037-2.mp3",
+  "srt": "/audio/voices/keita/N4-037-2.srt",
+  "durationSeconds": 4.128,
+  "bytes": 24768,
+  "sha256": "cb9878b4dbcff40b6ac66837a23489112da06ce0404dd2e5aed970362e4c3ad7",
+  "peakPcm": 26715,
+  "rmsDbfs": -20.89,
+  "rate": "+0%",
+  "listened": false
+}

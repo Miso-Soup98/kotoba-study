@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-055",
+  "exampleIndex": 0,
+  "text": "朝御飯を食べないで出かけました。",
+  "speechText": "朝御飯を食べないで出かけました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 82,
+  "signature": "c6a149f6fd8e22994803d6f278d111f29e99f1440509cd022cd89a773f5d3591",
+  "src": "/audio/voices/keita/N4-055-1.mp3",
+  "srt": "/audio/voices/keita/N4-055-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "56e1aea8ec43fb2694062744a1e8545a1ea6049677a87da83f789d0d805fb3fd",
+  "peakPcm": 22950,
+  "rmsDbfs": -21.35,
+  "rate": "+0%",
+  "listened": false
+}

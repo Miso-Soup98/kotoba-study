@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-057",
+  "exampleIndex": 0,
+  "text": "机に本やノートがあります。",
+  "speechText": "机に本やノートがあります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 38,
+  "signature": "7015d673b716356b416193e2b2d587aa53dead3d62e3387e4387e2594c506e1c",
+  "src": "/audio/voices/nanami/N5-057-1.mp3",
+  "srt": "/audio/voices/nanami/N5-057-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "ad3adfa5b10b52dc165ef51a64dc13bf7a8e0ca5750882cb17709c259c23f877",
+  "peakPcm": 20584,
+  "rmsDbfs": -18.68,
+  "rate": "+0%",
+  "listened": false
+}

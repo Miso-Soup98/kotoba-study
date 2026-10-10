@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-029",
+  "exampleIndex": 0,
+  "text": "音楽を聞きながら、料理をします。",
+  "speechText": "音楽を聞きながら、料理をします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 69,
+  "signature": "6713023ecde54824255d545b685f80c2f0ae671e6279e23b57e34a4f56138ea2",
+  "src": "/audio/voices/nanami/N4-029-1.mp3",
+  "srt": "/audio/voices/nanami/N4-029-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "5a8efed8fabba5116131f7afa7d4748eca47bedd4e4142b4db9a1e201d258813",
+  "peakPcm": 21257,
+  "rmsDbfs": -17.22,
+  "rate": "+0%",
+  "listened": false
+}

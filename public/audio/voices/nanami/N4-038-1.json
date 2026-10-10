@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-038",
+  "exampleIndex": 0,
+  "text": "約束したので、友達は来るはずです。",
+  "speechText": "約束したので、友達は来るはずです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 73,
+  "signature": "453583e62ac21a8822188667346ea5291b48467946846ecc1b19d5ddd6767efd",
+  "src": "/audio/voices/nanami/N4-038-1.mp3",
+  "srt": "/audio/voices/nanami/N4-038-1.srt",
+  "durationSeconds": 3.984,
+  "bytes": 23904,
+  "sha256": "2bc29eb4d5e94ac3968746ad7fc21c0281aef001866293dfe4d869a8759873ac",
+  "peakPcm": 21418,
+  "rmsDbfs": -18.28,
+  "rate": "+0%",
+  "listened": false
+}

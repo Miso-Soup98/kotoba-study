@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-024",
+  "exampleIndex": 1,
+  "text": "家から駅まで歩きます。",
+  "speechText": "家から駅まで歩きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 21,
+  "signature": "b8b0d3c50025b519b5530cf8660f141fde9f67a02491ce359389701e32972675",
+  "src": "/audio/voices/nanami/N5-024-2.mp3",
+  "srt": "/audio/voices/nanami/N5-024-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "0d62731c29a6c0ebbb4925dea49cd0f4705dceaba115ad2d303e9b5dd964622c",
+  "peakPcm": 20159,
+  "rmsDbfs": -18.21,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-064",
+  "exampleIndex": 1,
+  "text": "日本語が少し分かってきました。",
+  "speechText": "日本語が少し分かってきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 86,
+  "signature": "c11e21ba71cf5a6e895095449ff729b05b5a5cdbfaad8abea214d675578664a8",
+  "src": "/audio/voices/keita/N4-064-2.mp3",
+  "srt": "/audio/voices/keita/N4-064-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "0886d8deadfe19832b0918ef014bf6e07d4bbe608ef7d16a2c43871936017297",
+  "peakPcm": 21965,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

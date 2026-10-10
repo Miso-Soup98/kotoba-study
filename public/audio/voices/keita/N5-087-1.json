@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-087",
+  "exampleIndex": 0,
+  "text": "この問題は全然分かりません。",
+  "speechText": "この問題は全然分かりません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 53,
+  "signature": "4effda231396b102aba6b43d69526e67aeec3346cfdda70a27e0f68dda095b87",
+  "src": "/audio/voices/keita/N5-087-1.mp3",
+  "srt": "/audio/voices/keita/N5-087-1.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "3f26034c2cb0deedb6d2a41df759adec96c134747f3833281c6f97feec115f4c",
+  "peakPcm": 24004,
+  "rmsDbfs": -19.8,
+  "rate": "+0%",
+  "listened": false
+}

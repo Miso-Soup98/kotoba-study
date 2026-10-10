@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-125",
+  "exampleIndex": 1,
+  "text": "さっきから電話が鳴っています。",
+  "speechText": "さっきから電話が鳴っています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 117,
+  "signature": "2c6ccf24909669f3ea1423569baebda221dbfcd0bf4e6f8420a14db1931ea25c",
+  "src": "/audio/voices/keita/N4-125-2.mp3",
+  "srt": "/audio/voices/keita/N4-125-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "9cee87b7ab94136f0dde8c1cebab5f1022be62e23ecbde0a5f1e909ec295319f",
+  "peakPcm": 24059,
+  "rmsDbfs": -21.92,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-075",
+  "exampleIndex": 1,
+  "text": "いつも七時に起きます。",
+  "speechText": "いつも七時に起きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 47,
+  "signature": "79bba82b81ab826dcc9492727b415be76a4ef7bd5d76da7985aa37fbf9dea98e",
+  "src": "/audio/voices/nanami/N5-075-2.mp3",
+  "srt": "/audio/voices/nanami/N5-075-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "1ed4f42756e0baab91334b8de4cc9be2c87309e7ac25c63bfcb9d5942886143e",
+  "peakPcm": 20416,
+  "rmsDbfs": -18.44,
+  "rate": "+0%",
+  "listened": false
+}

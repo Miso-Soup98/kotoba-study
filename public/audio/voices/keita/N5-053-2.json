@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-053",
+  "exampleIndex": 1,
+  "text": "あなたの傘はどれですか。",
+  "speechText": "あなたの傘はどれですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 36,
+  "signature": "50d8c9cfec83674019faebeea1576af08a4bf1d2a522de98e3175f888bbdd7d1",
+  "src": "/audio/voices/keita/N5-053-2.mp3",
+  "srt": "/audio/voices/keita/N5-053-2.srt",
+  "durationSeconds": 2.448,
+  "bytes": 14688,
+  "sha256": "b0a164eba1a16bf8e02b0a0066453391d7092f42f3f5eab32bd148fa71c31b71",
+  "peakPcm": 23238,
+  "rmsDbfs": -21.87,
+  "rate": "+0%",
+  "listened": false
+}

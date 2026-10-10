@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-015",
+  "exampleIndex": 1,
+  "text": "今日は無理をしないことにします。",
+  "speechText": "今日は無理をしないことにします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 62,
+  "signature": "7f817b41361de99e1e6e18e0a55e704cd1513d7e8e02c70401e9ef9af6d16cc3",
+  "src": "/audio/voices/nanami/N4-015-2.mp3",
+  "srt": "/audio/voices/nanami/N4-015-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "9e4f3a8acd8df9f940425d0bb45f36245b149c991063cd5cd45634626b026f55",
+  "peakPcm": 20921,
+  "rmsDbfs": -17.39,
+  "rate": "+0%",
+  "listened": false
+}

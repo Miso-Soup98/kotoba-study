@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-058",
+  "exampleIndex": 0,
+  "text": "私が寝ている間に、雨がやみました。",
+  "speechText": "私が寝ている間に、雨がやみました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 83,
+  "signature": "d2a5b84d2ecb88bb50f4a66bdc28ae2383a8cbd601cace6fecd6ec949789cc75",
+  "src": "/audio/voices/nanami/N4-058-1.mp3",
+  "srt": "/audio/voices/nanami/N4-058-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "015e3bde6d2cb7a56ccdeaf086412825879692c4c7932d3086d0b5377fee1231",
+  "peakPcm": 19860,
+  "rmsDbfs": -17.74,
+  "rate": "+0%",
+  "listened": false
+}

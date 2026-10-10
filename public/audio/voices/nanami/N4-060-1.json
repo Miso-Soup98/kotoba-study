@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-060",
+  "exampleIndex": 0,
+  "text": "雨の場合は、試合を中止します。",
+  "speechText": "雨の場合は、試合を中止します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 84,
+  "signature": "7a967332cbc205c1728a5774d0476fb0e6f792c2081bf132ade52a30f0d01e10",
+  "src": "/audio/voices/nanami/N4-060-1.mp3",
+  "srt": "/audio/voices/nanami/N4-060-1.srt",
+  "durationSeconds": 3.648,
+  "bytes": 21888,
+  "sha256": "d62f32061765f91c488052dad482b5f6f41174832d65900f54da75ee1ee5980d",
+  "peakPcm": 21097,
+  "rmsDbfs": -17.63,
+  "rate": "+0%",
+  "listened": false
+}

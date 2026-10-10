@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-127",
+  "exampleIndex": 1,
+  "text": "何度も練習して、やっと泳げました。",
+  "speechText": "何度も練習して、やっと泳げました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 118,
+  "signature": "82fea91771de3172fd735ffbca1d4206e0eb452c1b2cffe8ce7b2fd7ccda5979",
+  "src": "/audio/voices/keita/N4-127-2.mp3",
+  "srt": "/audio/voices/keita/N4-127-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "e07a99d55a6487ff57169de8d1a81e52d691e4325f75cf8ec21ace30b77d379a",
+  "peakPcm": 24187,
+  "rmsDbfs": -20.69,
+  "rate": "+0%",
+  "listened": false
+}

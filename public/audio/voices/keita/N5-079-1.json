@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-079",
+  "exampleIndex": 0,
+  "text": "この傘は私のです。",
+  "speechText": "この傘は私のです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 49,
+  "signature": "b206baaa328c5d2288457ea7ad5715a9b4c5b07b63c795f4592e777677fe5b12",
+  "src": "/audio/voices/keita/N5-079-1.mp3",
+  "srt": "/audio/voices/keita/N5-079-1.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "5aa64b492577ee4a31f4f472abafdbfc92408bdf836906131b1040047be27dfe",
+  "peakPcm": 21039,
+  "rmsDbfs": -22.18,
+  "rate": "+0%",
+  "listened": false
+}

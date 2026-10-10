@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-027",
+  "exampleIndex": 0,
+  "text": "今、ご飯を食べています。",
+  "speechText": "今、ご飯を食べています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 23,
+  "signature": "b17c0c0659b294581484c68d8ff49e9beb5331949b0cb39f0d0df0de81a45aa8",
+  "src": "/audio/voices/nanami/N5-027-1.mp3",
+  "srt": "/audio/voices/nanami/N5-027-1.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "a04b177174ad3b6c11bf8991193cdac51a712d0cf99c16396d77cf22c5b3473d",
+  "peakPcm": 22204,
+  "rmsDbfs": -18.18,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-118",
+  "exampleIndex": 0,
+  "text": "この町は第二の故郷だと言ってもいいです。",
+  "speechText": "この町は第二のふるさとだと言ってもいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 114,
+  "signature": "363e0e7ecd9221ffa4c5ee7b5730506c8c8ef69f9c27c8dc57e9b05d18a8f466",
+  "src": "/audio/voices/keita/N4-118-1.mp3",
+  "srt": "/audio/voices/keita/N4-118-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "9372fc411485fb978ac1114ad14bcc3a24d77ec2f4ed4a140d7be6029c72755c",
+  "peakPcm": 24302,
+  "rmsDbfs": -19.8,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-050",
+  "exampleIndex": 1,
+  "text": "本人には言いづらいことです。",
+  "speechText": "本人には言いづらいことです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 79,
+  "signature": "6f51963e2398d4b690868faa1764df92903140474c80407319ff65fcaa968f3f",
+  "src": "/audio/voices/keita/N4-050-2.mp3",
+  "srt": "/audio/voices/keita/N4-050-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "e3c30d45f291606e3d70f791db14a4effd9703385185bf8eedc391010e1cea02",
+  "peakPcm": 23388,
+  "rmsDbfs": -20.66,
+  "rate": "+0%",
+  "listened": false
+}

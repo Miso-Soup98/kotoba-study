@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-020",
+  "exampleIndex": 1,
+  "text": "先生は親切で、説明も丁寧です。",
+  "speechText": "先生は親切で、説明も丁寧です。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 19,
+  "signature": "c980864d9aa91c95fed0e1f90a9ecea87222001a651f3d55083247bf8c6009f3",
+  "src": "/audio/voices/nanami/N5-020-2.mp3",
+  "srt": "/audio/voices/nanami/N5-020-2.srt",
+  "durationSeconds": 4.224,
+  "bytes": 25344,
+  "sha256": "7dd99f268eec95f56fe351394bab8350c2305bba768b16db103f6592c575dd72",
+  "peakPcm": 21295,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

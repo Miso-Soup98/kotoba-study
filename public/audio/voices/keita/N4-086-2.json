@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-086",
+  "exampleIndex": 1,
+  "text": "店は日曜日に休むと聞きました。",
+  "speechText": "店は日曜日に休むと聞きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 97,
+  "signature": "5439abef1821930e72ac0a05a65d5ef6afaf0aca958683761dd0c0da974494fc",
+  "src": "/audio/voices/keita/N4-086-2.mp3",
+  "srt": "/audio/voices/keita/N4-086-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "a1e41cc9885f433d48fd3e5ec51c3a63c5d6cf0bde290033cba6afe8b1dc9562",
+  "peakPcm": 24626,
+  "rmsDbfs": -20.24,
+  "rate": "+0%",
+  "listened": false
+}

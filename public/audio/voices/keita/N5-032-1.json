@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-032",
+  "exampleIndex": 0,
+  "text": "ここで少し休みましょう。",
+  "speechText": "ここで少し休みましょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 25,
+  "signature": "c5a21ee6fe10340d1c2f8ea14de98385015dbf3cecaffc8b1920646c1bbdfdb7",
+  "src": "/audio/voices/keita/N5-032-1.mp3",
+  "srt": "/audio/voices/keita/N5-032-1.srt",
+  "durationSeconds": 2.376,
+  "bytes": 14256,
+  "sha256": "eefe0bc8956ebf791eec5e57c8f00365dc0510203ca250d7ee8afd554eb2bad7",
+  "peakPcm": 22773,
+  "rmsDbfs": -20.92,
+  "rate": "+0%",
+  "listened": false
+}

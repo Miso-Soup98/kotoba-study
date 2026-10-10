@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-075",
+  "exampleIndex": 0,
+  "text": "友達と一緒に勉強します。",
+  "speechText": "友達と一緒に勉強します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 47,
+  "signature": "df84fd93df765da688c5dc81b155fbe230e19ff89c08432a5b3ebdf1d923c2f9",
+  "src": "/audio/voices/nanami/N5-075-1.mp3",
+  "srt": "/audio/voices/nanami/N5-075-1.srt",
+  "durationSeconds": 3.072,
+  "bytes": 18432,
+  "sha256": "b6ffb4ea00cba7495f4d2e02bf35f78d5cfca30de229ad820344d99692bd138c",
+  "peakPcm": 20487,
+  "rmsDbfs": -18.56,
+  "rate": "+0%",
+  "listened": false
+}

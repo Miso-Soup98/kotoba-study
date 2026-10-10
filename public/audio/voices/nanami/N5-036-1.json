@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-036",
+  "exampleIndex": 0,
+  "text": "明日までに宿題を出さなければなりません。",
+  "speechText": "明日までに宿題を出さなければなりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 27,
+  "signature": "a019535401a8969f537f5886d05717588e7fa71fe332e05a96554dde849f0771",
+  "src": "/audio/voices/nanami/N5-036-1.mp3",
+  "srt": "/audio/voices/nanami/N5-036-1.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "a059e9c4d8e3895e0440c0874b7581c01d3dc1c6f7dee687de3d53d4d93ca780",
+  "peakPcm": 21452,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

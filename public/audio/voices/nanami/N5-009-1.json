@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-009",
+  "exampleIndex": 0,
+  "text": "毎日、大学に行きます。",
+  "speechText": "毎日、大学に行きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 14,
+  "signature": "e824ec8d0a920d228159ad4ebf2203e0db7f53b0f0bcd9c697369b76f60023fa",
+  "src": "/audio/voices/nanami/N5-009-1.mp3",
+  "srt": "/audio/voices/nanami/N5-009-1.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "24682af6ff44594011315ef3a45759f7f4e47450a15ad94c670de71aff16bc94",
+  "peakPcm": 22036,
+  "rmsDbfs": -18.63,
+  "rate": "+0%",
+  "listened": false
+}

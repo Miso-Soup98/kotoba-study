@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-054",
+  "exampleIndex": 1,
+  "text": "どの教室で勉強しますか。",
+  "speechText": "どの教室で勉強しますか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 36,
+  "signature": "75df17255114d422ed6fcfd62cee9fb24c81c9e9b4f0b0d4e5e92fe6c12b714e",
+  "src": "/audio/voices/nanami/N5-054-2.mp3",
+  "srt": "/audio/voices/nanami/N5-054-2.srt",
+  "durationSeconds": 3.048,
+  "bytes": 18288,
+  "sha256": "046d1f2867ec26e34c4dfecab01d6f98c13d152fee3302fe1f72f2fbebee3fb8",
+  "peakPcm": 22016,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

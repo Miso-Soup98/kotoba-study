@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-099",
+  "exampleIndex": 1,
+  "text": "私の作った料理を食べてください。",
+  "speechText": "私の作った料理を食べてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 104,
+  "signature": "a233bb4f131362b7e4d3e8721cf1ef622cb70902e3692c873d20fb88053a13dc",
+  "src": "/audio/voices/keita/N4-099-2.mp3",
+  "srt": "/audio/voices/keita/N4-099-2.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "77529597bb8bb359637105571e3b795c0012d6c556b2eea2e56969590844dde5",
+  "peakPcm": 23390,
+  "rmsDbfs": -21.11,
+  "rate": "+0%",
+  "listened": false
+}

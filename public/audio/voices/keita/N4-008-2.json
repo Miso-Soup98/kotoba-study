@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-008",
+  "exampleIndex": 1,
+  "text": "春になると、暖かくなります。",
+  "speechText": "春になると、暖かくなります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 58,
+  "signature": "c575a3bcfcabda7a799f3cbcb4797a5e33f2ecee887fa5fee4110e6a1e5bc004",
+  "src": "/audio/voices/keita/N4-008-2.mp3",
+  "srt": "/audio/voices/keita/N4-008-2.srt",
+  "durationSeconds": 3.192,
+  "bytes": 19152,
+  "sha256": "d0c3a211d6a2b988160d09ea2d70ad3b8f480c2147f75146a3796d112e0d2991",
+  "peakPcm": 24201,
+  "rmsDbfs": -21.91,
+  "rate": "+0%",
+  "listened": false
+}

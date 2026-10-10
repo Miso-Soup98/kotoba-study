@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-107",
+  "exampleIndex": 0,
+  "text": "お茶でも飲みませんか。",
+  "speechText": "お茶でも飲みませんか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 108,
+  "signature": "2e02b1ccd5a963d04f2f35750c50cfb5ffcdad06a823c1338eea244ddda674bd",
+  "src": "/audio/voices/keita/N4-107-1.mp3",
+  "srt": "/audio/voices/keita/N4-107-1.srt",
+  "durationSeconds": 2.208,
+  "bytes": 13248,
+  "sha256": "8e4316f16228e0014ad2fdc78b07bbdbb44410309a30d244b106402592e57714",
+  "peakPcm": 25022,
+  "rmsDbfs": -20.34,
+  "rate": "+0%",
+  "listened": false
+}

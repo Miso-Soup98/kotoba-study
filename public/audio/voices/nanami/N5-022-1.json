@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-022",
+  "exampleIndex": 0,
+  "text": "昨日買った本を読んでいます。",
+  "speechText": "昨日買った本を読んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 20,
+  "signature": "cd0b7a7fbb44a57cb66677a8f5fee1a3421cbc836c2051e6a2faf987f9144e3f",
+  "src": "/audio/voices/nanami/N5-022-1.mp3",
+  "srt": "/audio/voices/nanami/N5-022-1.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "eefa16348e767124ab0c90b3d79986d275162edae720bd83ccf01075a602ff14",
+  "peakPcm": 19251,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

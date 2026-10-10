@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-061",
+  "exampleIndex": 1,
+  "text": "妹は猫が好きです。",
+  "speechText": "妹は猫が好きです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 40,
+  "signature": "4d24bde011e3b6e5c6c2beb20b3ef4e4d26fece591a8574259972857f307e677",
+  "src": "/audio/voices/keita/N5-061-2.mp3",
+  "srt": "/audio/voices/keita/N5-061-2.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "8edb674614e6a586ae7bb299ff96cfbb358877b585840c59aec2a0e9dc06e35a",
+  "peakPcm": 22167,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

@@ -12,7 +12,7 @@ export function TedCorrections({ article }: { article: TedArticle }) {
       {article.corrections.map((item) => (
         <section key={item.id}>
           <h3>
-            {item.kind === "paragraph"
+            {item.kind === "title" ? "标题" : item.kind === "paragraph"
               ? `正文 ${item.paragraphId}`
               : item.correctedTerm || item.term}
           </h3>
@@ -20,15 +20,19 @@ export function TedCorrections({ article }: { article: TedArticle }) {
             <strong>原内容：</strong>
             {[
               item.original.japanese,
+              item.original.title,
               item.original.chinese,
+              item.original.term,
+              item.original.reading,
               item.original.meaning,
+              item.original.usage,
             ]
               .filter(Boolean)
               .join(" / ") || "扫描时遗漏"}
           </p>
           <p>
             <strong>订正：</strong>
-            {[item.japanese, item.chinese, item.correctedMeaning]
+            {[item.title, item.japanese, item.chinese, item.correctedTerm, item.correctedReading, item.correctedMeaning, item.correctedUsage]
               .filter(Boolean)
               .join(" / ")}
           </p>

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-010",
+  "exampleIndex": 1,
+  "text": "駅で友達に会いました。",
+  "speechText": "駅で友達に会いました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 14,
+  "signature": "b4880b1834c7d6fce5d582069207e81b21ad316b4402e7a089eb4cb649ea8685",
+  "src": "/audio/voices/nanami/N5-010-2.mp3",
+  "srt": "/audio/voices/nanami/N5-010-2.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "0e7ee163d81428a878a610b127030612e5db4fceff1be333837dbe39ebd13cd7",
+  "peakPcm": 22345,
+  "rmsDbfs": -18.62,
+  "rate": "+0%",
+  "listened": false
+}

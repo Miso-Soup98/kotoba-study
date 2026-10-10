@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-045",
+  "exampleIndex": 0,
+  "text": "週末に部屋を片付けようと思っています。",
+  "speechText": "週末に部屋を片付けようと思っています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 77,
+  "signature": "4caf3fe809fed77ba070592bfb7a4de5ceef65f272c51553b3fcf58d99833d4d",
+  "src": "/audio/voices/nanami/N4-045-1.mp3",
+  "srt": "/audio/voices/nanami/N4-045-1.srt",
+  "durationSeconds": 3.888,
+  "bytes": 23328,
+  "sha256": "e9ef62005878a54d3b2c96ec8296b561a65d8c64c568e99623f4335efc0644d6",
+  "peakPcm": 21684,
+  "rmsDbfs": -17.07,
+  "rate": "+0%",
+  "listened": false
+}

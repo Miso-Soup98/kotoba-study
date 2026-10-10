@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-035",
+  "exampleIndex": 0,
+  "text": "誰もいないので、会議は終わったようです。",
+  "speechText": "誰もいないので、会議は終わったようです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 72,
+  "signature": "181a252476fab3e22569b2231dd52cb4a6a3c992113f5a783eb5b5047e97b01c",
+  "src": "/audio/voices/nanami/N4-035-1.mp3",
+  "srt": "/audio/voices/nanami/N4-035-1.srt",
+  "durationSeconds": 3.936,
+  "bytes": 23616,
+  "sha256": "b89cfe0fbc0034310d1f9a483d8c787c70c6cad84604242d3ec1149f46c069b5",
+  "peakPcm": 21102,
+  "rmsDbfs": -17.85,
+  "rate": "+0%",
+  "listened": false
+}

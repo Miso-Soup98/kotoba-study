@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-062",
+  "exampleIndex": 0,
+  "text": "今から昼御飯を食べるところです。",
+  "speechText": "今から昼御飯を食べるところです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 85,
+  "signature": "2f7e2ff54d92064a21c23e1fd4f5ea3a195136f6dbb41f1889062af50eb9ebcf",
+  "src": "/audio/voices/nanami/N4-062-1.mp3",
+  "srt": "/audio/voices/nanami/N4-062-1.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "19b7396b54a207cdedc4552942d0efcf9f1b6d53d75e21c80d276cd8e025a0af",
+  "peakPcm": 20685,
+  "rmsDbfs": -17.6,
+  "rate": "+0%",
+  "listened": false
+}

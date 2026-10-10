@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-116",
+  "exampleIndex": 0,
+  "text": "この山の高さは千メートルです。",
+  "speechText": "この山の高さは千メートルです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 113,
+  "signature": "2a9f1f47411f2fcf666b73a94182c20db63cfe0a3dc094797fc6fb5c3638d357",
+  "src": "/audio/voices/nanami/N4-116-1.mp3",
+  "srt": "/audio/voices/nanami/N4-116-1.srt",
+  "durationSeconds": 3.48,
+  "bytes": 20880,
+  "sha256": "f7eef822242c8607cfa75b26f1bd5181a64e91ac7168fa224562eb5863276476",
+  "peakPcm": 19702,
+  "rmsDbfs": -17.66,
+  "rate": "+0%",
+  "listened": false
+}

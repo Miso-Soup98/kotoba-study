@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-040",
+  "exampleIndex": 1,
+  "text": "この本は多くの人に読まれています。",
+  "speechText": "この本は多くの人に読まれています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 74,
+  "signature": "62af50204444c6c76a1d035d3017e9780924cb8285edc416100187ae967675ce",
+  "src": "/audio/voices/keita/N4-040-2.mp3",
+  "srt": "/audio/voices/keita/N4-040-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "c05d9538891af9b6dba5a8bbca127362a25fb8e0f75e0bb44a7b5a99fcd4d300",
+  "peakPcm": 20310,
+  "rmsDbfs": -20.23,
+  "rate": "+0%",
+  "listened": false
+}

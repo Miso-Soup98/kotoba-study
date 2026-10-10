@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-093",
+  "exampleIndex": 1,
+  "text": "受付は二階でございます。",
+  "speechText": "受付は二階でございます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 101,
+  "signature": "a5035f3ddcf3ee1b37db314d6612948202f3ce378a6dba81dd57563bab4234f4",
+  "src": "/audio/voices/nanami/N4-093-2.mp3",
+  "srt": "/audio/voices/nanami/N4-093-2.srt",
+  "durationSeconds": 2.904,
+  "bytes": 17424,
+  "sha256": "90ebb1a17c9983db4b4e7d89e03d35ddf009d8aeea5c0a3ef4d42bbb8fb6511f",
+  "peakPcm": 21395,
+  "rmsDbfs": -17.46,
+  "rate": "+0%",
+  "listened": false
+}

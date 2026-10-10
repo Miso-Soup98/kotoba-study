@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-024",
+  "exampleIndex": 0,
+  "text": "九時から五時まで働きます。",
+  "speechText": "九時から五時まで働きます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 21,
+  "signature": "11b1daafe5d0761374c51b84d3a6502bcbd082302860697b06cdd1f7fd81e265",
+  "src": "/audio/voices/nanami/N5-024-1.mp3",
+  "srt": "/audio/voices/nanami/N5-024-1.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "ac1f1b48c8981360bf8df3de18777003edff5c1d9578e77dbb888c18d3d9105f",
+  "peakPcm": 20936,
+  "rmsDbfs": -18.74,
+  "rate": "+0%",
+  "listened": false
+}

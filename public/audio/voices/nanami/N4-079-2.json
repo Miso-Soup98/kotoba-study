@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-079",
+  "exampleIndex": 1,
+  "text": "妹は日本へ行きたがっています。",
+  "speechText": "妹は日本へ行きたがっています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 94,
+  "signature": "7740b9577128cf321ee7eb208f69cc331cfcb27c13815f487e913d615e04962c",
+  "src": "/audio/voices/nanami/N4-079-2.mp3",
+  "srt": "/audio/voices/nanami/N4-079-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "627d5ef20ea88bfbdeba2412fa9207a99c3e7c5f94671fade36e7606e3658d1f",
+  "peakPcm": 21624,
+  "rmsDbfs": -17.52,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-013",
+  "exampleIndex": 1,
+  "text": "今日は外に出ないつもりです。",
+  "speechText": "今日は外に出ないつもりです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 61,
+  "signature": "bbc362d305518443aa743a36be3db04f057d03e663297c89ecd63cb961c600d5",
+  "src": "/audio/voices/keita/N4-013-2.mp3",
+  "srt": "/audio/voices/keita/N4-013-2.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "d80d81dcff6f48e89a786237412691d3b14091e79a044bad5bb18df67392a08f",
+  "peakPcm": 21955,
+  "rmsDbfs": -20.3,
+  "rate": "+0%",
+  "listened": false
+}

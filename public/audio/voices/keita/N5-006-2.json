@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-006",
+  "exampleIndex": 1,
+  "text": "今日も明日も休みです。",
+  "speechText": "今日も明日も休みです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 12,
+  "signature": "5e7f5326a8aa5a1a11afd806189075d6136db9ccc8d25fa5c5eda65278e8cc54",
+  "src": "/audio/voices/keita/N5-006-2.mp3",
+  "srt": "/audio/voices/keita/N5-006-2.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "dee0aa9ce8e5ea6570b49d601d8cd836eb6c749827fbf8ff5749bc537543eeab",
+  "peakPcm": 24016,
+  "rmsDbfs": -21.24,
+  "rate": "+0%",
+  "listened": false
+}

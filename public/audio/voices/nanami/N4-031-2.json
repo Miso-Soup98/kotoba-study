@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-031",
+  "exampleIndex": 1,
+  "text": "寝るまでに宿題を終わらせます。",
+  "speechText": "寝るまでに宿題を終わらせます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 70,
+  "signature": "dbc8310ea214c46818fe775eb5adf62d853850917367d5c14abbe394ef550738",
+  "src": "/audio/voices/nanami/N4-031-2.mp3",
+  "srt": "/audio/voices/nanami/N4-031-2.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "ee897de7f50773778382ea3f1668f620bde84444fb46771a26a2d9b85113959e",
+  "peakPcm": 21030,
+  "rmsDbfs": -16.66,
+  "rate": "+0%",
+  "listened": false
+}

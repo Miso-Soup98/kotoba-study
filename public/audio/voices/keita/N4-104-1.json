@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-104",
+  "exampleIndex": 0,
+  "text": "明日は晴れるかな。",
+  "speechText": "明日は晴れるかな。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 107,
+  "signature": "b4b82ae59b9487c245d6c0468d84ddcafbb4dd7d81e0edea943e053c54db7049",
+  "src": "/audio/voices/keita/N4-104-1.mp3",
+  "srt": "/audio/voices/keita/N4-104-1.srt",
+  "durationSeconds": 2.04,
+  "bytes": 12240,
+  "sha256": "f77871f8a2131b17e6fa5235094f49b34ae852fbdfc3592d80f4944dd08e0896",
+  "peakPcm": 22970,
+  "rmsDbfs": -22.22,
+  "rate": "+0%",
+  "listened": false
+}

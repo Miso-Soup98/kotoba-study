@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-027",
+  "exampleIndex": 0,
+  "text": "今、ご飯を食べています。",
+  "speechText": "今、ご飯を食べています。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 23,
+  "signature": "bf911a1738b1688e95e73fd6f663904ea30bcfa88b6dcc4f7a5efaec382478cf",
+  "src": "/audio/voices/keita/N5-027-1.mp3",
+  "srt": "/audio/voices/keita/N5-027-1.srt",
+  "durationSeconds": 2.856,
+  "bytes": 17136,
+  "sha256": "5c43f634c4b0c4b1bc94d12bfb50c5220ac984ad3072e70ca787f2daa9249046",
+  "peakPcm": 22948,
+  "rmsDbfs": -21.73,
+  "rate": "+0%",
+  "listened": false
+}

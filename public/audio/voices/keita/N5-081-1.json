@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-081",
+  "exampleIndex": 0,
+  "text": "一週間に三回走ります。",
+  "speechText": "一週間に三回走ります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 50,
+  "signature": "897100f2325d4638a204aaa28467ee404644b530669aadbf9a3def42b6004a7b",
+  "src": "/audio/voices/keita/N5-081-1.mp3",
+  "srt": "/audio/voices/keita/N5-081-1.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "77d27829153b894bbb4a3f279fa5815273b57d3c595f9c4f371dfd289730afee",
+  "peakPcm": 20809,
+  "rmsDbfs": -22.18,
+  "rate": "+0%",
+  "listened": false
+}

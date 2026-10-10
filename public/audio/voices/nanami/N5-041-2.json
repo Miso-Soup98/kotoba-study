@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-041",
+  "exampleIndex": 1,
+  "text": "どうして遅れたんですか。",
+  "speechText": "どうして遅れたんですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 30,
+  "signature": "4439e0e56192c0535bd18fdb837cfd66bac37793a9c84bfd100a091de73b6735",
+  "src": "/audio/voices/nanami/N5-041-2.mp3",
+  "srt": "/audio/voices/nanami/N5-041-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "9f23fa6bbb5584ef819fdff7fd8e6066cb0ce218a4181c12f2d0cfbe2fe6995b",
+  "peakPcm": 20410,
+  "rmsDbfs": -18.17,
+  "rate": "+0%",
+  "listened": false
+}

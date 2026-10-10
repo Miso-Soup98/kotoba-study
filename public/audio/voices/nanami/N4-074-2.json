@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-074",
+  "exampleIndex": 1,
+  "text": "もう一度確認する必要があります。",
+  "speechText": "もう一度確認する必要があります。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 91,
+  "signature": "728eba6204b2e2851696308a41942247f41f49c85571577493840e690f361a8e",
+  "src": "/audio/voices/nanami/N4-074-2.mp3",
+  "srt": "/audio/voices/nanami/N4-074-2.srt",
+  "durationSeconds": 3.456,
+  "bytes": 20736,
+  "sha256": "79034a9f85202b778f10070781247eda990fee0f461f730fd9c74a07578da94d",
+  "peakPcm": 21707,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

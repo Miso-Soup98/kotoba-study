@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-040",
+  "exampleIndex": 1,
+  "text": "行きたいけど、時間がありません。",
+  "speechText": "行きたいけど、時間がありません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 29,
+  "signature": "d3b5d54a834b2968c1f7ebcbf701c26c79ed6e8274e017cb4d93ea6a6ff1b481",
+  "src": "/audio/voices/keita/N5-040-2.mp3",
+  "srt": "/audio/voices/keita/N5-040-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "a85585cf558fe2932b0b1eb7f7190b220864e9aa147b43c06555da45b7a3fa66",
+  "peakPcm": 26367,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

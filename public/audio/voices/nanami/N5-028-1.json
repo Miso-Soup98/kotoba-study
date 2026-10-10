@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-028",
+  "exampleIndex": 0,
+  "text": "私は日本に住んでいます。",
+  "speechText": "私は日本に住んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 23,
+  "signature": "a19d97783b85f16ee1f2a524686a2476b067ed61e591818bbe13bae7d32c0903",
+  "src": "/audio/voices/nanami/N5-028-1.mp3",
+  "srt": "/audio/voices/nanami/N5-028-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "bfba99e383a8c0da253fa691f433ed13e301dce7bd78a70ba28ba45d4954d24d",
+  "peakPcm": 21148,
+  "rmsDbfs": -18.22,
+  "rate": "+0%",
+  "listened": false
+}

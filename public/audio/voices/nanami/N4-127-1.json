@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-127",
+  "exampleIndex": 0,
+  "text": "長い仕事がやっと終わりました。",
+  "speechText": "長い仕事がやっと終わりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 118,
+  "signature": "93e7ab35360fe7bba2ccde3064237ae9aa49fa0472c853103efee91ae68bedf7",
+  "src": "/audio/voices/nanami/N4-127-1.mp3",
+  "srt": "/audio/voices/nanami/N4-127-1.srt",
+  "durationSeconds": 3.096,
+  "bytes": 18576,
+  "sha256": "04255146cd98c0d316381d2a1a4d3f228fe967b4b8bfc34cea6ba6febf0e5590",
+  "peakPcm": 20663,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

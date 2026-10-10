@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-099",
+  "exampleIndex": 1,
+  "text": "私の作った料理を食べてください。",
+  "speechText": "私の作った料理を食べてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 104,
+  "signature": "30eb6012eac9246b4d3b118323fe7d34efefcaa33d8447f6dd09f8f57eaa1380",
+  "src": "/audio/voices/nanami/N4-099-2.mp3",
+  "srt": "/audio/voices/nanami/N4-099-2.srt",
+  "durationSeconds": 3.432,
+  "bytes": 20592,
+  "sha256": "0f15e98022defa7e21ce59b5c3e6933d97458e4947f6240a3c81044928f1fca6",
+  "peakPcm": 21410,
+  "rmsDbfs": -17.86,
+  "rate": "+0%",
+  "listened": false
+}

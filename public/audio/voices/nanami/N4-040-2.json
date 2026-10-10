@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-040",
+  "exampleIndex": 1,
+  "text": "この本は多くの人に読まれています。",
+  "speechText": "この本は多くの人に読まれています。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 74,
+  "signature": "8620f79022400870a2c4150d66871ee34255b679ffdb973cce9a461c4968f14c",
+  "src": "/audio/voices/nanami/N4-040-2.mp3",
+  "srt": "/audio/voices/nanami/N4-040-2.srt",
+  "durationSeconds": 3.576,
+  "bytes": 21456,
+  "sha256": "65f0d353eae8f9809d7bbd1e7bc00e978576498dcbced1401f5edef2b40f4e7e",
+  "peakPcm": 21156,
+  "rmsDbfs": -16.65,
+  "rate": "+0%",
+  "listened": false
+}

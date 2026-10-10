@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-022",
+  "exampleIndex": 1,
+  "text": "先生が妹に本をくれました。",
+  "speechText": "先生が妹に本をくれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 65,
+  "signature": "a35dc47b938062b2b237d8afa5d603ce44e4689aae5d73a7ccd12a65147f5f15",
+  "src": "/audio/voices/keita/N4-022-2.mp3",
+  "srt": "/audio/voices/keita/N4-022-2.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "cd7b1849bc085ad3492fafc55eafde425b68fb2a0f52ca60f62fcf2f74cdb5bf",
+  "peakPcm": 19709,
+  "rmsDbfs": -20.51,
+  "rate": "+0%",
+  "listened": false
+}

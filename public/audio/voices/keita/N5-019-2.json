@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-019",
+  "exampleIndex": 1,
+  "text": "この町は便利です。",
+  "speechText": "この町は便利です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 19,
+  "signature": "dbb52e766db52a934bc7a270aaa37e6ec98707fc1f60cd53e8ef64e89f42d178",
+  "src": "/audio/voices/keita/N5-019-2.mp3",
+  "srt": "/audio/voices/keita/N5-019-2.srt",
+  "durationSeconds": 2.232,
+  "bytes": 13392,
+  "sha256": "f9258d0acb7aca77d8ec535501d37986cf6a0d8e9ddacaee26663b28ad5ac0a5",
+  "peakPcm": 22260,
+  "rmsDbfs": -19.57,
+  "rate": "+0%",
+  "listened": false
+}

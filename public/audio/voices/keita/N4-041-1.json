@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-041",
+  "exampleIndex": 0,
+  "text": "私は弟に携帯を壊されました。",
+  "speechText": "私は弟に携帯を壊されました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 75,
+  "signature": "6ee124053b3aea7f5b7756227cf58258c7b0c29f646ae835d95f302aef050b76",
+  "src": "/audio/voices/keita/N4-041-1.mp3",
+  "srt": "/audio/voices/keita/N4-041-1.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "6223695d20099d8034ec6173bcc63012fa2972f237306791bcaddba07e36fba9",
+  "peakPcm": 21930,
+  "rmsDbfs": -20.14,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-007",
+  "exampleIndex": 1,
+  "text": "駅はどこですか。",
+  "speechText": "駅はどこですか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 13,
+  "signature": "6706df0ff171810bbc97f4a6abaab904bdf4c0fb75191a58b43a02fc574fcd56",
+  "src": "/audio/voices/keita/N5-007-2.mp3",
+  "srt": "/audio/voices/keita/N5-007-2.srt",
+  "durationSeconds": 1.992,
+  "bytes": 11952,
+  "sha256": "88d4b9187f9033b5470f3273ae88d8fbe4f286c4ed38df299dc296a483723fa7",
+  "peakPcm": 22603,
+  "rmsDbfs": -22.32,
+  "rate": "+0%",
+  "listened": false
+}

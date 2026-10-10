@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-022",
+  "exampleIndex": 0,
+  "text": "友達が写真をくれました。",
+  "speechText": "友達が写真をくれました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 65,
+  "signature": "4ed3e36cb360f38352146eac10e534b88a76b1ed75299b7751af7839a712c423",
+  "src": "/audio/voices/keita/N4-022-1.mp3",
+  "srt": "/audio/voices/keita/N4-022-1.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "2faba615d901c69e2e6fe2f02aaaff055500f48bd8079f37daaaebcbd8124e86",
+  "peakPcm": 22603,
+  "rmsDbfs": -20.66,
+  "rate": "+0%",
+  "listened": false
+}

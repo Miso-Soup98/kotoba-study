@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-006",
+  "exampleIndex": 1,
+  "text": "毎日練習すれば、少しずつ上手になります。",
+  "speechText": "毎日練習すれば、少しずつ上手になります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 57,
+  "signature": "5f32d6dd134afe4756c3bcf119d1b3895f68c5eb179a17a00a1eee43e322d43d",
+  "src": "/audio/voices/keita/N4-006-2.mp3",
+  "srt": "/audio/voices/keita/N4-006-2.srt",
+  "durationSeconds": 4.296,
+  "bytes": 25776,
+  "sha256": "7b4b2d6a80c5caa89141163ba244c0a93c2bd08b28980c1fa7695f7a42dc4911",
+  "peakPcm": 25830,
+  "rmsDbfs": -20.97,
+  "rate": "+0%",
+  "listened": false
+}

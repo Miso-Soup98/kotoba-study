@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-051",
+  "exampleIndex": 1,
+  "text": "名前の書き方が分かりません。",
+  "speechText": "名前の書き方が分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 80,
+  "signature": "dea3810e578535a87ebc1214b9a3465a8bb03cbb19eab7b9644753306b8b0f84",
+  "src": "/audio/voices/nanami/N4-051-2.mp3",
+  "srt": "/audio/voices/nanami/N4-051-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "574f3b867433a66d84941e612e4a4de772e9008932930b1b6816e804835f5406",
+  "peakPcm": 20382,
+  "rmsDbfs": -18.46,
+  "rate": "+0%",
+  "listened": false
+}

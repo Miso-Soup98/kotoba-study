@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-034",
+  "exampleIndex": 1,
+  "text": "答えは日本語でもいいです。",
+  "speechText": "答えは日本語でもいいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 26,
+  "signature": "4c6d8c5a4d0cfa5d9e4a3b1811f04a3bf446bed6756c026752b6bcea409ecd5b",
+  "src": "/audio/voices/keita/N5-034-2.mp3",
+  "srt": "/audio/voices/keita/N5-034-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "277e18ca9cad6371b492871ecdb1a9ef9c45e630dd8e46432dbf67e717a0f298",
+  "peakPcm": 22861,
+  "rmsDbfs": -19.61,
+  "rate": "+0%",
+  "listened": false
+}

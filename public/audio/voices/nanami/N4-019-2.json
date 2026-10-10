@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-019",
+  "exampleIndex": 1,
+  "text": "窓は開けておいてください。",
+  "speechText": "窓は開けておいてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 64,
+  "signature": "978edd76e7f12a278dcdfdecf75b51eff079f2a70866667dbbc38ed6f9f5a227",
+  "src": "/audio/voices/nanami/N4-019-2.mp3",
+  "srt": "/audio/voices/nanami/N4-019-2.srt",
+  "durationSeconds": 2.76,
+  "bytes": 16560,
+  "sha256": "da2c839414116897a35f1d7c775b71689d5785d7505c136b42d0ef436660a35d",
+  "peakPcm": 22471,
+  "rmsDbfs": -17.72,
+  "rate": "+0%",
+  "listened": false
+}

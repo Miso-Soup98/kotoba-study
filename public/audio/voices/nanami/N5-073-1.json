@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-073",
+  "exampleIndex": 0,
+  "text": "行きたいです。でも、時間がありません。",
+  "speechText": "行きたいです。でも、時間がありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 46,
+  "signature": "35cb565c7c5c142e2c9da289be3b358c8006baea96cf162b037eda4a04eb81ba",
+  "src": "/audio/voices/nanami/N5-073-1.mp3",
+  "srt": "/audio/voices/nanami/N5-073-1.srt",
+  "durationSeconds": 4.584,
+  "bytes": 27504,
+  "sha256": "adfdb6ac0cba05b894caa4cd3a35c3443b83e09e4d0087bff23de20f2940686c",
+  "peakPcm": 22559,
+  "rmsDbfs": -18.97,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-058",
+  "exampleIndex": 1,
+  "text": "留守の間に荷物が届きました。",
+  "speechText": "留守の間に荷物が届きました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 83,
+  "signature": "79c7ad26748bc89974955d12a48e9d8245cefc1b9f434141a2230f9a0442d8e7",
+  "src": "/audio/voices/keita/N4-058-2.mp3",
+  "srt": "/audio/voices/keita/N4-058-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "dfcffd94c01e6fb8e3dfec1fc45d89b58f71a0cdfe982dbe3c806d2cd525c385",
+  "peakPcm": 20478,
+  "rmsDbfs": -21.13,
+  "rate": "+0%",
+  "listened": false
+}

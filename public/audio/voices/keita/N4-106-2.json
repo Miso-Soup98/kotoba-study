@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-106",
+  "exampleIndex": 1,
+  "text": "今日は学校が休みなのかい。",
+  "speechText": "今日は学校が休みなのかい。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 108,
+  "signature": "dd03c8301c2bdabf841d1efb0eea4f4ca5b117073631c1edc4fda86fa33515c4",
+  "src": "/audio/voices/keita/N4-106-2.mp3",
+  "srt": "/audio/voices/keita/N4-106-2.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "36e5ee251639086d17252020fb15dc0137ed9c3a356f2e1e1bf5780f445ec40a",
+  "peakPcm": 20604,
+  "rmsDbfs": -20.12,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-044",
+  "exampleIndex": 1,
+  "text": "今日は早く帰らせてください。",
+  "speechText": "今日は早く帰らせてください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 76,
+  "signature": "76d5e118ce36ced5a1cded956bdfeac3df7794e160dd090a459a952e51302224",
+  "src": "/audio/voices/keita/N4-044-2.mp3",
+  "srt": "/audio/voices/keita/N4-044-2.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "fe6d8e5d867ef99352c8e524488e08557be70ccadfe716c4036f9973d8bd8c3a",
+  "peakPcm": 21297,
+  "rmsDbfs": -21.02,
+  "rate": "+0%",
+  "listened": false
+}

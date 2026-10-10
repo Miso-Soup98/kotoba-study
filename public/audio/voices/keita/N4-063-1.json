@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-063",
+  "exampleIndex": 0,
+  "text": "駅まで歩いていきます。",
+  "speechText": "駅まで歩いていきます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 86,
+  "signature": "562244dfc5561a05f141e08b23b8f6c8518807e2877b58699cb79fb94ef5f25d",
+  "src": "/audio/voices/keita/N4-063-1.mp3",
+  "srt": "/audio/voices/keita/N4-063-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "bad8de66febabd2a55f3c10aa906615aef5758013eb3179a098f8432f3dbf212",
+  "peakPcm": 26209,
+  "rmsDbfs": -21.59,
+  "rate": "+0%",
+  "listened": false
+}

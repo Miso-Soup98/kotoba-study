@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-071",
+  "exampleIndex": 0,
+  "text": "弟は肉ばかり食べます。",
+  "speechText": "弟は肉ばかり食べます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 90,
+  "signature": "d05859685b452f61a6378d15f0cb6b7578707bd8da981011e43a1a0fe8da7f16",
+  "src": "/audio/voices/nanami/N4-071-1.mp3",
+  "srt": "/audio/voices/nanami/N4-071-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "3c8fc3d62b6f04788271d61fce2d32e796c1a7cfb33e814f1d363b47db0547e2",
+  "peakPcm": 23212,
+  "rmsDbfs": -17.23,
+  "rate": "+0%",
+  "listened": false
+}

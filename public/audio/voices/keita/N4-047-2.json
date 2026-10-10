@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-047",
+  "exampleIndex": 1,
+  "text": "この説明は難しすぎます。",
+  "speechText": "この説明は難しすぎます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 78,
+  "signature": "7ae757411c45939a6031f111a5de5e225d9f32a449c1d6361d19f72f504138e4",
+  "src": "/audio/voices/keita/N4-047-2.mp3",
+  "srt": "/audio/voices/keita/N4-047-2.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "59b9ea0bf91e454b0f1d7efc05d0254a59c8096ba42c8483a6e0a8bf8620cd7f",
+  "peakPcm": 19330,
+  "rmsDbfs": -21.26,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-004",
+  "exampleIndex": 0,
+  "text": "水を飲みます。",
+  "speechText": "水を飲みます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 11,
+  "signature": "4ba58b8d5689f6d8f3007cc651550b47fe5bae7ad6dd939ffee678309b415c92",
+  "src": "/audio/voices/keita/N5-004-1.mp3",
+  "srt": "/audio/voices/keita/N5-004-1.srt",
+  "durationSeconds": 1.944,
+  "bytes": 11664,
+  "sha256": "ac30a37f37f3695ee5232bfab503d30d5f6a3e1902128bfcb2d66f556451f8dd",
+  "peakPcm": 19412,
+  "rmsDbfs": -20.93,
+  "rate": "+0%",
+  "listened": false
+}

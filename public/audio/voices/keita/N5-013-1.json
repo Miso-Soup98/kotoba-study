@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-013",
+  "exampleIndex": 0,
+  "text": "部屋に猫がいます。",
+  "speechText": "部屋に猫がいます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 16,
+  "signature": "a779d29ba17b8fbfe73b68d91dbd6160499acc7fd207eb62910b055db5e9b09b",
+  "src": "/audio/voices/keita/N5-013-1.mp3",
+  "srt": "/audio/voices/keita/N5-013-1.srt",
+  "durationSeconds": 2.136,
+  "bytes": 12816,
+  "sha256": "33fd5eb9d31920ec87e6e70c1487996dbcc2493e6c387211daafb136c64edb8c",
+  "peakPcm": 25146,
+  "rmsDbfs": -20.64,
+  "rate": "+0%",
+  "listened": false
+}

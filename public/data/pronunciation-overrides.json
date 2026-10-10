@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "reviewedOn": "2026-10-10",
+  "listened": false,
+  "scope": "只对明确上下文和教材注音的多音词定向消歧；显示原句与字幕保留。文本审校不等于音频试听。",
+  "overrides": [
+    {
+      "entryId": "N5-082",
+      "exampleIndex": 0,
+      "original": "駅まで十分ぐらいかかります。",
+      "speechText": "駅までじゅっぷんぐらいかかります。",
+      "reason": "十分在这里是十分钟，按教材读じゅっぷん，不是充分的じゅうぶん。",
+      "referenceUrls": [
+        "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/019.html"
+      ]
+    },
+    {
+      "entryId": "N4-039",
+      "exampleIndex": 0,
+      "original": "鍵を持っていないので、部屋に入れるはずがありません。",
+      "speechText": "鍵を持っていないので、部屋にはいれるはずがありません。",
+      "reason": "入る的可能形はいれる，不是他动词いれる。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N4-039",
+      "exampleIndex": 1,
+      "original": "あの店が今日開いているはずがない。",
+      "speechText": "あの店が今日あいているはずがない。",
+      "reason": "本句店开着，按注音读あいて。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N4-092",
+      "exampleIndex": 0,
+      "original": "私は張と申します。",
+      "speechText": "私はちょうと申します。",
+      "reason": "按教材给定的人名读法ちょう；没有把其他人同姓的读法也作相同假定。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N4-110",
+      "exampleIndex": 1,
+      "original": "一行おきに書いてください。",
+      "speechText": "いちぎょうおきに書いてください。",
+      "reason": "一行文字读いちぎょう，不是一行人いっこう。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N4-118",
+      "exampleIndex": 0,
+      "original": "この町は第二の故郷だと言ってもいいです。",
+      "speechText": "この町は第二のふるさとだと言ってもいいです。",
+      "reason": "故郷也可读こきょう；本句按显示注音ふるさと，保持学习文本一致。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-001",
+      "exampleIndex": 1,
+      "original": "十分寝たにもかかわらず、まだ眠いです。",
+      "speechText": "じゅうぶん寝たにもかかわらず、まだ眠いです。",
+      "reason": "本句充分睡眠读じゅうぶん，不是十分钟。",
+      "referenceUrls": [
+        "https://www.kanjipedia.jp/kotoba/0003163900"
+      ]
+    },
+    {
+      "entryId": "N3-167",
+      "exampleIndex": 1,
+      "original": "待てるのは、せいぜい十分です。",
+      "speechText": "待てるのは、せいぜいじゅっぷんです。",
+      "reason": "依据本句含义及教材注音，将多音表达十分定向读作じゅっぷん；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-027",
+      "exampleIndex": 0,
+      "original": "誰にでも起こり得ることです。",
+      "speechText": "誰にでもおこりうることです。",
+      "reason": "依据本句含义及教材注音，将多音表达起こり得る定向读作おこりうる；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-061",
+      "exampleIndex": 0,
+      "original": "長く待ったあげく、店に入れませんでした。",
+      "speechText": "長く待ったあげく、店にはいれませんでした。",
+      "reason": "依据本句含义及教材注音，将多音表达入れません定向读作はいれません；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-072",
+      "exampleIndex": 1,
+      "original": "故郷の料理が食べたくてたまりません。",
+      "speechText": "ふるさとの料理が食べたくてたまりません。",
+      "reason": "依据本句含义及教材注音，将多音表达故郷定向读作ふるさと；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-110",
+      "exampleIndex": 0,
+      "original": "先生の指導の下で、研究しています。",
+      "speechText": "先生の指導のもとで、研究しています。",
+      "reason": "依据本句含义及教材注音，将多音表达下定向读作もと；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-110",
+      "exampleIndex": 1,
+      "original": "同じ条件の下で、比較しました。",
+      "speechText": "同じ条件のもとで、比較しました。",
+      "reason": "依据本句含义及教材注音，将多音表达下定向读作もと；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-145",
+      "exampleIndex": 1,
+      "original": "ここより先は、入れません。",
+      "speechText": "ここより先は、はいれません。",
+      "reason": "依据本句含义及教材注音，将多音表达入れません定向读作はいれません；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-176",
+      "exampleIndex": 0,
+      "original": "十分ばかり待ってください。",
+      "speechText": "じゅっぷんばかり待ってください。",
+      "reason": "依据本句含义及教材注音，将多音表达十分定向读作じゅっぷん；不全局替换同形词。",
+      "referenceUrls": []
+    },
+    {
+      "entryId": "N2-196",
+      "exampleIndex": 1,
+      "original": "十分寝ました。それなのに、まだ眠いです。",
+      "speechText": "じゅうぶん寝ました。それなのに、まだ眠いです。",
+      "reason": "依据本句含义及教材注音，将多音表达十分定向读作じゅうぶん；不全局替换同形词。",
+      "referenceUrls": []
+    }
+  ]
+}

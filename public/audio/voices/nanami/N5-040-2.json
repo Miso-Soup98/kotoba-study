@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-040",
+  "exampleIndex": 1,
+  "text": "行きたいけど、時間がありません。",
+  "speechText": "行きたいけど、時間がありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 29,
+  "signature": "54f0715812dca79fb3155183799381c5b86695e093d64d5298358dc30a818b67",
+  "src": "/audio/voices/nanami/N5-040-2.mp3",
+  "srt": "/audio/voices/nanami/N5-040-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "6dc22e5143ccb84f54662e34bacdd2dc94f60587a93b57c7ca53a6bb0107b99a",
+  "peakPcm": 21118,
+  "rmsDbfs": -18.34,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-043",
+  "exampleIndex": 0,
+  "text": "手を洗ってから、ご飯を食べます。",
+  "speechText": "手を洗ってから、ご飯を食べます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 31,
+  "signature": "13ebe5e7400b7fba9ea8177b053b3b1085d87c964d93ab7ff337ffe9bb77029c",
+  "src": "/audio/voices/keita/N5-043-1.mp3",
+  "srt": "/audio/voices/keita/N5-043-1.srt",
+  "durationSeconds": 3.264,
+  "bytes": 19584,
+  "sha256": "f15b871b55a2b502812f8f27492e4b949a6e01c10cb2e8ea330197a519394ea1",
+  "peakPcm": 24065,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

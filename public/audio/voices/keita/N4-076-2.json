@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-076",
+  "exampleIndex": 1,
+  "text": "この飲み物は変な味がします。",
+  "speechText": "この飲み物は変な味がします。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 92,
+  "signature": "b27e2775d0ff011ba5be4eff63d44160300b1294f26f349176ab2bd3aae42dc3",
+  "src": "/audio/voices/keita/N4-076-2.mp3",
+  "srt": "/audio/voices/keita/N4-076-2.srt",
+  "durationSeconds": 2.976,
+  "bytes": 17856,
+  "sha256": "6ef41941b747ccf6de6371aceacf2e5e181a8be1b2ff5273b49c19665d2f0d34",
+  "peakPcm": 19526,
+  "rmsDbfs": -20.38,
+  "rate": "+0%",
+  "listened": false
+}

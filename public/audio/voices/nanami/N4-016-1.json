@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-016",
+  "exampleIndex": 0,
+  "text": "日本語の新聞が読めるようになりました。",
+  "speechText": "日本語の新聞が読めるようになりました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 62,
+  "signature": "43a306acc8235cf5d23981dfc1aa9fc6405eaeeafd75edd0515d07d73ee4b457",
+  "src": "/audio/voices/nanami/N4-016-1.mp3",
+  "srt": "/audio/voices/nanami/N4-016-1.srt",
+  "durationSeconds": 3.624,
+  "bytes": 21744,
+  "sha256": "9d9f826f15bfb2dfcfba59260c3c0ff3231991adef3a59e6bf6dee0dbb3f5980",
+  "peakPcm": 20224,
+  "rmsDbfs": -17.1,
+  "rate": "+0%",
+  "listened": false
+}

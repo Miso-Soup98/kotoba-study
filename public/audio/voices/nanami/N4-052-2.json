@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-052",
+  "exampleIndex": 1,
+  "text": "会議が何時に始まるか教えてください。",
+  "speechText": "会議が何時に始まるか教えてください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 80,
+  "signature": "4970ad981084a6b2da6742125b577b6706b4df4efe69425254ef5ab4cce2e859",
+  "src": "/audio/voices/nanami/N4-052-2.mp3",
+  "srt": "/audio/voices/nanami/N4-052-2.srt",
+  "durationSeconds": 3.816,
+  "bytes": 22896,
+  "sha256": "28bfaf776041e4d4afe43b55cb2568d158cd3d2922f8e8bb8290873a1e4cf081",
+  "peakPcm": 21258,
+  "rmsDbfs": -17.96,
+  "rate": "+0%",
+  "listened": false
+}

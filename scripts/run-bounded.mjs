@@ -14,7 +14,9 @@ export async function runBounded({ executable=process.execPath, args=process.arg
   const config={
     Executable:executable,WorkingDirectory:cwd,ArgumentList:args,
     LogDirectory:path.join(process.env.LOCALAPPDATA || os.tmpdir(),'KotobaStudy','Diagnostics','guarded-runs'),
-    MaxPrivateMiB:4096,MinAvailableMiB:2048,MaxCommitPercent:85,
+    // The owner disabled the system-wide commit cutoff. Zero disables only
+    // this check; the job limit and minimum available memory still apply.
+    MaxPrivateMiB:4096,MinAvailableMiB:2048,MaxCommitPercent:0,
     SampleSeconds:5,TimeoutSeconds:mode==='build'?1800:14400,MaxOutputMiB:64,
     ...limits,ParentProcessId:process.pid,
   };

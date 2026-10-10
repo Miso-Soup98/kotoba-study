@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-034",
+  "exampleIndex": 1,
+  "text": "子供が楽しそうに遊んでいます。",
+  "speechText": "子供が楽しそうに遊んでいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 71,
+  "signature": "14c899f566f069bb8ef2c1c2aa2a51a66d92efd3b8a4e5d6bd9a5ed200f272af",
+  "src": "/audio/voices/nanami/N4-034-2.mp3",
+  "srt": "/audio/voices/nanami/N4-034-2.srt",
+  "durationSeconds": 3.12,
+  "bytes": 18720,
+  "sha256": "d6bcfebe13bd60cd8d9362de51f3eec83294af595a60ccee862b7110ea8cb5f2",
+  "peakPcm": 22546,
+  "rmsDbfs": -17.59,
+  "rate": "+0%",
+  "listened": false
+}

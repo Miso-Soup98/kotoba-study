@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-056",
+  "exampleIndex": 0,
+  "text": "何か飲みたいです。",
+  "speechText": "何か飲みたいです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 37,
+  "signature": "f34f8d2f87212467dc3ac8814bd0fc03dceed9382391fb6eb5cf2e54ca50ecfb",
+  "src": "/audio/voices/nanami/N5-056-1.mp3",
+  "srt": "/audio/voices/nanami/N5-056-1.srt",
+  "durationSeconds": 2.28,
+  "bytes": 13680,
+  "sha256": "28b32b28ac0219279bdb48cedeeb38959f8cd4a4778889898b62c23de8ee46c9",
+  "peakPcm": 20430,
+  "rmsDbfs": -19.24,
+  "rate": "+0%",
+  "listened": false
+}

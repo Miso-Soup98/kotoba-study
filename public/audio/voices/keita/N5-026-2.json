@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-026",
+  "exampleIndex": 1,
+  "text": "窓を開けないでください。",
+  "speechText": "窓を開けないでください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 22,
+  "signature": "8f81ca1fde884ab9ba3c94a30574ab2fd9099dfc58da298555a8331e2aa1c876",
+  "src": "/audio/voices/keita/N5-026-2.mp3",
+  "srt": "/audio/voices/keita/N5-026-2.srt",
+  "durationSeconds": 2.352,
+  "bytes": 14112,
+  "sha256": "fa88f4846672c8ecd7ac5bf580570e0afca13a9dd7e6e377c6d21339837f6cc1",
+  "peakPcm": 27723,
+  "rmsDbfs": -20.46,
+  "rate": "+0%",
+  "listened": false
+}

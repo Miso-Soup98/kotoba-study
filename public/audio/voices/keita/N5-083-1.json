@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-083",
+  "exampleIndex": 0,
+  "text": "毎朝、公園を歩きます。",
+  "speechText": "毎朝、公園を歩きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 51,
+  "signature": "54d7a82d54d5d196be666525c66fb392c996c5b4a94f35507770b0ebb26bfd7e",
+  "src": "/audio/voices/keita/N5-083-1.mp3",
+  "srt": "/audio/voices/keita/N5-083-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "2ee2d8fb63c21a88d6ec5ce4c7d45e29920067cc883b892f9342f6048a1363b3",
+  "peakPcm": 26691,
+  "rmsDbfs": -20.2,
+  "rate": "+0%",
+  "listened": false
+}

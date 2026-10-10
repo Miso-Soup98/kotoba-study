@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-115",
+  "exampleIndex": 1,
+  "text": "三人の中で、姉が一番背が高いです。",
+  "speechText": "三人の中で、姉が一番背が高いです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 112,
+  "signature": "fc773126fe651cebd971ed06d175576006d1aa6b980cf8cac6328182c1c5937b",
+  "src": "/audio/voices/nanami/N4-115-2.mp3",
+  "srt": "/audio/voices/nanami/N4-115-2.srt",
+  "durationSeconds": 4.368,
+  "bytes": 26208,
+  "sha256": "7a6d68bb58637bfbd2e4bdad87af46b4e5448a50803e0d64950f8c07994366ad",
+  "peakPcm": 22112,
+  "rmsDbfs": -17.77,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-041",
+  "exampleIndex": 1,
+  "text": "昨日は赤ちゃんに泣かれて、眠れませんでした。",
+  "speechText": "昨日は赤ちゃんに泣かれて、眠れませんでした。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 75,
+  "signature": "8859e8e19bd24f27a757d2faca0ab87a75ea068d7742c9358fd7fa6a5c0d9910",
+  "src": "/audio/voices/nanami/N4-041-2.mp3",
+  "srt": "/audio/voices/nanami/N4-041-2.srt",
+  "durationSeconds": 4.2,
+  "bytes": 25200,
+  "sha256": "921876ba6894f7a866a34e749c51b67ba80d6cc4a1a8c3e4e3210722a8dd6337",
+  "peakPcm": 20673,
+  "rmsDbfs": -17.7,
+  "rate": "+0%",
+  "listened": false
+}

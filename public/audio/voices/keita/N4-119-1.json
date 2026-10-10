@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-119",
+  "exampleIndex": 0,
+  "text": "雨でした。それでも、出かけました。",
+  "speechText": "雨でした。それでも、出かけました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 114,
+  "signature": "e2ee087d21bd9579cd90b426c7fb92256876c1d54b6bdebd65e29dcaec9e5443",
+  "src": "/audio/voices/keita/N4-119-1.mp3",
+  "srt": "/audio/voices/keita/N4-119-1.srt",
+  "durationSeconds": 4.104,
+  "bytes": 24624,
+  "sha256": "2eb283fe1a4e832ef4ad1c33d49fdfa6a2a42c3d799068e0842f442ffa3ece39",
+  "peakPcm": 25028,
+  "rmsDbfs": -21.51,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-087",
+  "exampleIndex": 0,
+  "text": "この問題は全然分かりません。",
+  "speechText": "この問題は全然分かりません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 53,
+  "signature": "42c780dd3be4be8631df425450416fa734ba9707a0a1035b3a855dec5b13c676",
+  "src": "/audio/voices/nanami/N5-087-1.mp3",
+  "srt": "/audio/voices/nanami/N5-087-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "29449f866f4f0babf89f1ede39a48cd1b25c217868fdf2b8cfb8635b0bbd460c",
+  "peakPcm": 20425,
+  "rmsDbfs": -17.21,
+  "rate": "+0%",
+  "listened": false
+}

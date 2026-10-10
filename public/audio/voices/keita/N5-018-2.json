@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-018",
+  "exampleIndex": 1,
+  "text": "昨日は寒くなかったです。",
+  "speechText": "昨日は寒くなかったです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 18,
+  "signature": "c08e77ef0cb93362a5cc9c3031609d86740bbf4c4dfa3bb6c87ea62e852a010c",
+  "src": "/audio/voices/keita/N5-018-2.mp3",
+  "srt": "/audio/voices/keita/N5-018-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "aa47761c451038ddf3269c3318cded8cdebca83f084916413d38946c33c83fc4",
+  "peakPcm": 21499,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

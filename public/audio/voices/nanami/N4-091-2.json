@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-091",
+  "exampleIndex": 1,
+  "text": "明日、詳しくご説明します。",
+  "speechText": "明日、詳しくご説明します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 100,
+  "signature": "3c2fb46182788612767b6563afb5e70eda43b4a9f06f683a8293285c929b42d0",
+  "src": "/audio/voices/nanami/N4-091-2.mp3",
+  "srt": "/audio/voices/nanami/N4-091-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "cad4f50f732f9f6eec7ed1e0bc842ca7f58ccc7b60459a368f76b861ad0eca8a",
+  "peakPcm": 22956,
+  "rmsDbfs": -18.71,
+  "rate": "+0%",
+  "listened": false
+}

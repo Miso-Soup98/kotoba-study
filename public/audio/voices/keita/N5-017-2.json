@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-017",
+  "exampleIndex": 1,
+  "text": "昔、ここは公園ではありませんでした。",
+  "speechText": "昔、ここは公園ではありませんでした。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 18,
+  "signature": "6c2911f769b085e7524e3530df15e1b7b94a607bd5f10d9c9bee2447f2d59c99",
+  "src": "/audio/voices/keita/N5-017-2.mp3",
+  "srt": "/audio/voices/keita/N5-017-2.srt",
+  "durationSeconds": 3.744,
+  "bytes": 22464,
+  "sha256": "6ca9d99df9c7a3f8b5893ab1cf5ccb16b2e986f54719e07b1dad0f58bbc57992",
+  "peakPcm": 23674,
+  "rmsDbfs": -19.53,
+  "rate": "+0%",
+  "listened": false
+}

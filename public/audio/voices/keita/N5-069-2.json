@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-069",
+  "exampleIndex": 1,
+  "text": "この漢字はどう読みますか。",
+  "speechText": "この漢字はどう読みますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 44,
+  "signature": "e3bf532a1f61cba09a6f21b50f04e958b098201262e3c9ac0fdbc47d9613f83c",
+  "src": "/audio/voices/keita/N5-069-2.mp3",
+  "srt": "/audio/voices/keita/N5-069-2.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "314f2dedd3f30d47a893c9ded47d4374f19e87b860baffc2b4c9ceabc7e628bd",
+  "peakPcm": 20373,
+  "rmsDbfs": -19.67,
+  "rate": "+0%",
+  "listened": false
+}

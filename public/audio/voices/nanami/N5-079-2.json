@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-079",
+  "exampleIndex": 1,
+  "text": "赤いのをください。",
+  "speechText": "赤いのをください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 49,
+  "signature": "25b5657254aed3809ee3ced3e87a31f1c27e04792e1289fbac87e585c5cb2e9c",
+  "src": "/audio/voices/nanami/N5-079-2.mp3",
+  "srt": "/audio/voices/nanami/N5-079-2.srt",
+  "durationSeconds": 2.232,
+  "bytes": 13392,
+  "sha256": "e852d2981253578d1ce5d4632a8437978a971e29e7affc94554b9f3222199621",
+  "peakPcm": 20229,
+  "rmsDbfs": -19.73,
+  "rate": "+0%",
+  "listened": false
+}

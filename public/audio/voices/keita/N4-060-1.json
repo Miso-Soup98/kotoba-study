@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-060",
+  "exampleIndex": 0,
+  "text": "雨の場合は、試合を中止します。",
+  "speechText": "雨の場合は、試合を中止します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 84,
+  "signature": "a9f56062e489bf533d19ded7e262b5088381b2590a341271445991b33e6e6418",
+  "src": "/audio/voices/keita/N4-060-1.mp3",
+  "srt": "/audio/voices/keita/N4-060-1.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "aa85ec4108fb51d109b3fe41be23f40c5977b8d298da4df92e4eae8819345c37",
+  "peakPcm": 24676,
+  "rmsDbfs": -20.88,
+  "rate": "+0%",
+  "listened": false
+}

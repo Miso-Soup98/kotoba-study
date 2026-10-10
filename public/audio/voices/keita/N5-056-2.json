@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-056",
+  "exampleIndex": 1,
+  "text": "部屋には誰もいません。",
+  "speechText": "部屋には誰もいません。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 37,
+  "signature": "f35fb94429f26fde58ba4739d239cbbc5921af772862c9642c1c3de477d1bbfd",
+  "src": "/audio/voices/keita/N5-056-2.mp3",
+  "srt": "/audio/voices/keita/N5-056-2.srt",
+  "durationSeconds": 2.304,
+  "bytes": 13824,
+  "sha256": "2010ed430527a7f275592a347b0e72bd3cdbd8a941967ba4caeafc1d67c0a8bd",
+  "peakPcm": 24135,
+  "rmsDbfs": -20.01,
+  "rate": "+0%",
+  "listened": false
+}

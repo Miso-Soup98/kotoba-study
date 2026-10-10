@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-084",
+  "exampleIndex": 0,
+  "text": "先生に質問します。",
+  "speechText": "先生に質問します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 51,
+  "signature": "31df357a935051b9dfe779ce93f5015d05a20c9c368db19b34b55a54f701ac01",
+  "src": "/audio/voices/nanami/N5-084-1.mp3",
+  "srt": "/audio/voices/nanami/N5-084-1.srt",
+  "durationSeconds": 2.664,
+  "bytes": 15984,
+  "sha256": "a4f3f63fd19acfff43e29f6342d43f1203fd8f1bab0bef2610f8840a7e771a09",
+  "peakPcm": 22105,
+  "rmsDbfs": -17.92,
+  "rate": "+0%",
+  "listened": false
+}

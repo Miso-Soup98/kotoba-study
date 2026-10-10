@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-083",
+  "exampleIndex": 1,
+  "text": "駅まで歩くのに二十分かかります。",
+  "speechText": "駅まで歩くのに二十分かかります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 96,
+  "signature": "1c9fd11dbe42abf300f4dd13aafdf13d4a3420da0bb0a34073aa334d8d8f957d",
+  "src": "/audio/voices/keita/N4-083-2.mp3",
+  "srt": "/audio/voices/keita/N4-083-2.srt",
+  "durationSeconds": 3.312,
+  "bytes": 19872,
+  "sha256": "71895de7af9419271cf0e687a113be2024844dd823d94dbaf7c712a67e427fa8",
+  "peakPcm": 23976,
+  "rmsDbfs": -21.46,
+  "rate": "+0%",
+  "listened": false
+}

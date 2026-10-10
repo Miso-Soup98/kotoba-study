@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-067",
+  "exampleIndex": 1,
+  "text": "あの人は先生だろう。",
+  "speechText": "あの人は先生だろう。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 43,
+  "signature": "1d473ac8cf39a3904eb85e8132e0ffd627132939e2ad7906e95fc3e4b0685fd6",
+  "src": "/audio/voices/nanami/N5-067-2.mp3",
+  "srt": "/audio/voices/nanami/N5-067-2.srt",
+  "durationSeconds": 2.64,
+  "bytes": 15840,
+  "sha256": "c83a1d478c61217b3744014c70661bbcbab746be4558ea71cb13805414f3d69d",
+  "peakPcm": 21732,
+  "rmsDbfs": -17.9,
+  "rate": "+0%",
+  "listened": false
+}

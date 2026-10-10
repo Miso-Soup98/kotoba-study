@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-073",
+  "exampleIndex": 1,
+  "text": "仕事で京都へ行くことがあります。",
+  "speechText": "仕事で京都へ行くことがあります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 91,
+  "signature": "0b464930b0296eb6fc6a57d00d7709c6c75beb6d079bf8711ca62a6238768622",
+  "src": "/audio/voices/keita/N4-073-2.mp3",
+  "srt": "/audio/voices/keita/N4-073-2.srt",
+  "durationSeconds": 2.952,
+  "bytes": 17712,
+  "sha256": "43304435d1393096154408e1006620c2d821d6b9a2cc96105ea401d710cce16a",
+  "peakPcm": 25099,
+  "rmsDbfs": -20.09,
+  "rate": "+0%",
+  "listened": false
+}

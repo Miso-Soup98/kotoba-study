@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-051",
+  "exampleIndex": 0,
+  "text": "もう昼ご飯を食べました。",
+  "speechText": "もう昼ご飯を食べました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 35,
+  "signature": "f7b655ec7dc2599914419ca4daf6436f414714ad741be1f3940a1f46c9ca6a29",
+  "src": "/audio/voices/keita/N5-051-1.mp3",
+  "srt": "/audio/voices/keita/N5-051-1.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "e7f63fab7e196294024830abbe827484b77bc42c20d6ffd40ab4ca59a196293f",
+  "peakPcm": 22440,
+  "rmsDbfs": -21.08,
+  "rate": "+0%",
+  "listened": false
+}

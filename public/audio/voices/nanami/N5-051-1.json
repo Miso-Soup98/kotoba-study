@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-051",
+  "exampleIndex": 0,
+  "text": "もう昼ご飯を食べました。",
+  "speechText": "もう昼ご飯を食べました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 35,
+  "signature": "36c9fc6617e98e3fd6326b5fa99504660ce8def0ee78d3c795ec03389924781f",
+  "src": "/audio/voices/nanami/N5-051-1.mp3",
+  "srt": "/audio/voices/nanami/N5-051-1.srt",
+  "durationSeconds": 2.736,
+  "bytes": 16416,
+  "sha256": "96691e5a4b729c3633fd18e9a580d3393cf8a57fbaa54d15d53fc87c9c7eb662",
+  "peakPcm": 21077,
+  "rmsDbfs": -18.24,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-008",
+  "exampleIndex": 0,
+  "text": "七時に起きます。",
+  "speechText": "七時に起きます。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 13,
+  "signature": "8adcd0bd7ae18d570dc4fcc1870bbe9b59ddb4e56bda46b70a618b12c4feac1b",
+  "src": "/audio/voices/keita/N5-008-1.mp3",
+  "srt": "/audio/voices/keita/N5-008-1.srt",
+  "durationSeconds": 2.016,
+  "bytes": 12096,
+  "sha256": "cb7f2c0e4eeed5ed520a3b31da2195cd637812184546357bf2edd157924536e9",
+  "peakPcm": 16184,
+  "rmsDbfs": -23.39,
+  "rate": "+0%",
+  "listened": false
+}

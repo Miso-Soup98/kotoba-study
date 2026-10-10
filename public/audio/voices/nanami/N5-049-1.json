@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-049",
+  "exampleIndex": 0,
+  "text": "財布に千円しかありません。",
+  "speechText": "財布に千円しかありません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 34,
+  "signature": "2c6da1258db3cee98277b47275672be180595e16b42d49a5cd35ad798a1f27d7",
+  "src": "/audio/voices/nanami/N5-049-1.mp3",
+  "srt": "/audio/voices/nanami/N5-049-1.srt",
+  "durationSeconds": 2.928,
+  "bytes": 17568,
+  "sha256": "eec51eee5714ae7e0a9f75ef64f58a9514eb51fe1e775d2678ea5de86ee9af1b",
+  "peakPcm": 21120,
+  "rmsDbfs": -18.43,
+  "rate": "+0%",
+  "listened": false
+}

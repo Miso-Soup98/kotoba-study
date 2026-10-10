@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-076",
+  "exampleIndex": 1,
+  "text": "この飲み物は変な味がします。",
+  "speechText": "この飲み物は変な味がします。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 92,
+  "signature": "1f68f4b44a73dadc103a30c21bdb84c8a93fd632fd64f2d88aff804748f51d1a",
+  "src": "/audio/voices/nanami/N4-076-2.mp3",
+  "srt": "/audio/voices/nanami/N4-076-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "f41b86ea48191b70e5ec21e86efc6d1c435914f47542514a2f8a831315203955",
+  "peakPcm": 20928,
+  "rmsDbfs": -18.08,
+  "rate": "+0%",
+  "listened": false
+}

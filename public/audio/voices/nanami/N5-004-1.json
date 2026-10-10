@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-004",
+  "exampleIndex": 0,
+  "text": "水を飲みます。",
+  "speechText": "水を飲みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 11,
+  "signature": "6ada28cceca2fe93e05a0fbafb7511e86c054258313614c13e3750fd709c6e8a",
+  "src": "/audio/voices/nanami/N5-004-1.mp3",
+  "srt": "/audio/voices/nanami/N5-004-1.srt",
+  "durationSeconds": 2.064,
+  "bytes": 12384,
+  "sha256": "c453f7f0f7843b6d4120b510763313ac98ea31176e6a140bb9152ed9c44fadeb",
+  "peakPcm": 22027,
+  "rmsDbfs": -18.63,
+  "rate": "+0%",
+  "listened": false
+}

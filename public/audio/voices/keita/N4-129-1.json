@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-129",
+  "exampleIndex": 0,
+  "text": "電車が止まりました。それで、歩いて帰りました。",
+  "speechText": "電車が止まりました。それで、歩いて帰りました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 119,
+  "signature": "5a898732ebd49cb2aa05767c3eb628fa298343dbd5e0917892faaa93150832a6",
+  "src": "/audio/voices/keita/N4-129-1.mp3",
+  "srt": "/audio/voices/keita/N4-129-1.srt",
+  "durationSeconds": 5.016,
+  "bytes": 30096,
+  "sha256": "8bf6545916897514e14200ad69f60e9fc271fcf0eb0bc52fe331bd37816ca9f2",
+  "peakPcm": 22805,
+  "rmsDbfs": -21.31,
+  "rate": "+0%",
+  "listened": false
+}

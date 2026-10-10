@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-069",
+  "exampleIndex": 0,
+  "text": "どんな音楽が好きですか。",
+  "speechText": "どんな音楽が好きですか。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 44,
+  "signature": "b95f15b20a90f7f666b1514ab7830560dededbf488ca07940f643794c1c38b07",
+  "src": "/audio/voices/nanami/N5-069-1.mp3",
+  "srt": "/audio/voices/nanami/N5-069-1.srt",
+  "durationSeconds": 2.712,
+  "bytes": 16272,
+  "sha256": "04933bfabab04b2730573e50a11ef29988b9f2e73a7b2a04a34a0bf7ae8abc3f",
+  "peakPcm": 20896,
+  "rmsDbfs": -19.09,
+  "rate": "+0%",
+  "listened": false
+}

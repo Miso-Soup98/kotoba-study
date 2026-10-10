@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-098",
+  "exampleIndex": 0,
+  "text": "三人のうち、二人が来ました。",
+  "speechText": "三人のうち、二人が来ました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 103,
+  "signature": "0cd1137cf9f309fd65ce0814707a18fdc2259bf97cc22ba3d104ba25244df82c",
+  "src": "/audio/voices/keita/N4-098-1.mp3",
+  "srt": "/audio/voices/keita/N4-098-1.srt",
+  "durationSeconds": 3.168,
+  "bytes": 19008,
+  "sha256": "751b5ebda23d3f7e2839b927bd01cf9b99e9a23162fbb125e7920e33b9624e03",
+  "peakPcm": 26066,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

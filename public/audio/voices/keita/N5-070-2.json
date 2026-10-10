@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-070",
+  "exampleIndex": 1,
+  "text": "駅までどうやって行きますか。",
+  "speechText": "駅までどうやって行きますか。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 44,
+  "signature": "e0c6dbb95f114ee958b63c5120e934b03412ec3ea71ccdf7843c0d9ee092b38a",
+  "src": "/audio/voices/keita/N5-070-2.mp3",
+  "srt": "/audio/voices/keita/N5-070-2.srt",
+  "durationSeconds": 2.568,
+  "bytes": 15408,
+  "sha256": "a3f0914a6fbd9fa255ce8a494ffb26063bc7743eb54a2c2bca9ebdb4c3c86002",
+  "peakPcm": 24407,
+  "rmsDbfs": -20.75,
+  "rate": "+0%",
+  "listened": false
+}

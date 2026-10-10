@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-048",
+  "exampleIndex": 1,
+  "text": "この道は雨の後、滑りやすくなります。",
+  "speechText": "この道は雨の後、滑りやすくなります。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 78,
+  "signature": "812395b0e9ce85f74ba9ef5a1e637ce7c3391245cde25432baed01cae32abeca",
+  "src": "/audio/voices/keita/N4-048-2.mp3",
+  "srt": "/audio/voices/keita/N4-048-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "2bcbdffd7f9572ff2ee534888dfd87a8c49cebcfae9f0fc527bcbada85cccfbc",
+  "peakPcm": 24804,
+  "rmsDbfs": -19.82,
+  "rate": "+0%",
+  "listened": false
+}

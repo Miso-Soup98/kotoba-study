@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-060",
+  "exampleIndex": 1,
+  "text": "遅れる場合は、電話してください。",
+  "speechText": "遅れる場合は、電話してください。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 84,
+  "signature": "d8c8f8f61edd9db4dcce1f64bb07b5d6baf6209142e8cc7fb4f396a8ce01c3f0",
+  "src": "/audio/voices/keita/N4-060-2.mp3",
+  "srt": "/audio/voices/keita/N4-060-2.srt",
+  "durationSeconds": 3.288,
+  "bytes": 19728,
+  "sha256": "28b7ef5089b028a3ac2a8967dbb5056e3b4014a0e088bdeeb75be6f82990b312",
+  "peakPcm": 21493,
+  "rmsDbfs": -20.73,
+  "rate": "+0%",
+  "listened": false
+}

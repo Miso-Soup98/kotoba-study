@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-062",
+  "exampleIndex": 0,
+  "text": "姉は料理を作るのが上手です。",
+  "speechText": "姉は料理を作るのが上手です。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 40,
+  "signature": "0fca75fd4c591aa44eaae38e6634741412da32a6c9fa1da66a3cfd6cb40634f8",
+  "src": "/audio/voices/keita/N5-062-1.mp3",
+  "srt": "/audio/voices/keita/N5-062-1.srt",
+  "durationSeconds": 3.0,
+  "bytes": 18000,
+  "sha256": "36a4f5a8e00d4b14a3685639e9bbfe0bb36c92a1e19e70caca4eef022a964fe8",
+  "peakPcm": 24731,
+  "rmsDbfs": -19.7,
+  "rate": "+0%",
+  "listened": false
+}

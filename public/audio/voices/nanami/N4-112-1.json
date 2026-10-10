@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-112",
+  "exampleIndex": 0,
+  "text": "魚は食べますが、肉は食べません。",
+  "speechText": "魚は食べますが、肉は食べません。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 111,
+  "signature": "e500b3377e4a728dd1dce006c4a5a908940fa99bce6d862c11aef32dfb7418eb",
+  "src": "/audio/voices/nanami/N4-112-1.mp3",
+  "srt": "/audio/voices/nanami/N4-112-1.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "99bd2e44caf5faae0c0d58811fa6eba1623b73230de2919a7576d115d9986266",
+  "peakPcm": 22680,
+  "rmsDbfs": -17.75,
+  "rate": "+0%",
+  "listened": false
+}

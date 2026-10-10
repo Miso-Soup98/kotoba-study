@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-020",
+  "exampleIndex": 1,
+  "text": "この本は今日、読んでしまいます。",
+  "speechText": "この本は今日、読んでしまいます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 64,
+  "signature": "9061ea1ac92164c9b9a6d02ec424efe94b9b8083feb05c515f04bb25fb951ced",
+  "src": "/audio/voices/nanami/N4-020-2.mp3",
+  "srt": "/audio/voices/nanami/N4-020-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "889dcc364668269e05ba95702eefc2cb3370d7610647a4e418568a37df64eb9b",
+  "peakPcm": 22209,
+  "rmsDbfs": -17.45,
+  "rate": "+0%",
+  "listened": false
+}

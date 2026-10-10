@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-090",
+  "exampleIndex": 1,
+  "text": "内容をご確認ください。",
+  "speechText": "内容をご確認ください。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 99,
+  "signature": "a5b8a14b2fbb29fc5333f3d1ac3c004a646b85d1728e9f13ddc6ace91be6b130",
+  "src": "/audio/voices/nanami/N4-090-2.mp3",
+  "srt": "/audio/voices/nanami/N4-090-2.srt",
+  "durationSeconds": 2.832,
+  "bytes": 16992,
+  "sha256": "e647ef61ecb71acd044ad67a7bf2b88760f234158edb134197d6915aceb1dc19",
+  "peakPcm": 18376,
+  "rmsDbfs": -18.37,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-045",
+  "exampleIndex": 1,
+  "text": "家を出るとき、鍵を確認します。",
+  "speechText": "家を出るとき、鍵を確認します。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 32,
+  "signature": "533905628779f1569d23c52bb1e3c0fdc3e040e4f48142ebf6f5b7f5aeea0c28",
+  "src": "/audio/voices/nanami/N5-045-2.mp3",
+  "srt": "/audio/voices/nanami/N5-045-2.srt",
+  "durationSeconds": 3.768,
+  "bytes": 22608,
+  "sha256": "f69fe120f47af360007682d53d60062956a85235f94056f1134a4ab06d9af837",
+  "peakPcm": 20200,
+  "rmsDbfs": -17.81,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-045",
+  "exampleIndex": 1,
+  "text": "家を出るとき、鍵を確認します。",
+  "speechText": "家を出るとき、鍵を確認します。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 32,
+  "signature": "e4184f4a56426dba70c3aab33309c34d1a6e98623936d401bb5ca565857082de",
+  "src": "/audio/voices/keita/N5-045-2.mp3",
+  "srt": "/audio/voices/keita/N5-045-2.srt",
+  "durationSeconds": 3.528,
+  "bytes": 21168,
+  "sha256": "d61ef338072e1c3d9b458dba4211ad8eafeb414ada3d6a5a45c77edb2b290457",
+  "peakPcm": 22085,
+  "rmsDbfs": -20.8,
+  "rate": "+0%",
+  "listened": false
+}

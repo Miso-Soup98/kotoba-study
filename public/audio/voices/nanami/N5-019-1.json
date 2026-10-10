@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-019",
+  "exampleIndex": 0,
+  "text": "静かな部屋で寝ます。",
+  "speechText": "静かな部屋で寝ます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 19,
+  "signature": "a82917955141c81477355852a90f9468690346578c3aba4e96ee6724ddbcee8b",
+  "src": "/audio/voices/nanami/N5-019-1.mp3",
+  "srt": "/audio/voices/nanami/N5-019-1.srt",
+  "durationSeconds": 2.496,
+  "bytes": 14976,
+  "sha256": "6a39ac4e3b848afee82c827e1bce11a1d46e03f1c70eb4e5a9897dde6dc1a79d",
+  "peakPcm": 20502,
+  "rmsDbfs": -18.64,
+  "rate": "+0%",
+  "listened": false
+}

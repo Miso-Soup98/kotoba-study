@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-004",
+  "exampleIndex": 1,
+  "text": "ここで資料を印刷することができます。",
+  "speechText": "ここで資料を印刷することができます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 56,
+  "signature": "2681a671d7d7753ee99726876000dad67294312f419f45f59cb5292ba7324d55",
+  "src": "/audio/voices/nanami/N4-004-2.mp3",
+  "srt": "/audio/voices/nanami/N4-004-2.srt",
+  "durationSeconds": 3.6,
+  "bytes": 21600,
+  "sha256": "ba634af1dea9eb7a670ed36e535cd0700b8beee5fd3f2522834d9ad11541083d",
+  "peakPcm": 21447,
+  "rmsDbfs": -17.41,
+  "rate": "+0%",
+  "listened": false
+}

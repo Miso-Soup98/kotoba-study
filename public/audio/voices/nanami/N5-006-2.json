@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-006",
+  "exampleIndex": 1,
+  "text": "今日も明日も休みです。",
+  "speechText": "今日も明日も休みです。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 12,
+  "signature": "0075c674ab113e8c266a7d5ebd2915532ca2a8d75476ed628f8121fd90ded20e",
+  "src": "/audio/voices/nanami/N5-006-2.mp3",
+  "srt": "/audio/voices/nanami/N5-006-2.srt",
+  "durationSeconds": 2.784,
+  "bytes": 16704,
+  "sha256": "3ed36d7e7f9ec4af9e76b18eec93f61a11c6644d9b28175c3d8dd31108e0d795",
+  "peakPcm": 22602,
+  "rmsDbfs": -17.56,
+  "rate": "+0%",
+  "listened": false
+}

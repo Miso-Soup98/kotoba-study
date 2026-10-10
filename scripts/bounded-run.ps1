@@ -8,7 +8,8 @@ param(
   [string]$LogDirectory,
   [ValidateRange(128, 16384)][int]$MaxPrivateMiB = 4096,
   [ValidateRange(0, 1048576)][int]$MinAvailableMiB = 2048,
-  [ValidateRange(1, 99)][double]$MaxCommitPercent = 85,
+  # Zero disables the system-wide commit cutoff, not the other limits.
+  [ValidateRange(0, 99)][double]$MaxCommitPercent = 0,
   [ValidateRange(1, 30)][int]$SampleSeconds = 5,
   [ValidateRange(1, 86400)][int]$TimeoutSeconds = 1800,
   [ValidateRange(1, 256)][int]$MaxOutputMiB = 64,
@@ -30,7 +31,7 @@ if ($ConfigFromStdin) {
     if ($allowedKeys -notcontains $property.Name) { throw ('Unknown launcher setting: '+$property.Name) }
     Set-Variable -Name $property.Name -Value $property.Value
   }
-  if ($MaxPrivateMiB -lt 128 -or $MaxPrivateMiB -gt 16384 -or $MinAvailableMiB -lt 0 -or $MinAvailableMiB -gt 1048576 -or $MaxCommitPercent -lt 1 -or $MaxCommitPercent -gt 99 -or $SampleSeconds -lt 1 -or $SampleSeconds -gt 30 -or $TimeoutSeconds -lt 1 -or $TimeoutSeconds -gt 86400 -or $MaxOutputMiB -lt 1 -or $MaxOutputMiB -gt 256 -or $ParentProcessId -lt 0) { throw 'Invalid launcher limits.' }
+  if ($MaxPrivateMiB -lt 128 -or $MaxPrivateMiB -gt 16384 -or $MinAvailableMiB -lt 0 -or $MinAvailableMiB -gt 1048576 -or $MaxCommitPercent -lt 0 -or $MaxCommitPercent -gt 99 -or $SampleSeconds -lt 1 -or $SampleSeconds -gt 30 -or $TimeoutSeconds -lt 1 -or $TimeoutSeconds -gt 86400 -or $MaxOutputMiB -lt 1 -or $MaxOutputMiB -gt 256 -or $ParentProcessId -lt 0) { throw 'Invalid launcher limits.' }
 }
 if (-not $Executable -or -not $WorkingDirectory -or -not $LogDirectory) { throw 'Executable, WorkingDirectory and LogDirectory are required.' }
 $runExecutable = (Resolve-Path -LiteralPath $Executable).Path
@@ -256,7 +257,7 @@ $runStopReason = 'not-started'
 try {
   $systemBefore = [KotobaBoundedRunV1.Job]::ReadSystem()
   Write-RunEvent 'preflight' @{ system=$systemBefore; executable=[IO.Path]::GetFileName($runExecutable); argumentCount=$ArgumentList.Count; limits=@{ privateMiB=$MaxPrivateMiB; minAvailableMiB=$MinAvailableMiB; maxCommitPercent=$MaxCommitPercent; timeoutSeconds=$TimeoutSeconds; maxOutputMiB=$MaxOutputMiB } }
-  if ($systemBefore.AvailableBytes -lt ([uint64]$MinAvailableMiB * 1MB) -or $systemBefore.CommitPercent -ge $MaxCommitPercent) {
+  if ($systemBefore.AvailableBytes -lt ([uint64]$MinAvailableMiB * 1MB) -or ($MaxCommitPercent -gt 0 -and $systemBefore.CommitPercent -ge $MaxCommitPercent)) {
     $runStopReason = 'system-pressure-before-start'
     $runExitCode = 125
     Write-RunEvent 'refused' @{ reason=$runStopReason }
@@ -278,7 +279,7 @@ try {
       if ((Get-Item -LiteralPath $runOutputPath).Length -ge ([long]$MaxOutputMiB * 1MB)) { $runStopReason='output-log-limit'; $runExitCode=124; break }
       if ((Get-Item -LiteralPath $runLogPath).Length -ge 16MB) { $runStopReason='diagnostic-log-limit'; $runExitCode=124; break }
       if ($privateBytes -ge ([uint64]$MaxPrivateMiB * 1MB * 0.95)) { $runStopReason='job-memory-near-limit'; $runExitCode=124; break }
-      if ($systemSample.CommitPercent -ge $MaxCommitPercent) { $runStopReason='system-commit-threshold'; $runExitCode=124; break }
+      if ($MaxCommitPercent -gt 0 -and $systemSample.CommitPercent -ge $MaxCommitPercent) { $runStopReason='system-commit-threshold'; $runExitCode=124; break }
       if ($systemSample.AvailableBytes -lt ([uint64]$MinAvailableMiB * 1MB)) { $runStopReason='system-available-threshold'; $runExitCode=124; break }
       if ($timer.Elapsed.TotalSeconds -ge $TimeoutSeconds) { $runStopReason='timeout'; $runExitCode=124; break }
       Start-Sleep -Milliseconds ([int][math]::Min($SampleSeconds * 1000,[math]::Max(50,($TimeoutSeconds-$timer.Elapsed.TotalSeconds)*1000)))

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-118",
+  "exampleIndex": 1,
+  "text": "準備はほぼ終わったと言ってもいいでしょう。",
+  "speechText": "準備はほぼ終わったと言ってもいいでしょう。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 114,
+  "signature": "e3dba6168f384a6fcf333e769c374568b679a7a2125985fc3f6c11c933e68c65",
+  "src": "/audio/voices/keita/N4-118-2.mp3",
+  "srt": "/audio/voices/keita/N4-118-2.srt",
+  "durationSeconds": 3.24,
+  "bytes": 19440,
+  "sha256": "d79da10ac570db8a1873ab76f62f74f50aa820e46d39c9a670985b3be3340b24",
+  "peakPcm": 22773,
+  "rmsDbfs": -19.88,
+  "rate": "+0%",
+  "listened": false
+}

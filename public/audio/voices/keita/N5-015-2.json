@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-015",
+  "exampleIndex": 1,
+  "text": "昨日は外に出なかった。",
+  "speechText": "昨日は外に出なかった。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 17,
+  "signature": "87b9a37e1513b9d2ffb1bcdea9988a882a1e4e6aa595c2a30f49a14aca73973f",
+  "src": "/audio/voices/keita/N5-015-2.mp3",
+  "srt": "/audio/voices/keita/N5-015-2.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "3b235bc68249ae4902cb5b4ae30dcfa3d7529cb04eac0ec3af836e4ad9f4a68f",
+  "peakPcm": 21743,
+  "rmsDbfs": -20.15,
+  "rate": "+0%",
+  "listened": false
+}

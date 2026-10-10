@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-071",
+  "exampleIndex": 1,
+  "text": "この本、面白かったよね。",
+  "speechText": "この本、面白かったよね。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 45,
+  "signature": "88c3b31fd5c0b551c2bd449c3a1479aff8aaf53f0fb2106f249263c821e70e65",
+  "src": "/audio/voices/keita/N5-071-2.mp3",
+  "srt": "/audio/voices/keita/N5-071-2.srt",
+  "durationSeconds": 2.88,
+  "bytes": 17280,
+  "sha256": "1be00b382260743ce013ad6d031aeb0e572dbfd4e6ae7ceb8960664a7d9cbbe2",
+  "peakPcm": 20973,
+  "rmsDbfs": -21.3,
+  "rate": "+0%",
+  "listened": false
+}

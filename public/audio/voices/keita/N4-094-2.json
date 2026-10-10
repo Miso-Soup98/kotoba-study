@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-094",
+  "exampleIndex": 1,
+  "text": "先生に作文を見ていただきました。",
+  "speechText": "先生に作文を見ていただきました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 101,
+  "signature": "f8359348dde111207b9527525ea21b2eeb475c980df9917a8300234c045bba64",
+  "src": "/audio/voices/keita/N4-094-2.mp3",
+  "srt": "/audio/voices/keita/N4-094-2.srt",
+  "durationSeconds": 3.144,
+  "bytes": 18864,
+  "sha256": "fc457450b622010f1350fd9ccef5178d14a3f89186641dbee468874dc176369f",
+  "peakPcm": 20499,
+  "rmsDbfs": -20.85,
+  "rate": "+0%",
+  "listened": false
+}

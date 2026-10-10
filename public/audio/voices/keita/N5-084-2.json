@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-084",
+  "exampleIndex": 1,
+  "text": "友達に写真を見せました。",
+  "speechText": "友達に写真を見せました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 51,
+  "signature": "e9790fce256c7cb5f6a409a780de3ed26a287de7adaf03892f2a6e4bced48e97",
+  "src": "/audio/voices/keita/N5-084-2.mp3",
+  "srt": "/audio/voices/keita/N5-084-2.srt",
+  "durationSeconds": 2.592,
+  "bytes": 15552,
+  "sha256": "529e656126e8d3a953f73470e461424d7f98f96bd0946518205c346fb42b8c5d",
+  "peakPcm": 22692,
+  "rmsDbfs": -20.48,
+  "rate": "+0%",
+  "listened": false
+}

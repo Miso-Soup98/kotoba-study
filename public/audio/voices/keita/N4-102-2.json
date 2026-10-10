@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-102",
+  "exampleIndex": 1,
+  "text": "先生に、もっと読めと言われました。",
+  "speechText": "先生に、もっと読めと言われました。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 106,
+  "signature": "fbfff5ecd32bd824975058f640e7288c8d72fd02dda58c956dee5e669e43ab0b",
+  "src": "/audio/voices/keita/N4-102-2.mp3",
+  "srt": "/audio/voices/keita/N4-102-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "e50c17128273efeab9cf2e2061224a33825e946acc51378c3f82599c8c705261",
+  "peakPcm": 22861,
+  "rmsDbfs": -20.78,
+  "rate": "+0%",
+  "listened": false
+}

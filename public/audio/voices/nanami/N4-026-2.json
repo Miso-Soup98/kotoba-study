@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-026",
+  "exampleIndex": 1,
+  "text": "友達に道を教えてもらいました。",
+  "speechText": "友達に道を教えてもらいました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 67,
+  "signature": "207e4f453edf9cb42fce29dc62f9aaaf1431bbcffba296bfaea207e0bb617a9d",
+  "src": "/audio/voices/nanami/N4-026-2.mp3",
+  "srt": "/audio/voices/nanami/N4-026-2.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "5211ca8c12c447df3e75ba6b705ab1265a192bcc793c8bba5096aa311a0ec075",
+  "peakPcm": 21819,
+  "rmsDbfs": -17.83,
+  "rate": "+0%",
+  "listened": false
+}

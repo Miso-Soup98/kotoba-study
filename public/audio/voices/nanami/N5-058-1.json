@@ -1,0 +1,19 @@
+{
+  "entryId": "N5-058",
+  "exampleIndex": 0,
+  "text": "お茶か水を飲みます。",
+  "speechText": "お茶か水を飲みます。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 38,
+  "signature": "b8be6a259880e0dbb39727750e6fd3bf035cb075510765305f45e4c395b8abcb",
+  "src": "/audio/voices/nanami/N5-058-1.mp3",
+  "srt": "/audio/voices/nanami/N5-058-1.srt",
+  "durationSeconds": 2.4,
+  "bytes": 14400,
+  "sha256": "714d6f32edc704ba46740cb1727a3baa337cb454d194259c560526fbfa8b52ba",
+  "peakPcm": 21062,
+  "rmsDbfs": -17.98,
+  "rate": "+0%",
+  "listened": false
+}

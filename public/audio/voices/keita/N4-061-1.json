@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-061",
+  "exampleIndex": 0,
+  "text": "先月、日本に来たばかりです。",
+  "speechText": "先月、日本に来たばかりです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 85,
+  "signature": "58a2c20f0ee948cf4110633f0574d21699d27a1c616ebb02652cb61daf0993d0",
+  "src": "/audio/voices/keita/N4-061-1.mp3",
+  "srt": "/audio/voices/keita/N4-061-1.srt",
+  "durationSeconds": 3.336,
+  "bytes": 20016,
+  "sha256": "1e00b76f4f48058d91ac23f75e3df2802c3e1c8d2d3d8f60826e7b29f542f333",
+  "peakPcm": 22112,
+  "rmsDbfs": -20.87,
+  "rate": "+0%",
+  "listened": false
+}

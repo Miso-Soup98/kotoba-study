@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-010",
+  "exampleIndex": 1,
+  "text": "日曜日なのに、早く起きました。",
+  "speechText": "日曜日なのに、早く起きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 59,
+  "signature": "c0a71629548a5f1397be551053f9f191a0d636b1f75d977a981b0638869cd95a",
+  "src": "/audio/voices/nanami/N4-010-2.mp3",
+  "srt": "/audio/voices/nanami/N4-010-2.srt",
+  "durationSeconds": 3.408,
+  "bytes": 20448,
+  "sha256": "99073f404b001842718ae22f3f3441c563a1381cca5ba57fd6ea3ebe9badd594",
+  "peakPcm": 21339,
+  "rmsDbfs": -17.67,
+  "rate": "+0%",
+  "listened": false
+}

@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-086",
+  "exampleIndex": 1,
+  "text": "店は日曜日に休むと聞きました。",
+  "speechText": "店は日曜日に休むと聞きました。",
+  "voice": "nanami",
+  "serviceVoice": "ja-JP-NanamiNeural",
+  "pdfPage": 97,
+  "signature": "03aff4f212a03069672c2bd193fd11c384d5d418c3ca29573b7f3bd9317c3a21",
+  "src": "/audio/voices/nanami/N4-086-2.mp3",
+  "srt": "/audio/voices/nanami/N4-086-2.srt",
+  "durationSeconds": 3.504,
+  "bytes": 21024,
+  "sha256": "62545eafec45e61a4c22c951f0a8b64a79630fa2624623f5f81b0367b22bbf1b",
+  "peakPcm": 21424,
+  "rmsDbfs": -18.15,
+  "rate": "+0%",
+  "listened": false
+}

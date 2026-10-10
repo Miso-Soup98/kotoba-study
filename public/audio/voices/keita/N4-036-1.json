@@ -1,0 +1,19 @@
+{
+  "entryId": "N4-036",
+  "exampleIndex": 0,
+  "text": "あの人は学生みたいです。",
+  "speechText": "あの人は学生みたいです。",
+  "voice": "keita",
+  "serviceVoice": "ja-JP-KeitaNeural",
+  "pdfPage": 72,
+  "signature": "d230dca8c459ef2e0b5589f9f6629f8054ca10bd1e7b42d00510e0e49106967f",
+  "src": "/audio/voices/keita/N4-036-1.mp3",
+  "srt": "/audio/voices/keita/N4-036-1.srt",
+  "durationSeconds": 2.688,
+  "bytes": 16128,
+  "sha256": "df6f5bd07aa6be9ec8d4ecded0d97fae7b2526df490d7e48eb59d2651e8496d2",
+  "peakPcm": 23594,
+  "rmsDbfs": -20.65,
+  "rate": "+0%",
+  "listened": false
+}
