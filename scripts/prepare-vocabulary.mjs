@@ -3,7 +3,7 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { resolve, join } from "node:path";
 import { createHash } from "node:crypto";
-const version = "v06-20261010-r2", levels = ["N5", "N4", "N3", "N2", "N1"];
+const version = "v06-20261010-r3", levels = ["N5", "N4", "N3", "N2", "N1"];
 const input = process.argv[2];
 if (!input) throw Error("Usage: node scripts/prepare-vocabulary.mjs <draft-directory> <manual-chinese.json> <quarantine.json> <example-review.json> <tatoeba-attribution.json> <source-corrections.json>");
 if (process.argv.length !== 8) throw Error("Publication requires all six reviewed inputs; refusing an unreviewed catalog.");

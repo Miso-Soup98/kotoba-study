@@ -93,7 +93,7 @@ def apply_article(raw, records):
                 raise ValueError(f"Missing-entry insertion would duplicate {record['id']}")
             entry = copy.deepcopy(record.get("original", {}))
             entry.update({"term": term, "reading": record.get("correctedReading", ""),
-                          "meaning": record["correctedMeaning"], "usage": "", "examples": [],
+                          "meaning": record["correctedMeaning"], "usage": record.get("correctedUsage", ""), "examples": [],
                           "page": record.get("reference", {}).get("page", entry.get("page", 0)),
                           "reviewRequired": False, "correctionIds": [record["id"]],
                           "reviewStatus": "checked-correction"})
@@ -144,6 +144,14 @@ def apply_learning_overlays(article, alignments, lessons, reviews):
                 if type(index) is not int or not 0 <= index < len(article["glossary"]):
                     raise ValueError("Invalid hidden glossary index")
                 article["glossary"][index].update(displayHidden=True, uncertainTerm=True)
+        elif operation.get("kind") == "hide-noncontent-paragraph":
+            hidden = operation.get("hideParagraphIds", [])
+            sources = operation.get("sourceParagraphIds", [])
+            if (not hidden or operation.get("targetParagraphIds")
+                    or any(pid not in paragraphs for pid in hidden + sources)):
+                raise ValueError("Invalid noncontent paragraph")
+            for pid in hidden:
+                paragraphs[pid].update(displayHidden=True, sourceMappedTo=[])
         else:
             targets = operation.get("targetParagraphIds", [])
             if not targets or any(p not in paragraphs for p in targets + operation.get("sourceParagraphIds", [])):
@@ -153,6 +161,23 @@ def apply_learning_overlays(article, alignments, lessons, reviews):
                     raise ValueError("Invalid hidden source paragraph")
                 paragraphs[pid].update(displayHidden=True, sourceMappedTo=targets)
     selected = [item for item in lessons if item.get("articleId") == article["id"]]
+    if not selected:
+        selected = copy.deepcopy(article.get("contextLessons", []))
+        for item in selected:
+            paragraph = paragraphs.get(item.get("paragraphId"))
+            start, end = item.get("start", 0), item.get("end", 0)
+            encoded = paragraph["japanese"].encode("utf-16-le") if paragraph else b""
+            if paragraph and not paragraph.get("displayHidden") and encoded[start * 2:end * 2].decode("utf-16-le", errors="replace") == item["surface"]:
+                continue
+            # Re-anchor only an exact, unique surface in visible corrected text.
+            matches = [(p, match.start()) for p in paragraphs.values() if not p.get("displayHidden")
+                       for match in re.finditer(re.escape(item["surface"]), p["japanese"])]
+            if len(matches) != 1:
+                raise ValueError(f"Stored lesson requires explicit anchor review: {item['id']}")
+            target, offset = matches[0]
+            item["previousAnchor"] = {key: item[key] for key in ("paragraphId", "start", "end")}
+            start = len(target["japanese"][:offset].encode("utf-16-le")) // 2
+            item.update(paragraphId=target["id"], start=start, end=start + len(item["surface"].encode("utf-16-le")) // 2)
     if len({item["id"] for item in selected}) != len(selected):
         raise ValueError("Duplicate contextual lesson")
     for item in selected:
@@ -167,11 +192,27 @@ def apply_learning_overlays(article, alignments, lessons, reviews):
         if item.get("reviewStatus") != "context-reviewed" or item.get("kind") not in {"phrase", "grammar"}:
             raise ValueError("Unreviewed contextual lesson")
     if operations:
-        article["alignmentReview"] = copy.deepcopy(operations)
+        # Retain earlier source mappings as provenance while newer operations win.
+        combined = copy.deepcopy(article.get("alignmentReview", []))
+        for operation in operations:
+            combined = [item for item in combined if not operation.get("id") or item.get("id") != operation["id"]]
+            combined.append(copy.deepcopy(operation))
+        article["alignmentReview"] = combined
     if selected:
         article["contextLessons"] = copy.deepcopy(selected)
     review = next((r for r in reviews if r.get("articleId") == article["id"]), None)
     if review:
+        # Notes describe the current review, not every earlier unresolved state.
+        # Keep the fields (and earlier correction records) for source traceability.
+        for item in [*article["paragraphs"], *article["glossary"]]:
+            if "reviewNote" in item:
+                item["reviewNote"] = ""
+        for index in review.get("resolvedGlossaryIndices", []):
+            if type(index) is not int or not 0 <= index < len(article["glossary"]):
+                raise ValueError("Invalid resolved glossary index")
+            item = article["glossary"][index]
+            if not item.get("displayHidden"):
+                item.update(uncertainTerm=False, reviewRequired=False)
         article["review"] = {key: copy.deepcopy(review[key]) for key in ("reviewedAt", "remainingIssues", "sourceHeadingJapanese", "method") if key in review}
         for pid, note in review.get("paragraphNotes", {}).items():
             if pid not in paragraphs or not isinstance(note, str):
@@ -201,16 +242,15 @@ def build(args):
             raise ValueError("Invalid reviewed article id")
         groups.setdefault(article_id, [])
     # Validate every correction against its source before writing any outputs.
-    sources, pending = {}, []
+    sources = {}
     for article_id, records in sorted(groups.items()):
         path = input_dir / (article_id + ".json")
         data = path.read_bytes()
         raw = json.loads(data)
         if raw.get("id") != article_id:
             raise ValueError(f"Source article id mismatch: {article_id}")
-        sources[path] = data
-        article = apply_learning_overlays(apply_article(raw, records) if records else copy.deepcopy(raw), alignments, lessons, reviews)
-        pending.append((raw, article, records, sha256(data)))
+        sources[path] = sha256(data)
+        apply_learning_overlays(apply_article(raw, records) if records else copy.deepcopy(raw), alignments, lessons, reviews)
     module = load_enricher(args.enricher)
 
     class ReviewedEnricher(module.Enricher):
@@ -228,7 +268,14 @@ def build(args):
     enricher = ReviewedEnricher(chinese)
     staged, report_articles = [], []
     totals = Counter()
-    for raw, article, records, source_hash in pending:
+    for article_id, records in sorted(groups.items()):
+        path = input_dir / (article_id + ".json")
+        data = path.read_bytes()
+        source_hash = sha256(data)
+        if source_hash != sources[path]:
+            raise AssertionError("Source changed after preflight")
+        raw = json.loads(data)
+        article = apply_learning_overlays(apply_article(raw, records) if records else copy.deepcopy(raw), alignments, lessons, reviews)
         result, stats = enricher.enrich(article)
         result["dictionaryBuild"]["glossaryPriority"] = "checked-corrections-then-source-pdf"
         result["correctionBuild"] = {
@@ -251,16 +298,19 @@ def build(args):
             if not set(before).issubset(after):
                 raise AssertionError("Original glossary field was dropped")
         totals.update(stats)
-        staged.append((output_dir / (result["id"] + ".json"), result))
+        target = output_dir / (result["id"] + ".json")
+        temporary = target.with_suffix(".json.staged")
+        write_json(temporary, result)
+        staged.append((temporary, target))
         report_articles.append({"id": result["id"], "corrections": len(records),
                                 "sourceSha256": source_hash,
                                 "originalGlossaryCount": len(raw["glossary"]),
                                 "correctedGlossaryCount": len(result["glossary"]), **stats})
-    if any(path.read_bytes() != original for path, original in sources.items()):
+    if any(sha256(path.read_bytes()) != original for path, original in sources.items()):
         raise AssertionError("Source files changed during the build")
-    for path, result in staged:
-        write_json(path, result)
-    for item, (path, _) in zip(report_articles, staged):
+    for temporary, target in staged:
+        temporary.replace(target)
+    for item, (_, path) in zip(report_articles, staged):
         item["outputSha256"] = sha256(path.read_bytes())
     report = {
         "articles": report_articles, "totals": dict(totals),

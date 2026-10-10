@@ -101,13 +101,13 @@ test("dictionary cross-references and edit notices never become Chinese definiti
   }
   assert.match(words.get("lex:openjlpt:bf69a1d9f2")!.meaningZh, /拜访/);
   assert.match(words.get("lex:openjlpt:da1a2f9721")!.meaningZh, /谎言/);
-  const ambiguous = words.get("lex:openjlpt:5750d76e14")!;
-  assert.equal(ambiguous.learningStatus, "needs-review");
-  assert.equal(ambiguous.meaningZh, "");
-  assert.deepEqual(ambiguous.chineseSenses, []);
-  assert.equal(ambiguous.chineseStatus, "missing");
-  assert.equal(ambiguous.meaning, "英文：copper coin");
-  assert.throws(() => vocabularyChanges(ambiguous, "enroll", rebuild([])));
+  const resolved = words.get("lex:openjlpt:5750d76e14")!;
+  assert.equal(resolved.text, "どうか");
+  assert.equal(resolved.learningStatus, "ready");
+  assert.ok(resolved.meaningZh.length > 0);
+  assert.ok(!resolved.meaningEn.includes("copper coin"));
+  assert.deepEqual(resolved.chineseSenses, [resolved.meaningZh]);
+  assert.doesNotThrow(() => vocabularyChanges(resolved, "enroll", rebuild([])));
 });
 
 test("reviewed definitions repair saved snapshots without rewriting events or resetting FSRS", () => {
@@ -134,19 +134,43 @@ test("reviewed definitions repair saved snapshots without rewriting events or re
 });
 
 test("every saved correction exactly reproduces its current published word", () => {
-  const oldRoot = "public/data/vocabulary/v06-20261010-r1/";
   const newRoot = `public/data/vocabulary/${VOCABULARY_VERSION}/`;
   const catalog: VocabularyCatalog = JSON.parse(readFileSync(newRoot + "index.json", "utf8"));
   const ids = new Set(Object.keys(corrections.words));
   let checked = 0;
   for (const shard of new Set(catalog.words.map(w => w.shard))) {
-    const previous: VocabularyWord[] = JSON.parse(readFileSync(oldRoot + shard, "utf8"));
     const current: VocabularyWord[] = JSON.parse(readFileSync(newRoot + shard, "utf8"));
-    for (const before of previous) if (ids.has(before.id)) {
-      assert.deepEqual(correctedVocabularySnapshot(before), current.find(w => w.id === before.id));
-      checked++;
+    for (const version of corrections.sourceVersions) {
+      const previous: VocabularyWord[] = JSON.parse(readFileSync(`public/data/vocabulary/${version}/` + shard, "utf8"));
+      for (const before of previous) if (ids.has(before.id)) {
+        const rows = corrections.words[before.id as keyof typeof corrections.words];
+        if (rows.some(row => row.sourceVersion === version)) {
+          assert.deepEqual(correctedVocabularySnapshot(before), current.find(w => w.id === before.id));
+          checked++;
+        }
+      }
     }
   }
-  assert.equal(checked, ids.size);
+  assert.equal(checked, Object.values(corrections.words).reduce((n, rows) => n + rows.length, 0));
   assert.ok(checked > 250);
+});
+
+test("all 263 quarantined words are corrected without changing identity or carrying mismatched examples", () => {
+  const root = "public/data/vocabulary/";
+  const current: VocabularyCatalog = JSON.parse(readFileSync(`${root}${VOCABULARY_VERSION}/index.json`, "utf8"));
+  let resolved = 0;
+  for (const shard of new Set(current.words.map(w => w.shard))) {
+    const previous: VocabularyWord[] = JSON.parse(readFileSync(`${root}v06-20261010-r2/${shard}`, "utf8"));
+    const rows: VocabularyWord[] = JSON.parse(readFileSync(`${root}${VOCABULARY_VERSION}/${shard}`, "utf8"));
+    for (const before of previous.filter(w => w.learningStatus === "needs-review")) {
+      const after = rows.find(w => w.id === before.id)!;
+      assert.equal(after.level, before.level);
+      assert.equal(after.learningStatus, "ready");
+      assert.ok(after.meaningZh && after.meaningEn.length);
+      assert.deepEqual(after.sentences, []);
+      assert.deepEqual(correctedVocabularySnapshot(before), after);
+      resolved++;
+    }
+  }
+  assert.equal(resolved, 263);
 });
